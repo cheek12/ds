@@ -1,0 +1,478 @@
+﻿,Player,Player.1,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating,Goals,Assists,SpG,KeyP,Fouled,Off,Disp,UnsTch,AvgP,PS%,Crosses,LongB,ThrB
+0,"471Serhou GuirassyFC Koln, 26, AM(L),FW","Serhou Guirassy FC Koln, 26, AM(L),FW",0(6),79,-,-,1,-,0.3,-,-,-,5.95,-,-,0.2,-,0.8,-,0.5,0.3,4.7,64.3,-,-,-
+1,"472Mounir BouzianeMainz, 31, Forward","Mounir Bouziane Mainz, 31, Forward",0(1),13,-,-,1,-,-,1,-,-,5.93,-,-,-,-,-,-,-,-,2.0,50.0,-,-,-
+2,"473Alen HalilovicHamburg, 25, AM(CR)","Alen Halilovic Hamburg, 25, AM(CR)",1(5),139,0.2,-,-,-,0.2,0.2,-,-,5.92,-,-,0.2,-,-,-,-,0.5,10.3,75.8,-,1,-
+3,"474Lukas FrödeWerder Bremen, 27, DMC","Lukas Fröde Werder Bremen, 27, DMC",0(3),13,-,-,0.3,-,-,-,-,-,5.91,-,-,-,-,-,-,-,-,1.3,25.0,-,-,-
+4,"475Fallou DiagneWerder Bremen, 32, D(CR),DMC","Fallou Diagne Werder Bremen, 32, D(CR),DMC",2,136,1,1.5,-,-,2,-,1,-,5.84,-,-,-,1,0.5,-,-,-,29.0,75.9,-,3,-
+5,"476Ashton GötzHamburg, 28, D(R)","Ashton Götz Hamburg, 28, D(R)",1,66,1,-,1,-,2,4,1,-,5.48,-,-,-,-,2,-,1,-,19.0,78.9,-,1,-
+6,"477José RodríguezMainz, 27, D(C),M(CR)","José Rodríguez Mainz, 27, D(C),M(CR)",0(2),6,-,-,1.5,-,-,-,-,-,5.46,-,-,-,-,-,-,0.5,-,3.0,50.0,-,-,-
+0,"461Arne MaierHertha Berlin, 23, DMC","Arne Maier Hertha Berlin, 23, DMC",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+1,"462Ba-Muaka SimakalaBorussia M.Gladbach, 25, Forward","Ba-Muaka Simakala Borussia M.Gladbach, 25, Forward",0(1),10,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,1,4,75,-,-,-
+2,"463Djibril SowBorussia M.Gladbach, 25, DMC","Djibril Sow Borussia M.Gladbach, 25, DMC",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+3,"464Finn PorathHamburg, 25, M(CR)","Finn Porath Hamburg, 25, M(CR)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+4,"465Sinan KurtHertha Berlin, 25, Midfielder","Sinan Kurt Hertha Berlin, 25, Midfielder",0(2),5,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,0.5,0.5,100,-,-,-
+5,"466Tobias SippelBorussia M.Gladbach, 34, GK","Tobias Sippel Borussia M.Gladbach, 34, GK",1,1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+6,"467Mats DæhliFreiburg, 27, AM(CLR),FW","Mats Dæhli Freiburg, 27, AM(CLR),FW",0(2),23,-,-,-,-,-,-,-,-,5.99,-,-,-,-,0.5,-,-,-,7,71.4,-,-,-
+7,"468Timothée KolodziejczakBorussia M.Gladbach, 30, D(CL),M(L)","Timothée Kolodziejczak Borussia M.Gladbach, 30, D(CL),M(L)",0(1),8,-,-,-,-,2,-,-,-,5.97,-,-,-,-,-,-,-,-,3,33.3,-,-,-
+8,"469Florian BaakHertha Berlin, 23, Defender","Florian Baak Hertha Berlin, 23, Defender",0(2),12,-,-,1,-,-,-,-,-,5.96,-,-,-,-,-,-,-,0.5,1.5,66.7,-,-,-
+9,"470Maurice MulthaupIngolstadt, 25, M(CR)","Maurice Multhaup Ingolstadt, 25, M(CR)",0(1),7,-,-,-,-,-,-,-,-,5.95,-,-,-,-,-,-,-,-,4,50,-,-,-
+0,"451Sami AllaguiHertha Berlin, 36, AM(CLR),FW","Sami Allagui Hertha Berlin, 36, AM(CLR),FW",0(12),174,0.1,0.1,0.4,-,-,0.3,0.1,-,6.08,1,1,0.4,0.1,0.2,0.3,0.2,0.7,3.0,69.4,-,-,-
+1,"452Havard NielsenFreiburg, 28, AM(CL),FW","Havard Nielsen Freiburg, 28, AM(CL),FW",0(4),24,-,-,-,-,-,0.3,-,-,6.07,-,1,-,0.3,-,-,-,-,3.0,50.0,-,-,-
+2,"453Dominik Stroh-EngelDarmstadt, 36, FW","Dominik Stroh-Engel Darmstadt, 36, FW",0(4),42,-,-,-,-,-,-,0.5,-,6.07,-,-,-,0.3,0.3,-,-,0.3,4.3,47.1,-,-,-
+3,"454Roman WeidenfellerBorussia Dortmund, 41, GK","Roman Weidenfeller Borussia Dortmund, 41, GK",7,630,-,-,-,-,0.1,0.3,-,-,6.06,-,-,-,-,-,-,-,0.1,24.1,75.7,-,2.9,-
+4,"455Julian Günther-SchmidtAugsburg, 27, Forward","Julian Günther-Schmidt Augsburg, 27, Forward",0(4),42,1,0.3,-,-,-,0.3,-,-,6.05,-,-,0.8,-,0.5,-,0.5,1.5,3.5,78.6,-,-,-
+5,"456Bernard TekpeteySchalke, 24, AM(LR),FW","Bernard Tekpetey Schalke, 24, AM(LR),FW",0(2),4,-,-,0.5,-,-,-,-,-,6.03,-,-,-,-,-,-,-,-,1.5,66.7,-,-,-
+6,"457Robert LeipertzIngolstadt, 29, AM(CLR),FW","Robert Leipertz Ingolstadt, 29, AM(CLR),FW",0(6),32,-,0.2,0.2,-,-,0.2,-,-,6.03,-,-,0.5,-,-,-,-,-,2.3,71.4,-,0.2,-
+7,"458Filip MladenovicFC Koln, 30, D(L),M(L)","Filip Mladenovic FC Koln, 30, D(L),M(L)",0(2),9,-,-,-,-,0.5,0.5,-,-,6.02,-,-,-,-,0.5,-,-,0.5,0.5,100.0,-,0.5,-
+8,"459Sambou YatabaréWerder Bremen, 33, M(CR)","Sambou Yatabaré Werder Bremen, 33, M(CR)",2,176,1.5,2,3.5,-,2.5,1,-,-,6.02,-,-,1,-,0.5,0.5,1.5,3.5,22.0,65.9,0.5,-,-
+9,"460Weston McKennieSchalke, 23, D(C),M(CLR)","Weston McKennie Schalke, 23, D(C),M(CLR)",0(1),13,-,-,-,-,-,-,-,-,6.01,-,-,-,-,-,-,-,1,9.0,44.4,-,1,-
+0,"441Moritz LeitnerAugsburg, 29, M(CR)","Moritz Leitner Augsburg, 29, M(CR)",2(4),235,0.7,1.2,1,-,0.7,1,0.2,-,6.15,-,-,0.8,0.3,1.3,-,0.5,1,11.2,67.2,0.2,0.2,-
+1,"442Janek SternbergWerder Bremen, 29, D(L)","Janek Sternberg Werder Bremen, 29, D(L)",0(2),71,0.5,1,0.5,-,0.5,-,-,-,6.14,-,-,0.5,-,0.5,-,1,-,10.0,85.0,-,-,-
+2,"443Stefan LexIngolstadt, 32, AM(R)","Stefan Lex Ingolstadt, 32, AM(R)",2(11),325,1,0.3,0.5,-,0.2,0.5,0.1,-,6.13,-,-,0.7,0.2,0.7,0.2,0.1,0.5,5.5,57.7,0.2,0.2,-
+3,"444Aron JóhannssonWerder Bremen, 31, FW","Aron Jóhannsson Werder Bremen, 31, FW",2(7),269,0.1,0.2,0.7,-,0.1,-,0.1,-,6.13,1,1,1.2,0.4,0.1,-,0.6,1,7.7,72.5,0.1,-,0.1
+4,"445Justin MöbiusWolfsburg, 25, Midfielder","Justin Möbius Wolfsburg, 25, Midfielder",0(2),46,-,0.5,-,-,-,-,-,-,6.12,-,-,-,-,0.5,-,1,0.5,2.5,80.0,-,-,-
+5,"446Georg NiedermeierFreiburg, 36, D(C)","Georg Niedermeier Freiburg, 36, D(C)",0(6),91,0.3,0.3,0.3,0.3,1,0.2,0.2,-,6.11,-,-,0.2,0.2,-,-,0.2,-,6.8,80.5,-,0.5,-
+6,"447Max BesuschkowEintracht Frankfurt, 25, DMC","Max Besuschkow Eintracht Frankfurt, 25, DMC",1(2),86,1,0.3,1,-,0.3,0.7,-,-,6.11,-,-,0.3,0.7,0.7,-,-,0.3,7.3,59.1,0.7,0.3,-
+7,"448Holger BadstuberBayern, 33, D(CL)","Holger Badstuber Bayern, 33, D(CL)",0(1),28,-,-,-,1,1,-,1,-,6.11,-,-,-,-,-,-,-,-,28.0,96.4,-,1,-
+8,"449Jan-Ingwer Callsen-BrackerAugsburg, 37, D(C)","Jan-Ingwer Callsen-Bracker Augsburg, 37, D(C)",0(1),2,-,-,-,-,-,-,-,-,6.11,-,-,-,-,-,-,-,-,2.0,50.0,-,-,-
+9,"450Silas ZehnderDarmstadt, 22, Defender","Silas Zehnder Darmstadt, 22, Defender",0(1),1,-,-,-,-,-,-,-,-,6.08,-,-,-,-,-,-,-,-,1.0,100.0,-,-,-
+0,"431Pierre-Michel LasoggaHamburg, 30, FW","Pierre-Michel Lasogga Hamburg, 30, FW",5(15),543,0.2,0.3,0.9,-,0.2,0.2,0.2,-,6.2,1,-,0.9,0.3,0.3,0.3,0.3,0.7,9.3,64.3,-,0.2,-
+1,"432Rani KhediraRBL, 28, D(C),DMC","Rani Khedira RBL, 28, D(C),DMC",1(9),157,1.1,1,0.4,-,0.2,0.3,-,1,6.19,-,-,0.2,0.1,0.2,-,0.1,0.2,9.9,79.8,-,0.2,-
+2,"433Júnior CaiçaraSchalke, 33, D(R),M(R)","Júnior Caiçara Schalke, 33, D(R),M(R)",1(2),107,1.7,1.3,1,-,0.7,0.3,-,-,6.19,-,-,-,0.3,-,0.7,0.3,0.7,18.3,74.5,0.3,0.7,-
+3,"434Shani TarashajEintracht Frankfurt, 27, Forward","Shani Tarashaj Eintracht Frankfurt, 27, Forward",1(12),325,0.1,0.2,0.5,-,-,0.2,-,-,6.19,1,-,0.5,0.1,0.3,-,1,0.5,9.8,70.1,0.2,0.4,-
+4,"435Josip BrekaloWolfsburg, 23, AM(CLR),FW","Josip Brekalo Wolfsburg, 23, AM(CLR),FW",0(4),76,0.5,0.3,0.8,-,-,-,-,-,6.18,-,-,1,0.3,0.5,-,0.5,0.3,8.0,90.6,-,1.3,-
+5,"436Victor OsimhenWolfsburg, 23, FW","Victor Osimhen Wolfsburg, 23, FW",0(2),45,-,1,0.5,-,-,0.5,-,-,6.18,-,-,0.5,0.5,-,0.5,0.5,1.5,8.0,75.0,-,0.5,-
+6,"437Tim RiederAugsburg, 28, D(R)","Tim Rieder Augsburg, 28, D(R)",2(3),214,2.4,1,0.6,-,0.4,0.2,0.2,-,6.16,-,-,0.2,-,0.2,-,0.6,0.2,15.6,78.2,-,-,-
+7,"438Benjamin GorkaDarmstadt, 38, Defender","Benjamin Gorka Darmstadt, 38, Defender",0(1),6,1,-,-,-,-,-,-,-,6.16,-,-,-,-,-,-,-,-,5.0,20.0,-,-,-
+8,"439Josip DrmicBorussia M.Gladbach, 29, AM(LR),FW","Josip Drmic Borussia M.Gladbach, 29, AM(LR),FW",2(10),276,0.2,0.3,0.5,-,-,0.3,-,-,6.16,-,-,0.8,0.3,0.1,-,0.5,1.3,8.1,63.9,-,0.2,-
+9,"440Markus FeulnerAugsburg, 40, D(LR),M(CR)","Markus Feulner Augsburg, 40, D(LR),M(CR)",0(1),17,-,1,-,-,1,-,-,-,6.15,-,-,-,-,-,-,-,-,3.0,66.7,-,-,-
+0,"421Marco RussEintracht Frankfurt, 36, D(C),DMC","Marco Russ Eintracht Frankfurt, 36, D(C),DMC",3(1),243,1,0.8,0.8,0.8,2.5,-,-,-,6.23,-,-,1,-,1.0,-,-,0.3,21.8,80.5,-,0.5,-
+1,"422Ørjan NylandIngolstadt, 31, GK","Ørjan Nyland Ingolstadt, 31, GK",11(1),1022,0.2,-,-,-,0.5,-,-,-,6.23,-,-,-,-,0.1,-,-,-,28.8,50.9,-,9.2,-
+2,"423Marcel SchäferWolfsburg, 38, D(L),M(L)","Marcel Schäfer Wolfsburg, 38, D(L),M(L)",2(2),109,1,0.3,0.3,0.3,-,-,-,-,6.23,-,-,0.3,0.5,0.3,-,-,0.3,14.0,78.6,0.5,0.8,-
+3,"424Max ChristiansenIngolstadt, 25, DMC","Max Christiansen Ingolstadt, 25, DMC",4(7),440,1.1,1.2,0.7,-,0.5,0.3,0.1,-,6.22,-,-,0.4,0.2,0.9,-,0.6,0.4,18.6,76.1,0.1,1.3,-
+4,"425Salih ÖzcanFC Koln, 24, M(C)","Salih Özcan FC Koln, 24, M(C)",3(10),363,0.8,0.8,0.9,-,0.5,0.9,0.1,-,6.22,-,2,0.3,0.2,0.7,0.1,0.6,0.2,13.3,79.8,-,0.1,-
+5,"426Jonas FöhrenbachFreiburg, 26, D(CL)","Jonas Föhrenbach Freiburg, 26, D(CL)",1(2),101,0.7,0.7,0.7,-,0.3,0.3,0.3,-,6.22,-,-,-,-,0.3,-,-,-,19.3,72.4,-,2,-
+6,"427Änis Ben-HatiraDarmstadt, 33, M(CLR)","Änis Ben-Hatira Darmstadt, 33, M(CLR)",8(3),590,0.5,0.6,1,0.1,0.1,0.7,-,-,6.22,1,-,0.9,0.5,1.2,0.6,1.5,1.5,12.9,59.2,0.4,0.9,-
+7,"428Gerrit HoltmannMainz, 27, D(L),M(LR)","Gerrit Holtmann Mainz, 27, D(L),M(LR)",1(4),125,0.8,0.4,0.2,-,-,0.6,-,-,6.21,-,1,0.4,0.4,0.2,-,0.2,1,8.0,77.5,0.2,-,-
+8,"429Eduardo VargasHoffenheim, 32, AM(CLR),FW","Eduardo Vargas Hoffenheim, 32, AM(CLR),FW",0(5),96,-,0.6,0.6,-,-,-,-,-,6.21,-,-,0.6,0.6,0.2,-,0.4,-,8.8,79.5,0.2,-,-
+9,"430Baris-Fahri AtikHoffenheim, 27, AM(CL)","Baris-Fahri Atik Hoffenheim, 27, AM(CL)",0(3),68,0.3,0.7,0.3,-,-,0.3,-,-,6.21,-,-,0.3,-,1.0,-,-,0.7,15.3,78.3,-,0.3,-
+0,"411László KleinheislerDarmstadt, 28, M(C)","László Kleinheisler Darmstadt, 28, M(C)",10(2),782,1.1,0.5,1.7,-,0.7,0.6,-,-,6.27,1,1,1.2,0.3,1.2,-,1.1,1.7,16.0,68.2,-,0.7,-
+1,"412Borja MayoralWolfsburg, 25, FW","Borja Mayoral Wolfsburg, 25, FW",3(16),375,0.1,0.1,0.2,-,-,0.2,-,-,6.26,2,-,0.6,0.3,0.5,0.1,0.4,0.3,8.4,76.7,-,0.2,0.1
+2,"413Oliver BurkeRBL, 25, AM(LR),FW","Oliver Burke RBL, 25, AM(LR),FW",5(20),617,0.2,0.2,0.4,-,-,0.4,0.1,-,6.26,1,2,0.4,0.3,0.3,0.2,0.4,0.6,8.1,72.4,0.1,-,-
+3,"414Massimo BrunoRBL, 28, AM(CLR)","Massimo Bruno RBL, 28, AM(CLR)",0(1),4,-,-,-,-,-,-,-,-,6.26,-,-,1,-,-,-,-,-,1.0,-,-,-,-
+4,"415Terrence BoydDarmstadt, 31, FW","Terrence Boyd Darmstadt, 31, FW",5(2),379,0.4,0.1,2,-,0.6,0.3,-,-,6.26,1,-,0.7,0.3,0.3,0.1,0.9,2.3,16.0,66.1,-,-,-
+5,"416Philipp OchsHoffenheim, 25, D(L),M(CL)","Philipp Ochs Hoffenheim, 25, D(L),M(CL)",2(1),145,1.7,0.7,1.7,-,1,0.7,-,-,6.26,-,-,-,0.3,-,-,-,-,22.0,77.3,0.7,1,-
+6,"417Sascha RietherSchalke, 39, D(R)","Sascha Riether Schalke, 39, D(R)",3(2),284,1.4,0.6,0.2,-,0.6,-,-,-,6.26,-,-,-,0.4,0.2,-,0.2,0.4,42.4,83.5,0.8,4.4,-
+7,"418Lennart ThyWerder Bremen, 30, AM(C),FW","Lennart Thy Werder Bremen, 30, AM(C),FW",0(6),84,-,0.2,-,-,-,-,-,-,6.23,1,-,0.8,-,0.3,-,-,0.3,4.5,66.7,-,-,-
+8,"419Ondrej DudaHertha Berlin, 27, AM(C),FW","Ondrej Duda Hertha Berlin, 27, AM(C),FW",0(3),67,1,0.3,0.7,-,-,-,-,-,6.23,-,-,-,0.3,0.3,-,-,1,19.3,74.1,0.3,-,-
+9,"420Julius KadeHertha Berlin, 23, DMC","Julius Kade Hertha Berlin, 23, DMC",0(1),9,-,-,-,-,-,-,-,-,6.23,-,-,-,1,-,-,-,-,4.0,75,-,-,-
+0,"401Marius WolfEintracht Frankfurt, 27, D(R),M(CLR)","Marius Wolf Eintracht Frankfurt, 27, D(R),M(CLR)",2(1),168,2,0.7,1.7,0.3,0.3,0.3,-,-,6.29,-,-,0.3,0.7,0.7,-,0.7,2.3,18.3,72.7,0.3,-,-
+1,"402Sven UlreichBayern, 33, GK","Sven Ulreich Bayern, 33, GK",5,450,-,-,-,-,0.2,0.2,-,-,6.29,-,-,-,-,-,-,-,0.2,25.8,87.6,-,3.2,-
+2,"403Park Joo-HoBorussia Dortmund, 35, D(L),DMC","Park Joo-Ho Borussia Dortmund, 35, D(L),DMC",1(1),65,0.5,-,0.5,0.5,1,-,-,-,6.29,-,-,-,1,1.5,-,-,0.5,15.0,93.3,1,-,-
+3,"404Lukas HinterseerIngolstadt, 31, AM(R),FW","Lukas Hinterseer Ingolstadt, 31, AM(R),FW",8(20),955,0.4,0.3,1.2,-,0.2,0.1,-,-,6.28,3,1,0.7,0.5,0.9,0.5,0.9,1.4,10.3,63.5,-,0.1,-
+4,"405Haris SeferovicEintracht Frankfurt, 30, AM(LR),FW","Haris Seferovic Eintracht Frankfurt, 30, AM(LR),FW",11(14),1061,0.2,0.2,1.2,-,0.2,0.2,-,-,6.28,3,-,1.2,0.4,0.7,0.4,0.5,0.7,12.1,62.0,0.2,0.5,-
+5,"406Taleb TawathaEintracht Frankfurt, 29, D(L),M(L)","Taleb Tawatha Eintracht Frankfurt, 29, D(L),M(L)",8(6),694,0.5,1.6,0.9,0.1,0.5,0.6,0.1,-,6.28,-,-,0.1,0.7,0.8,0.1,0.3,0.9,12.1,76.3,0.5,0.4,-
+6,"407Gian-Luca WaldschmidtHamburg, 26, AM(CLR),FW","Gian-Luca Waldschmidt Hamburg, 26, AM(CLR),FW",3(11),349,0.6,0.4,0.4,-,0.4,0.2,0.1,-,6.28,1,1,0.6,0.3,0.3,0.1,0.3,0.4,6.8,69.5,-,0.1,-
+7,"408René AdlerHamburg, 37, GK","René Adler Hamburg, 37, GK",19,1710,-,0.1,0.1,-,0.9,-,-,-,6.27,-,1,-,0.1,0.1,-,-,-,28.0,49.2,-,8.2,-
+8,"409Robin QuaisonMainz, 28, M(CLR),FW","Robin Quaison Mainz, 28, M(CLR),FW",6(5),482,0.5,0.8,1.2,-,0.3,0.5,-,-,6.27,1,-,0.5,0.2,0.6,-,0.5,0.6,10.6,62.4,-,-,-
+9,"410Fabian ReeseSchalke, 24, M(LR),FW","Fabian Reese Schalke, 24, M(LR),FW",1(2),73,0.3,-,0.3,-,-,-,-,-,6.27,-,-,0.7,0.7,-,0.7,0.3,-,6.7,65.0,0.7,-,-
+0,"391Dzenis BurnicBorussia Dortmund, 24, M(C)","Dzenis Burnic Borussia Dortmund, 24, M(C)",1,90,1.0,2.0,1.0,-,2.0,-,-,-,6.33,-,-,-,1,-,-,-,1.0,76.0,80.3,-,5,-
+1,"392Bruno HenriqueWolfsburg, 31, AM(CLR),FW","Bruno Henrique Wolfsburg, 31, AM(CLR),FW",1(6),179,0.7,0.1,0.6,-,0.3,-,0.3,-,6.33,-,-,0.6,0.7,1.6,0.1,0.7,0.4,7.9,67.3,0.1,-,-
+2,"393Yevhen KonoplyankaSchalke, 32, AM(CL),FW","Yevhen Konoplyanka Schalke, 32, AM(CL),FW",5(12),605,0.3,0.5,0.5,-,0.1,0.1,-,-,6.32,1,1,0.9,0.4,0.5,0.2,0.4,0.5,11.8,77.5,0.4,0.4,0.1
+3,"394Leon BaileyLeverkusen, 24, M(LR),FW","Leon Bailey Leverkusen, 24, M(LR),FW",0(8),133,0.1,0.4,0.3,-,0.1,-,-,-,6.32,-,-,0.8,0.4,0.5,0.1,0.5,0.6,5.1,65.9,0.1,-,-
+4,"395Roman BezjakDarmstadt, 33, AM(L),FW","Roman Bezjak Darmstadt, 33, AM(L),FW",7(4),590,1.1,1.2,1.5,-,0.5,0.6,0.1,-,6.32,-,-,0.8,0.5,0.8,0.2,0.1,0.9,11.7,53.5,-,0.3,-
+5,"396Sonny KittelIngolstadt, 29, AM(CLR),FW","Sonny Kittel Ingolstadt, 29, AM(CLR),FW",7(13),790,0.4,0.6,0.6,0.1,0.3,0.2,0.1,-,6.32,2,1,1.1,0.5,0.5,0.2,0.4,1.4,11.3,76.0,0.2,0.4,-
+6,"397Aaron SeydelMainz, 26, AM(L),FW","Aaron Seydel Mainz, 26, AM(L),FW",1(5),172,0.2,0.2,1.0,-,0.3,-,-,-,6.32,1,-,0.7,-,1,0.5,0.5,0.2,8.2,55.1,-,0.3,-
+7,"398Georg TeiglAugsburg, 31, D(R),M(R)","Georg Teigl Augsburg, 31, D(R),M(R)",4(14),659,0.6,1.1,0.3,-,0.8,0.1,0.2,-,6.31,-,1,0.4,0.3,0.6,0.2,0.3,0.7,9.7,73.6,0.2,0.3,-
+8,"399Jan RosenthalDarmstadt, 36, M(C),FW","Jan Rosenthal Darmstadt, 36, M(C),FW",10(9),838,0.5,0.6,0.9,-,0.5,0.4,0.1,-,6.31,-,-,0.8,0.4,0.6,0.1,0.9,0.9,15.1,65.5,-,0.9,-
+9,"400Klaas Jan HuntelaarSchalke, 38, FW","Klaas Jan Huntelaar Schalke, 38, FW",7(9),753,0.3,0.1,1.4,-,0.3,0.1,-,-,6.3,2,-,1.5,0.2,0.7,0.6,0.8,0.8,9.2,74.8,0.1,0.4,-
+0,"381Jannik HuthMainz, 28, GK","Jannik Huth Mainz, 28, GK",7,630,-,-,-,-,0.9,-,-,-,6.36,-,-,-,-,-,-,-,-,30.7,65.1,-,6.4,-
+1,"382Donis AvdijajSchalke, 25, AM(LR)","Donis Avdijaj Schalke, 25, AM(LR)",2(7),294,0.3,0.1,0.4,-,-,0.6,-,-,6.36,2,-,1.3,0.3,0.1,0.2,0.6,0.7,12.0,71.3,-,0.3,-
+2,"383Denys OliinykDarmstadt, 34, AM(L)","Denys Oliinyk Darmstadt, 34, AM(L)",0(4),47,0.5,-,-,-,-,0.5,-,-,6.36,1,-,0.3,0.3,-,-,0.3,-,5.0,80.0,-,-,-
+3,"384Federico PalaciosRBL, 27, AM(CL),FW","Federico Palacios RBL, 27, AM(CL),FW",0(2),55,1,1,0.5,-,0.5,0.5,-,-,6.36,-,-,1,0.5,0.5,0.5,1.5,1.5,8.0,43.8,-,-,-
+4,"385Patrick HerrmannBorussia M.Gladbach, 31, M(LR),FW","Patrick Herrmann Borussia M.Gladbach, 31, M(LR),FW",9(9),699,0.7,0.9,0.4,-,0.1,0.2,-,-,6.35,1,1,0.4,0.7,0.8,0.4,0.4,0.8,10.7,65.8,0.4,0.1,-
+5,"386Fabian SchärHoffenheim, 30, D(C)","Fabian Schär Hoffenheim, 30, D(C)",3(3),284,1,1.5,1.2,0.2,1.7,0.3,0.7,-,6.35,-,-,0.3,-,0.8,-,0.7,0.3,30.3,84.6,-,2.8,-
+6,"387Victor ObinnaDarmstadt, 35, FW","Victor Obinna Darmstadt, 35, FW",0(2),37,0.5,1,1,-,-,0.5,-,-,6.35,-,-,0.5,1,-,-,1,0.5,9.5,89.5,-,-,-
+7,"388Christian ClemensMainz, 30, M(LR)","Christian Clemens Mainz, 30, M(LR)",2(1),188,2,0.7,0.3,-,0.3,1,-,-,6.34,-,-,1.3,1,0.3,0.3,0.7,1.3,16.0,77.1,-,1.7,-
+8,"389Martin HansenIngolstadt, 31, GK","Martin Hansen Ingolstadt, 31, GK",23,2038,-,-,-,-,0.6,-,-,-,6.34,-,-,-,-,0.2,-,-,-,28.0,49.1,-,9.8,-
+9,"390Davie SelkeRBL, 27, FW","Davie Selke RBL, 27, FW",2(19),436,0.3,-,0.9,-,-,0.1,-,-,6.34,4,1,0.6,0.3,0.4,0.5,0.2,0.6,7.0,61.9,-,-,-
+0,"371Christian GünterFreiburg, 29, D(L),M(L)","Christian Günter Freiburg, 29, D(L),M(L)",30(1),2696,1.7,1.2,0.6,0.2,2.3,0.7,0.2,-,6.4,-,2,0.5,0.9,0.7,0.1,0.9,0.7,31.5,72.0,0.3,2.2,-
+1,"372Takashi UsamiAugsburg, 30, AM(LR)","Takashi Usami Augsburg, 30, AM(LR)",5(6),437,1,1.5,0.6,-,0.7,0.5,-,-,6.4,-,-,0.2,0.4,0.4,-,0.6,1.1,10.1,66.7,0.1,0.2,-
+2,"373Dominik KaiserRBL, 33, M(CR)","Dominik Kaiser RBL, 33, M(CR)",7(18),952,0.7,0.5,0.5,-,0.4,0.4,-,-,6.4,1,-,0.6,0.9,0.8,0.1,0.2,0.7,14.4,70.9,0.6,0.4,-
+3,"374Thanos PetsosWerder Bremen, 31, M(C)","Thanos Petsos Werder Bremen, 31, M(C)",2(1),144,1.3,0.3,1.3,-,-,-,0.7,-,6.39,-,-,0.3,-,0.7,-,0.7,0.7,41.0,80.5,-,3.3,-
+4,"375Riechedly BazoerWolfsburg, 25, D(C),DMC","Riechedly Bazoer Wolfsburg, 25, D(C),DMC",12,974,1.3,1.1,1.8,-,0.3,0.8,0.1,-,6.38,-,1,1.6,0.5,0.9,0.1,0.6,0.7,34.3,82.0,0.2,2.6,-
+5,"376Antonio-Mirko ColakDarmstadt, 28, FW","Antonio-Mirko Colak Darmstadt, 28, FW",12(10),1271,0.4,0.2,1.4,-,0.3,0.3,-,-,6.38,4,1,1.5,0.3,1.2,0.7,0.5,1.1,11.3,63.9,-,0.1,-
+6,"377Cléber ReisHamburg, 31, D(C)","Cléber Reis Hamburg, 31, D(C)",5,326,2,3.8,2.4,0.2,3.2,1,0.4,-,6.38,-,-,-,-,0.6,-,0.2,0.4,34.4,70.3,-,3.0,-
+7,"378Jaroslav DrobnyWerder Bremen, 42, GK","Jaroslav Drobny Werder Bremen, 42, GK",10,849,-,-,0.2,-,0.4,0.1,-,-,6.37,-,-,-,-,0.1,-,-,-,25.0,54.4,-,7.1,-
+8,"379Simon ZollerFC Koln, 30, AM(LR),FW","Simon Zoller FC Koln, 30, AM(LR),FW",8(18),1024,0.4,0.6,0.5,-,0.2,0.4,0.1,-,6.37,2,2,0.5,0.3,0.4,0.2,0.3,0.8,11.8,70.0,0.1,0.5,-
+9,"380Ulisses GarcíaWerder Bremen, 26, D(L),DMC","Ulisses García Werder Bremen, 26, D(L),DMC",3(4),350,0.9,1.7,1.0,0.1,1.4,0.6,0.1,-,6.37,-,1,0.3,0.4,1.0,-,0.7,0.6,22.4,79.0,0.1,0.7,-
+0,"361Franco Di SantoSchalke, 33, AM(CLR),FW","Franco Di Santo Schalke, 33, AM(CLR),FW",3(9),318,0.5,0.3,0.8,-,0.3,-,0.1,-,6.43,-,2,0.5,0.4,1.1,0.3,0.4,0.7,8.0,63.5,0.1,0.2,-
+1,"362Johan DjourouHamburg, 35, D(C)","Johan Djourou Hamburg, 35, D(C)",12(2),1142,1.5,2.3,1.8,0.9,5.1,0.1,0.6,-,6.43,-,-,0.3,0.2,0.2,-,0.1,0.4,29.6,82.4,-,2.9,-
+2,"363Sven SchipplockDarmstadt, 33, FW","Sven Schipplock Darmstadt, 33, FW",12(11),1108,0.5,0.5,1.6,-,0.3,0.4,-,-,6.43,2,-,0.7,0.4,0.8,0.3,0.4,0.9,11.3,54.4,0.1,-,0.1
+3,"364Karim OnisiwoMainz, 30, AM(LR),FW","Karim Onisiwo Mainz, 30, AM(LR),FW",10(6),912,1.3,0.9,1.3,-,0.4,1.1,0.2,-,6.42,1,-,0.9,0.4,1.6,0.3,1.8,1.6,13.1,63.3,0.1,0.3,-
+4,"365Marcel HartelFC Koln, 26, M(CL)","Marcel Hartel FC Koln, 26, M(CL)",0(2),91,1.5,1.5,-,-,-,0.5,-,-,6.42,-,-,2,-,1.5,-,0.5,0.5,26.5,83.0,-,0.5,-
+5,"366Wilson KamavuakaDarmstadt, 32, DMC","Wilson Kamavuaka Darmstadt, 32, DMC",6(2),506,1.5,1.5,1,-,0.6,1.1,0.1,-,6.41,-,-,0.3,0.3,0.8,-,0.8,0.5,20.0,68.1,-,0.5,-
+6,"367Onur BulutFreiburg, 28, D(R),M(R)","Onur Bulut Freiburg, 28, D(R),M(R)",12(9),999,1.2,0.7,0.7,-,0.6,0.4,0.2,-,6.41,-,1,0.4,0.6,1.0,-,0.7,0.9,14.9,63.1,0.1,0.7,-
+7,"368Christoph JankerAugsburg, 37, D(C)","Christoph Janker Augsburg, 37, D(C)",12(3),1087,1.3,1.0,0.7,0.3,3.6,0.3,0.4,-,6.4,-,-,0.1,0.1,0.2,-,0.1,0.1,31.1,84.2,-,2.3,-
+8,"369Julian SchieberHertha Berlin, 33, FW","Julian Schieber Hertha Berlin, 33, FW",2(16),422,0.2,0.3,0.5,-,0.4,0.1,-,-,6.4,3,1,0.8,0.2,0.3,0.2,0.3,0.4,9.1,56.4,-,0.1,-
+9,"370Dennis AogoSchalke, 35, D(L),M(CL)","Dennis Aogo Schalke, 35, D(L),M(CL)",3(4),288,0.7,0.7,0.9,0.1,0.9,-,0.1,-,6.4,-,1,-,0.7,0.3,-,-,0.3,24.3,82.4,0.3,1.7,-
+0,"351Alexander EssweinHertha Berlin, 32, AM(CLR),FW","Alexander Esswein Hertha Berlin, 32, AM(CLR),FW",15(14),1325,0.9,1.0,0.8,-,0.3,0.4,0.1,-,6.45,2,2,0.9,0.6,0.9,0.1,0.2,0.8,13.7,72.4,0.3,0.3,-
+1,"352Vasilije JanjicicHamburg, 23, DMC","Vasilije Janjicic Hamburg, 23, DMC",2(2),176,1.8,1.3,-,-,1.3,0.8,0.5,-,6.45,-,-,0.3,0.3,-,-,-,0.8,21.8,72.4,-,1.0,-
+2,"353Artjoms RudnevsFC Koln, 34, FW","Artjoms Rudnevs FC Koln, 34, FW",6(12),689,0.2,0.2,1.3,-,0.3,0.2,0.1,-,6.45,3,3,1.2,0.9,0.7,0.6,0.3,1.1,9.1,60.1,-,0.2,-
+3,"354Jairo SamperioMainz, 28, M(LR)","Jairo Samperio Mainz, 28, M(LR)",11(6),943,1.2,0.9,0.7,-,0.4,0.4,-,-,6.45,2,1,1.6,0.5,0.8,0.2,1.7,1.9,14.5,62.8,0.4,0.5,0.1
+4,"355Marcel HellerDarmstadt, 36, M(LR)","Marcel Heller Darmstadt, 36, M(LR)",31(1),2721,1.3,1.1,0.9,-,0.3,1.1,-,-,6.44,3,3,1.3,0.9,0.8,0.8,1.4,1.6,17.3,65.4,0.6,0.5,-
+5,"356Danny BlumEintracht Frankfurt, 31, AM(LR),FW","Danny Blum Eintracht Frankfurt, 31, AM(LR),FW",3(11),453,0.3,1.0,0.8,-,0.1,0.4,-,-,6.44,1,1,1.6,0.4,0.5,0.1,0.6,0.9,11.4,67.3,0.1,0.6,-
+6,"357Milos VeljkovicWerder Bremen, 26, D(C),DMC","Milos Veljkovic Werder Bremen, 26, D(C),DMC",20(6),1810,1.0,1.1,0.9,0.4,4.0,0.8,0.4,-,6.44,-,-,0.1,0.2,0.3,-,-,0.2,34.6,76.8,0.1,3.3,-
+7,"358Karim GuédéFreiburg, 37, FW","Karim Guédé Freiburg, 37, FW",3(2),187,1.2,0.4,2.2,-,0.4,0.2,-,-,6.44,-,-,0.6,0.2,1.2,-,0.2,1.4,10.2,37.3,-,0.2,-
+8,"359Suat SerdarMainz, 25, M(CLR)","Suat Serdar Mainz, 25, M(CLR)",4(4),328,1.8,1.9,1.6,-,0.1,0.9,0.1,-,6.43,-,-,0.1,0.4,0.6,-,1,0.6,13.4,69.2,-,1.4,-
+9,"360Renato SanchesBayern, 24, M(CR)","Renato Sanches Bayern, 24, M(CR)",6(11),618,0.5,0.6,1,-,0.2,0.3,-,-,6.43,-,-,0.7,0.2,0.8,0.1,0.8,0.5,27.9,88.0,0.1,1.9,-
+0,"341Jan MorávekAugsburg, 32, M(C)","Jan Morávek Augsburg, 32, M(C)",10(3),699,2.2,1.2,2.2,-,0.5,1.5,0.2,-,6.47,-,-,0.2,0.8,0.3,0.1,0.5,0.5,21.5,71.7,-,0.4,0.1
+1,"342Pirmin SchweglerHoffenheim, 35, M(C)","Pirmin Schwegler Hoffenheim, 35, M(C)",2(8),391,1.2,1.1,1.2,-,0.5,0.4,0.3,-,6.47,-,1,0.4,0.4,0.6,-,0.3,-,26.8,81.7,-,0.5,-
+2,"343Tobias LevelsIngolstadt, 35, D(R)","Tobias Levels Ingolstadt, 35, D(R)",8(2),720,1.5,2.8,2.4,0.1,1.7,0.3,0.2,-,6.47,-,-,0.6,0.4,1.9,-,0.1,0.3,39.4,71.3,0.6,2.1,-
+3,"344Sidney SamDarmstadt, 34, M(CLR)","Sidney Sam Darmstadt, 34, M(CLR)",11(2),886,0.9,1.1,1.4,-,0.1,0.6,-,-,6.46,2,1,1.0,0.5,1.5,-,2.0,1.7,21.6,73.3,0.2,0.5,0.1
+4,"345Paul-Georges NtepWolfsburg, 29, AM(LR),FW","Paul-Georges Ntep Wolfsburg, 29, AM(LR),FW",5(5),504,0.8,0.5,0.8,-,0.5,0.6,0.1,-,6.46,-,2,1.1,0.6,1.3,0.1,1.1,0.7,17.5,65.7,0.1,0.9,-
+5,"346Sebastian RodeBorussia Dortmund, 31, D(R),M(C)","Sebastian Rode Borussia Dortmund, 31, D(R),M(C)",5(9),575,0.6,1.3,0.6,-,0.3,0.6,-,-,6.46,1,-,0.4,0.6,0.6,-,0.8,0.4,31.6,88.9,0.1,1.7,-
+6,"347Benjamin StambouliSchalke, 31, D(CR),M(C)","Benjamin Stambouli Schalke, 31, D(CR),M(C)",15(8),1296,1.8,2.7,0.5,0.1,1.0,1.1,0.1,-,6.46,-,-,0.2,0.1,0.3,-,0.3,0.3,32.7,83.4,-,2.6,-
+7,"348Aleksandar IgnjovskiFreiburg, 31, D(LR),M(CLR)","Aleksandar Ignjovski Freiburg, 31, D(LR),M(CLR)",12(7),1052,2.1,1.6,1.1,0.1,1.6,1.2,0.1,-,6.46,-,-,0.2,0.2,0.7,0.1,0.5,0.4,20.4,73.7,0.2,1.6,-
+8,"349Bakery JattaHamburg, 24, AM(LR),FW","Bakery Jatta Hamburg, 24, AM(LR),FW",1(5),180,1.5,0.8,0.7,-,0.5,0.5,0.2,-,6.46,-,-,0.7,0.5,0.7,-,0.5,0.7,9.0,53.7,0.2,0.2,-
+9,"350Moritz HartmannIngolstadt, 35, AM(LR),FW","Moritz Hartmann Ingolstadt, 35, AM(LR),FW",12(2),949,1.1,0.8,1.4,-,0.4,0.9,0.1,-,6.46,1,-,1.4,0.7,1.1,0.1,0.6,1.4,20.1,65.5,0.1,0.1,-
+0,"331Jonas MeffertFreiburg, 27, DMC","Jonas Meffert Freiburg, 27, DMC",1,58,1,3,1,-,-,-,-,-,6.49,-,-,-,1,-,-,-,1,29.0,79.3,-,-,-
+1,"332Halil AltintopAugsburg, 39, AM(C),FW","Halil Altintop Augsburg, 39, AM(C),FW",17(14),1604,0.8,0.6,0.5,-,0.5,0.6,0.1,-,6.49,6,2,0.5,0.5,1,0.1,1.3,0.9,15.5,72.2,0.3,0.6,-
+2,"333Immanuel HöhnDarmstadt, 30, D(CR)","Immanuel Höhn Darmstadt, 30, D(CR)",12,1069,1.4,2.3,1,0.4,4.4,0.9,0.5,-,6.48,-,-,0.2,0.3,0.4,0.1,-,0.3,27.1,72.3,-,3.1,0.1
+3,"334Paul SeguinWolfsburg, 27, D(R),DMC","Paul Seguin Wolfsburg, 27, D(R),DMC",15(7),1325,1.3,1.1,1.5,-,0.5,0.7,-,-,6.48,1,1,0.5,0.6,0.7,-,0.8,0.7,30.9,84.1,0.1,1.2,-
+4,"335Alexander MilosevicDarmstadt, 30, D(C)","Alexander Milosevic Darmstadt, 30, D(C)",18,1598,1.1,1.9,0.9,0.9,5.4,0.1,0.9,-,6.48,-,-,0.6,0.1,0.3,-,0.2,0.2,28.7,75.2,-,3.1,-
+5,"336AllanHertha Berlin, 25, DMC","Allan Hertha Berlin, 25, DMC",8(7),792,1.9,2.5,1,-,0.6,0.7,0.1,-,6.47,-,-,0.5,0.1,0.7,-,0.3,0.5,27.6,78.0,-,3.6,0.1
+6,"337Diego BenaglioWolfsburg, 38, GK","Diego Benaglio Wolfsburg, 38, GK",14,1260,-,-,0.1,-,0.5,-,-,-,6.47,-,-,-,-,0.1,-,-,-,24.3,56.5,-,8.1,-
+7,"338Lukás HrádeckyEintracht Frankfurt, 32, GK","Lukás Hrádecky Eintracht Frankfurt, 32, GK",33,2883,-,-,-,-,0.9,-,-,-,6.47,-,-,-,-,0.1,-,-,-,32.5,63.4,-,7.1,-
+8,"339Artem FedetskyyDarmstadt, 37, D(R)","Artem Fedetskyy Darmstadt, 37, D(R)",13(3),1113,2.1,1.2,1.3,0.1,2.4,0.4,0.6,-,6.47,-,-,0.3,0.3,0.5,-,-,0.3,18.3,65.2,0.3,1.2,-
+9,"340Péter GulácsiRBL, 32, GK","Péter Gulácsi RBL, 32, GK",33,2970,-,-,-,-,0.8,-,-,-,6.47,-,-,-,-,0.1,-,-,-,30.8,62.7,-,9.2,-
+0,"321Luca CaldirolaWerder Bremen, 31, D(CL)","Luca Caldirola Werder Bremen, 31, D(CL)",5,412,1.8,1.0,0.4,-,4.4,1.2,0.4,-,6.5,-,-,0.4,-,1.8,-,-,0.2,25.6,70.3,0.2,2.2,-
+1,"322Julian SchusterFreiburg, 37, D(C),M(C)","Julian Schuster Freiburg, 37, D(C),M(C)",9(4),847,1.1,1.2,0.9,-,1.8,0.5,0.3,-,6.5,-,-,0.2,0.5,0.8,-,0.5,0.5,36.4,77.2,0.1,1.2,-
+2,"323Nico SchulzBorussia M.Gladbach, 29, D(L),M(L)","Nico Schulz Borussia M.Gladbach, 29, D(L),M(L)",4(8),409,0.5,1.2,0.3,0.1,0.8,0.7,0.2,-,6.5,1,2,0.3,0.3,0.5,-,0.2,0.5,16.1,85.0,0.1,0.6,-
+3,"324Maximilian MittelstädtHertha Berlin, 25, D(L),M(CL)","Maximilian Mittelstädt Hertha Berlin, 25, D(L),M(CL)",5(7),462,2.0,1.2,1.0,0.1,0.7,0.6,0.1,-,6.5,-,1,0.3,0.3,0.4,0.1,0.3,0.3,15.8,65.1,0.1,0.8,-
+4,"325Eugen PolanskiHoffenheim, 36, M(C)","Eugen Polanski Hoffenheim, 36, M(C)",7(7),632,0.8,1.4,0.6,0.1,0.6,0.5,-,-,6.5,-,-,0.4,0.3,0.9,-,0.1,0.2,35.6,89.0,-,1.4,-
+5,"326Hendrik HansenWolfsburg, 27, D(C)","Hendrik Hansen Wolfsburg, 27, D(C)",0(1),83,2.0,1.0,2.0,1,3,1.0,1,-,6.5,-,-,-,-,1.0,-,1,-,39.0,66.7,-,2.0,-
+6,"327Izet HajrovicWerder Bremen, 30, AM(R)","Izet Hajrovic Werder Bremen, 30, AM(R)",6(4),493,0.6,0.4,1.2,-,-,0.3,0.1,-,6.5,1,-,1.2,1.1,0.5,0.1,0.8,1.3,13.1,67.2,0.6,1.2,0.1
+7,"328Sandro SiriguDarmstadt, 33, D(R),M(R)","Sandro Sirigu Darmstadt, 33, D(R),M(R)",17(13),1810,1.7,1.3,1.1,0.1,0.9,0.7,0.3,-,6.5,2,1,0.6,0.5,0.8,0.1,0.3,0.9,15.7,70.4,0.1,0.5,-
+8,"329Marc TorrejónFreiburg, 36, D(CR)","Marc Torrejón Freiburg, 36, D(CR)",10(2),931,0.9,2.2,0.4,0.8,3.4,0.1,0.1,-,6.49,-,-,0.5,0.1,0.4,-,-,0.1,44.5,82.4,-,3.9,-
+9,"330Sven BenderBorussia Dortmund, 33, D(C),M(C)","Sven Bender Borussia Dortmund, 33, D(C),M(C)",3(3),273,1.2,1.2,0.5,0.8,2.3,0.3,0.5,-,6.49,-,1,0.3,0.2,0.3,-,-,0.2,42.8,93.0,-,1.5,-
+0,"311Anthony JungIngolstadt, 30, D(CL),M(L)","Anthony Jung Ingolstadt, 30, D(CL),M(L)",8(8),703,1.4,0.8,0.8,-,0.8,0.6,0.1,-,6.53,1,1,0.4,0.6,0.8,-,0.9,0.6,14.8,60.6,0.3,0.2,-
+1,"312Admir MehmediLeverkusen, 31, M(CLR),FW","Admir Mehmedi Leverkusen, 31, M(CLR),FW",16(6),1264,1,1,1.3,-,0.3,0.4,-,-,6.52,3,-,0.7,0.5,0.9,0.7,1.1,1.2,20.7,75.6,0.1,0.2,-
+2,"313Michael HectorEintracht Frankfurt, 29, D(C),DMC","Michael Hector Eintracht Frankfurt, 29, D(C),DMC",14(8),1356,1.8,2,0.9,0.7,2.5,0.5,0.3,-,6.52,1,-,0.3,-,0.5,-,0.4,0.2,35.5,70.6,-,4.0,-
+3,"314André HahnBorussia M.Gladbach, 31, AM(CLR),FW","André Hahn Borussia M.Gladbach, 31, AM(CLR),FW",18(12),1599,0.9,0.9,1.5,-,0.3,0.6,0.1,-,6.52,3,1,1.1,0.4,1.2,0.8,0.6,1.4,13.7,58.8,0.1,0.3,-
+4,"315Branimir HrgotaEintracht Frankfurt, 29, AM(LR),FW","Branimir Hrgota Eintracht Frankfurt, 29, AM(LR),FW",22(6),1750,0.9,0.3,1.5,-,0.3,0.5,0.1,-,6.52,5,1,1.4,0.6,1.6,0.6,1.1,1.6,15.7,77.3,-,0.3,-
+5,"316Alexander SchwolowFreiburg, 30, GK","Alexander Schwolow Freiburg, 30, GK",34,3060,-,-,-,-,1.1,0.1,-,-,6.52,-,-,-,0.1,0.1,-,-,-,40.3,56.1,-,9.2,-
+6,"317Jonas LösslMainz, 33, GK","Jonas Lössl Mainz, 33, GK",27,2430,-,-,-,-,0.7,0.1,-,-,6.52,-,-,-,0.1,0.1,-,-,-,29.6,57.3,-,7.6,-
+7,"318Kevin DansoAugsburg, 23, D(C)","Kevin Danso Augsburg, 23, D(C)",7,613,2.1,2.9,1.6,1.1,5.3,1.3,0.4,-,6.51,-,-,0.4,0.3,1.0,-,0.3,0.6,32.3,71.7,-,1.6,-
+8,"319Yoshinori MutoMainz, 29, FW","Yoshinori Muto Mainz, 29, FW",10(9),1021,0.5,0.3,1.4,-,-,0.2,-,-,6.51,5,-,0.9,0.4,1.0,0.7,0.7,1.4,9.6,62.8,-,0.1,-
+9,"320Claudio PizarroWerder Bremen, 43, AM(C),FW","Claudio Pizarro Werder Bremen, 43, AM(C),FW",10(9),854,0.4,0.6,0.9,-,0.6,0.5,-,-,6.51,1,1,1.1,0.6,0.8,0.4,1,1.5,15.0,65.6,0.1,0.5,-
+0,"301Jens HegelerHertha Berlin, 34, D(C),M(CR)","Jens Hegeler Hertha Berlin, 34, D(C),M(CR)",2(4),207,1.2,1.3,0.3,0.3,1.8,0.2,0.2,-,6.54,-,-,0.2,-,0.3,-,0.2,0.5,27.5,84.2,-,2.5,-
+1,"302Florian KainzWerder Bremen, 29, AM(CLR)","Florian Kainz Werder Bremen, 29, AM(CLR)",1(13),302,0.4,0.6,0.4,-,0.5,0.1,-,-,6.54,2,3,0.1,0.3,0.6,0.1,0.1,0.4,10.2,79.7,0.1,0.5,-
+2,"303Jannes HornWolfsburg, 25, D(CL),M(L)","Jannes Horn Wolfsburg, 25, D(CL),M(L)",10(3),975,1.4,2.0,0.4,0.2,1.0,0.1,0.1,-,6.54,-,1,0.2,0.8,0.9,-,0.6,0.6,29.3,82.2,0.2,1.6,-
+3,"304Jeremy ToljanHoffenheim, 27, D(LR),M(LR)","Jeremy Toljan Hoffenheim, 27, D(LR),M(LR)",14(6),1316,0.9,1.5,0.2,0.3,1.1,0.3,0.1,-,6.54,1,1,0.7,0.8,0.7,0.1,0.7,0.9,25.4,77.3,0.3,1.0,-
+4,"305Mikel MerinoBorussia Dortmund, 25, M(C)","Mikel Merino Borussia Dortmund, 25, M(C)",2(6),293,2.3,1.6,0.6,0.3,0.8,0.1,0.3,-,6.54,-,-,0.6,0.4,0.9,-,0.8,1.0,43.8,83.7,-,1.8,0.1
+5,"306Jean-Philippe GbaminMainz, 26, D(CR),DMC","Jean-Philippe Gbamin Mainz, 26, D(CR),DMC",21(4),1825,2.1,2.2,2.1,0.1,0.6,0.4,0.3,-,6.53,-,-,0.9,0.2,0.8,-,1.4,0.8,30.0,71.3,-,2.1,-
+6,"307Peter NiemeyerDarmstadt, 38, D(C),M(C)","Peter Niemeyer Darmstadt, 38, D(C),M(C)",13(2),1111,2.3,2.4,1.1,0.4,2.5,0.5,0.3,-,6.53,-,-,0.3,0.1,1.2,0.3,0.1,0.1,23.1,67.9,-,2.0,-
+7,"308Dennis DiekmeierHamburg, 32, D(R),M(R)","Dennis Diekmeier Hamburg, 32, D(R),M(R)",21(3),1783,1.8,1.4,1.0,0.3,2.0,0.2,0.3,-,6.53,-,1,0.2,0.7,0.8,-,0.4,0.7,17.8,62.6,0.5,1.0,-
+8,"309Leon GuwaraDarmstadt, 25, D(L),M(L)","Leon Guwara Darmstadt, 25, D(L),M(L)",11(6),1100,1.8,2.5,0.8,0.2,1.2,0.7,0.2,-,6.53,-,-,0.1,0.6,0.8,-,0.5,0.5,18.4,69.2,0.1,1.5,-
+9,"310Jordan TorunarighaHertha Berlin, 24, D(CL)","Jordan Torunarigha Hertha Berlin, 24, D(CL)",5(3),482,0.9,1.8,0.8,0.6,3.6,0.3,0.1,-,6.53,1,-,0.3,0.1,1.0,-,0.1,0.4,28.6,75.5,-,1.8,-
+0,"291Patrick BanggaardDarmstadt, 28, D(C)","Patrick Banggaard Darmstadt, 28, D(C)",9,810,1.1,1.6,1.3,0.4,4.2,0.6,0.7,-,6.57,-,-,0.6,-,0.2,-,-,0.1,36.6,79.0,-,3.2,-
+1,"292Marco TerrazzinoHoffenheim, 31, AM(CL),FW","Marco Terrazzino Hoffenheim, 31, AM(CL),FW",4(5),364,0.8,0.2,0.6,-,0.1,0.4,-,-,6.57,1,2,0.7,1,0.8,0.2,0.9,0.8,14.6,80.9,-,0.3,0.2
+2,"293Marwin HitzAugsburg, 34, GK","Marwin Hitz Augsburg, 34, GK",32,2880,-,-,0.1,-,0.3,-,-,-,6.57,-,-,-,-,0.1,-,-,-,32.4,58.4,-,10.3,-
+3,"294Roger BernardoIngolstadt, 36, D(C),DMC","Roger Bernardo Ingolstadt, 36, D(C),DMC",26(4),2287,2,2,1.2,0.3,1.9,0.8,0.5,-,6.57,1,-,0.5,-,1.6,-,0.3,0.4,24.7,67.4,-,1.9,-
+4,"295Anderson OrdóñezEintracht Frankfurt, 28, Defender","Anderson Ordóñez Eintracht Frankfurt, 28, Defender",3(1),186,1,2.5,0.3,1,1.8,0.3,0.5,-,6.57,-,-,-,-,0.3,-,0.3,-,39.0,87.8,-,1.5,-
+5,"296Gojko KacarAugsburg, 35, D(C),M(C)","Gojko Kacar Augsburg, 35, D(C),M(C)",11(11),1098,1.7,1.9,0.8,0.2,2.0,0.7,0.3,-,6.56,-,1,0.3,0.3,0.8,-,0.4,0.4,19.3,75.7,-,1.4,-
+6,"297Dominic MarohFC Koln, 35, D(C)","Dominic Maroh FC Koln, 35, D(C)",8(4),644,1.1,1.8,0.6,0.3,3.2,0.1,0.3,1,6.56,-,-,0.3,-,0.6,-,-,0.1,27.7,85.2,-,2.0,-
+7,"298Tobias StroblBorussia M.Gladbach, 32, D(CR),DMC","Tobias Strobl Borussia M.Gladbach, 32, D(CR),DMC",18(5),1567,1.5,2,1.4,0.1,1.1,0.8,0.4,-,6.55,-,2,0.4,0.4,0.6,-,0.4,0.3,42.0,86.1,-,4.2,-
+8,"299Max MeyerSchalke, 26, M(CLR),FW","Max Meyer Schalke, 26, M(CLR),FW",18(9),1669,0.8,0.4,0.5,-,0.1,0.4,-,-,6.54,1,1,1.1,1.1,1.1,0.1,1,0.9,27.4,85.0,0.4,0.8,-
+9,"300Albin EkdalHamburg, 32, M(C)","Albin Ekdal Hamburg, 32, M(C)",13(8),1246,1.1,1.9,1.3,-,1.9,0.6,0.3,-,6.54,1,1,0.3,0.1,1.3,-,0.2,0.5,23.3,70.3,-,1.1,-
+0,"281László BénesBorussia M.Gladbach, 24, AM(C)","László Bénes Borussia M.Gladbach, 24, AM(C)",3(5),286,0.6,1.1,0.6,-,0.6,0.1,-,-,6.6,1,-,0.4,0.8,0.9,-,-,0.4,29.5,85.2,0.3,2.3,-
+1,"282Aleksandar DragovicLeverkusen, 31, D(CR)","Aleksandar Dragovic Leverkusen, 31, D(CR)",15(4),1258,0.6,1.8,0.8,0.7,4.2,0.1,0.3,-,6.6,-,1,0.3,0.2,0.7,0.1,0.2,0.3,37.3,84.6,-,2.6,-
+2,"283Michael EsserDarmstadt, 34, GK","Michael Esser Darmstadt, 34, GK",28,2485,-,-,-,-,0.5,0.1,-,-,6.6,-,-,-,-,0.2,-,-,-,34.5,55.4,-,11.6,-
+3,"284Pablo De BlasisMainz, 34, D(R),M(CLR)","Pablo De Blasis Mainz, 34, D(R),M(CLR)",17(14),1658,0.8,0.6,0.9,-,0.3,0.9,-,-,6.59,5,4,1.1,1,0.8,0.2,1.2,1.2,19.5,66.7,0.2,1.0,-
+4,"285Julian KorbBorussia M.Gladbach, 30, D(R),M(R)","Julian Korb Borussia M.Gladbach, 30, D(R),M(R)",7(5),754,2.4,1.3,0.7,0.2,0.9,0.6,-,-,6.59,-,-,0.2,0.6,0.7,-,0.3,0.5,38.2,76.9,0.3,1.6,0.1
+5,"286Nuri SahinBorussia Dortmund, 33, M(C)","Nuri Sahin Borussia Dortmund, 33, M(C)",4(1),232,0.8,2,0.6,-,0.8,0.8,-,-,6.59,-,-,0.2,0.4,0.6,-,0.2,0.2,40.0,88.0,-,2.4,-
+6,"287Philipp BargfredeWerder Bremen, 33, D(C),M(C)","Philipp Bargfrede Werder Bremen, 33, D(C),M(C)",4(7),452,1.2,2.2,0.9,-,0.4,0.5,0.2,-,6.58,1,1,0.2,0.3,0.7,-,0.5,0.3,20.0,77.3,-,1.0,-
+7,"288Bernd LenoLeverkusen, 30, GK","Bernd Leno Leverkusen, 30, GK",34,3060,0.1,-,-,-,0.9,0.1,-,-,6.58,-,-,-,-,0.1,-,-,-,29.4,65.2,-,7.5,-
+8,"289Koen CasteelsWolfsburg, 29, GK","Koen Casteels Wolfsburg, 29, GK",20,1800,-,-,0.1,-,0.8,0.1,-,-,6.57,-,-,-,-,0.2,-,-,0.1,31.8,70.2,-,8.2,-
+9,"290Daniel DidaviWolfsburg, 32, AM(CR),FW","Daniel Didavi Wolfsburg, 32, AM(CR),FW",11(7),992,0.5,0.6,1.3,-,0.1,0.4,-,-,6.57,4,2,1.6,0.9,1.6,0.2,1.2,1.6,20.3,78.1,0.1,0.8,0.1
+0,"271Danny da CostaLeverkusen, 28, D(R),M(R)","Danny da Costa Leverkusen, 28, D(R),M(R)",1(2),110,0.7,0.7,-,-,0.7,0.7,-,-,6.62,-,1,-,0.3,0.3,-,0.7,1.0,25.3,73.7,0.3,0.7,0.3
+1,"272Nabil BahouiHamburg, 31, AM(L)","Nabil Bahoui Hamburg, 31, AM(L)",1,67,1.0,2.0,3,-,1.0,1.0,-,-,6.62,-,-,1,-,1.0,-,1.0,1.0,16.0,81.3,-,1.0,-
+2,"273Felix PasslackBorussia Dortmund, 24, D(LR),M(CR)","Felix Passlack Borussia Dortmund, 24, D(LR),M(CR)",6(4),534,1.5,0.5,0.5,-,1.1,0.7,-,-,6.62,-,-,0.3,0.4,0.7,-,0.4,0.4,37.6,89.6,0.4,1.1,-
+3,"274Jonas HofmannBorussia M.Gladbach, 29, M(CLR)","Jonas Hofmann Borussia M.Gladbach, 29, M(CLR)",16(5),1386,1.0,1.2,0.4,-,0.5,0.5,-,-,6.61,-,1,1.2,0.8,0.8,0.7,0.7,0.9,23.2,77.0,0.2,1.6,-
+4,"275Alfredo MoralesIngolstadt, 32, M(C)","Alfredo Morales Ingolstadt, 32, M(C)",20(7),1712,1.3,2.5,1.2,-,0.9,0.6,0.1,-,6.61,1,-,0.9,0.4,1.4,0.1,0.6,0.9,23.2,63.8,-,1.1,-
+5,"276Ante RebicEintracht Frankfurt, 28, AM(CLR),FW","Ante Rebic Eintracht Frankfurt, 28, AM(CLR),FW",16(8),1407,0.8,1.3,2.3,-,0.3,0.6,0.1,-,6.61,2,2,1.8,1.2,1.2,0.1,1.8,1.8,17.1,52.4,0.4,0.5,-
+6,"277Michael GregoritschHamburg, 28, AM(CR),FW","Michael Gregoritsch Hamburg, 28, AM(CR),FW",14(16),1305,0.5,0.5,0.9,-,0.7,0.6,0.1,-,6.61,5,1,1.7,0.3,0.7,0.1,0.7,1.0,16.3,61.5,0.1,0.3,0.1
+7,"278Amir AbrashiFreiburg, 32, DMC","Amir Abrashi Freiburg, 32, DMC",16(4),1322,2.1,1.7,1.8,0.1,1.2,0.5,0.4,-,6.61,1,-,0.5,0.4,1.4,-,1.2,0.8,32.0,76.7,-,1.4,-
+8,"279Emir SpahicHamburg, 41, D(C)","Emir Spahic Hamburg, 41, D(C)",9(2),777,1.5,2.4,1.8,1.3,4.3,0.8,0.9,-,6.6,-,-,0.3,0.1,0.5,-,0.2,0.2,39.4,75.1,-,4.3,-
+9,"280BojanMainz, 31, AM(CLR),FW","Bojan Mainz, 31, AM(CLR),FW",8(3),631,0.5,0.8,0.4,-,0.1,0.5,-,-,6.6,1,1,1.2,0.9,1.3,0.2,1.0,0.8,18.2,80.0,0.5,0.8,-
+0,"261Tom MickelHamburg, 33, GK","Tom Mickel Hamburg, 33, GK",1,90,-,-,-,-,3.0,-,-,-,6.65,-,-,-,-,-,-,-,-,23.0,47.8,-,11.0,-
+1,"262Yann SommerBorussia M.Gladbach, 33, GK","Yann Sommer Borussia M.Gladbach, 33, GK",34,3060,-,0.1,-,-,0.1,0.1,-,-,6.65,-,-,-,-,0.1,-,-,-,35.0,74.3,-,7.2,-
+2,"263Aaron HuntHamburg, 35, M(CLR),FW","Aaron Hunt Hamburg, 35, M(CLR),FW",14(8),1305,1.3,0.8,1.1,-,0.3,0.5,0.2,-,6.65,4,2,0.6,1.2,1.5,0.3,0.6,1.1,24.4,73.6,1.1,1.7,0.1
+3,"264Leon BalogunMainz, 33, D(CR)","Leon Balogun Mainz, 33, D(CR)",13(4),1024,1.5,2.5,0.8,0.4,2.9,0.3,0.6,-,6.65,-,-,0.2,0.1,0.8,-,0.1,0.4,24.8,75.3,-,1.9,-
+4,"265Niko BungertMainz, 35, D(C)","Niko Bungert Mainz, 35, D(C)",9(1),758,1.2,2.3,1.9,0.4,3.2,0.5,0.4,-,6.65,1,-,0.3,-,0.9,-,0.1,0.4,34.6,78.6,-,1.8,-
+5,"266Pascal StenzelFreiburg, 26, D(CR),M(R)","Pascal Stenzel Freiburg, 26, D(CR),M(R)",14(5),1303,2.3,1.1,1,0.4,1.5,0.9,-,-,6.65,1,1,0.7,0.5,0.4,-,0.4,0.8,31.7,76.7,0.1,3.6,-
+6,"267Guillermo VarelaEintracht Frankfurt, 29, D(LR)","Guillermo Varela Eintracht Frankfurt, 29, D(LR)",6(1),431,1.1,2.9,0.6,0.3,1.0,0.7,0.1,-,6.64,-,-,-,0.3,0.9,-,0.7,0.1,20.3,77.5,0.1,0.3,-
+7,"268Ousman MannehWerder Bremen, 25, FW","Ousman Manneh Werder Bremen, 25, FW",6,488,1.3,0.3,2.8,-,0.7,-,-,-,6.63,1,1,3.2,0.3,2.7,1,2.3,3.2,13.0,59.0,-,0.5,-
+8,"269Jonathan SchmidAugsburg, 31, D(R),M(CLR)","Jonathan Schmid Augsburg, 31, D(R),M(CLR)",20(5),1701,1.3,1,0.4,-,0.9,0.6,0.2,-,6.63,1,3,1,0.8,0.8,-,0.6,0.9,15.0,69.3,0.4,0.2,-
+9,"270Stefan KießlingLeverkusen, 38, FW","Stefan Kießling Leverkusen, 38, FW",6(14),749,0.8,0.1,0.8,0.1,0.8,-,-,-,6.62,4,1,1.2,0.4,1,0.1,1.4,0.9,12.2,65.0,-,0.2,-
+0,"251Joel PohjanpaloLeverkusen, 27, FW","Joel Pohjanpalo Leverkusen, 27, FW",1(10),185,-,0.1,0.4,-,0.2,-,-,-,6.66,6,-,1.6,0.4,-,-,0.1,0.5,4.5,63.3,-,-,-
+1,"252Valentin StockerHertha Berlin, 33, AM(CLR)","Valentin Stocker Hertha Berlin, 33, AM(CLR)",14(3),1164,1.5,1.1,1.9,-,0.2,1.4,0.1,-,6.66,4,1,1.4,0.9,1.2,0.2,0.9,1.2,20.6,64.1,0.2,0.6,0.1
+2,"253Fabian JohnsonBorussia M.Gladbach, 34, D(LR),M(CLR)","Fabian Johnson Borussia M.Gladbach, 34, D(LR),M(CLR)",12(9),1251,1,0.9,0.4,-,0.7,0.2,-,-,6.66,3,2,1.1,0.9,1,0.5,0.5,1.1,19.1,72.9,0.1,0.6,0.1
+3,"254Philipp MaxAugsburg, 28, D(L),M(L)","Philipp Max Augsburg, 28, D(L),M(L)",20(5),1818,1.6,1.7,0.9,-,1.7,0.6,0.1,1,6.66,1,2,0.7,1.1,0.5,0.2,0.6,0.8,24.9,72.5,0.4,1.7,-
+4,"255Rune JarsteinHertha Berlin, 37, GK","Rune Jarstein Hertha Berlin, 37, GK",34,3060,-,0.1,-,-,0.7,-,-,-,6.65,-,-,-,-,0.1,-,-,-,38.8,58.6,-,9.5,-
+5,"256Manuel NeuerBayern, 36, GK","Manuel Neuer Bayern, 36, GK",26,2340,-,-,-,-,0.2,-,-,-,6.65,-,-,-,-,0.1,-,-,-,26.5,80.9,-,5,-
+6,"257Christian MatheniaHamburg, 30, GK","Christian Mathenia Hamburg, 30, GK",14,1260,-,0.1,-,-,0.9,-,-,-,6.65,-,-,-,0.1,0.4,-,-,0.1,28.4,45.7,-,9.3,-
+7,"258Aymen BarkokEintracht Frankfurt, 24, AM(CR)","Aymen Barkok Eintracht Frankfurt, 24, AM(CR)",6(12),653,1.4,1.1,1.5,-,0.2,0.4,-,-,6.65,2,2,0.4,0.5,0.2,-,0.5,0.8,13.1,70.2,-,0.7,-
+8,"259Fabian HollandDarmstadt, 31, D(L),DMC","Fabian Holland Darmstadt, 31, D(L),DMC",25(1),2259,3,2.4,1.3,-,2.2,0.7,0.3,1,6.65,-,-,0.1,0.4,1.3,-,0.1,0.5,28.5,66.5,0.2,2.5,-
+9,"260CaiubyAugsburg, 33, AM(CL),FW","Caiuby Augsburg, 33, AM(CL),FW",2(3),245,1.4,0.4,2.4,-,0.6,-,-,-,6.65,-,-,1.4,0.4,0.8,-,0.6,0.4,18.2,60.4,0.4,0.2,-
+0,"241Daniel Heuer FernandesDarmstadt, 29, GK","Daniel Heuer Fernandes Darmstadt, 29, GK",6(1),575,-,0.1,-,0.1,0.1,0.1,-,-,6.68,-,-,-,-,-,-,-,-,39.9,66.7,-,9.4,-
+1,"242Gideon JungHamburg, 27, D(C),DMC","Gideon Jung Hamburg, 27, D(C),DMC",26(3),2372,1.9,1.9,1.8,0.4,2.6,0.7,0.3,-,6.68,-,-,0.4,0.1,1.3,0.1,0.2,0.8,26.2,69.4,-,2.5,-
+2,"243Roman BürkiBorussia Dortmund, 31, GK","Roman Bürki Borussia Dortmund, 31, GK",27,2430,-,-,-,-,0.6,-,-,-,6.67,-,-,-,-,0.2,-,-,-,33.5,74.4,-,4.6,-
+3,"244Gotoku SakaiHamburg, 31, D(LR),DMC,M(R)","Gotoku Sakai Hamburg, 31, D(LR),DMC,M(R)",29(4),2692,2,2.1,0.8,0.2,1.8,1,0.2,-,6.67,1,2,0.6,0.7,1.2,0.1,0.6,1.1,35.6,69.8,0.2,2.4,0.1
+4,"245Lukas KlostermannRBL, 26, D(CLR),M(R)","Lukas Klostermann RBL, 26, D(CLR),M(R)",1,90,1,2,2,-,2.0,4,-,-,6.67,-,-,1,-,-,-,-,-,24.0,62.5,1,2.0,-
+5,"246Manuel GuldeFreiburg, 31, D(C)","Manuel Gulde Freiburg, 31, D(C)",19(1),1687,2.2,1.8,0.7,0.7,3.8,0.1,0.5,-,6.67,-,-,0.1,0.1,0.4,-,0.3,0.3,43.6,84.8,-,2.1,-
+6,"247Maximilian EggesteinWerder Bremen, 25, M(CR)","Maximilian Eggestein Werder Bremen, 25, M(CR)",8(7),889,1.4,2.1,0.5,-,1.4,0.5,0.5,-,6.67,1,-,0.1,0.6,0.8,0.1,0.5,0.5,30.3,75.8,-,1.9,0.1
+7,"248Felix WiedwaldWerder Bremen, 32, GK","Felix Wiedwald Werder Bremen, 32, GK",24(1),2208,-,-,-,-,0.6,0.1,-,-,6.67,-,-,-,-,0.2,-,-,-,28.0,52.1,-,8.0,-
+8,"249Fabian FreiMainz, 33, M(C)","Fabian Frei Mainz, 33, M(C)",19(5),1668,1.5,2.7,0.8,-,1.0,0.9,0.4,-,6.66,-,1,0.7,0.5,0.4,0.1,0.4,0.3,32.1,76.5,-,1.7,-
+9,"250Charles AránguizLeverkusen, 33, M(C)","Charles Aránguiz Leverkusen, 33, M(C)",22(4),1822,1.5,2.7,1.4,-,1.1,1.3,0.1,-,6.66,2,2,0.7,0.7,1.5,-,0.5,1.1,41.9,79.6,0.2,2.8,0.1
+0,"231Koo Ja-CheolAugsburg, 33, M(CLR)","Koo Ja-Cheol Augsburg, 33, M(CLR)",22(1),1817,1.5,1.3,2.0,-,0.7,0.8,0.1,-,6.7,2,3,1.3,0.8,2.1,0.2,1.8,2.1,26.2,78.1,0.1,0.5,-
+1,"232Genki HaraguchiHertha Berlin, 31, M(CLR)","Genki Haraguchi Hertha Berlin, 31, M(CLR)",23(8),2053,1.5,0.7,1.1,-,0.4,1.2,-,-,6.7,1,2,0.9,0.6,1.2,0.1,0.7,0.9,20.0,74.5,0.1,0.7,-
+2,"233Mario GötzeBorussia Dortmund, 30, M(CLR),FW","Mario Götze Borussia Dortmund, 30, M(CLR),FW",9(2),763,0.7,0.9,1.5,-,0.6,1.4,0.2,-,6.7,1,1,0.5,1.3,1.5,0.2,0.7,0.8,35.4,82.5,0.5,0.6,-
+3,"234Raúl BobadillaAugsburg, 34, AM(R),FW","Raúl Bobadilla Augsburg, 34, AM(R),FW",13(5),1047,0.4,0.5,0.8,-,0.2,0.1,-,-,6.7,4,1,1.9,0.8,1.5,1.1,2.6,2.2,16.7,72.1,0.4,0.3,-
+4,"235Alfred FinnbogasonAugsburg, 33, FW","Alfred Finnbogason Augsburg, 33, FW",13,1132,0.8,1.0,2.1,-,0.3,0.4,0.1,-,6.7,3,1,1.7,1.0,1.1,1,1.5,2.0,21.1,68.2,0.2,0.2,-
+5,"236Nils PetersenFreiburg, 33, FW","Nils Petersen Freiburg, 33, FW",7(26),1233,0.6,0.3,0.4,-,0.7,0.3,-,-,6.69,10,4,1.6,0.5,0.3,0.3,0.7,0.6,11.1,57.1,-,0.2,-
+6,"237Matthias LehmannFC Koln, 39, M(C)","Matthias Lehmann FC Koln, 39, M(C)",21,1823,1.4,1.9,1.2,-,1.2,0.7,0.4,-,6.69,-,2,0.5,0.5,0.6,-,0.2,0.5,39.4,83.5,-,2.3,0.1
+7,"238Markus SteinhöferDarmstadt, 36, D(R)","Markus Steinhöfer Darmstadt, 36, D(R)",3(4),319,2.3,1.4,0.7,0.1,0.9,1.0,0.4,-,6.69,-,1,0.4,0.9,0.1,-,0.1,0.3,17.9,73.6,0.4,1.3,-
+8,"239Marcel TisserandIngolstadt, 29, D(CLR),M(R)","Marcel Tisserand Ingolstadt, 29, D(CLR),M(R)",27(1),2389,1.0,2.3,1.8,0.5,4.5,0.3,0.4,-,6.69,-,1,0.6,0.2,0.4,0.1,0.1,0.5,35.6,70.7,-,4.9,-
+9,"240Peter PekaríkHertha Berlin, 35, D(LR),M(R)","Peter Pekarík Hertha Berlin, 35, D(LR),M(R)",30(1),2712,1.8,2.0,0.7,0.3,1.0,0.7,0.3,-,6.69,1,1,0.4,0.6,0.8,0.1,0.2,0.3,40.7,75.5,0.5,1.3,-
+0,"221Konstantin RauschFC Koln, 32, D(L),M(L)","Konstantin Rausch FC Koln, 32, D(L),M(L)",23(5),1937,1.3,1.8,0.4,0.3,0.9,1.1,0.1,-,6.72,-,2,0.9,1.0,1.1,0.2,0.4,0.8,25.6,75.4,0.8,1.0,-
+1,"222Yannick GerhardtWolfsburg, 28, D(L),M(CL)","Yannick Gerhardt Wolfsburg, 28, D(L),M(CL)",25(2),2214,2.0,1.2,1.2,0.1,1.7,0.6,0.2,-,6.72,-,2,0.6,0.8,1.0,0.1,0.5,1.1,39.0,77.1,0.3,2.3,-
+2,"223Clemens FritzWerder Bremen, 41, D(R),DMC","Clemens Fritz Werder Bremen, 41, D(R),DMC",17(1),1300,2.2,1.3,1.6,0.2,1.7,1.0,0.3,-,6.72,-,3,0.3,0.5,2.5,-,0.8,1.2,30.3,71.2,0.1,2.3,-
+3,"224Yunus MalliWolfsburg, 30, M(CLR),FW","Yunus Malli Wolfsburg, 30, M(CLR),FW",13(3),1178,1.1,0.6,0.6,-,0.3,0.3,-,-,6.72,1,1,1.8,1.1,1.5,0.1,1.1,1.1,28.5,71.1,0.7,0.3,-
+4,"225Julian BaumgartlingerLeverkusen, 34, DMC","Julian Baumgartlinger Leverkusen, 34, DMC",19(3),1566,2.5,2.0,0.8,-,0.4,1.2,0.1,1,6.71,-,1,0.6,0.6,0.9,-,0.5,0.5,42.7,86.3,-,2.0,0.1
+5,"226Jakub BlaszczykowskiWolfsburg, 36, D(R),M(CR)","Jakub Blaszczykowski Wolfsburg, 36, D(R),M(CR)",20(8),1693,2.0,2.0,0.9,0.1,1.1,0.8,-,-,6.71,-,1,0.4,0.7,1.2,0.1,0.5,0.8,27.0,76.3,0.3,1.4,-
+6,"227Janik HabererFreiburg, 28, M(CLR),FW","Janik Haberer Freiburg, 28, M(CLR),FW",22(10),1956,1.1,0.7,1.1,-,1,0.9,0.1,-,6.71,3,4,0.9,1.1,1.8,0.1,0.8,1.4,25.1,69.7,0.1,1.2,-
+7,"228Kevin VollandLeverkusen, 29, AM(CLR),FW","Kevin Volland Leverkusen, 29, AM(CLR),FW",16(7),1472,0.9,0.2,1.6,-,0.5,0.2,-,-,6.71,6,2,1.5,1.1,0.8,0.3,1.5,1.7,19.0,68.5,0.2,0.4,-
+8,"229Emre MorBorussia Dortmund, 24, AM(CLR),FW","Emre Mor Borussia Dortmund, 24, AM(CLR),FW",5(7),476,0.8,0.4,0.8,-,-,0.8,-,-,6.71,1,2,0.8,0.8,1.5,-,0.9,1.8,11.3,75.0,0.4,0.3,-
+9,"230Vladimír DaridaHertha Berlin, 31, M(CLR),FW","Vladimír Darida Hertha Berlin, 31, M(CLR),FW",21(4),1983,1.2,1.3,1.3,-,0.5,0.8,0.2,-,6.71,2,2,1.2,1.2,1.3,0.1,1.0,1.0,53.6,80.9,0.6,4.0,-
+0,"211Jérôme BoatengBayern, 33, D(CR)","Jérôme Boateng Bayern, 33, D(CR)",10(3),828,1.0,1.0,0.7,0.6,1.8,0.3,0.4,-,6.73,-,1,0.3,0.5,0.1,-,0.1,0.1,51.5,87.6,-,6.0,-
+1,"212Bobby WoodHamburg, 29, AM(C),FW","Bobby Wood Hamburg, 29, AM(C),FW",23(5),2085,0.5,0.4,1.4,-,0.3,0.1,-,-,6.72,5,2,1.4,0.9,1.1,0.6,2.1,2.7,17.9,61.6,0.1,0.1,0.1
+2,"213Abdul Rahman BabaSchalke, 27, D(L),M(L)","Abdul Rahman Baba Schalke, 27, D(L),M(L)",7(6),707,2.4,2.0,1.3,0.1,1.6,0.5,0.2,-,6.72,-,2,0.5,0.6,0.5,0.2,0.8,0.5,24.8,72.8,0.5,1.2,-
+3,"214Tin JedvajLeverkusen, 26, D(CLR)","Tin Jedvaj Leverkusen, 26, D(CLR)",16(2),1423,1.9,2.2,1.1,0.4,4.4,1.2,0.4,-,6.72,1,-,0.6,0.1,0.9,0.2,0.3,0.6,37.0,73.3,-,3.0,-
+4,"215Ricardo RodríguezWolfsburg, 29, D(CL),M(L)","Ricardo Rodríguez Wolfsburg, 29, D(CL),M(L)",23(1),2019,1.2,1.5,1.0,0.5,2.4,0.2,0.3,-,6.72,2,3,0.9,1.1,0.5,-,0.2,0.4,51.5,82.2,1.1,5.4,-
+5,"216VieirinhaWolfsburg, 36, D(R),M(LR)","Vieirinha Wolfsburg, 36, D(R),M(LR)",13(8),1219,1.2,2.4,0.8,-,0.5,0.3,0.2,-,6.72,-,-,1.0,1.0,1.3,0.1,0.5,0.7,24.9,74.8,0.4,2.0,-
+6,"217Ömer ToprakLeverkusen, 32, D(C)","Ömer Toprak Leverkusen, 32, D(C)",25,2104,1.4,2.0,1.2,0.9,3.9,0.5,0.7,-,6.72,1,-,0.4,0.1,0.4,-,0.2,0.3,50.1,84.4,-,3.2,-
+7,"218Aytac SuluDarmstadt, 36, D(C)","Aytac Sulu Darmstadt, 36, D(C)",27,2430,0.9,2.7,1.0,0.4,5.1,0.3,0.9,1,6.72,2,-,0.9,0.1,1.5,-,0.1,0.3,27.3,76.8,-,3.3,-
+8,"219Mike FrantzFreiburg, 35, M(CLR),FW","Mike Frantz Freiburg, 35, M(CLR),FW",29(1),2502,1.6,1.5,1.1,-,1.3,0.4,0.2,-,6.72,-,1,0.8,0.9,1.9,0.1,0.5,0.7,32.1,74.4,0.3,1.4,-
+9,"220Matthias OstrzolekHamburg, 32, D(L),DMC,M(L)","Matthias Ostrzolek Hamburg, 32, D(L),DMC,M(L)",23(1),1995,2.6,1.9,1.1,0.2,1.0,0.5,0.1,-,6.72,1,1,0.5,0.7,1.7,-,0.3,0.9,35.3,62.9,0.5,2.2,-
+0,"201Levin ÖztunaliMainz, 26, M(CLR)","Levin Öztunali Mainz, 26, M(CLR)",23(7),1974,1.3,1.4,1,-,0.1,0.4,-,-,6.76,5,6,1,1.1,0.8,0.2,1.6,1.8,16.5,60.4,1,0.6,-
+1,"202Jeffrey BrumaWolfsburg, 30, D(C)","Jeffrey Bruma Wolfsburg, 30, D(C)",20,1718,1.1,1.8,1.8,0.5,5.8,0.2,0.9,1,6.76,1,-,0.6,0.3,0.4,0.1,0.2,0.2,48.2,82.6,-,4.4,-
+2,"203Alexander MeierEintracht Frankfurt, 39, M(C),FW","Alexander Meier Eintracht Frankfurt, 39, M(C),FW",15(6),1396,0.1,0.3,0.5,-,0.7,0.2,-,-,6.76,5,2,2,0.5,0.4,0.7,0.3,0.8,15.4,65.1,-,0.2,0.1
+3,"204Lukas RuppHoffenheim, 31, M(CR)","Lukas Rupp Hoffenheim, 31, M(CR)",8(6),790,1.4,1.1,1.4,-,0.3,0.4,0.3,-,6.76,2,1,1.1,0.8,1.4,-,1.3,1.5,23.4,77.4,0.1,0.6,0.1
+4,"205Nadiem AmiriHoffenheim, 25, M(CLR)","Nadiem Amiri Hoffenheim, 25, M(CLR)",20(13),1940,0.8,1.1,1.3,-,0.2,0.6,-,-,6.75,2,4,1.5,1,1.4,0.2,0.9,1.1,25.6,83.6,0.2,1.0,0.1
+5,"206Vladlen YurchenkoLeverkusen, 28, M(C)","Vladlen Yurchenko Leverkusen, 28, M(C)",1(2),146,0.3,3.3,1.3,-,0.3,0.7,0.7,-,6.74,-,-,1.3,0.3,-,-,-,0.3,37.7,81.4,-,7.0,0.3
+6,"207Thomas KesslerFC Koln, 36, GK","Thomas Kessler FC Koln, 36, GK",13,1170,-,-,-,-,1.2,-,-,-,6.74,-,-,-,0.1,0.2,-,-,-,25.8,53.6,-,7.7,-
+7,"208Ádám SzalaiHoffenheim, 34, FW","Ádám Szalai Hoffenheim, 34, FW",7(15),772,0.4,-,0.9,-,0.5,0.2,-,-,6.74,8,1,0.8,0.7,0.3,0.4,1,0.9,11.8,68.7,-,0.3,-
+8,"209Kyriakos PapadopoulosRBL, 30, D(C)","Kyriakos Papadopoulos RBL, 30, D(C)",0(1),27,1,-,-,1,4.0,-,-,-,6.73,-,-,-,-,2,-,-,-,15.0,33.3,-,3.0,-
+9,"210Szabolcs HusztiEintracht Frankfurt, 39, M(CLR)","Szabolcs Huszti Eintracht Frankfurt, 39, M(CLR)",14(1),1047,1.8,1.9,2.1,-,0.5,0.7,-,-,6.73,2,2,0.7,1.1,1.3,0.1,1.1,0.8,39.7,78.0,0.9,2.4,-
+0,"191Neven SuboticFC Koln, 33, D(C)","Neven Subotic FC Koln, 33, D(C)",9(3),887,1.6,2.3,0.3,0.6,6.2,0.3,0.5,-,6.79,-,-,0.2,-,0.5,0.1,0.2,0.2,31.6,72.8,-,3.1,-
+1,"192Raphael FrambergerAugsburg, 26, D(R),M(R)","Raphael Framberger Augsburg, 26, D(R),M(R)",2(1),143,2.0,2.0,0.7,-,1.7,0.3,-,-,6.79,-,1,-,0.7,0.7,-,-,-,16.3,73.5,0.3,1.3,-
+2,"193Daniel BrosinskiMainz, 33, D(LR),M(LR)","Daniel Brosinski Mainz, 33, D(LR),M(LR)",27(2),2453,1.4,2.6,0.7,0.1,1.2,0.7,0.1,-,6.79,1,2,1.2,1.1,1.1,-,0.3,0.7,36.7,71.4,0.6,3.1,-
+3,"194Ji Dong-WonAugsburg, 31, AM(CLR),FW","Ji Dong-Won Augsburg, 31, AM(CLR),FW",24(10),2295,0.7,0.6,1.6,-,1.5,0.5,0.2,-,6.79,3,2,1.3,0.8,1.2,0.2,0.8,1.3,23.9,68.1,0.2,0.4,-
+4,"195Matija NastasicSchalke, 29, D(C)","Matija Nastasic Schalke, 29, D(C)",21(1),1921,1.5,2.1,1.7,0.5,3.7,0.3,0.9,-,6.78,-,-,0.1,0.1,0.4,-,0.1,0.3,52.2,84.8,-,5.2,-
+5,"196Benno SchmitzRBL, 27, D(CLR)","Benno Schmitz RBL, 27, D(CLR)",11(5),990,2.6,2.0,0.9,0.3,1.2,0.8,0.3,-,6.77,-,2,0.6,0.5,0.6,0.1,0.3,0.4,29.4,67.7,0.3,1.4,-
+6,"197André RamalhoMainz, 30, D(C),DMC","André Ramalho Mainz, 30, D(C),DMC",12(6),1134,2.2,2.1,1.2,0.1,2.2,0.9,0.4,-,6.77,-,-,0.7,0.2,0.8,-,0.2,0.5,34.4,76.8,-,2.6,-
+7,"198Tony JantschkeBorussia M.Gladbach, 32, D(CR),DMC","Tony Jantschke Borussia M.Gladbach, 32, D(CR),DMC",17(5),1488,1.6,1.8,0.9,0.3,3.3,0.7,0.3,-,6.77,-,-,0.1,0.1,1.5,-,0.2,0.2,42.2,75.2,0.2,1.9,-
+8,"199Christian ClemensFC Koln, 30, M(LR)","Christian Clemens FC Koln, 30, M(LR)",10(2),793,2.9,1.3,1.3,-,0.1,1.2,-,-,6.77,1,1,0.9,0.4,0.8,-,0.8,1.4,18.2,70.6,0.4,1.2,-
+9,"200Maximilian ArnoldWolfsburg, 28, M(CR)","Maximilian Arnold Wolfsburg, 28, M(CR)",28(4),2425,1.3,1.5,1.7,-,0.5,0.9,0.2,-,6.76,2,3,1.5,1,2.8,-,0.9,0.8,37.3,83.1,0.5,3.3,-
+0,"181Florian NiederlechnerFreiburg, 31, AM(CR),FW","Florian Niederlechner Freiburg, 31, AM(CR),FW",29(5),2424,0.8,0.5,1.5,-,0.2,0.4,0.1,-,6.81,11,2,2.3,0.5,1.5,0.6,1.5,1.6,16.1,68.2,-,0.4,0.1
+1,"182CokeSchalke, 35, D(CLR),M(R)","Coke Schalke, 35, D(CLR),M(R)",7(1),629,1.8,1.8,1.3,0.4,1.4,1,0.4,-,6.81,1,-,1,1.3,2.3,-,0.6,1.4,33.8,75.6,0.6,1.9,-
+2,"183Ralf FährmannSchalke, 33, GK","Ralf Fährmann Schalke, 33, GK",34,3060,-,0.1,-,-,1.6,0.1,-,-,6.8,-,-,-,-,0.3,-,-,-,31.9,63.0,-,7.9,-
+3,"184Matthias GinterBorussia Dortmund, 28, D(CR),DMC","Matthias Ginter Borussia Dortmund, 28, D(CR),DMC",26(3),2475,1.3,1.5,0.7,1.1,2.4,0.3,0.3,-,6.8,-,1,0.7,0.3,0.9,0.1,0.2,0.3,74.1,87.2,0.1,2.1,-
+4,"185Erik DurmBorussia Dortmund, 30, D(LR),M(LR)","Erik Durm Borussia Dortmund, 30, D(LR),M(LR)",10(3),976,1.8,1.4,0.7,0.3,0.6,0.8,0.1,-,6.8,-,2,0.7,1.2,1.1,0.2,0.8,1.2,35.0,73.0,0.4,1.6,-
+5,"186Marc Oliver KempfFreiburg, 27, D(C)","Marc Oliver Kempf Freiburg, 27, D(C)",12(1),1146,1,2.7,1.2,0.9,3.5,0.2,0.6,-,6.8,-,-,0.2,0.3,1.2,0.1,0.3,0.5,49.0,78.3,0.1,4.6,-
+6,"187Timo HornFC Koln, 29, GK","Timo Horn FC Koln, 29, GK",20,1800,0.1,-,0.1,-,1.1,-,-,-,6.8,-,-,-,0.1,0.2,-,-,-,29.4,57.1,-,9.0,-
+7,"188Kevin VogtHoffenheim, 30, D(CR),M(C)","Kevin Vogt Hoffenheim, 30, D(CR),M(C)",30(1),2597,1,1.4,0.7,0.7,3.3,0.3,0.6,-,6.8,-,-,0.1,0.3,0.8,-,0.2,0.1,70.6,91.8,-,6.5,-
+8,"189Holger BadstuberSchalke, 33, D(CL)","Holger Badstuber Schalke, 33, D(CL)",10,864,1.2,2.6,1,0.8,2.8,0.2,0.3,-,6.79,-,-,0.1,0.4,0.4,-,0.3,0.3,57.8,91.2,0.2,6.1,-
+9,"190Florian GrillitschWerder Bremen, 26, D(C),M(CL)","Florian Grillitsch Werder Bremen, 26, D(C),M(CL)",21(2),1721,2,2.2,1.3,0.1,1.3,1.4,0.3,-,6.79,2,-,0.8,0.2,1.3,-,0.7,0.9,38.7,79.7,0.1,3.3,-
+0,"171Jhon CórdobaMainz, 29, FW","Jhon Córdoba Mainz, 29, FW",27(2),2356,0.7,0.5,2.3,-,0.9,0.1,0.1,-,6.83,5,3,2,0.6,3.2,1.6,3.3,3,16.8,68.4,0.1,0.3,-
+1,"172Romain BrégerieIngolstadt, 35, D(C),DMC","Romain Brégerie Ingolstadt, 35, D(C),DMC",17,1527,1.1,1.8,1.2,0.8,4.8,0.2,0.7,-,6.83,3,-,0.8,0.4,0.5,-,0.1,0.3,37.5,71.3,-,5.1,-
+2,"173Ermin BicakcicHoffenheim, 32, D(C)","Ermin Bicakcic Hoffenheim, 32, D(C)",11(7),1052,0.8,1.7,0.7,0.3,3.1,0.4,0.4,-,6.83,1,-,0.5,0.3,0.8,-,0.2,0.3,40.2,89.4,0.1,1.7,-
+3,"174Kingsley ComanBayern, 25, M(LR),FW","Kingsley Coman Bayern, 25, M(LR),FW",10(9),917,0.6,0.4,0.6,-,0.1,0.2,-,-,6.83,2,1,1.2,1.1,0.9,0.2,0.9,0.9,21.4,84.3,0.5,0.5,-
+4,"175Darío LezcanoIngolstadt, 31, FW","Darío Lezcano Ingolstadt, 31, FW",27(6),2519,0.8,0.6,2.1,-,0.1,0.5,-,-,6.82,6,3,1.8,0.9,4.1,0.9,2.4,3.5,19.4,73.0,-,0.1,-
+5,"176Paul VerhaeghAugsburg, 38, D(R),M(R)","Paul Verhaegh Augsburg, 38, D(R),M(R)",31,2765,1.8,2.5,0.7,0.1,2.7,0.2,0.4,-,6.82,3,2,0.3,0.4,0.8,-,0.3,0.6,38.1,77.5,0.3,3.9,-
+6,"177Shinji KagawaBorussia Dortmund, 33, M(CL)","Shinji Kagawa Borussia Dortmund, 33, M(CL)",13(8),1259,0.5,0.5,0.8,-,0.7,0.4,-,-,6.82,1,6,1,1.7,1.2,0.1,0.9,1.5,32.4,85.3,0.2,1.2,0.1
+7,"178Mijat GacinovicEintracht Frankfurt, 27, M(CLR)","Mijat Gacinovic Eintracht Frankfurt, 27, M(CLR)",26(2),2234,1.7,2.7,1.6,-,0.7,1.3,0.1,-,6.82,2,-,1,0.5,2.5,0.2,0.8,1.2,27.0,71.0,0.2,0.9,-
+8,"179Heinz LindnerEintracht Frankfurt, 31, GK","Heinz Lindner Eintracht Frankfurt, 31, GK",1(1),174,-,-,-,-,-,-,-,-,6.82,-,-,-,-,0.5,-,-,-,40.0,35.0,-,8.0,-
+9,"180Douglas SantosHamburg, 28, D(CL),DMC,M(L)","Douglas Santos Hamburg, 28, D(CL),DMC,M(L)",19(1),1712,4,3.1,1.2,0.1,2.9,1.4,0.3,-,6.81,-,-,0.4,0.6,0.5,0.1,0.4,1.1,35.5,68.0,0.3,2.1,-
+0,"161Dayot UpamecanoRBL, 23, D(C)","Dayot Upamecano RBL, 23, D(C)",8(4),666,1.7,2.4,1.2,0.6,3.6,0.4,0.3,-,6.85,-,-,0.1,0.1,0.3,-,0.3,0.4,35.1,78.6,-,3.4,-
+1,"162Filip KosticHamburg, 29, M(LR),FW","Filip Kostic Hamburg, 29, M(LR),FW",29(2),2532,1.4,1.5,1.2,-,0.3,1.0,0.1,-,6.85,4,3,1.7,1.3,1.2,0.4,1.2,1.7,20.9,64.3,1,0.6,0.1
+2,"163Lukas KüblerFreiburg, 29, D(R),M(R)","Lukas Kübler Freiburg, 29, D(R),M(R)",14(2),1160,2.5,2.7,0.9,0.3,2.5,0.4,0.3,-,6.85,-,1,0.3,0.4,0.9,0.1,0.3,1.3,29.6,72.9,0.1,1.8,-
+3,"164Lamine SanéWerder Bremen, 35, D(C),M(C)","Lamine Sané Werder Bremen, 35, D(C),M(C)",27,2364,1.4,2.7,1.0,0.7,6.5,0.4,0.6,-,6.84,1,1,0.2,0.1,0.7,0.1,-,0.2,37.7,84.7,-,3.4,-
+4,"165Milos JojicFC Koln, 30, M(CLR)","Milos Jojic FC Koln, 30, M(CLR)",13(6),1088,1.2,1.8,1.9,-,0.5,0.9,0.1,-,6.84,4,4,0.9,1.1,0.6,-,0.9,1.5,18.8,73.5,0.9,0.6,0.1
+5,"166Lewis HoltbyHamburg, 31, M(CLR)","Lewis Holtby Hamburg, 31, M(CLR)",29,2421,3.0,2.3,2.0,-,1.0,1.0,0.1,1,6.84,1,6,1.0,1.1,1.6,0.5,1.5,1.9,36.4,73.0,0.3,1.9,-
+6,"167Nicolas HöflerFreiburg, 32, D(C),DMC","Nicolas Höfler Freiburg, 32, D(C),DMC",26(2),2369,1.8,2.4,1.5,0.3,2.5,1.0,0.6,-,6.84,1,1,0.3,0.3,1.1,-,0.8,0.8,48.9,83.5,-,1.8,-
+7,"168Gaëtan BussmannMainz, 31, D(CL)","Gaëtan Bussmann Mainz, 31, D(CL)",12(2),1048,1.9,3.1,0.8,-,2.0,0.6,0.1,-,6.84,-,1,0.7,0.6,0.5,-,0.3,0.7,24.1,55.8,0.3,1.2,-
+8,"169Per Ciljan SkjelbredHertha Berlin, 34, M(CR)","Per Ciljan Skjelbred Hertha Berlin, 34, M(CR)",25(1),2144,2.8,2.0,1.5,0.1,0.7,1.2,0.2,-,6.83,-,-,0.2,0.2,1.0,-,0.3,0.6,47.4,84.8,-,2.1,-
+9,"170Daniel CaligiuriWolfsburg, 34, D(R),M(CLR),FW","Daniel Caligiuri Wolfsburg, 34, D(R),M(CLR),FW",13(3),1112,1.9,1.9,1.4,-,0.6,0.7,0.1,-,6.83,2,1,1.3,0.6,1.4,0.1,1.7,1.4,27.7,74.3,0.3,1.3,-
+0,"151Bas DostWolfsburg, 33, FW","Bas Dost Wolfsburg, 33, FW",1,81,-,-,-,-,1.0,-,-,-,6.88,-,1,-,1,-,-,-,1,29.0,48.3,-,-,-
+1,"152Felix PlatteDarmstadt, 26, FW","Felix Platte Darmstadt, 26, FW",6(3),469,0.7,0.3,1.3,-,0.4,0.3,-,-,6.88,2,1,1.3,0.3,0.8,0.7,0.6,1.2,12.2,60.0,-,0.2,-
+2,"153Fabian LustenbergerHertha Berlin, 34, D(C),M(C)","Fabian Lustenberger Hertha Berlin, 34, D(C),M(C)",17(2),1500,2.2,2.6,1.4,0.3,1.2,0.6,0.6,-,6.88,-,1,0.1,0.4,1.3,-,0.3,0.4,48.1,81.9,0.1,3.6,-
+3,"154Oliver BaumannHoffenheim, 32, GK","Oliver Baumann Hoffenheim, 32, GK",34,3060,-,-,-,-,0.8,-,-,-,6.87,-,-,-,-,0.2,-,-,-,37.9,74.6,-,7.5,-
+4,"155Çaglar SöyüncüFreiburg, 26, D(C)","Çaglar Söyüncü Freiburg, 26, D(C)",24,2072,2,1.9,1.5,0.8,5.8,0.4,0.8,-,6.86,-,1,0.4,0.2,0.7,0.1,0.2,0.5,46.6,76.6,-,4,-
+5,"156Guido BurgstallerSchalke, 33, AM(LR),FW","Guido Burgstaller Schalke, 33, AM(LR),FW",17(1),1474,0.2,0.2,1.8,-,0.4,0.2,-,-,6.86,9,2,2.5,1,1.3,1.3,1.4,2.6,17.3,70.8,0.3,0.2,-
+6,"157Sebastian JungWolfsburg, 31, D(R)","Sebastian Jung Wolfsburg, 31, D(R)",4,296,1.8,1.8,0.3,-,1.0,1.3,0.3,-,6.86,-,1,-,1,1,-,-,0.3,29.5,78.0,1,2,-
+7,"158Salomon KalouHertha Berlin, 36, AM(CLR),FW","Salomon Kalou Hertha Berlin, 36, AM(CLR),FW",25(1),1998,0.5,1,0.8,-,0.4,0.5,-,-,6.85,7,4,1.5,0.9,1,0.4,1.3,1.4,22.7,73.6,-,0.3,-
+8,"159Oscar WendtBorussia M.Gladbach, 36, D(L),M(L)","Oscar Wendt Borussia M.Gladbach, 36, D(L),M(L)",28,2462,1.7,2.3,1.1,0.1,1.5,0.8,0.3,-,6.85,2,2,0.9,0.9,0.5,0.1,0.5,0.5,38.1,80.0,0.9,1.6,-
+9,"160Niklas MoisanderWerder Bremen, 36, D(C)","Niklas Moisander Werder Bremen, 36, D(C)",29(1),2655,1.5,2.3,1.2,0.6,5.3,0.3,0.5,-,6.85,-,1,0.3,0.3,0.7,-,-,0.4,41.0,82.0,-,3.5,-
+0,"141Florian JungwirthDarmstadt, 33, D(CR),DMC","Florian Jungwirth Darmstadt, 33, D(CR),DMC",12(4),1143,3.4,3.4,1.3,0.1,1.9,1.2,0.6,-,6.91,-,-,0.6,0.3,0.9,0.1,0.1,0.4,21.6,65.5,0.1,1.1,-
+1,"142Fabio ColtortiRBL, 41, GK","Fabio Coltorti RBL, 41, GK",1,90,-,-,-,-,1.0,-,-,-,6.9,-,-,-,-,-,-,-,-,34.0,73.5,-,5.0,-
+2,"143Almog CohenIngolstadt, 33, M(C)","Almog Cohen Ingolstadt, 33, M(C)",29(2),2500,2.4,2.2,1.7,-,1.2,1.1,0.1,-,6.9,7,1,1.9,0.2,1.4,-,0.5,0.8,28.0,73.4,-,1.7,-
+3,"144Luiz GustavoWolfsburg, 34, D(C),M(C)","Luiz Gustavo Wolfsburg, 34, D(C),M(C)",26(1),2344,2.5,3.3,1.9,0.4,2.2,0.6,0.7,-,6.89,-,-,0.7,0.1,1.5,-,0.7,0.6,47.2,84.1,-,4.8,-
+4,"145André SchürrleBorussia Dortmund, 31, M(CLR),FW","André Schürrle Borussia Dortmund, 31, M(CLR),FW",8(7),745,0.8,0.7,0.6,-,0.2,0.1,-,-,6.89,2,2,2.4,1.1,1.2,0.6,0.9,0.7,16.7,72.1,0.5,0.4,-
+5,"146Nico ElvediBorussia M.Gladbach, 25, D(CLR)","Nico Elvedi Borussia M.Gladbach, 25, D(CLR)",23(2),2111,2,2.9,0.8,0.4,2.2,0.7,0.3,-,6.89,-,-,0.2,0.4,1,-,0.4,0.8,55.2,84.6,0.2,1.6,-
+6,"147ChicharitoLeverkusen, 34, FW","Chicharito Leverkusen, 34, FW",20(6),1815,0.2,0.3,1.2,-,0.1,0.1,-,-,6.89,11,3,2,0.8,1.4,0.9,0.7,1.4,17.9,73.4,-,0.5,-
+7,"148Jesús VallejoEintracht Frankfurt, 25, D(CR)","Jesús Vallejo Eintracht Frankfurt, 25, D(CR)",22(3),2055,1.3,2.8,0.7,1.1,3.7,0.5,0.4,1,6.88,1,-,0.2,0.1,0.4,-,-,0.2,50.1,85.2,-,3.0,-
+8,"149Timothy ChandlerEintracht Frankfurt, 32, D(R),M(LR)","Timothy Chandler Eintracht Frankfurt, 32, D(R),M(LR)",31(1),2817,1.5,2.3,1.3,0.3,1.7,0.5,0.2,-,6.88,-,3,0.6,1.1,0.9,0.2,0.3,0.5,34.0,73.1,1,1.6,-
+9,"150Christian PulisicBorussia Dortmund, 23, M(CLR),FW","Christian Pulisic Borussia Dortmund, 23, M(CLR),FW",15(14),1518,0.9,0.6,0.8,-,0.2,0.2,-,-,6.88,3,6,1.1,0.9,1.1,0.1,1.6,0.7,18.2,73.2,0.2,0.4,-
+0,"131Jonathan TahLeverkusen, 26, D(C)","Jonathan Tah Leverkusen, 26, D(C)",16(3),1637,2.2,2.4,0.8,1.1,3.3,0.5,0.6,-,6.92,1,1,0.5,0.2,0.7,-,0.4,0.3,52.2,82.9,-,2.9,-
+1,"132Marco HögerFC Koln, 32, D(CR),M(C)","Marco Höger FC Koln, 32, D(CR),M(C)",24(6),2062,2.5,1.8,1.1,-,1,1.2,0.2,-,6.92,-,1,0.3,0.6,1.3,0.1,0.9,0.8,39.6,81.3,0.2,1.9,-
+2,"133Philipp WollscheidWolfsburg, 33, D(C)","Philipp Wollscheid Wolfsburg, 33, D(C)",6(1),541,2.3,2.1,0.4,0.6,2.1,0.1,0.3,-,6.92,-,-,0.9,0.4,0.6,-,-,0.1,58.7,81.0,-,4.6,0.1
+3,"134Breel EmboloSchalke, 25, AM(CR),FW","Breel Embolo Schalke, 25, AM(CR),FW",4(3),342,1.4,0.9,1.1,-,-,0.1,-,-,6.92,2,1,1.1,0.7,1.1,1,0.4,1.3,9.4,71.2,0.1,0.3,-
+4,"135Robert BauerWerder Bremen, 27, D(CLR),DMC,M(LR)","Robert Bauer Werder Bremen, 27, D(CLR),DMC,M(LR)",25(2),2125,2.7,2.4,1.3,0.3,3,0.8,0.5,1,6.92,1,3,0.4,0.5,1.3,-,0.7,0.7,28.3,71.4,0.3,1.9,-
+5,"136Robin KnocheWolfsburg, 30, D(C)","Robin Knoche Wolfsburg, 30, D(C)",21(2),1871,1.3,2.5,1.1,0.4,3.7,0.5,0.6,-,6.92,1,1,0.5,0.2,0.6,-,0.1,0.4,57.9,82.7,-,5.2,0.1
+6,"137Mathew LeckieIngolstadt, 31, M(CLR)","Mathew Leckie Ingolstadt, 31, M(CLR)",25(5),2088,1.4,1.2,1.4,-,0.8,0.4,0.2,-,6.91,-,2,1.6,1.0,1.6,0.3,1.5,1.9,27.7,66.2,0.2,0.6,-
+7,"138Lars BenderLeverkusen, 33, D(CR),M(CR)","Lars Bender Leverkusen, 33, D(CR),M(CR)",9,610,3.7,2.0,1.7,0.1,1,0.9,0.2,-,6.91,-,1,0.6,0.8,1.2,-,1.1,0.4,33.8,76.6,0.1,1.2,0.1
+8,"139Marvin MatipIngolstadt, 36, D(C)","Marvin Matip Ingolstadt, 36, D(C)",33,2970,2.2,2.5,0.8,0.8,4.8,0.9,0.4,-,6.91,-,-,0.8,0.2,0.4,-,-,0.5,36.3,73.4,-,3.4,-
+9,"140RafinhaBayern, 36, D(CLR),M(R)","Rafinha Bayern, 36, D(CLR),M(R)",10(10),1021,1.3,1.7,0.5,0.1,0.6,0.4,0.2,-,6.91,1,1,0.3,0.7,1.1,-,0.3,0.3,46.2,89.7,0.6,1.6,-
+0,"121Marcel SchmelzerBorussia Dortmund, 34, D(CL),M(L)","Marcel Schmelzer Borussia Dortmund, 34, D(CL),M(L)",25(1),2195,1.8,2.6,1.3,0.4,1.4,0.9,0.5,1,6.94,-,1,1.0,0.8,1.9,0.2,0.5,0.7,56.8,82.6,0.4,1.2,-
+1,"122Nicolai MüllerHamburg, 34, M(CLR),FW","Nicolai Müller Hamburg, 34, M(CLR),FW",22(3),1902,1.9,1.2,2.4,-,0.4,1.3,0.2,-,6.94,5,6,1.7,1.1,1.8,0.4,1.0,1.6,18.4,62.2,0.4,0.4,-
+2,"123Mario VrancicDarmstadt, 33, M(CL)","Mario Vrancic Darmstadt, 33, M(CL)",18(5),1542,2.0,1.3,1.4,-,0.8,0.7,0.1,-,6.94,4,2,1.3,2.3,1.0,-,0.5,0.5,27.5,69.5,1.3,3.1,-
+3,"124Christian TräschWolfsburg, 34, D(R),M(C)","Christian Träsch Wolfsburg, 34, D(R),M(C)",7(4),696,2.0,2.4,0.3,0.1,1.0,0.8,0.1,-,6.94,-,1,0.5,1.4,1.0,0.1,0.2,0.3,37.0,71.3,0.7,1.5,0.1
+4,"125Nabil BentalebSchalke, 27, M(C)","Nabil Bentaleb Schalke, 27, M(C)",28(4),2554,1.2,1.7,1.1,-,0.8,0.3,0.2,-,6.93,5,5,1.3,1.0,0.9,-,0.9,1.0,48.8,81.3,0.1,3.5,0.3
+5,"126Daniel CaligiuriSchalke, 34, D(R),M(CLR),FW","Daniel Caligiuri Schalke, 34, D(R),M(CLR),FW",14(2),1112,1.4,0.9,1.3,-,0.4,0.8,0.1,-,6.93,2,3,1.1,1.3,1.1,0.1,1.8,1.2,24.6,76.1,0.3,1.1,-
+6,"127WalaceHamburg, 27, DMC","Walace Hamburg, 27, DMC",9,722,2.4,4.8,1.7,-,0.7,1.1,-,-,6.93,1,-,0.7,0.1,0.9,-,0.7,1.3,32.9,75.0,-,1.4,-
+7,"128Karim BellarabiLeverkusen, 32, M(CLR),FW","Karim Bellarabi Leverkusen, 32, M(CLR),FW",14(2),1119,1.5,0.8,1.7,-,0.4,0.8,-,-,6.93,2,6,2.2,1.1,1.0,0.7,1.6,1.8,25.0,72.3,0.3,0.7,0.1
+8,"129Mark UthHoffenheim, 30, AM(CR),FW","Mark Uth Hoffenheim, 30, AM(CR),FW",12(10),1154,0.6,0.7,1.2,-,0.6,0.3,-,-,6.92,7,3,1.8,1.0,1.2,0.4,1.0,1.0,17.4,74.6,-,0.8,-
+9,"130Theodor Gebre SelassieWerder Bremen, 35, D(CLR),DMC,M(R)","Theodor Gebre Selassie Werder Bremen, 35, D(CLR),DMC,M(R)",26(4),2341,1.6,2.0,1.0,0.3,2.2,0.9,0.3,-,6.92,5,2,0.9,0.5,1.4,0.1,0.3,0.8,26.7,75.0,0.1,0.6,-
+0,"111Martin HintereggerAugsburg, 29, D(C)","Martin Hinteregger Augsburg, 29, D(C)",31,2773,1.5,2.9,0.6,0.5,4.7,0.3,0.7,-,6.96,3,-,0.8,0.1,0.5,-,0.1,0.3,40.5,73.0,-,3.4,-
+1,"112Niklas StarkHertha Berlin, 27, D(C),DMC","Niklas Stark Hertha Berlin, 27, D(C),DMC",27,2355,2.4,2.5,1.5,0.4,2.8,0.5,0.9,-,6.96,1,-,0.8,0.1,1.3,-,0.1,0.3,44.9,84.9,-,3.0,-
+2,"113Dominik KohrAugsburg, 28, DMC","Dominik Kohr Augsburg, 28, DMC",21(5),1965,3.4,2.7,2.7,-,1.3,1.4,0.5,-,6.96,2,-,1.1,0.5,1.7,-,0.3,0.7,29.3,73.5,-,1.3,-
+3,"114Serge GnabryWerder Bremen, 26, AM(CLR),FW","Serge Gnabry Werder Bremen, 26, AM(CLR),FW",23(4),1971,1.3,1.1,0.9,-,0.1,1.0,0.1,-,6.95,11,1,2.3,1.1,1.0,0.3,0.5,1.6,22.2,76.8,-,0.9,0.1
+4,"115Ibrahima TraoréBorussia M.Gladbach, 34, AM(LR)","Ibrahima Traoré Borussia M.Gladbach, 34, AM(LR)",9(5),841,1.8,0.6,0.4,-,0.4,0.6,-,-,6.95,1,3,0.6,1.8,1.3,0.4,0.5,0.4,29.6,79.0,0.9,2.2,-
+5,"116Giulio DonatiMainz, 32, D(LR),M(R)","Giulio Donati Mainz, 32, D(LR),M(R)",31(1),2805,2.9,2.7,0.9,0.2,2.0,0.9,0.4,-,6.95,-,-,0.3,0.6,1.3,0.1,0.3,0.6,35.4,69.2,0.6,3.0,-
+6,"117Julian BrandtLeverkusen, 26, M(CLR),FW","Julian Brandt Leverkusen, 26, M(CLR),FW",25(7),2306,0.8,0.9,0.4,-,0.3,0.5,-,-,6.95,3,8,1.4,1.6,0.8,0.1,1.8,2.1,33.9,77.7,0.3,1.0,0.1
+7,"118Pavel KaderábekHoffenheim, 30, D(R),M(LR)","Pavel Kaderábek Hoffenheim, 30, D(R),M(LR)",22(1),1976,1.3,2.3,1.5,0.2,1.5,0.3,0.2,-,6.94,-,3,0.3,1.1,1.1,0.2,0.4,0.7,33.7,74.5,0.6,1.3,-
+8,"119Thilo KehrerSchalke, 25, D(CLR),M(R)","Thilo Kehrer Schalke, 25, D(CLR),M(R)",12(4),1078,2.2,2.7,1.6,0.1,2.3,0.4,0.4,-,6.94,1,1,0.8,0.4,1.3,0.1,0.4,0.6,35.4,81.8,0.3,2.4,-
+9,"120Kevin KamplLeverkusen, 31, M(CLR)","Kevin Kampl Leverkusen, 31, M(CLR)",28(2),2539,1.7,2.2,1.1,0.1,0.2,1.2,0.1,-,6.94,1,2,1.1,1.3,0.6,0.1,1.2,1.1,58.8,83.8,0.3,3.7,0.1
+0,"101Hamit AltintopDarmstadt, 39, M(CR)","Hamit Altintop Darmstadt, 39, M(CR)",15(1),1361,3.3,2.7,1.0,-,0.4,1.8,0.6,-,6.98,-,-,1.3,0.7,0.9,-,0.8,1.3,45.9,84.9,0.2,5.5,-
+1,"102John BrooksHertha Berlin, 29, D(C)","John Brooks Hertha Berlin, 29, D(C)",24,2116,1.4,2.6,1.0,0.8,5.0,0.8,0.5,1,6.98,2,-,0.5,-,1.0,-,0.1,0.3,56.9,86.1,-,5.8,-
+2,"103Makoto HasebeEintracht Frankfurt, 38, D(CR),M(CR)","Makoto Hasebe Eintracht Frankfurt, 38, D(CR),M(CR)",21(1),1887,1.5,2.8,0.8,0.6,1.5,0.6,0.4,-,6.97,1,1,0.4,0.7,1.0,-,0.2,0.5,49.8,82.3,0.2,3.9,-
+3,"104Gonzalo CastroBorussia Dortmund, 35, D(L),M(CR)","Gonzalo Castro Borussia Dortmund, 35, D(L),M(CR)",23(5),1927,1.5,0.9,0.8,-,0.5,0.4,0.1,-,6.97,3,6,1.1,1.5,0.8,-,0.7,0.9,49.9,84.0,0.5,2.3,-
+4,"105Santiago GarcíaWerder Bremen, 33, D(CL),M(L)","Santiago García Werder Bremen, 33, D(CL),M(L)",16(3),1445,1.7,3.0,1.0,0.1,2.3,0.6,0.1,-,6.97,1,2,0.6,0.4,2.0,-,0.6,1.1,31.8,73.5,0.2,0.7,-
+5,"106Maximilian PhilippFreiburg, 28, AM(CLR),FW","Maximilian Philipp Freiburg, 28, AM(CLR),FW",23(2),1939,1.0,0.9,1.7,-,0.6,0.7,0.1,-,6.97,9,2,2.1,1,1.9,0.2,1.2,1.8,21.0,69.7,0.1,0.7,-
+6,"107Kai HavertzLeverkusen, 23, M(CR),FW","Kai Havertz Leverkusen, 23, M(CR),FW",15(9),1451,0.8,0.8,1.4,-,0.6,0.6,0.1,-,6.96,4,5,1.3,0.8,0.8,-,1.8,1.7,30.6,73.7,0.2,0.8,-
+7,"108Dominique HeintzFC Koln, 28, D(CL)","Dominique Heintz FC Koln, 28, D(CL)",30(2),2774,1.9,2.4,1.2,0.4,4.1,1.0,0.5,-,6.96,-,-,0.2,0.3,0.7,-,0.3,0.3,42.7,81.6,0.1,4.2,-
+8,"109Bastian OczipkaEintracht Frankfurt, 33, D(CL),M(L)","Bastian Oczipka Eintracht Frankfurt, 33, D(CL),M(L)",33,2952,2.0,2.6,0.8,0.2,1.8,0.4,0.1,-,6.96,1,4,0.3,1.1,1.5,-,1.0,1.0,44.8,77.8,0.8,1.7,-
+9,"110Eric Choupo-MotingSchalke, 33, M(CLR),FW","Eric Choupo-Moting Schalke, 33, M(CLR),FW",19(4),1689,0.4,0.4,1.1,-,0.7,0.3,-,-,6.96,3,4,2.1,1.4,1.2,1,1.6,1.5,25.6,73.3,0.4,0.9,-
+0,"91WendellLeverkusen, 28, D(CL),M(L)","Wendell Leverkusen, 28, D(CL),M(L)",27(5),2529,3.0,2.4,1.4,0.2,1.6,1.1,0.3,-,7.01,2,2,0.6,0.8,1.0,-,0.5,0.8,46.3,79.9,0.4,1.5,-
+1,"92Vedad IbisevicHertha Berlin, 37, FW","Vedad Ibisevic Hertha Berlin, 37, FW",32,2723,0.9,0.3,1.8,-,0.7,0.4,0.1,-,7.0,12,4,2.3,0.6,1.9,0.5,1.8,1.7,20.9,62.6,-,0.8,0.1
+2,"93Yunus MalliMainz, 30, M(CLR),FW","Yunus Malli Mainz, 30, M(CLR),FW",15(1),1381,0.5,0.6,0.4,-,0.3,0.1,0.1,-,7.0,6,6,1.9,2.1,0.8,0.6,1.1,1.8,26.4,68.8,1.8,0.8,0.1
+3,"94Zlatko JunuzovicWerder Bremen, 34, M(CLR)","Zlatko Junuzovic Werder Bremen, 34, M(CLR)",28(2),2497,1.5,2.3,1.5,-,0.7,1.6,0.2,-,6.99,4,8,1.4,1.7,2.0,0.2,0.5,1.6,36.0,74.5,1,1.9,-
+4,"95Stefan BellMainz, 30, D(CR)","Stefan Bell Mainz, 30, D(CR)",30(1),2744,1.5,2.9,1.3,0.8,4.7,0.6,0.7,-,6.99,5,1,0.8,0.5,0.7,0.1,0.2,0.1,41.6,75.0,-,4.6,-
+5,"96Niklas SüleHoffenheim, 26, D(CR)","Niklas Süle Hoffenheim, 26, D(CR)",33,2887,2.1,2.1,0.5,0.7,2.5,0.2,0.5,1,6.99,2,2,0.8,0.2,0.6,-,0.2,0.2,70.9,89.6,-,3.3,-
+6,"97Danny LatzaMainz, 32, M(C)","Danny Latza Mainz, 32, M(C)",18(3),1580,1.8,2.4,1.4,-,1.5,2.2,0.1,-,6.99,4,-,1.3,0.7,1.6,-,1.0,0.6,37.5,76.4,-,1.5,-
+7,"98Florent HadergjonajIngolstadt, 27, D(LR),DMC,M(R)","Florent Hadergjonaj Ingolstadt, 27, D(LR),DMC,M(R)",25,2222,2.2,2.6,1.2,0.3,2.5,0.6,0.1,-,6.99,1,2,0.4,0.9,1.2,-,0.2,0.4,32.4,55.7,0.8,2.4,-
+8,"99Joshua KimmichBayern, 27, D(CR),DMC,M(R)","Joshua Kimmich Bayern, 27, D(CR),DMC,M(R)",15(12),1542,1.4,1.0,0.6,0.2,0.7,0.4,0.3,-,6.99,6,1,1.1,1.1,1.4,0.1,0.3,0.6,51.5,89.9,0.4,3.1,-
+9,"100Mergim MavrajHamburg, 36, D(C)","Mergim Mavraj Hamburg, 36, D(C)",14,1260,3.0,2.9,1.4,0.8,5.4,0.6,0.8,-,6.98,-,-,0.6,-,0.9,-,0.1,-,30.1,65.6,-,2.4,-
+0,"81Christoph KramerBorussia M.Gladbach, 31, DMC","Christoph Kramer Borussia M.Gladbach, 31, DMC",23(1),1964,3.0,2.5,1.7,-,1.3,2.1,0.5,-,7.05,-,4,0.1,0.5,1.2,-,0.8,0.9,64.4,84.9,-,2.8,-
+1,"82Jérôme GondorfDarmstadt, 33, M(CR)","Jérôme Gondorf Darmstadt, 33, M(CR)",29,2552,2.8,2.5,1.5,-,1.8,1.9,0.3,-,7.03,3,4,1.1,1.2,2.9,0.1,1.0,2.3,31.7,64.6,0.7,2.6,-
+2,"83Yuya OsakoFC Koln, 32, AM(CLR),FW","Yuya Osako FC Koln, 32, AM(CLR),FW",27(3),2377,1.4,0.6,1.6,-,0.6,0.8,0.1,-,7.03,7,6,1.4,1.1,1.8,0.2,1.5,2.3,25.0,70.1,0.1,1.1,0.2
+3,"84Sandro WagnerHoffenheim, 34, FW","Sandro Wagner Hoffenheim, 34, FW",30(1),2601,1.0,0.5,2.6,0.2,1.0,0.4,0.1,-,7.03,11,2,2.1,0.5,2.7,1,1.2,2.2,25.6,63.1,0.2,0.7,-
+4,"85Pascal GroßIngolstadt, 30, M(CR),FW","Pascal Groß Ingolstadt, 30, M(CR),FW",31(2),2731,2.0,1.5,1.4,-,0.3,1.4,0.1,-,7.03,5,4,1.5,3.0,1.4,0.1,0.6,1.1,46.1,69.4,2,2.6,-
+5,"86Adrián RamosBorussia Dortmund, 36, FW","Adrián Ramos Borussia Dortmund, 36, FW",4(3),356,0.3,0.4,1.6,-,0.7,0.1,-,-,7.02,2,1,1.7,0.7,1.1,0.1,0.3,1.3,11.4,66.3,-,0.3,-
+6,"87Andreas ChristensenBorussia M.Gladbach, 26, D(C),DMC","Andreas Christensen Borussia M.Gladbach, 26, D(C),DMC",31,2782,1.5,2.3,0.6,0.7,3.9,0.3,0.8,-,7.01,2,-,0.4,0.2,0.7,-,0.1,0.4,62.8,91.5,-,2.6,-
+7,"88Yussuf PoulsenRBL, 27, AM(R),FW","Yussuf Poulsen RBL, 27, AM(R),FW",25(4),2068,0.8,0.5,2.1,-,0.5,0.3,0.1,-,7.01,5,4,1.6,0.9,1.7,0.6,1.9,2.6,22.0,65.7,-,0.1,0.1
+8,"89Marvin PlattenhardtHertha Berlin, 30, D(L),M(L)","Marvin Plattenhardt Hertha Berlin, 30, D(L),M(L)",27,2430,1.6,2.0,1.2,0.2,1.7,0.6,0.2,-,7.01,3,3,0.9,1.3,0.9,-,0.2,0.3,37.8,75.3,1.1,2.4,-
+9,"90Leonardo BittencourtFC Koln, 28, M(CLR),FW","Leonardo Bittencourt FC Koln, 28, M(CLR),FW",12(4),977,1.9,1.0,1.0,-,0.3,0.6,-,-,7.01,3,5,1.4,0.9,1.7,0.1,0.3,1.2,20.0,65.0,0.3,0.5,0.1
+0,"71Julian WeiglBorussia Dortmund, 26, D(C),DMC","Julian Weigl Borussia Dortmund, 26, D(C),DMC",27(3),2416,2.2,2.3,1.1,0.2,1.2,1.0,0.2,-,7.07,-,-,0.2,0.2,2.1,-,0.6,0.6,67.6,89.5,-,2.7,-
+1,"72Daniel BaierAugsburg, 38, M(C)","Daniel Baier Augsburg, 38, M(C)",27,2399,2.2,3.9,1.4,-,1.3,1.4,-,-,7.07,1,3,0.9,1.2,2,0.1,0.6,0.4,50.3,73.4,0.5,4,-
+2,"73Marcel SabitzerRBL, 28, M(CLR),FW","Marcel Sabitzer RBL, 28, M(CLR),FW",31(1),2601,1.0,1.1,0.7,-,0.9,0.5,0.1,-,7.06,8,4,2.5,1.1,1.2,0.3,1.3,1.3,34.4,68.1,0.2,1.3,0.2
+3,"74Fin BartelsWerder Bremen, 35, M(CLR),FW","Fin Bartels Werder Bremen, 35, M(CLR),FW",23(8),2224,1.2,0.8,1,-,0.3,0.7,-,-,7.06,8,7,1.4,1.3,1.5,0.2,1.2,1.6,23.7,74.9,0.1,0.9,-
+4,"75Sebastian LangkampHertha Berlin, 34, D(C)","Sebastian Langkamp Hertha Berlin, 34, D(C)",26(1),2312,1.6,2.4,1,0.9,4.2,0.3,0.5,-,7.06,-,-,0.3,0.1,1.4,-,0.1,0.3,57.2,86.3,-,2.7,-
+5,"76Benjamin HenrichsLeverkusen, 25, D(LR),DMC,M(LR)","Benjamin Henrichs Leverkusen, 25, D(LR),DMC,M(LR)",27(2),2427,3.4,3.4,1,0.2,1.9,1.1,0.2,-,7.06,-,2,0.2,0.6,1.2,-,0.6,1,42.8,75.9,0.3,1.7,-
+6,"77Roberto HilbertLeverkusen, 37, D(R),M(R)","Roberto Hilbert Leverkusen, 37, D(R),M(R)",7,586,3.1,2.7,1.1,0.3,2.4,1.7,0.3,-,7.06,-,-,0.3,1.3,1,0.1,0.4,0.7,35.6,70.7,1.3,3.6,-
+7,"78Stefan IlsankerRBL, 33, D(CR),DMC","Stefan Ilsanker RBL, 33, D(CR),DMC",29(4),2644,2.8,2.8,1.4,0.5,2.9,1.1,0.4,-,7.06,-,-,0.3,0.3,0.8,0.1,0.2,0.6,48.0,78.2,0.1,2.5,-
+8,"79Niklas SchmidtWerder Bremen, 24, AM(C)","Niklas Schmidt Werder Bremen, 24, AM(C)",0(1),14,2.0,1.0,-,-,-,1.0,-,-,7.05,-,1,-,1.0,-,-,-,-,4.0,75.0,1,-,-
+9,"80David AbrahamEintracht Frankfurt, 35, D(C)","David Abraham Eintracht Frankfurt, 35, D(C)",30,2585,1.3,2.8,1,1.6,4.1,0.5,0.6,-,7.05,1,2,0.6,0.3,1,-,0.1,0.2,50.1,82.8,-,4.3,-
+0,"61Julian DraxlerWolfsburg, 28, AM(CLR),FW","Julian Draxler Wolfsburg, 28, AM(CLR),FW",12(1),1055,0.6,0.8,1.3,-,0.1,0.2,0.1,-,7.09,-,2,2.2,2.1,0.8,0.3,1.5,1.6,33.2,82.4,1.2,2.8,-
+1,"62Andrej KramaricHoffenheim, 30, AM(CLR),FW","Andrej Kramaric Hoffenheim, 30, AM(CLR),FW",28(6),2374,0.3,0.6,0.4,-,-,0.2,0.1,-,7.09,15,8,2.9,1.1,1.0,0.5,1.4,1.2,24.6,83.1,0.4,1.2,0.1
+2,"63Mahmoud DahoudBorussia M.Gladbach, 26, M(C)","Mahmoud Dahoud Borussia M.Gladbach, 26, M(C)",26(2),2281,2.7,1.7,1.6,0.1,0.8,1.4,0.1,-,7.09,2,6,1.6,1,1.2,0.1,1.1,1.0,55.8,81.4,0.1,2.6,0.1
+3,"64Jeffrey GouweleeuwAugsburg, 30, D(C)","Jeffrey Gouweleeuw Augsburg, 30, D(C)",18,1550,2.1,3.0,1.6,0.2,5.8,0.7,0.4,-,7.09,2,1,0.4,0.3,0.3,0.1,0.3,0.5,34.8,76.5,-,3.2,-
+4,"65Omar MascarellEintracht Frankfurt, 29, DMC","Omar Mascarell Eintracht Frankfurt, 29, DMC",27(1),2450,2.2,3.8,1.7,-,2.1,0.8,0.2,-,7.09,-,-,0.4,0.5,0.6,-,0.4,0.8,52.6,80.7,-,3.3,-
+5,"66Marc StenderaEintracht Frankfurt, 26, M(C)","Marc Stendera Eintracht Frankfurt, 26, M(C)",2,131,7.0,3.5,1.0,-,1,2.5,-,-,7.09,-,-,-,-,1.5,-,3,1.5,11.5,60.9,0.5,0.5,-
+6,"67Lars StindlBorussia M.Gladbach, 33, M(CLR),FW","Lars Stindl Borussia M.Gladbach, 33, M(CLR),FW",29(1),2597,1.3,0.9,1.8,-,0.5,0.8,-,-,7.08,11,3,2.3,1.3,1.8,0.1,1.6,2.0,46.2,80.0,-,1.2,0.1
+7,"68Marvin CompperRBL, 36, D(C)","Marvin Compper RBL, 36, D(C)",25,2102,1.8,2.6,0.9,0.7,4.8,0.9,0.2,-,7.08,2,-,0.3,-,0.6,-,-,0.4,47.5,79.5,-,3.2,-
+8,"69Thorgan HazardBorussia M.Gladbach, 29, M(CLR),FW","Thorgan Hazard Borussia M.Gladbach, 29, M(CLR),FW",18(5),1632,1.2,1.0,1.3,-,0.6,0.9,0.1,-,7.08,6,4,1.8,1.4,1.3,0.5,1.3,1.3,32.1,74.4,0.6,0.9,-
+9,"70Mitchell WeiserHertha Berlin, 28, D(R),M(R)","Mitchell Weiser Hertha Berlin, 28, D(R),M(R)",12(5),1126,1.4,1.8,1.2,-,0.5,0.7,0.1,-,7.08,2,4,0.6,1.6,2.4,0.2,1.2,1.5,26.4,70.1,0.4,0.7,0.1
+0,"51Diego DemmeRBL, 30, DMC","Diego Demme RBL, 30, DMC",32,2872,3.3,2.9,2.5,-,0.8,2.2,0.1,-,7.15,1,3,0.4,0.9,2.3,-,0.9,0.9,68.6,79.1,0.3,4.2,0.1
+1,"52David AlabaBayern, 29, D(CL),M(CL)","David Alaba Bayern, 29, D(CL),M(CL)",29(3),2508,1.3,1.8,0.5,0.4,0.9,0.3,0.3,-,7.14,4,4,1.0,1.1,0.3,0.2,0.7,0.6,55.0,88.6,0.7,2.1,-
+2,"53Philipp LahmBayern, 38, D(R),DMC","Philipp Lahm Bayern, 38, D(R),DMC",24(2),2090,1.6,1.9,0.4,0.1,1.0,0.5,0.1,-,7.14,1,2,0.3,1.5,0.7,0.1,0.3,0.4,73.3,90.0,0.7,2.1,-
+3,"54Pawel OlkowskiFC Koln, 32, D(CR),M(R)","Pawel Olkowski FC Koln, 32, D(CR),M(R)",12(2),1106,2.1,3.2,1.3,0.1,4.3,0.8,0.2,-,7.13,-,1,0.1,0.6,1.3,-,0.5,0.9,22.9,60.3,0.4,1.6,-
+4,"55Juan BernatBayern, 29, D(L),M(CL)","Juan Bernat Bayern, 29, D(L),M(CL)",13(5),1236,1.2,1.6,1.0,0.2,0.8,0.6,0.3,-,7.13,2,2,0.6,0.8,1.0,0.1,0.8,0.7,44.0,89.9,0.5,0.4,-
+5,"56Mario GomezWolfsburg, 36, FW","Mario Gomez Wolfsburg, 36, FW",32(1),2854,0.6,0.4,1.3,-,1.8,0.2,0.3,-,7.13,16,1,2.5,1.2,0.9,0.9,0.8,1.8,20.6,62.6,-,0.3,-
+6,"57Thomas DelaneyWerder Bremen, 30, DMC","Thomas Delaney Werder Bremen, 30, DMC",11(2),920,2.2,2.2,2.1,0.1,1.5,1.0,0.6,-,7.13,4,1,1.1,0.5,1.2,-,0.4,0.5,38.2,69.8,0.1,3.2,-
+7,"58Alessandro SchöpfSchalke, 28, M(CLR)","Alessandro Schöpf Schalke, 28, M(CLR)",22(6),2038,2.1,2.4,1.9,0.2,1.1,1.0,0.1,-,7.12,6,2,1.0,0.9,1.5,0.2,0.9,1.5,32.6,77.5,0.5,0.9,-
+8,"59Josuha GuilavoguiWolfsburg, 31, D(C),M(C)","Josuha Guilavogui Wolfsburg, 31, D(C),M(C)",17(2),1541,2.8,4.5,2.3,0.1,2.0,0.8,0.4,-,7.12,-,-,0.4,0.6,1.1,0.1,0.5,0.9,44.6,82.2,0.1,2.8,-
+9,"60Lukasz PiszczekBorussia Dortmund, 37, D(CR),M(R)","Lukasz Piszczek Borussia Dortmund, 37, D(CR),M(R)",23(2),2036,1.8,1.5,0.7,0.6,2.5,0.6,0.2,-,7.1,5,1,0.8,0.7,0.5,-,0.5,0.5,50.1,80.5,0.4,1.7,0.1
+0,"41Marcel HalstenbergRBL, 30, D(CL),M(L)","Marcel Halstenberg RBL, 30, D(CL),M(L)",30,2659,2.2,2.7,1.2,0.1,1.9,0.8,0.3,-,7.2,-,1,0.9,0.9,0.9,-,0.7,0.7,36.8,72.2,0.3,1.0,-
+1,"42Steven ZuberHoffenheim, 30, D(L),M(CLR)","Steven Zuber Hoffenheim, 30, D(L),M(CLR)",23(1),2027,2.0,2.5,1.0,0.3,0.9,0.7,-,1,7.2,4,4,1.5,0.8,1.5,-,1.1,0.8,43.4,81.4,0.4,2.3,-
+2,"43Jannik VestergaardBorussia M.Gladbach, 29, D(C)","Jannik Vestergaard Borussia M.Gladbach, 29, D(C)",29(5),2657,2.1,1.6,0.6,0.9,5,0.9,0.6,-,7.19,4,1,1.0,0.1,0.6,-,0.1,0.1,57.4,84.9,-,3.6,-
+3,"44Marco FabiánEintracht Frankfurt, 32, AM(CR),FW","Marco Fabián Eintracht Frankfurt, 32, AM(CR),FW",23(1),2058,1.7,2.1,2.1,-,0.2,1.0,-,-,7.18,7,4,2.7,1.5,2.6,0.1,1.3,1.6,30.6,78.6,1,1.5,0.1
+4,"45Raphaël GuerreiroBorussia Dortmund, 28, D(L),M(CL)","Raphaël Guerreiro Borussia Dortmund, 28, D(L),M(CL)",17(7),1483,1.2,1.4,0.7,0.1,0.8,0.3,0.2,-,7.18,6,3,1.4,1.1,0.5,0.1,0.9,0.4,40.3,80.1,0.9,1.6,-
+5,"46Mergim MavrajFC Koln, 36, D(C)","Mergim Mavraj FC Koln, 36, D(C)",16,1440,1.8,2.8,1.1,0.1,5.6,0.8,0.9,-,7.17,-,-,0.4,-,0.5,-,0.2,0.2,42.1,88.1,-,2.6,-
+6,"47Douglas CostaBayern, 31, M(CLR)","Douglas Costa Bayern, 31, M(CLR)",14(9),1374,0.4,0.4,0.8,-,-,0.1,-,-,7.17,4,3,1.9,1.5,0.7,0.3,1.0,0.8,30.1,80.2,0.9,1.0,-
+7,"48Benedikt HöwedesSchalke, 34, D(CLR)","Benedikt Höwedes Schalke, 34, D(CLR)",31,2790,2.0,3.8,1.0,0.7,3.5,0.7,0.4,-,7.16,1,1,0.6,0.2,1.2,0.1,0.2,0.4,53.8,86.3,-,4.1,-
+8,"49Vincenzo GrifoFreiburg, 29, AM(CL)","Vincenzo Grifo Freiburg, 29, AM(CL)",27(3),2495,1.1,1.2,0.4,-,0.6,0.7,0.1,-,7.15,6,8,2.8,2.4,1.2,0.4,1.7,1.6,36.7,72.8,1.5,1.1,0.2
+9,"50Marco ReusBorussia Dortmund, 33, M(CLR),FW","Marco Reus Borussia Dortmund, 33, M(CLR),FW",16(1),1190,0.9,0.6,1.5,-,0.2,0.2,-,-,7.15,7,4,2.5,1.4,1.6,0.9,1.0,1.9,24.5,75.5,0.5,0.9,0.1
+0,"31NaldoSchalke, 39, D(C)","Naldo Schalke, 39, D(C)",19,1624,1.2,2.7,1.1,0.5,6.5,0.4,0.7,-,7.25,1,-,1.5,0.1,0.6,-,0.1,0.1,42.8,85.1,-,3.9,-
+1,"32BernardoRBL, 27, D(LR),M(L)","Bernardo RBL, 27, D(LR),M(L)",21(1),1894,2.8,3.0,1.3,0.4,2.2,0.8,0.2,-,7.24,-,1,0.6,0.6,0.7,-,0.5,0.9,37.8,74.4,0.2,2.8,-
+2,"33RaffaelBorussia M.Gladbach, 37, AM(CL),FW","Raffael Borussia M.Gladbach, 37, AM(CL),FW",18(2),1504,0.7,0.4,0.4,-,0.1,0.7,-,-,7.24,7,-,2.3,2.2,1.8,0.2,2.2,1.3,30.9,76.4,0.8,0.7,0.1
+3,"34Marcel RisseFC Koln, 32, D(R),M(CLR)","Marcel Risse FC Koln, 32, D(R),M(CLR)",13,1104,1.1,1.7,0.4,-,0.2,0.7,0.2,-,7.24,2,4,1.7,1.6,0.6,-,0.5,1.2,32.1,62.1,0.9,2.9,0.1
+4,"35Marc BartraBorussia Dortmund, 31, D(CR),DMC","Marc Bartra Borussia Dortmund, 31, D(CR),DMC",18(1),1561,2.8,3.3,1.7,1,3.0,1.4,0.6,-,7.24,-,3,1.1,0.5,0.9,0.1,0.2,0.5,74.2,82.3,-,3.6,0.1
+5,"36Xabi AlonsoBayern, 40, M(C)","Xabi Alonso Bayern, 40, M(C)",22(5),1906,2.0,2.4,1.0,-,0.5,1.2,0.1,-,7.22,3,2,0.9,1.5,1.0,-,0.6,0.2,75.2,89.4,0.8,6.1,-
+6,"37Leon GoretzkaSchalke, 27, M(CR)","Leon Goretzka Schalke, 27, M(CR)",30,2569,2.2,2.6,1.3,-,0.8,1.6,0.2,-,7.21,5,3,1.7,1.1,1.8,-,1.4,1.3,40.4,78.0,0.1,2.0,-
+7,"38Alexander HackMainz, 28, D(C)","Alexander Hack Mainz, 28, D(C)",13(2),1295,2.3,3.3,0.4,0.5,3.6,1.3,1,-,7.21,-,1,0.5,0.3,1.2,-,0.3,0.4,49.1,76.9,0.1,4.6,-
+8,"39Sokratis PapastathopoulosBorussia Dortmund, 34, D(CR)","Sokratis Papastathopoulos Borussia Dortmund, 34, D(CR)",26,2300,2.3,1.5,1.7,1.2,4.0,0.5,0.5,-,7.21,2,-,0.8,0.2,2.2,-,0.3,0.4,74.1,87.8,-,4.8,-
+9,"40Konstantinos StafylidisAugsburg, 28, D(LR),DMC,M(L)","Konstantinos Stafylidis Augsburg, 28, D(LR),DMC,M(L)",26(1),2244,2.1,3.3,0.9,0.3,3.3,0.6,0.4,-,7.21,4,-,1.7,0.6,1.0,-,0.4,0.5,31.0,71.4,0.4,4.0,-
+0,"21Mats HummelsBayern, 33, D(C)","Mats Hummels Bayern, 33, D(C)",24(3),2181,2.1,2.1,0.6,0.6,2.5,0.4,0.3,-,7.32,1,1,1.1,0.4,0.3,-,0.1,0.1,76.9,88.8,0.1,2.8,-
+1,"22Sead KolasinacSchalke, 28, D(CL),DMC,M(L)","Sead Kolasinac Schalke, 28, D(CL),DMC,M(L)",24(1),2070,2.8,3.2,1.6,-,2.1,0.8,0.2,1,7.32,3,5,0.7,0.9,0.9,0.2,0.6,1.2,38.3,71.7,0.4,1.8,-
+2,"23Thomas MüllerBayern, 32, M(CLR),FW","Thomas Müller Bayern, 32, M(CLR),FW",25(4),2265,0.5,0.7,0.7,0.1,0.3,0.6,0.2,-,7.3,5,12,2.2,2.1,0.8,0.6,1.3,1.3,36.5,76.0,0.6,0.9,-
+3,"24Johannes GeisSchalke, 28, D(C),DMC","Johannes Geis Schalke, 28, D(C),DMC",17(1),1334,1.7,2.4,1.3,-,2.0,0.7,0.2,-,7.29,-,-,0.8,2.5,1.3,-,0.4,0.7,46.0,78.6,2.2,5.3,-
+4,"25Timo WernerRBL, 26, AM(CLR),FW","Timo Werner RBL, 26, AM(CLR),FW",28(3),2435,0.8,0.7,0.7,-,0.1,0.5,-,-,7.29,21,5,2.4,1.0,1.0,1.6,0.9,2.1,22.9,67.5,0.3,0.4,-
+5,"26Arturo VidalBayern, 35, M(CR)","Arturo Vidal Bayern, 35, M(CR)",21(6),1824,2.9,1.9,1.9,0.1,0.6,1.0,0.1,-,7.28,4,2,1.4,0.9,0.8,0.1,0.4,0.7,70.0,87.8,0.1,4.6,-
+6,"27Willi OrbanRBL, 29, D(C)","Willi Orban RBL, 29, D(C)",28,2518,2.4,2.4,1.1,1.2,4.9,0.6,0.4,-,7.28,3,1,0.8,0.1,1.1,0.1,0.3,0.2,50.2,81.5,-,3.0,-
+7,"28Markus SuttnerIngolstadt, 35, D(CL),M(L)","Markus Suttner Ingolstadt, 35, D(CL),M(L)",31,2737,2.2,3.0,1.1,0.2,2.1,0.8,0.1,1,7.28,4,5,1.4,1.7,0.5,0.1,0.4,0.6,33.0,60.4,1.5,2.7,-
+8,"29Javi MartínezBayern, 33, D(C),M(C)","Javi Martínez Bayern, 33, D(C),M(C)",25,2135,1.7,2.0,0.8,0.6,2.4,0.3,0.4,-,7.27,1,1,0.4,0.2,1.1,0.1,0.2,0.2,78.4,91.6,-,2.9,-
+9,"30Jonas HectorFC Koln, 32, D(L),M(CL)","Jonas Hector FC Koln, 32, D(L),M(CL)",33,2970,2.6,2.5,0.8,-,1.8,1.1,0.3,-,7.26,1,2,0.5,1.1,2.1,0.1,0.7,0.8,43.3,81.2,0.3,2.3,-
+0,"11Kyriakos PapadopoulosHamburg, 30, D(C)","Kyriakos Papadopoulos Hamburg, 30, D(C)",15,1291,2.3,3.2,1.2,0.5,7.4,0.9,0.8,-,7.43,2,-,1,0.1,0.9,-,-,0.3,29.0,64.8,-,1.9,-
+1,"12Sebastian RudyHoffenheim, 32, D(R),M(CR)","Sebastian Rudy Hoffenheim, 32, D(R),M(CR)",32,2789,2.9,3.1,1.6,0.1,0.9,1.3,0.3,-,7.43,2,7,0.8,2,1.5,-,1.1,1.2,50.6,80.8,1.2,2.4,0.1
+2,"13Pierre-Emerick AubameyangBorussia Dortmund, 32, M(CLR),FW","Pierre-Emerick Aubameyang Borussia Dortmund, 32, M(CLR),FW",31(1),2782,0.5,0.3,0.7,-,0.1,0.2,-,-,7.42,31,2,3.6,0.8,0.7,0.9,0.8,1.3,16.2,69.7,0.2,0.2,-
+3,"14Benjamin HübnerHoffenheim, 32, D(C)","Benjamin Hübner Hoffenheim, 32, D(C)",25,2149,2.9,3.3,2.2,0.6,3.1,0.6,0.6,-,7.39,2,3,0.7,0.3,1.3,0.1,0.4,0.5,60.2,87.7,-,3.3,0.1
+4,"15Franck RibéryBayern, 39, AM(CL),FW","Franck Ribéry Bayern, 39, AM(CL),FW",14(8),1242,0.5,0.5,0.6,-,0.1,0.4,0.1,-,7.38,5,11,1,2.2,1.6,0.3,1.5,1.3,40.8,83.9,0.5,1.8,0.2
+5,"16Lukas KlünterFC Koln, 26, D(CR),M(R)","Lukas Klünter FC Koln, 26, D(CR),M(R)",8,720,2,5.1,1,0.8,3.5,0.3,0.4,-,7.37,1,1,0.3,0.5,1.8,0.1,1,0.4,19.6,59.9,0.3,0.5,-
+6,"17Sven MüllerFC Koln, 26, Goalkeeper","Sven Müller FC Koln, 26, Goalkeeper",1,90,-,-,-,-,1.0,-,-,-,7.35,-,-,-,-,-,-,-,-,27.0,40.7,-,7.0,-
+7,"18Tom StarkeBayern, 41, GK","Tom Starke Bayern, 41, GK",3,270,-,-,-,-,1.0,-,-,-,7.35,-,-,-,-,-,-,-,0.3,26.3,79.7,-,3.7,-
+8,"19Frederik SørensenFC Koln, 30, D(CR)","Frederik Sørensen FC Koln, 30, D(CR)",30(1),2680,3.1,2.7,1.9,0.4,5.2,0.8,0.7,-,7.34,-,2,0.6,0.5,0.7,-,0.1,0.4,38.3,72.0,0.1,4.7,-
+9,"20Anthony ModesteFC Koln, 34, FW","Anthony Modeste FC Koln, 34, FW",34,2978,0.5,0.5,1.4,-,1.1,0.2,0.1,-,7.34,25,2,3,0.6,1.9,1.7,0.9,2.4,20.2,63.5,-,0.3,-
+0,"1ThiagoBayern, 31, M(C)","Thiago Bayern, 31, M(C)",26(1),2291,2.8,4.6,1.4,-,0.3,0.6,0.1,-,8.28,6,5,1.3,1.8,1,0.1,1.3,1.2,94.9,90.2,0.6,6.8,-
+1,"2Arjen RobbenBayern, 38, M(CLR),FW","Arjen Robben Bayern, 38, M(CLR),FW",21(5),1830,0.5,0.6,0.3,-,-,0.3,-,-,7.82,13,9,3.2,1.9,1,0.3,1.4,0.9,38.0,81.2,0.8,1.1,0.1
+2,"3Emil ForsbergRBL, 30, AM(CLR),FW","Emil Forsberg RBL, 30, AM(CLR),FW",27(3),2349,0.9,1.5,0.9,-,0.4,0.5,-,-,7.75,8,19,1.6,3.1,1.7,0.2,1.7,1.7,28.3,76.2,1.6,0.8,0.2
+3,"4Robert LewandowskiBayern, 33, FW","Robert Lewandowski Bayern, 33, FW",31(2),2777,0.3,0.4,1.2,-,0.7,0.2,-,-,7.74,30,5,4.3,0.9,1.7,0.8,1.5,1.8,21.5,75.2,0.1,0.5,-
+4,"5Naby KeïtaRBL, 27, M(C)","Naby Keïta RBL, 27, M(C)",29(2),2416,2.6,2.6,2.3,-,0.9,1,0.3,-,7.6,8,7,1.4,1.3,1.7,-,1.6,1.5,45.9,81.8,-,1.6,0.2
+5,"6Max KruseWerder Bremen, 34, M(CLR),FW","Max Kruse Werder Bremen, 34, M(CLR),FW",23,2047,0.7,0.6,0.8,-,0.6,0.7,-,-,7.54,15,7,1.8,2.2,1.1,0.4,1,1.6,41.3,76.1,1,2.8,0.1
+6,"7Hakan ÇalhanogluLeverkusen, 28, M(CLR),FW","Hakan Çalhanoglu Leverkusen, 28, M(CLR),FW",14(1),1217,1.6,1.2,1.2,-,0.6,0.6,0.1,-,7.49,6,5,3.1,1.9,1.3,0.2,1.1,1.9,51.5,77.6,1.2,3.0,0.1
+7,"8Kerem DemirbayHoffenheim, 28, M(C)","Kerem Demirbay Hoffenheim, 28, M(C)",27(1),2182,2,1.6,1.9,-,0.5,1,-,-,7.49,6,8,1.8,2.1,1.3,0.1,2.2,1.6,36.8,78.8,0.9,2.3,0.1
+8,"9Andreas LutheAugsburg, 35, GK","Andreas Luthe Augsburg, 35, GK",2,180,-,-,-,-,1.5,-,-,-,7.48,-,-,-,1.0,-,-,-,-,25.5,41.2,-,7.5,-
+9,"10Ousmane DembéléBorussia Dortmund, 25, AM(CLR),FW","Ousmane Dembélé Borussia Dortmund, 25, AM(CLR),FW",22(10),2042,0.9,0.8,0.8,-,0.1,0.2,-,-,7.44,6,12,1.7,2.0,1.9,0.2,1.3,1.6,23.8,67.0,1,1.1,0.2

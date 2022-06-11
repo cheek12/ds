@@ -1,0 +1,533 @@
+,Player,Player.1,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating,Goals,Assists,SpG,KeyP,Fouled,Off,Disp,UnsTch,AvgP,PS%,Crosses,LongB,ThrB
+0,"531Willy CaballeroChelsea, 40, GK","Willy Caballero Chelsea, 40, GK",1,90,-,-,-,-,-,-,-,-,5.41,-,-,-,-,-,-,-,-,24,91.7,-,2,-
+1,"532Kayne RamsaySouthampton, 21, D(R)","Kayne Ramsay Southampton, 21, D(R)",1,90,5,-,1,1,3,-,-,-,5.06,-,-,-,-,-,-,-,-,19,78.9,-,-,-
+0,"521AdriánLiverpool, 35, GK","Adrián Liverpool, 35, GK",3,270,-,-,-,-,2,-,-,-,5.9,-,-,-,-,-,-,-,-,26.7,75,-,3.3,-
+1,"522Tyrese FrancoisFulham, 21, Midfielder","Tyrese Francois Fulham, 21, Midfielder",0(1),14,-,-,-,-,-,-,-,-,5.89,-,-,-,-,-,-,-,-,13.0,92.3,-,-,-
+2,"523Theo WalcottEverton, 33, M(CLR),FW","Theo Walcott Everton, 33, M(CLR),FW",0(1),12,-,-,-,-,-,-,-,-,5.87,-,-,-,-,-,-,-,1,1.0,100,-,-,-
+3,"524Neil TaylorAston Villa, 33, D(L),M(L)","Neil Taylor Aston Villa, 33, D(L),M(L)",0(1),16,1,-,1,-,-,-,-,-,5.85,-,-,-,-,-,-,-,-,9.0,100,-,-,-
+4,"525Jake VokinsSouthampton, 22, D(L)","Jake Vokins Southampton, 22, D(L)",1,66,-,-,2,-,-,1,-,-,5.83,-,-,-,1,-,1,-,-,13.0,84.6,1,-,-
+5,"526Will NorrisBurnley, 28, GK","Will Norris Burnley, 28, GK",2,180,-,-,-,-,0.5,-,-,-,5.78,-,-,-,0.5,-,-,-,-,28.0,46.4,-,10.5,-
+6,"527Bailey Peacock-FarrellBurnley, 25, GK","Bailey Peacock-Farrell Burnley, 25, GK",4,360,-,-,-,-,0.3,-,-,-,5.77,-,-,-,-,0.3,-,-,-,26.5,50,-,10.8,-
+7,"528Allan TchaptchetSouthampton, 20, Defender","Allan Tchaptchet Southampton, 20, Defender",0(1),12,-,-,-,-,-,-,-,-,5.74,-,-,-,-,-,-,-,1,1.0,-,-,-,-
+8,"529Odion IghaloMan Utd, 32, AM(C),FW","Odion Ighalo Man Utd, 32, AM(C),FW",0(1),9,-,-,-,-,-,1,-,-,5.74,-,-,-,-,-,-,2,1,2.0,100,-,-,-
+9,"530Alexandre JankewitzSouthampton, 20, Midfielder","Alexandre Jankewitz Southampton, 20, Midfielder",1(1),3,1,-,0.5,-,-,-,-,-,5.68,-,-,-,-,0.5,-,-,0.5,1.5,66.7,-,-,-
+0,"511Michael ObafemiSouthampton, 21, FW","Michael Obafemi Southampton, 21, FW",0(4),57,0.3,-,0.3,-,-,0.3,-,-,5.98,-,-,-,0.3,0.8,-,0.5,0.3,3.0,100,-,-,-
+1,"512Wesley MoraesAston Villa, 25, FW","Wesley Moraes Aston Villa, 25, FW",0(3),15,-,-,-,-,-,0.3,-,-,5.96,-,-,0.3,-,0.3,-,-,0.3,1.3,100,-,-,-
+2,"513Patrick CutroneWolves, 24, FW","Patrick Cutrone Wolves, 24, FW",0(2),23,-,-,-,-,-,-,-,-,5.96,-,-,0.5,-,0.5,-,-,0.5,1.0,-,-,-,-
+3,"514Konstantinos TsimikasLiverpool, 26, D(L)","Konstantinos Tsimikas Liverpool, 26, D(L)",0(2),6,-,-,0.5,-,-,-,-,-,5.96,-,-,-,-,-,-,-,0.5,2.5,80,-,-,-
+4,"515Aboubakar KamaraFulham, 27, AM(R),FW","Aboubakar Kamara Fulham, 27, AM(R),FW",2(9),310,0.2,0.1,0.8,-,-,0.5,-,-,5.95,-,-,0.4,0.5,0.3,-,0.7,1.2,10.2,75.9,0.1,0.4,-
+5,"516Josh BensonBurnley, 22, DMC","Josh Benson Burnley, 22, DMC",2(4),261,0.8,0.5,0.7,-,0.3,0.8,-,-,5.94,-,-,0.3,-,0.2,-,0.7,0.7,13.2,77.2,-,0.2,-
+6,"517Liam DelapMan City, 19, Forward","Liam Delap Man City, 19, Forward",0(1),39,-,-,1,-,-,-,-,-,5.94,-,-,1,-,-,-,1,3.0,6.0,83.3,-,-,-
+7,"518Joel MumbongoBurnley, 23, Forward","Joel Mumbongo Burnley, 23, Forward",0(4),37,-,-,0.3,-,-,-,-,-,5.94,-,-,-,-,0.5,0.3,0.3,0.3,1.3,80,-,-,-
+8,"519Lys MoussetSheff Utd, 26, FW","Lys Mousset Sheff Utd, 26, FW",2(9),290,0.1,-,0.6,-,0.1,0.2,-,-,5.94,-,-,0.4,0.3,0.2,0.4,0.8,1.1,4.0,77.3,-,0.2,-
+9,"520Cenk TosunEverton, 31, FW","Cenk Tosun Everton, 31, FW",0(5),44,-,-,0.2,-,-,0.2,-,-,5.93,-,-,-,0.2,-,-,-,0.2,2.8,64.3,-,0.2,-
+0,"501Dane ScarlettTottenham, 18, Forward","Dane Scarlett Tottenham, 18, Forward",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+1,"502Elliot AndersonNewcastle, 19, AM(CL)","Elliot Anderson Newcastle, 19, AM(CL)",0(1),3,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,1,100,-,-,-
+2,"503Femi SerikiSheff Utd, 20, Midfielder","Femi Seriki Sheff Utd, 20, Midfielder",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+3,"504Jaden Philogene-BidaceAston Villa, 20, AM(L)","Jaden Philogene-Bidace Aston Villa, 20, AM(L)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,1,-,-,4,50,-,-,-
+4,"505Jayson MolumbyBrighton, 22, M(C)","Jayson Molumby Brighton, 22, M(C)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,1,-,-,-,-
+5,"506Jean-Philippe GbaminEverton, 26, D(CR),DMC","Jean-Philippe Gbamin Everton, 26, D(CR),DMC",0(1),11,1,-,-,-,1,-,-,-,6.0,-,-,-,-,-,-,1,-,9,66.7,-,-,-
+6,"507William FishMan Utd, 19, Defender","William Fish Man Utd, 19, Defender",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+7,"508Moise KeanEverton, 22, AM(L),FW","Moise Kean Everton, 22, AM(L),FW",0(2),13,-,-,0.5,-,-,-,-,-,6.0,-,-,0.5,-,-,-,-,0.5,3,100,-,-,-
+8,"509Lewis RichardsonBurnley, 19, Midfielder","Lewis Richardson Burnley, 19, Midfielder",0(2),3,-,-,-,-,-,-,-,-,5.98,-,-,-,-,-,-,-,-,0.5,-,-,-,-
+9,"510Reda KhadraBrighton, 20, AM(L),FW","Reda Khadra Brighton, 20, AM(L),FW",0(1),4,-,-,-,-,-,-,-,-,5.98,-,-,-,-,-,-,-,-,1,-,-,-,-
+0,"491Caleb WattsSouthampton, 20, Midfielder","Caleb Watts Southampton, 20, Midfielder",0(3),36,0.7,-,-,-,-,0.3,-,-,6.05,-,-,-,-,0.3,-,0.3,0.3,4.0,58.3,0.3,-,-
+1,"492Jonjoe KennyEverton, 25, D(LR),M(R)","Jonjoe Kenny Everton, 25, D(LR),M(R)",1(3),79,0.5,0.3,-,-,0.5,-,-,-,6.04,-,-,-,-,-,0.3,-,0.8,10.5,83.3,0.3,0.5,-
+2,"493Phil JagielkaSheff Utd, 39, D(CR)","Phil Jagielka Sheff Utd, 39, D(CR)",6(4),527,0.5,1,0.8,0.5,2.6,0.5,0.5,1,6.04,-,-,-,-,0.1,-,-,0.3,20.4,71.6,-,2.1,-
+3,"494Daniel N'LunduluSouthampton, 23, FW","Daniel N'Lundulu Southampton, 23, FW",0(13),102,-,-,0.5,-,0.2,0.1,-,-,6.03,-,-,0.1,0.1,-,0.1,0.2,0.5,2.2,72.4,-,0.1,-
+4,"495Leif DavisLeeds, 22, D(L)","Leif Davis Leeds, 22, D(L)",0(2),31,-,0.5,0.5,-,-,1.5,-,-,6.02,-,-,-,-,-,-,0.5,0.5,9.5,89.5,-,0.5,-
+5,"496Oskar BuurWolves, 24, Defender","Oskar Buur Wolves, 24, Defender",0(1),22,-,-,-,-,-,2,-,-,6.02,-,-,-,-,-,-,1,-,14.0,92.9,-,-,-
+6,"497Iliman NdiayeSheff Utd, 22, AM(C),FW","Iliman Ndiaye Sheff Utd, 22, AM(C),FW",0(1),11,1,-,-,-,-,-,-,-,6.01,-,-,-,-,-,-,-,1,3.0,100.0,-,-,-
+7,"498Thakgalo LeshabelaLeicester, 22, Midfielder","Thakgalo Leshabela Leicester, 22, Midfielder",0(1),9,-,-,-,-,-,-,-,-,6.01,-,-,-,-,-,-,1,-,7.0,85.7,-,-,-
+8,"499Shola ShoretireMan Utd, 18, Forward","Shola Shoretire Man Utd, 18, Forward",0(2),9,-,-,-,-,-,-,-,-,6.01,-,-,-,-,-,-,-,1,3.0,83.3,-,-,-
+9,"500Robert SnodgrassWest Ham, 34, M(CLR)","Robert Snodgrass West Ham, 34, M(CLR)",0(3),4,-,-,-,-,-,-,-,-,6.0,-,-,-,-,0.3,-,-,-,1.3,100.0,-,-,-
+0,"481Shane LongSouthampton, 35, AM(R),FW","Shane Long Southampton, 35, AM(R),FW",1(10),201,0.2,0.3,0.6,-,0.1,0.1,-,-,6.11,-,-,0.2,-,0.5,0.3,0.6,0.5,5.1,57.1,-,-,-
+1,"482Joshua KingEverton, 30, AM(CLR),FW","Joshua King Everton, 30, AM(CLR),FW",0(11),138,0.4,0.1,0.4,-,0.1,-,-,-,6.11,-,-,0.3,-,0.1,0.3,0.5,0.8,4.5,65.3,-,-,-
+2,"483Josh OnomahFulham, 25, M(CL)","Josh Onomah Fulham, 25, M(CL)",4(7),372,1,0.2,1.1,-,0.1,0.5,0.2,-,6.08,-,-,0.5,0.1,-,-,0.8,0.8,15.5,90.0,-,0.4,-
+3,"484Marek RodákFulham, 25, GK","Marek Rodák Fulham, 25, GK",2,180,-,-,-,-,1,-,-,-,6.08,-,-,-,-,-,-,-,-,20.5,80.5,-,4,-
+4,"485Martin KellyCrystal Palace, 32, D(CLR)","Martin Kelly Crystal Palace, 32, D(CLR)",0(1),1,1,-,-,-,-,-,-,-,6.08,-,-,-,-,-,-,-,-,3.0,66.7,-,-,-
+5,"486Wes MorganLeicester, 38, D(C)","Wes Morgan Leicester, 38, D(C)",0(3),16,-,-,-,-,0.3,-,-,-,6.07,-,-,-,-,-,-,-,-,1.7,100.0,-,0.3,-
+6,"487Zack SteffenMan City, 27, GK","Zack Steffen Man City, 27, GK",1,90,-,-,1,-,-,-,-,-,6.07,-,-,-,-,-,-,-,-,26.0,80.8,-,1,-
+7,"488Michael HectorFulham, 29, D(C),DMC","Michael Hector Fulham, 29, D(C),DMC",3(1),264,0.8,-,1.3,0.3,1.5,1.3,0.5,-,6.07,-,-,0.3,0.3,0.8,-,-,0.8,46.5,79.0,-,5,-
+8,"489Felipe AndersonWest Ham, 29, M(CLR),FW","Felipe Anderson West Ham, 29, M(CLR),FW",0(2),2,0.5,-,-,-,-,-,-,-,6.07,-,-,-,-,-,-,-,-,2.5,60.0,-,-,-
+9,"490Mamadou SakhoCrystal Palace, 32, D(C)","Mamadou Sakho Crystal Palace, 32, D(C)",3(1),275,0.8,0.8,0.5,-,2.8,-,0.5,-,6.06,-,-,0.3,-,0.3,-,0.3,0.8,23.0,88.0,-,1,-
+0,"471Yan ValerySouthampton, 23, D(CR),M(R)","Yan Valery Southampton, 23, D(CR),M(R)",1(2),101,1.7,0.7,0.3,-,1.7,1.3,-,-,6.15,-,-,0.7,0.3,0.3,-,1.7,2,15.0,88.9,0.7,0.3,-
+1,"472Islam SlimaniLeicester, 33, FW","Islam Slimani Leicester, 33, FW",0(1),19,-,-,-,-,-,-,-,-,6.14,-,-,1,1,-,-,-,1,9.0,66.7,-,-,-
+2,"473Kyle EdwardsWest Brom, 24, AM(L)","Kyle Edwards West Brom, 24, AM(L)",1(4),114,0.6,0.2,0.2,-,-,-,-,-,6.14,-,-,0.4,0.2,0.2,-,0.2,0.2,6.8,91.2,-,-,-
+3,"474Denis OdoiFulham, 34, D(CLR),DMC","Denis Odoi Fulham, 34, D(CLR),DMC",3,270,1,1.7,2.3,1,1.7,1,0.3,-,6.13,-,-,0.7,0.3,1.3,0.3,0.7,0.3,56.0,82.7,0.3,2.3,-
+4,"475Hal Robson-KanuWest Brom, 33, AM(LR),FW","Hal Robson-Kanu West Brom, 33, AM(LR),FW",2(17),549,0.1,0.1,0.8,-,0.4,0.1,-,-,6.13,2,-,0.7,0.3,0.5,0.2,0.8,1.6,4.2,70.9,-,0.1,-
+5,"476José IzquierdoBrighton, 29, AM(L)","José Izquierdo Brighton, 29, AM(L)",0(1),8,-,-,-,-,-,-,-,-,6.13,-,-,1,-,-,-,-,1,7.0,85.7,-,-,-
+6,"477Andi ZeqiriBrighton, 22, FW","Andi Zeqiri Brighton, 22, FW",0(9),165,0.3,-,0.2,-,0.2,0.1,-,-,6.13,-,-,0.8,0.1,0.2,-,0.1,0.9,4.2,52.6,0.1,-,-
+7,"478Neeskens KebanoFulham, 30, AM(CLR)","Neeskens Kebano Fulham, 30, AM(CLR)",1(4),117,-,-,0.6,-,-,0.2,-,-,6.12,-,-,1.2,0.2,0.2,0.2,0.4,1.4,7.2,88.9,-,-,-
+8,"479Mathew RyanBrighton, 30, GK","Mathew Ryan Brighton, 30, GK",11,990,0.1,-,0.1,-,1.1,-,-,-,6.12,-,-,-,-,-,-,-,-,31.8,77.1,-,5.2,-
+9,"480Romaine SawyersWest Brom, 30, M(CL)","Romaine Sawyers West Brom, 30, M(CL)",17(2),1490,1.6,0.9,0.9,0.1,0.5,1.5,0.2,1,6.12,-,-,0.2,0.3,0.7,-,0.5,0.7,37.9,85.3,0.1,2.2,0.1
+0,"461Shkodran MustafiArsenal, 30, D(CR)","Shkodran Mustafi Arsenal, 30, D(CR)",0(3),45,0.3,-,0.3,-,1,-,-,-,6.17,-,-,-,-,-,-,-,-,16.3,87.8,-,0.7,-
+1,"462Rhian BrewsterSheff Utd, 22, FW","Rhian Brewster Sheff Utd, 22, FW",12(15),1125,0.3,0.2,0.7,-,0.1,0.4,0.1,-,6.17,-,-,0.9,0.4,0.5,0.1,0.7,0.7,7.7,74.4,0.1,0.3,0.1
+2,"463Kepa ArrizabalagaChelsea, 27, GK","Kepa Arrizabalaga Chelsea, 27, GK",6(1),585,-,-,-,-,0.6,0.1,-,-,6.17,-,-,-,-,-,-,-,0.3,29.3,78.5,-,5.1,-
+3,"464Demarai GrayLeicester, 25, AM(CLR),FW","Demarai Gray Leicester, 25, AM(CLR),FW",0(1),18,1,-,-,-,-,-,-,-,6.17,-,-,1,-,-,-,-,1,9.0,77.8,-,1,-
+4,"465Hannibal MejbriMan Utd, 19, Midfielder","Hannibal Mejbri Man Utd, 19, Midfielder",0(1),8,-,-,-,-,-,-,-,-,6.17,-,-,-,-,1,-,-,-,3.0,100.0,-,-,-
+5,"466Nathan BroadheadEverton, 24, AM(L),FW","Nathan Broadhead Everton, 24, AM(L),FW",0(1),2,1,-,-,-,-,-,-,-,6.17,-,-,-,-,-,-,-,-,2.0,100.0,-,-,-
+6,"467Jake LivermoreWest Brom, 32, D(C),DMC","Jake Livermore West Brom, 32, D(C),DMC",15(3),1249,1.8,0.9,1.7,-,1.3,0.9,0.3,1,6.17,-,-,0.3,0.3,0.4,-,0.4,0.8,21.3,71.0,0.1,0.9,-
+7,"468Charlie AustinWest Brom, 32, FW","Charlie Austin West Brom, 32, FW",0(5),134,0.8,0.6,-,-,0.8,0.4,-,-,6.16,-,-,0.6,-,0.4,0.2,0.4,0.8,6.6,69.7,-,0.6,-
+8,"469Karlan GrantWest Brom, 24, AM(CL),FW","Karlan Grant West Brom, 24, AM(CL),FW",14(7),1133,0.2,0.2,0.4,-,0.7,0.1,-,-,6.15,1,-,0.8,0.1,0.6,0.3,0.8,1.5,10.3,75.1,-,0.1,-
+9,"470Eric GarcíaMan City, 21, D(C)","Eric García Man City, 21, D(C)",3(3),382,1.3,0.7,0.7,0.5,1.7,0.3,0.2,-,6.15,-,-,0.3,0.2,0.3,-,-,0.7,56.5,95.3,-,1.7,-
+0,"451Reiss NelsonArsenal, 22, M(LR)","Reiss Nelson Arsenal, 22, M(LR)",0(2),70,0.5,0.5,1,-,0.5,-,-,-,6.2,-,-,0.5,-,0.5,-,1,-,8.5,82.4,1,1,-
+1,"452Billy SharpSheff Utd, 36, FW","Billy Sharp Sheff Utd, 36, FW",7(9),730,0.3,-,0.9,-,0.1,0.4,-,-,6.2,3,-,0.6,0.3,0.9,0.7,1,1.1,7.0,75.0,0.1,-,0.1
+2,"453Jacob RamseyAston Villa, 21, AM(C)","Jacob Ramsey Aston Villa, 21, AM(C)",6(16),619,0.5,0.2,0.6,-,0.2,0.5,0.3,-,6.2,-,-,0.5,0.3,0.5,0.1,0.5,0.6,10.0,86.0,0.1,0.5,-
+3,"454Antwoine HackfordSheff Utd, 18, Forward","Antwoine Hackford Sheff Utd, 18, Forward",0(1),10,-,-,-,-,-,-,-,-,6.19,-,-,1,-,-,-,-,-,1.0,100.0,-,-,-
+4,"455Divock OrigiLiverpool, 27, AM(LR),FW","Divock Origi Liverpool, 27, AM(LR),FW",2(7),182,0.3,0.1,-,-,0.2,0.2,0.1,-,6.19,-,-,0.8,0.2,0.1,-,0.6,0.4,6.2,80.4,0.1,-,-
+5,"456Hamza ChoudhuryLeicester, 24, DMC","Hamza Choudhury Leicester, 24, DMC",4(6),314,0.8,0.4,0.6,-,0.7,0.6,0.1,-,6.19,-,-,0.4,-,0.2,-,-,0.6,23.5,80.9,-,0.6,-
+6,"457Kamil GrosickiWest Brom, 34, AM(LR)","Kamil Grosicki West Brom, 34, AM(LR)",2(1),149,0.7,0.7,0.3,-,0.3,2,-,-,6.19,-,1,1,1,-,-,0.3,0.7,13.3,75.0,-,0.7,-
+7,"458Alex Oxlade ChamberlainLiverpool, 28, M(CLR)","Alex Oxlade Chamberlain Liverpool, 28, M(CLR)",2(11),246,0.3,0.2,0.2,-,-,0.2,-,-,6.18,1,1,0.6,0.2,0.1,-,0.4,0.5,10.1,79.4,-,0.7,-
+8,"459Jamie ShackletonLeeds, 22, D(R),DMC","Jamie Shackleton Leeds, 22, D(R),DMC",3(10),456,0.8,0.7,0.2,-,0.2,0.5,0.1,-,6.18,-,-,-,0.2,0.2,0.1,0.1,0.5,14.8,89.6,0.1,0.2,-
+9,"460Mark NobleWest Ham, 35, M(C)","Mark Noble West Ham, 35, M(C)",8(13),707,0.4,0.6,0.4,-,0.1,0.5,0.1,-,6.17,-,-,-,0.2,0.4,-,0.3,0.2,20.5,88.6,0.1,1.3,-
+0,"441Maxime Le MarchandFulham, 32, D(CL)","Maxime Le Marchand Fulham, 32, D(CL)",1(1),122,1,-,1.5,1.5,1.5,-,-,-,6.22,-,-,0.5,-,0.5,-,-,-,42.5,91.8,-,4,-
+1,"442Ibrahima DialloSouthampton, 23, DMC","Ibrahima Diallo Southampton, 23, DMC",10(12),1012,1.3,0.5,1.0,-,0.5,0.3,-,-,6.22,-,-,0.3,0.4,0.5,-,0.7,0.9,26.7,85.0,-,0.7,-
+2,"443Rekeem HarperWest Brom, 22, DMC","Rekeem Harper West Brom, 22, DMC",0(2),30,-,0.5,0.5,-,-,-,-,-,6.22,-,-,0.5,-,-,-,-,1,8.5,82.4,-,0.5,-
+3,"444Branislav IvanovicWest Brom, 38, D(CR)","Branislav Ivanovic West Brom, 38, D(CR)",8(5),767,1.1,0.6,0.8,0.5,1.9,0.5,0.4,-,6.21,-,-,0.3,0.1,0.3,0.1,-,0.1,24.4,83.9,-,1.1,-
+4,"445Brandon WilliamsMan Utd, 21, D(L),M(L)","Brandon Williams Man Utd, 21, D(L),M(L)",2(2),187,-,0.3,0.5,0.3,1,0.3,-,-,6.21,-,-,0.3,0.3,0.8,-,0.3,0.5,30.8,84.6,0.3,0.5,-
+5,"446Lee PeltierWest Brom, 35, D(CLR),DMC,M(R)","Lee Peltier West Brom, 35, D(CLR),DMC,M(R)",3(1),229,2.3,0.3,1.0,-,2.8,-,0.3,-,6.21,-,-,-,0.3,-,-,-,0.8,16.3,56.9,0.5,0.3,-
+6,"447William SmallboneSouthampton, 22, M(R)","William Smallbone Southampton, 22, M(R)",2(1),173,2,0.7,1.0,-,0.3,0.7,-,-,6.21,-,-,0.3,-,0.7,-,0.7,0.7,24.3,83.6,-,1,-
+7,"448Dwight GayleNewcastle, 32, AM(LR),FW","Dwight Gayle Newcastle, 32, AM(LR),FW",4(14),506,0.1,0.1,0.3,-,0.1,0.4,0.1,-,6.21,1,1,0.9,0.3,0.3,0.2,0.1,0.4,6.0,85.2,0.1,-,-
+8,"449Andrii YarmolenkoWest Ham, 32, AM(CR),FW","Andrii Yarmolenko West Ham, 32, AM(CR),FW",1(14),363,0.3,0.1,0.5,-,0.1,0.4,-,-,6.21,-,1,0.5,0.3,0.4,0.3,0.7,0.8,9.0,83.7,0.2,0.4,-
+9,"450Morgan SansonAston Villa, 27, M(CLR)","Morgan Sanson Aston Villa, 27, M(CLR)",3(6),291,0.8,0.4,0.7,-,0.1,0.3,-,-,6.2,-,-,0.2,0.1,0.9,0.2,0.3,1.1,15.3,84.8,0.1,0.7,-
+0,"431Pablo HernándezLeeds, 37, M(CLR)","Pablo Hernández Leeds, 37, M(CLR)",3(13),419,0.3,-,0.1,-,-,0.7,-,-,6.25,-,2,0.9,0.4,0.4,-,0.1,0.6,23.6,77.0,-,1.5,-
+1,"432Nathan TellaSouthampton, 22, AM(LR),FW","Nathan Tella Southampton, 22, AM(LR),FW",7(11),742,0.4,0.2,0.9,-,0.1,0.5,-,-,6.25,1,1,0.9,0.3,1.3,0.3,1.3,1.9,7.5,71.9,0.1,0.1,-
+2,"433VitinhaWolves, 22, M(C)","Vitinha Wolves, 22, M(C)",5(14),513,0.4,0.2,0.4,-,0.1,0.3,-,-,6.23,-,1,0.4,0.6,0.3,0.1,0.2,0.9,17.4,90.3,0.2,0.5,0.1
+3,"434Davy PröpperBrighton, 30, M(C)","Davy Pröpper Brighton, 30, M(C)",2(5),211,0.9,0.1,0.1,-,-,0.4,-,-,6.23,-,-,0.6,-,-,-,0.7,0.3,13.3,75.3,-,0.6,-
+4,"435Niall HugginsLeeds, 21, Defender","Niall Huggins Leeds, 21, Defender",0(1),37,-,-,-,-,1,1,-,-,6.23,-,-,-,-,-,-,-,-,17.0,88.2,-,-,-
+5,"436Ruben Loftus-CheekChelsea, 26, M(CLR)","Ruben Loftus-Cheek Chelsea, 26, M(CLR)",1,61,-,-,1,-,-,-,-,-,6.23,-,-,-,-,2,-,1,2,17.0,64.7,-,-,-
+6,"437John LundstramSheff Utd, 28, DMC","John Lundstram Sheff Utd, 28, DMC",23(5),2032,0.9,0.5,0.9,0.1,0.8,1.2,0.3,-,6.23,-,2,0.7,0.7,0.7,-,0.7,1,35.7,84.2,0.4,1.8,-
+7,"438Ian Poveda-OcampoLeeds, 22, AM(R)","Ian Poveda-Ocampo Leeds, 22, AM(R)",0(14),345,0.4,0.1,0.4,-,0.1,0.4,0.1,-,6.23,-,-,0.4,0.4,0.4,0.1,1.1,0.9,7.9,75.7,0.1,0.3,-
+8,"439Niels NkounkouEverton, 21, D(L),M(L)","Niels Nkounkou Everton, 21, D(L),M(L)",1(1),81,2,-,0.5,-,2,2.5,-,-,6.23,-,-,0.5,-,-,-,0.5,1.5,14.0,85.7,0.5,0.5,-
+9,"440Carney ChukwuemekaAston Villa, 18, Midfielder","Carney Chukwuemeka Aston Villa, 18, Midfielder",0(2),18,1,-,1,-,-,1,-,-,6.22,-,-,0.5,-,-,-,-,0.5,4.5,66.7,-,0.5,-
+0,"421Dale StephensBurnley, 32, M(C)","Dale Stephens Burnley, 32, M(C)",3(4),259,1.6,1.1,1.1,-,0.1,0.4,-,-,6.28,-,-,0.6,-,0.3,-,0.7,0.4,17.0,82.4,-,1,-
+1,"422Aaron ConnollyBrighton, 22, FW","Aaron Connolly Brighton, 22, FW",9(8),793,0.4,-,0.4,-,0.1,0.1,-,-,6.28,2,1,1.4,0.4,0.9,0.5,0.5,1.6,5.4,78.3,-,-,-
+2,"423Sead KolasinacArsenal, 28, D(CL),DMC,M(L)","Sead Kolasinac Arsenal, 28, D(CL),DMC,M(L)",1,90,-,1,1,-,-,-,-,-,6.28,-,-,-,-,1,-,-,-,62.0,87.1,-,1,-
+3,"424Jay RodriguezBurnley, 32, AM(CLR),FW","Jay Rodriguez Burnley, 32, AM(CLR),FW",12(19),1256,0.8,0.1,1,-,0.2,0.5,0.1,-,6.27,1,2,1,0.2,0.6,0.5,0.7,1.6,8.8,73.4,-,0.1,-
+4,"425Alireza JahanbakhshBrighton, 28, AM(CLR)","Alireza Jahanbakhsh Brighton, 28, AM(CLR)",6(15),525,0.4,0.4,0.3,-,-,0.5,-,-,6.26,-,1,0.9,0.5,0.2,-,0.3,0.6,11.0,77.6,0.2,0.3,0.1
+5,"426Axel TuanzebeMan Utd, 24, D(CR)","Axel Tuanzebe Man Utd, 24, D(CR)",4(5),402,1.4,0.3,0.7,0.1,1.7,0.1,0.6,1,6.26,-,-,-,-,0.2,-,0.1,0.2,29.2,88.6,-,1.9,-
+6,"427Sidnei TavaresLeicester, 20, Midfielder","Sidnei Tavares Leicester, 20, Midfielder",1(1),85,0.5,-,0.5,-,-,-,0.5,-,6.26,-,-,0.5,-,1.5,-,1.5,1,13.0,69.2,-,-,-
+7,"428Oliver BurkeSheff Utd, 25, AM(LR),FW","Oliver Burke Sheff Utd, 25, AM(LR),FW",14(11),1273,0.6,0.1,0.9,-,0.2,0.8,-,-,6.25,1,1,1,0.6,0.2,0.1,1.1,1.9,10.1,70.2,-,0.1,-
+8,"429Jack ButlandCrystal Palace, 29, GK","Jack Butland Crystal Palace, 29, GK",1,90,-,-,-,-,-,-,-,-,6.25,-,-,-,-,-,-,-,-,19.0,21.1,-,3,-
+9,"430Joseph WillockArsenal, 22, M(C)","Joseph Willock Arsenal, 22, M(C)",2(5),235,0.9,0.4,0.9,-,-,0.6,0.1,-,6.25,-,-,0.6,0.3,0.6,-,0.4,1.9,12.4,78.2,-,0.1,-
+0,"411Kevin LongBurnley, 31, D(C)","Kevin Long Burnley, 31, D(C)",7(1),636,1.4,0.8,0.9,0.8,3.0,0.3,0.9,-,6.32,-,-,0.3,0.1,0.3,-,-,0.1,33.1,71.3,-,2.6,-
+1,"412Andy CarrollNewcastle, 33, FW","Andy Carroll Newcastle, 33, FW",4(14),384,0.2,-,0.7,-,0.8,0.4,-,-,6.31,1,-,0.8,0.1,0.6,0.2,0.2,1.0,7.6,61.8,-,0.3,-
+2,"413Fábio SilvaWolves, 19, FW","Fábio Silva Wolves, 19, FW",11(21),1357,0.2,0.1,0.6,-,0.2,0.3,-,-,6.3,4,3,1.5,0.3,0.7,0.2,0.7,1.4,10.1,72.8,-,-,-
+3,"414Anthony GordonEverton, 21, AM(LR)","Anthony Gordon Everton, 21, AM(LR)",1(2),88,1.0,0.3,-,-,0.7,0.7,-,-,6.29,-,-,-,0.3,0.7,0.3,0.7,1.7,8.3,84.0,-,0.3,-
+4,"415James McCarthyCrystal Palace, 31, M(C)","James McCarthy Crystal Palace, 31, M(C)",10(6),824,1.1,0.5,0.4,0.1,0.7,0.8,0.4,-,6.29,-,-,0.1,0.3,0.3,-,0.1,0.6,20.7,76.4,0.3,1.5,-
+5,"416Kieran GibbsWest Brom, 32, D(L),M(L)","Kieran Gibbs West Brom, 32, D(L),M(L)",9(1),811,1.5,1.6,0.6,0.1,2.7,0.2,0.6,-,6.29,-,-,0.1,0.4,0.2,-,0.1,0.9,26.4,74.2,0.3,1.1,-
+6,"417Matthew LongstaffNewcastle, 22, M(C)","Matthew Longstaff Newcastle, 22, M(C)",4(1),377,0.6,1.4,0.6,0.2,0.4,1.2,-,-,6.29,-,-,-,0.4,1.0,-,0.2,0.2,27.8,82.7,0.4,0.6,-
+7,"418Jean-Philippe MatetaCrystal Palace, 24, FW","Jean-Philippe Mateta Crystal Palace, 24, FW",2(5),217,0.1,-,0.4,-,0.3,0.3,-,-,6.29,1,-,0.6,0.1,0.1,0.7,0.7,1.4,6.7,61.7,-,-,-
+8,"419Fabian DelphEverton, 32, D(L),M(CL)","Fabian Delph Everton, 32, D(L),M(CL)",2(6),261,0.6,0.5,0.4,-,0.9,0.3,-,-,6.29,-,-,0.1,0.3,0.9,-,-,0.5,27.1,89.9,-,1,-
+9,"420Jakub ModerBrighton, 23, M(CL)","Jakub Moder Brighton, 23, M(CL)",7(5),648,1.3,0.3,1,-,0.6,1.1,0.1,-,6.28,-,-,1.1,0.3,0.3,0.2,0.8,1.2,21.9,73.4,0.1,0.4,-
+0,"401Matt PhillipsWest Brom, 31, M(CLR),FW","Matt Phillips West Brom, 31, M(CLR),FW",20(13),1829,0.5,0.3,0.9,-,0.8,0.5,0.1,-,6.34,2,1,0.7,0.8,0.2,0.2,0.8,1.6,14.5,74.3,0.6,0.4,-
+1,"402Ross BarkleyChelsea, 28, M(CLR)","Ross Barkley Chelsea, 28, M(CLR)",0(2),40,-,-,1.0,-,-,-,-,-,6.34,-,-,0.5,0.5,1.0,0.5,0.5,1.0,13.5,85.2,-,2,-
+2,"403Jairo RiedewaldCrystal Palace, 25, D(CL),DMC","Jairo Riedewald Crystal Palace, 25, D(CL),DMC",19(14),1819,1,0.9,0.6,-,0.7,0.6,0.2,-,6.34,2,-,0.2,0.4,0.2,-,0.3,0.8,19.1,85.6,-,0.5,-
+3,"404Jamal LewisNewcastle, 24, D(L),M(L)","Jamal Lewis Newcastle, 24, D(L),M(L)",20(4),1833,1.5,0.5,0.8,0.5,1.5,0.9,0.3,-,6.34,-,1,0.1,0.6,0.7,-,0.5,0.7,27.1,77.1,0.5,1.3,-
+4,"405Nathaniel ClyneCrystal Palace, 31, D(LR),M(R)","Nathaniel Clyne Crystal Palace, 31, D(LR),M(R)",13,1147,1.3,1.4,0.3,0.2,1.6,0.5,0.2,-,6.33,-,1,0.3,0.3,0.2,-,0.2,0.6,34.1,76.3,0.4,1.2,-
+5,"406Jeff HendrickNewcastle, 30, M(CR)","Jeff Hendrick Newcastle, 30, M(CR)",17(5),1423,0.4,0.9,0.7,-,0.6,0.5,0.4,-,6.33,2,1,0.5,0.3,0.5,0.1,0.7,0.6,24.5,80.1,0.1,1.3,-
+6,"407Eddie NketiahArsenal, 23, FW","Eddie Nketiah Arsenal, 23, FW",4(13),415,0.2,-,0.6,-,0.3,0.1,-,-,6.33,2,1,0.7,0.5,0.6,-,0.3,0.8,5.4,82.4,0.1,-,-
+7,"408Michy BatshuayiCrystal Palace, 28, FW","Michy Batshuayi Crystal Palace, 28, FW",7(11),724,0.3,0.2,0.7,-,0.3,0.4,0.1,-,6.32,2,1,0.7,0.5,0.3,0.6,1.2,1.4,9.3,71.3,0.1,0.1,-
+8,"409Hélder CostaLeeds, 28, AM(CLR)","Hélder Costa Leeds, 28, AM(CLR)",13(9),1158,1.1,0.1,0.9,-,0.2,1,-,1,6.32,3,3,0.7,0.4,0.8,0.1,0.9,2.0,13.8,76.6,0.1,0.1,-
+9,"410Billy GilmourChelsea, 21, DMC","Billy Gilmour Chelsea, 21, DMC",3(2),260,0.8,0.6,0.4,-,0.2,1,0.4,-,6.32,-,-,0.2,0.6,0.4,-,-,0.4,45.0,88.0,-,1.2,-
+0,"391Matej VydraBurnley, 30, AM(CL),FW","Matej Vydra Burnley, 30, AM(CL),FW",15(13),1368,0.3,0.2,0.2,-,0.2,0.3,-,-,6.36,3,2,1.3,0.5,0.5,0.4,0.8,1.9,8.4,71.2,-,0.1,-
+1,"392Sean LongstaffNewcastle, 24, DMC","Sean Longstaff Newcastle, 24, DMC",15(7),1406,1.4,0.9,1,-,0.6,1.1,0.2,-,6.36,-,1,0.7,0.5,1,-,0.3,0.8,25.4,81.5,0.3,2.3,-
+2,"393Erik LamelaTottenham, 30, AM(CLR)","Erik Lamela Tottenham, 30, AM(CLR)",5(18),708,0.7,0.3,1,-,-,0.6,-,-,6.36,1,-,0.9,0.4,0.4,-,0.6,0.9,14.7,83.1,0.1,0.3,-
+3,"394Keinan DavisAston Villa, 24, FW","Keinan Davis Aston Villa, 24, FW",1(14),266,0.1,-,0.3,-,0.1,0.1,-,-,6.36,1,1,0.6,0.4,0.3,-,0.3,0.7,4.9,74.0,0.1,0.1,-
+4,"395Ki-Jana HoeverWolves, 20, M(R)","Ki-Jana Hoever Wolves, 20, M(R)",5(7),574,1.2,0.8,0.3,0.1,1.8,1.0,-,-,6.36,-,-,0.1,0.3,0.3,0.1,0.5,1.0,24.3,78.0,0.2,0.9,-
+5,"396Jack O'ConnellSheff Utd, 28, D(C)","Jack O'Connell Sheff Utd, 28, D(C)",2,180,1.5,1,-,0.5,3.5,0.5,1.5,-,6.36,-,-,-,-,-,0.5,-,1.0,38.5,71.4,-,2,-
+6,"397George BaldockSheff Utd, 29, D(CR),M(R)","George Baldock Sheff Utd, 29, D(CR),M(R)",32,2789,1.5,0.8,1.4,0.1,1.9,0.9,0.2,-,6.35,-,2,0.4,0.6,0.7,0.3,0.6,1.0,28.0,78.3,0.3,0.7,-
+7,"398DeAndre YedlinNewcastle, 28, D(R),M(R)","DeAndre Yedlin Newcastle, 28, D(R),M(R)",5(1),437,1.5,1.2,0.7,-,2.3,1.0,0.2,-,6.35,-,-,0.3,0.5,0.7,0.2,0.2,1.2,22.5,64.4,0.2,1.2,-
+8,"399Owen OtasowieWolves, 21, Midfielder","Owen Otasowie Wolves, 21, Midfielder",2(4),187,0.8,0.5,0.5,-,0.7,0.2,0.2,-,6.35,-,1,0.7,0.3,1,-,0.5,1.2,9.8,72.9,-,-,-
+9,"400Donny van de BeekMan Utd, 25, M(C)","Donny van de Beek Man Utd, 25, M(C)",4(15),515,0.8,0.3,0.3,-,0.3,0.4,0.1,-,6.35,1,1,0.1,0.2,0.3,-,0.4,0.6,14.4,86.1,-,0.3,-
+0,"381James TomkinsCrystal Palace, 33, D(CR)","James Tomkins Crystal Palace, 33, D(CR)",6(2),552,0.5,0.5,0.4,0.4,5.4,0.1,0.4,-,6.39,-,-,0.3,0.1,0.1,-,-,0.4,22.8,76.9,-,1.5,-
+1,"382Ben JohnsonWest Ham, 22, D(LR),M(L)","Ben Johnson West Ham, 22, D(LR),M(L)",5(9),519,0.8,0.8,0.4,-,0.4,0.1,0.1,-,6.39,1,-,0.2,0.3,0.2,-,0.4,0.3,13.1,72.3,0.2,0.6,-
+2,"383Morgan Gibbs-WhiteWolves, 22, AM(CR),FW","Morgan Gibbs-White Wolves, 22, AM(CR),FW",4(7),412,0.8,0.3,0.5,-,0.1,0.6,-,-,6.38,1,-,0.9,0.7,0.9,0.1,0.5,1.6,20.2,86.0,-,0.8,-
+3,"384Ryan FraserNewcastle, 28, M(CLR),FW","Ryan Fraser Newcastle, 28, M(CLR),FW",9(9),927,0.2,0.3,0.3,-,0.3,0.2,-,-,6.38,-,2,0.7,1.4,1.1,-,0.3,0.7,14.6,79.4,1.4,0.2,-
+4,"385Javier ManquilloNewcastle, 28, D(LR),M(R)","Javier Manquillo Newcastle, 28, D(LR),M(R)",10(3),826,1.8,0.7,0.5,0.1,1.1,0.5,0.1,-,6.37,-,-,0.1,0.4,0.6,-,0.5,1.2,22.3,75.9,0.5,0.8,-
+5,"386Carlos ViníciusTottenham, 27, FW","Carlos Vinícius Tottenham, 27, FW",3(6),306,0.3,0.2,1.2,-,0.6,-,-,-,6.37,1,-,0.8,0.2,0.3,0.2,0.8,1.9,5.1,52.2,-,0.1,-
+6,"387Filip KrovinovicWest Brom, 26, M(CL)","Filip Krovinovic West Brom, 26, M(CL)",5(6),545,1.2,0.4,0.5,-,0.2,1.1,-,-,6.37,-,-,0.7,0.5,1.1,-,0.5,1.1,32.7,83.3,0.5,1.4,-
+7,"388Harry WinksTottenham, 26, DMC","Harry Winks Tottenham, 26, DMC",9(6),861,1.1,0.7,0.7,-,0.7,1,0.3,-,6.37,-,-,0.3,0.3,0.8,-,0.2,0.4,45.4,84.9,0.1,1.7,-
+8,"389Moussa DjenepoSouthampton, 23, AM(LR)","Moussa Djenepo Southampton, 23, AM(LR)",15(12),1240,1.9,0.4,1.1,-,0.4,1.3,0.1,-,6.37,1,-,0.5,0.2,1.4,0.1,0.6,1.8,14.1,72.8,-,0.3,-
+9,"390Nampalys MendyLeicester, 29, M(C)","Nampalys Mendy Leicester, 29, M(C)",15(8),1458,1.1,0.6,0.9,-,0.3,0.6,-,-,6.36,-,1,0.2,0.2,1.3,-,0.5,0.8,42.3,91.0,-,1.1,-
+0,"371Semi AjayiWest Brom, 28, D(C),DMC","Semi Ajayi West Brom, 28, D(C),DMC",31(2),2780,1.2,1.3,0.8,0.4,3.6,0.5,1,-,6.4,2,-,0.4,0.2,0.1,-,0.2,0.7,28.4,73.2,-,1.8,-
+1,"372Sam FieldWest Brom, 24, DMC","Sam Field West Brom, 24, DMC",0(3),62,1.7,0.7,0.7,-,1,-,0.3,-,6.4,-,-,-,-,0.3,-,0.3,0.7,8.0,62.5,-,0.3,-
+2,"373Tim ReamFulham, 34, D(CL),DMC","Tim Ream Fulham, 34, D(CL),DMC",7,630,1.7,0.9,0.4,0.1,3.3,0.4,0.7,-,6.4,-,-,-,-,-,-,0.1,0.3,66.9,90.6,-,3.7,-
+3,"374Percy TauBrighton, 28, AM(CR),FW","Percy Tau Brighton, 28, AM(CR),FW",1(2),102,0.3,-,-,-,-,0.7,-,-,6.39,-,1,-,1,0.3,-,0.3,1.7,10.3,77.4,-,-,0.3
+4,"375Xherdan ShaqiriLiverpool, 30, M(CLR)","Xherdan Shaqiri Liverpool, 30, M(CLR)",5(9),553,0.5,0.1,0.8,-,-,0.4,-,-,6.39,-,2,0.8,1.4,0.4,-,0.5,0.9,28.5,87.2,0.5,0.9,0.1
+5,"376Joe BryanFulham, 28, D(L),M(CL)","Joe Bryan Fulham, 28, D(L),M(CL)",7(9),666,0.9,0.9,0.6,0.1,0.7,0.3,0.1,-,6.39,1,-,0.5,0.3,0.4,-,0.2,0.8,19.6,75.2,0.4,0.8,0.1
+6,"377Phil BardsleyBurnley, 36, D(LR)","Phil Bardsley Burnley, 36, D(LR)",3(1),273,1.5,1.5,2,0.3,3,0.8,0.3,-,6.39,-,-,0.8,-,1,-,0.3,0.3,27.3,64.2,0.5,1.3,-
+7,"378Josh MajaFulham, 23, FW","Josh Maja Fulham, 23, FW",9(6),810,0.5,0.3,0.5,-,0.1,0.4,0.1,-,6.39,3,-,1.4,0.5,0.5,0.1,0.9,1.7,12.0,85.0,-,0.2,-
+8,"379Fabian SchärNewcastle, 30, D(C)","Fabian Schär Newcastle, 30, D(C)",13(5),1247,0.7,1.5,1.2,0.3,2.8,0.7,0.7,-,6.39,1,-,0.7,-,0.8,0.1,0.3,0.2,32.3,77.1,-,3.5,-
+9,"380Enda StevensSheff Utd, 31, D(CL),M(L)","Enda Stevens Sheff Utd, 31, D(CL),M(L)",30,2700,2.0,0.7,1.1,0.3,2.5,0.8,0.4,-,6.39,-,1,0.5,0.6,0.3,0.1,1.0,1.5,39.5,78.1,0.4,1.9,-
+0,"361Dennis PraetLeicester, 28, AM(CR)","Dennis Praet Leicester, 28, AM(CR)",10(5),724,0.9,0.5,0.8,-,0.2,0.6,0.1,-,6.41,1,1,0.5,0.5,0.1,-,0.6,0.7,19.6,82.7,0.3,0.4,-
+1,"362Steven AlzateBrighton, 23, DMC,M(L)","Steven Alzate Brighton, 23, DMC,M(L)",10(5),898,1.1,0.5,1.3,-,0.6,0.6,0.1,-,6.41,1,-,0.5,0.7,0.4,0.1,0.6,0.9,29.1,89.9,0.1,1.5,-
+2,"363BernardEverton, 29, AM(CL)","Bernard Everton, 29, AM(CL)",3(9),450,0.7,0.7,0.5,-,0.4,0.7,-,-,6.41,1,-,0.5,0.8,0.6,-,0.9,1.3,21.0,84.9,0.3,0.7,-
+3,"364Grady DianganaWest Brom, 24, AM(CLR),FW","Grady Diangana West Brom, 24, AM(CLR),FW",15(5),1239,1.8,0.8,0.6,-,0.4,1.2,0.1,-,6.41,1,-,0.7,0.3,1.8,0.2,1.9,2.6,16.8,76.2,0.1,0.3,-
+4,"365Callum RobinsonWest Brom, 27, AM(CLR),FW","Callum Robinson West Brom, 27, AM(CLR),FW",20(8),1567,0.3,0.3,0.1,-,0.3,0.6,-,-,6.41,5,-,1.1,0.6,0.7,0.3,0.9,1.4,13.9,74.9,0.2,0.4,-
+5,"366Manuel LanziniWest Ham, 29, M(CLR)","Manuel Lanzini West Ham, 29, M(CLR)",5(12),560,0.5,0.4,0.4,-,0.3,0.4,-,-,6.41,1,1,0.7,0.6,0.6,0.2,0.5,0.8,21.8,90.5,0.1,0.5,-
+6,"367Eric BaillyMan Utd, 28, D(CR)","Eric Bailly Man Utd, 28, D(CR)",10(2),915,0.4,1.1,0.8,0.3,3.0,0.1,0.9,-,6.41,-,-,0.2,-,0.3,-,-,0.6,46.8,88.3,-,1.7,-
+7,"368Daniel AmarteyLeicester, 27, D(CR),DMC","Daniel Amartey Leicester, 27, D(CR),DMC",9(4),722,0.8,0.9,0.2,0.3,1.8,0.3,0.3,-,6.4,1,-,0.2,-,0.1,-,0.2,0.4,34.9,86.3,-,1.2,-
+8,"369Takumi MinaminoLiverpool, 27, AM(CLR),FW","Takumi Minamino Liverpool, 27, AM(CLR),FW",2(7),289,0.4,0.2,0.4,-,0.3,1.3,-,-,6.4,1,-,0.8,-,0.2,0.1,0.6,0.8,15.3,79.7,-,0.1,-
+9,"370Ben OsbornSheff Utd, 27, D(L),M(CLR)","Ben Osborn Sheff Utd, 27, D(L),M(CLR)",17(7),1606,1.4,0.5,0.4,-,0.5,1.1,0.1,-,6.4,1,-,0.4,0.7,0.6,0.2,1,1.8,31.0,81.0,0.7,0.8,-
+0,"351Erik PietersBurnley, 33, D(L),M(L)","Erik Pieters Burnley, 33, D(L),M(L)",13(7),1262,1.5,0.6,1.3,0.3,1.4,1,0.5,1,6.44,-,1,0.2,0.3,1.1,0.1,0.5,0.6,23.6,74.4,-,1.4,-
+1,"352Ryan FredericksWest Ham, 29, D(R),M(R)","Ryan Fredericks West Ham, 29, D(R),M(R)",6(8),567,0.6,0.8,0.8,0.1,1.4,0.3,0.1,-,6.44,1,1,0.3,0.9,0.7,0.1,0.2,0.2,16.1,77.0,0.4,0.1,-
+2,"353Daniel JebbisonSheff Utd, 18, FW","Daniel Jebbison Sheff Utd, 18, FW",3(1),284,1.5,0.3,1.5,-,-,1,0.3,-,6.43,1,-,1,0.3,1,0.3,1.3,2,8.8,68.6,-,0.3,-
+3,"354John RuddyWolves, 35, GK","John Ruddy Wolves, 35, GK",1(1),91,-,-,-,-,-,-,-,-,6.43,-,-,-,-,-,-,-,-,7.0,64.3,-,1.5,-
+4,"355Tyler RobertsLeeds, 23, AM(C),FW","Tyler Roberts Leeds, 23, AM(C),FW",14(13),1341,0.6,0.3,0.9,-,0.4,0.6,0.1,-,6.43,1,2,1,0.6,1.2,0.3,0.6,1.2,17.1,71.6,0.1,0.5,0.1
+5,"356Sander BergeSheff Utd, 24, M(C)","Sander Berge Sheff Utd, 24, M(C)",13(2),1120,1.1,0.3,0.9,0.1,1.2,0.5,0.1,-,6.43,1,1,0.7,0.9,0.3,0.1,0.9,1.6,29.1,85.6,0.1,1,-
+6,"357Mohamed ElnenyArsenal, 29, DMC","Mohamed Elneny Arsenal, 29, DMC",17(6),1542,0.6,1,0.4,-,0.9,0.9,0.2,-,6.43,1,-,0.4,0.2,0.4,-,0.2,0.3,44.0,93.0,-,1.6,-
+7,"358Takumi MinaminoSouthampton, 27, AM(CLR),FW","Takumi Minamino Southampton, 27, AM(CLR),FW",9(1),717,0.7,0.4,0.7,-,0.9,1.7,0.1,-,6.42,2,-,1.3,0.5,1.1,0.1,0.6,1.6,24.9,73.5,-,0.7,-
+8,"359Theo CorbeanuWolves, 20, AM(LR)","Theo Corbeanu Wolves, 20, AM(LR)",0(1),8,2,1,-,-,-,-,-,-,6.42,-,-,-,1,-,-,-,2,2.0,100.0,1,-,-
+9,"360Ryan BertrandSouthampton, 32, D(CL),M(L)","Ryan Bertrand Southampton, 32, D(CL),M(L)",29,2599,2.1,1,1,0.2,1.3,0.6,-,-,6.41,-,1,0.3,0.5,1.2,0.1,0.3,0.9,41.3,79.6,0.5,0.8,-
+0,"341André GomesEverton, 28, M(CLR)","André Gomes Everton, 28, M(CLR)",17(11),1568,1.3,0.4,1.3,-,0.4,1.5,-,-,6.46,-,1,0.5,0.5,0.5,0.1,1.1,1.1,31.3,85.3,0.1,2.0,-
+1,"342Vicente GuaitaCrystal Palace, 35, GK","Vicente Guaita Crystal Palace, 35, GK",37,3330,-,-,-,-,0.9,-,-,-,6.46,-,-,-,-,0.2,-,-,-,24.9,49.6,-,6.8,-
+2,"343Rúben VinagreWolves, 23, D(L),M(L)","Rúben Vinagre Wolves, 23, D(L),M(L)",1(1),172,3.5,1,1,-,2.0,0.5,-,-,6.46,-,-,-,0.5,-,-,3,0.5,40.0,86.3,1,1.0,-
+3,"344Adam LallanaBrighton, 34, M(CLR)","Adam Lallana Brighton, 34, M(CLR)",16(14),1592,0.9,0.5,0.6,-,0.4,1,0.1,-,6.45,1,1,0.7,0.8,0.7,0.1,0.5,0.8,30.8,85.0,0.1,0.6,-
+4,"345Virgil van DijkLiverpool, 30, D(C)","Virgil van Dijk Liverpool, 30, D(C)",5,371,0.6,1,0.8,1.2,1.6,-,0.2,-,6.45,1,-,0.8,-,0.4,0.2,-,0.2,68.2,90.0,-,5.6,-
+5,"346Moussa SissokoTottenham, 32, M(CR)","Moussa Sissoko Tottenham, 32, M(CR)",15(10),1577,0.9,0.9,0.9,-,0.9,0.5,0.2,-,6.44,-,-,0.1,0.2,0.4,-,0.6,0.7,30.4,84.4,-,1.2,-
+6,"347Willian JoséWolves, 30, FW","Willian José Wolves, 30, FW",12(5),1114,0.1,0.1,0.5,-,0.7,0.2,0.1,-,6.44,1,-,1.1,0.7,0.6,0.1,0.8,1.7,17.5,81.2,0.1,1.0,-
+7,"348Ainsley Maitland-NilesArsenal, 24, D(LR),M(CLR)","Ainsley Maitland-Niles Arsenal, 24, D(LR),M(CLR)",5(6),486,1,1.3,0.5,0.1,0.5,0.4,0.2,-,6.44,-,-,0.2,0.2,0.3,0.2,0.6,0.9,22.8,78.1,0.2,0.9,-
+8,"349MarçalWolves, 33, D(CL),M(L)","Marçal Wolves, 33, D(CL),M(L)",7(6),622,1,0.9,0.9,0.1,1.5,0.4,0.2,-,6.44,-,-,0.2,0.3,0.2,-,0.2,0.5,23.2,82.7,0.1,1.5,-
+9,"350Alexis Mac AllisterBrighton, 23, M(CL),FW","Alexis Mac Allister Brighton, 23, M(CL),FW",13(8),1117,1.2,0.4,0.9,-,0.1,1.3,0.2,-,6.44,1,1,1.1,0.7,0.7,-,0.8,1.3,18.9,80.8,-,0.8,-
+0,"331Joe GomezLiverpool, 25, D(CLR)","Joe Gomez Liverpool, 25, D(CLR)",6(1),590,0.4,0.6,0.9,0.3,4,0.6,0.3,-,6.48,-,-,-,0.1,0.9,-,0.4,0.3,79.4,89.7,-,5.6,-
+1,"332James MilnerLiverpool, 36, D(LR),M(CLR)","James Milner Liverpool, 36, D(LR),M(CLR)",11(15),1062,1,0.5,0.7,-,0.5,0.8,0.1,-,6.48,-,1,0.5,0.5,0.4,-,0.5,0.5,33.0,85.6,0.4,1.1,-
+2,"333Emil KrafthNewcastle, 27, D(CR)","Emil Krafth Newcastle, 27, D(CR)",14(2),1290,1.2,0.9,0.8,0.4,2.9,0.8,0.6,-,6.47,1,-,0.4,0.4,0.6,0.1,0.3,0.6,28.4,74.9,0.2,1.2,-
+3,"334David de GeaMan Utd, 31, GK","David de Gea Man Utd, 31, GK",26,2296,-,-,-,-,0.5,-,-,-,6.47,-,-,-,-,0.1,-,-,-,19.3,75.4,-,3.2,-
+4,"335Cengiz ÜnderLeicester, 24, AM(CLR)","Cengiz Ünder Leicester, 24, AM(CLR)",1(8),275,0.4,0.2,0.1,-,-,0.2,-,-,6.47,-,2,1,0.7,0.3,0.2,1,0.9,12.3,77.5,0.3,0.2,-
+5,"336Patrick van AanholtCrystal Palace, 31, D(L),M(L)","Patrick van Aanholt Crystal Palace, 31, D(L),M(L)",20(2),1776,1.6,1.4,0.5,-,1.5,1.1,0.3,-,6.47,-,1,0.8,0.5,0.1,0.1,0.3,1.1,43.3,80.1,0.4,1.4,-
+6,"337Max LoweSheff Utd, 25, D(LR),M(L)","Max Lowe Sheff Utd, 25, D(LR),M(L)",7(1),552,3.3,0.6,1.3,0.1,0.8,1.5,0.5,-,6.47,-,-,0.3,0.3,0.4,-,0.5,1,21.5,72.7,0.1,0.6,-
+7,"338Ashley BarnesBurnley, 32, AM(CL),FW","Ashley Barnes Burnley, 32, AM(CL),FW",15(7),1337,0.5,0.2,2.1,-,0.5,0.5,0.1,-,6.47,3,-,1.7,0.9,2.2,0.8,1,2,13.8,61.8,-,0.3,-
+8,"339JonnyWolves, 28, D(CLR),M(LR)","Jonny Wolves, 28, D(CLR),M(LR)",7,501,1.6,1.3,1,0.3,1,1,0.3,-,6.46,-,-,0.1,0.3,1.6,-,1,1.1,26.1,76.5,-,0.3,-
+9,"340Tom DaviesEverton, 23, M(C)","Tom Davies Everton, 23, M(C)",17(8),1426,1.2,1.4,1,-,0.8,0.9,0.4,-,6.46,-,1,0.3,0.2,1.0,-,0.4,0.8,27.9,81.2,0.1,1.4,-
+0,"321Aleksandar MitrovicFulham, 27, FW","Aleksandar Mitrovic Fulham, 27, FW",13(14),1390,0.3,0.1,0.8,-,0.3,0.2,0.1,-,6.5,3,3,2.2,0.9,0.9,0.1,0.6,2.2,14.0,73.5,0.1,0.3,0.1
+1,"322Rui PatrícioWolves, 34, GK","Rui Patrício Wolves, 34, GK",37,3330,-,-,-,-,0.2,-,-,-,6.5,-,-,-,-,-,-,-,-,17.9,62.5,-,4.7,-
+2,"323Alex McCarthySouthampton, 32, GK","Alex McCarthy Southampton, 32, GK",30,2700,-,-,-,-,0.7,0.1,-,-,6.49,-,-,-,-,0.1,-,-,-,31.3,61.0,-,4.8,-
+3,"324Steven BergwijnTottenham, 24, AM(CLR),FW","Steven Bergwijn Tottenham, 24, AM(CLR),FW",13(8),1214,0.7,0.2,1,-,0.3,0.6,-,-,6.49,1,3,0.7,0.6,0.8,-,0.7,1.4,19.8,83.7,-,0.1,-
+4,"325Neco WilliamsLiverpool, 21, D(R),M(L)","Neco Williams Liverpool, 21, D(R),M(L)",3(3),249,1,1,0.5,0.2,0.7,0.7,0.2,-,6.49,-,-,0.3,0.5,1,-,0.5,0.2,26.2,79.6,0.2,0.5,-
+5,"326Dele AlliTottenham, 26, M(CL),FW","Dele Alli Tottenham, 26, M(CL),FW",7(8),619,1.2,0.5,0.7,-,0.2,0.8,-,-,6.49,-,1,0.8,0.6,0.8,0.1,1.1,0.9,22.0,81.8,0.1,0.3,0.1
+6,"327Jóhann GudmundssonBurnley, 31, AM(CLR)","Jóhann Gudmundsson Burnley, 31, AM(CLR)",16(6),1369,0.9,0.8,0.5,-,0.8,0.5,0.1,-,6.49,2,-,0.9,0.4,0.7,-,0.5,0.8,19.9,79.6,0.2,1.0,-
+7,"328Oliver NorwoodSheff Utd, 31, M(C)","Oliver Norwood Sheff Utd, 31, M(C)",26(6),2226,1.5,1.1,0.8,-,1.5,1.6,0.4,-,6.48,-,-,0.3,1,0.3,-,0.2,0.5,43.9,83.4,1,3.5,-
+8,"329Cédric SoaresArsenal, 30, D(LR),M(R)","Cédric Soares Arsenal, 30, D(LR),M(R)",8(2),745,1.2,0.8,0.6,0.1,1.4,1.5,0.1,-,6.48,-,1,0.7,0.6,0.5,-,0.9,1,36.4,76.4,0.8,0.9,-
+9,"330Ainsley Maitland-NilesWest Brom, 24, D(LR),M(CLR)","Ainsley Maitland-Niles West Brom, 24, D(LR),M(CLR)",14(1),1233,1.5,1.1,0.7,0.1,1.4,1.3,0.1,-,6.48,-,-,0.7,0.3,0.9,-,1.6,2.1,26.5,77.6,0.1,1.1,-
+0,"311Olivier GiroudChelsea, 35, FW","Olivier Giroud Chelsea, 35, FW",8(9),747,0.2,0.3,0.9,-,0.6,0.4,0.1,-,6.52,4,-,1.7,0.4,0.4,0.4,0.4,1.0,12.9,70.3,0.1,0.1,-
+1,"312Jordan AyewCrystal Palace, 30, AM(CLR),FW","Jordan Ayew Crystal Palace, 30, AM(CLR),FW",23(10),2098,1.1,0.5,1.4,-,0.3,0.8,0.1,-,6.52,1,3,0.8,0.4,1.9,0.2,1.8,2.5,19.2,81.0,0.1,0.3,-
+2,"313Mateusz KlichLeeds, 31, M(C)","Mateusz Klich Leeds, 31, M(C)",28(7),2399,1.1,0.3,1.3,-,0.4,1.3,0.1,-,6.51,4,5,1.0,1.3,0.6,0.2,0.6,1.1,41.9,82.3,0.3,1.5,-
+3,"314John FleckSheff Utd, 30, DMC","John Fleck Sheff Utd, 30, DMC",29(2),2577,1.6,0.9,1.1,-,0.3,1.8,0.1,-,6.51,-,2,0.5,1.1,0.9,-,0.8,1.0,36.7,82.9,0.7,1.3,-
+4,"315Robbie BradyBurnley, 30, D(L),M(CLR)","Robbie Brady Burnley, 30, D(L),M(CLR)",12(7),1055,1.2,0.5,1.1,-,1.3,1.2,-,-,6.51,1,1,0.8,0.4,0.5,0.1,0.5,0.9,18.5,69.2,0.4,1.3,-
+5,"316Jack CorkBurnley, 32, DMC","Jack Cork Burnley, 32, DMC",15(1),1353,1.6,1.0,1.3,0.1,1.2,1.3,0.3,-,6.51,-,-,0.3,0.5,0.8,-,0.8,0.9,31.3,83.8,0.1,1.1,-
+6,"317Robert SnodgrassWest Brom, 34, M(CLR)","Robert Snodgrass West Brom, 34, M(CLR)",6(2),527,2.1,0.1,1.0,0.1,1.5,0.8,0.3,-,6.51,-,-,0.5,0.4,1.6,0.1,0.5,1.0,16.5,78.8,0.4,0.5,-
+7,"318Dara O'SheaWest Brom, 23, D(CR)","Dara O'Shea West Brom, 23, D(CR)",25(3),2102,1.6,1.6,0.5,0.4,3.5,0.9,0.6,-,6.51,-,-,0.1,0.2,0.6,-,0.1,0.4,28.9,63.6,-,3.2,-
+8,"319David LuizArsenal, 35, D(C),DMC","David Luiz Arsenal, 35, D(C),DMC",17(3),1400,0.6,0.8,0.8,0.2,2.5,-,0.5,-,6.51,1,-,0.8,0.1,0.3,0.1,0.1,0.2,50.0,83.5,-,3.6,0.1
+9,"320Ruben Loftus-CheekFulham, 26, M(CLR)","Ruben Loftus-Cheek Fulham, 26, M(CLR)",21(9),1913,0.8,0.2,0.9,-,0.5,0.5,0.1,-,6.5,1,-,1.2,0.6,1.7,0.1,1.4,2.4,23.6,80.7,0.1,0.3,-
+0,"301Kean BryanSheff Utd, 25, D(C)","Kean Bryan Sheff Utd, 25, D(C)",12(1),1007,1.5,1,1,0.5,2.7,0.8,0.8,1,6.55,1,-,0.2,0.3,0.2,-,0.1,0.8,34.4,70.9,0.2,2.2,-
+1,"302Ivan CavaleiroFulham, 28, AM(CLR),FW","Ivan Cavaleiro Fulham, 28, AM(CLR),FW",27(9),2476,0.6,0.5,0.8,0.1,0.4,0.6,-,-,6.54,3,-,1.3,1.2,0.8,0.3,1.4,2.8,20.1,76.2,0.8,0.7,-
+2,"303Alexander IwobiEverton, 26, M(CLR)","Alexander Iwobi Everton, 26, M(CLR)",17(13),1543,0.9,0.5,0.4,-,0.4,0.4,-,-,6.54,1,2,0.5,0.5,0.4,-,0.9,1.4,19.8,83.0,0.3,0.8,-
+3,"304Juan MataMan Utd, 34, AM(CLR)","Juan Mata Man Utd, 34, AM(CLR)",6(3),510,0.1,0.3,0.1,-,0.3,0.8,-,-,6.54,1,2,0.6,0.9,0.4,0.2,0.7,0.8,31.8,85.7,0.4,0.7,0.1
+4,"305Jayden BogleSheff Utd, 21, D(R),M(R)","Jayden Bogle Sheff Utd, 21, D(R),M(R)",12(4),1109,2.1,0.9,0.9,0.1,1.1,1.2,0.3,-,6.53,2,-,1.1,0.3,0.6,0.1,1.1,1.3,19.5,76.0,0.1,0.3,-
+5,"306Conor CoadyWolves, 29, D(CR),DMC","Conor Coady Wolves, 29, D(CR),DMC",37,3304,0.9,0.7,0.6,0.6,3.5,0.4,0.9,-,6.53,1,-,0.2,0.1,0.3,-,0.1,0.2,50.2,88.0,-,6.7,-
+6,"307Jack StephensSouthampton, 28, D(CR)","Jack Stephens Southampton, 28, D(CR)",17(1),1539,1.9,1.6,0.4,0.8,3.2,1.2,0.8,-,6.52,-,-,0.3,0.3,0.5,-,0.3,0.7,57.1,81.2,-,3.3,-
+7,"308Bobby De Cordova-ReidFulham, 29, M(CLR),FW","Bobby De Cordova-Reid Fulham, 29, M(CLR),FW",28(5),2383,0.9,0.6,1.2,0.1,1.0,0.6,0.2,-,6.52,5,2,1,0.4,0.6,0.1,0.7,1.5,23.0,77.5,0.2,0.8,-
+8,"309Marvelous NakambaAston Villa, 28, DMC","Marvelous Nakamba Aston Villa, 28, DMC",9(4),751,1.7,1.3,0.6,-,0.6,0.4,0.4,-,6.52,-,-,0.2,0.2,0.8,-,0.2,0.6,21.9,84.2,-,0.6,-
+9,"310Darren RandolphWest Ham, 35, GK","Darren Randolph West Ham, 35, GK",3,270,-,-,-,-,1.3,-,-,-,6.52,-,-,-,-,0.3,-,-,-,20.3,50.8,-,5.0,-
+0,"291Ben DaviesTottenham, 29, D(CL),M(L)","Ben Davies Tottenham, 29, D(CL),M(L)",14(6),1340,1.4,0.9,1,0.4,2.3,0.9,0.3,-,6.56,-,1,0.2,0.4,0.7,0.1,0.1,0.3,32.3,79.2,0.3,1.1,-
+1,"292Édouard MendyChelsea, 30, GK","Édouard Mendy Chelsea, 30, GK",31,2746,-,-,-,-,0.4,-,-,-,6.56,-,-,-,-,0.1,-,-,-,29.0,83.3,-,3.5,-
+2,"293Rayan Aït-NouriWolves, 21, D(L),M(L)","Rayan Aït-Nouri Wolves, 21, D(L),M(L)",16(5),1406,1.4,0.7,0.7,-,0.9,0.7,-,-,6.56,1,1,0.7,0.7,0.9,-,0.9,1.4,29.9,86.1,0.6,0.8,-
+3,"294Bernd LenoArsenal, 30, GK","Bernd Leno Arsenal, 30, GK",35,3132,-,-,0.1,-,0.7,-,-,1,6.56,-,-,-,-,0.1,-,-,-,28.5,76.8,-,3.2,-
+4,"295Luka MilivojevicCrystal Palace, 31, DMC","Luka Milivojevic Crystal Palace, 31, DMC",27(4),2365,2.1,1.1,1.2,-,1.5,1.1,0.2,-,6.55,1,1,0.6,0.7,1.1,-,0.6,0.4,41.7,83.0,0.5,2.4,-
+5,"296Aaron RamsdaleSheff Utd, 24, GK","Aaron Ramsdale Sheff Utd, 24, GK",38,3420,-,0.1,-,-,0.9,-,-,-,6.55,-,-,-,0.1,0.1,-,-,0.1,26.8,43.4,-,7.4,-
+6,"297Nathan RedmondSouthampton, 28, AM(CLR),FW","Nathan Redmond Southampton, 28, AM(CLR),FW",17(12),1731,1,0.4,1.1,-,0.3,0.6,0.1,-,6.55,2,3,1.6,1,0.5,0.1,1.3,1.4,24.0,76.8,0.1,0.7,-
+7,"298Joel WardCrystal Palace, 32, D(LR),DMC,M(R)","Joel Ward Crystal Palace, 32, D(LR),DMC,M(R)",25(1),2255,1.7,1.6,1.2,0.5,3.1,0.7,0.3,-,6.55,-,1,0.1,0.3,0.5,-,0.3,0.9,31.5,71.9,0.1,1.3,-
+8,"299Rúnar RúnarssonArsenal, 27, GK","Rúnar Rúnarsson Arsenal, 27, GK",0(1),16,-,-,-,-,-,-,-,-,6.55,-,-,-,-,-,-,-,-,9.0,55.6,-,-,-
+9,"300Kasper SchmeichelLeicester, 35, GK","Kasper Schmeichel Leicester, 35, GK",38,3420,-,-,-,-,0.4,-,-,1,6.55,-,-,-,-,0.1,-,-,-,28.1,70.4,-,6.4,-
+0,"281Curtis JonesLiverpool, 21, AM(C)","Curtis Jones Liverpool, 21, AM(C)",13(11),1178,0.7,0.8,0.8,-,0.4,0.5,-,-,6.58,1,2,0.8,0.5,0.5,-,1.3,0.9,40.3,92.2,-,0.9,-
+1,"282Nemanja MaticMan Utd, 33, DMC","Nemanja Matic Man Utd, 33, DMC",12(8),1102,1.3,1.1,0.7,0.1,0.5,0.9,0.3,-,6.58,-,-,0.3,0.4,0.3,-,0.4,0.7,50.8,90.3,0.1,2.7,-
+2,"283Scott DannCrystal Palace, 35, D(C)","Scott Dann Crystal Palace, 35, D(C)",15,1350,0.4,1.2,0.4,0.1,3.8,0.5,0.9,-,6.58,1,-,0.3,0.1,0.3,-,-,0.3,42.7,80.9,-,2.4,-
+3,"284Nathan AkéMan City, 27, D(CL),DMC","Nathan Aké Man City, 27, D(CL),DMC",9(1),797,1.0,0.9,0.8,0.5,2.2,0.1,0.1,-,6.57,1,-,0.3,0.1,0.4,-,0.1,0.2,75.1,93.1,-,1.4,-
+4,"285Joe RodonTottenham, 24, D(C)","Joe Rodon Tottenham, 24, D(C)",8(4),732,1.2,1.8,0.2,0.4,2.9,0.1,0.7,-,6.57,-,-,0.1,-,0.7,0.1,-,0.2,35.8,88.1,-,1.3,-
+5,"286Neal MaupayBrighton, 25, AM(C),FW","Neal Maupay Brighton, 25, AM(C),FW",29(4),2519,0.6,0.4,0.8,-,0.2,0.6,-,-,6.57,8,2,2.2,1,1.3,0.4,1.5,2.2,19.7,78.5,0.2,0.4,0.1
+6,"287Gary CahillCrystal Palace, 36, D(C)","Gary Cahill Crystal Palace, 36, D(C)",20,1800,0.7,0.7,0.6,0.3,4.3,0.2,1.1,-,6.57,1,1,0.6,0.4,0.2,0.2,0.1,0.4,37.3,82.4,-,2.4,-
+7,"288Cheikhou KouyatéCrystal Palace, 32, D(CR),DMC","Cheikhou Kouyaté Crystal Palace, 32, D(CR),DMC",35(1),3123,1.6,0.9,1.0,0.4,3.4,0.5,0.7,-,6.57,1,-,0.2,0.2,0.4,-,0.2,0.5,35.5,77.2,-,2.5,-
+8,"289Theo WalcottSouthampton, 33, M(CLR),FW","Theo Walcott Southampton, 33, M(CLR),FW",20(1),1629,1.1,0.7,0.6,-,0.1,1.0,-,-,6.56,3,3,1.4,0.8,1.4,0.4,1.3,2.7,19.0,74.4,0.2,0.3,-
+9,"290BernardoBrighton, 27, D(LR),M(L)","Bernardo Brighton, 27, D(LR),M(L)",2(1),204,3.3,0.3,0.3,-,0.3,0.7,-,-,6.56,-,-,1.3,0.7,0.3,-,1.3,0.3,24.7,74.3,0.3,0.7,-
+0,"271Benjamin WhiteBrighton, 24, D(CR),DMC","Benjamin White Brighton, 24, D(CR),DMC",36,3195,1.4,1.7,0.8,0.3,1.4,0.9,0.6,-,6.6,-,-,0.3,0.2,0.3,-,0.3,0.6,48.5,83.2,-,2.3,-
+1,"272Ayoze PérezLeicester, 28, AM(CLR),FW","Ayoze Pérez Leicester, 28, AM(CLR),FW",15(10),1333,1.3,0.4,1.2,-,0.3,1.4,-,-,6.6,2,1,1.2,0.9,0.9,0.3,1,1.5,18.8,76.8,0.3,0.2,-
+2,"273Jamaal LascellesNewcastle, 28, D(C)","Jamaal Lascelles Newcastle, 28, D(C)",19,1628,0.7,0.6,0.9,0.4,4.4,0.2,0.9,-,6.6,2,-,0.8,0.2,0.5,-,0.1,0.3,32.7,80.2,-,2.2,-
+3,"274Mario LeminaFulham, 28, DMC","Mario Lemina Fulham, 28, DMC",19(9),1705,2.2,1.1,1.1,0.1,0.7,0.8,0.2,-,6.6,1,-,0.7,0.4,0.5,-,0.8,0.9,31.7,83.5,-,1.7,-
+4,"275Robert SánchezBrighton, 24, GK","Robert Sánchez Brighton, 24, GK",27,2430,-,-,0.1,-,0.5,-,-,-,6.59,-,-,-,-,0.2,-,-,0.1,36.4,70.9,-,6.9,-
+5,"276Saïd BenrahmaWest Ham, 26, AM(CLR)","Saïd Benrahma West Ham, 26, AM(CLR)",14(16),1392,0.8,0.3,0.5,-,0.1,0.7,-,-,6.59,1,6,1.2,0.9,0.5,0.1,1.1,1.6,16.1,82.0,0.3,0.3,-
+6,"277Naby KeïtaLiverpool, 27, M(C)","Naby Keïta Liverpool, 27, M(C)",7(3),524,1.1,0.9,1.3,-,0.5,1,-,-,6.59,-,-,0.9,0.6,0.2,-,0.8,1.4,35.6,87.9,0.1,0.7,0.1
+7,"278Robin KochLeeds, 25, D(C),DMC","Robin Koch Leeds, 25, D(C),DMC",13(4),1131,1.6,1.6,1.0,0.1,1.8,0.5,0.7,-,6.59,-,-,0.5,0.2,0.5,-,-,0.3,45.2,86.2,-,2.5,-
+8,"279Maximilian KilmanWolves, 25, D(C)","Maximilian Kilman Wolves, 25, D(C)",14(4),1307,1.2,1.1,1.1,0.2,2.2,0.3,0.4,-,6.59,-,1,0.4,0.3,0.2,-,0.1,0.2,41.4,87.9,-,0.9,-
+9,"280John EganSheff Utd, 29, D(C)","John Egan Sheff Utd, 29, D(C)",30(1),2630,1.3,1.3,0.9,0.3,4.2,0.5,1,-,6.58,-,1,0.5,0.1,0.3,-,-,0.2,36.2,81.7,-,3.0,-
+0,"261Darnell FurlongWest Brom, 26, D(CR),M(R)","Darnell Furlong West Brom, 26, D(CR),M(R)",32(3),2932,1.3,1.4,1,0.2,2.2,0.7,0.5,1,6.62,1,3,0.7,0.5,0.9,0.1,0.3,1.1,23.3,59.4,0.5,1.2,-
+1,"262Georginio WijnaldumLiverpool, 31, M(CLR)","Georginio Wijnaldum Liverpool, 31, M(CLR)",34(4),2947,0.6,0.7,0.4,-,0.4,0.6,0.1,-,6.62,2,-,0.8,0.6,0.6,-,0.7,1.0,46.2,92.7,-,1.2,-
+2,"263Giovani Lo CelsoTottenham, 26, M(CR),FW","Giovani Lo Celso Tottenham, 26, M(CR),FW",11(7),950,1.6,0.4,1.1,0.1,0.3,1.1,0.1,-,6.62,1,1,0.8,0.8,1.1,-,0.8,1.2,31.7,81.4,0.2,1.1,0.1
+3,"264Ezgjan AlioskiLeeds, 30, D(L),M(CLR)","Ezgjan Alioski Leeds, 30, D(L),M(CLR)",29(7),2466,2.1,0.6,1.1,0.1,1.1,1.2,0.1,-,6.62,2,3,0.7,0.8,1.2,0.2,0.4,1.0,38.3,79.5,0.4,0.8,-
+4,"265Daniel JamesMan Utd, 24, AM(LR),FW","Daniel James Man Utd, 24, AM(LR),FW",11(4),914,1.0,-,0.9,-,0.3,1,0.1,-,6.61,3,1,1.1,0.7,0.9,0.3,0.6,1.4,19.2,81.3,0.1,0.1,-
+5,"266EdersonMan City, 28, GK","Ederson Man City, 28, GK",36,3240,0.1,-,-,-,0.5,-,-,-,6.61,-,1,-,-,0.1,-,-,0.1,26.6,81.2,-,4.4,-
+6,"267Ricardo PereiraLeicester, 28, D(LR),M(R)","Ricardo Pereira Leicester, 28, D(LR),M(R)",10(5),959,2.1,1,1.2,0.1,1.3,1.5,0.1,-,6.61,-,1,0.5,0.7,0.5,-,1.1,1.4,30.9,77.1,0.3,0.7,0.1
+7,"268Jack RobinsonSheff Utd, 28, D(CL),M(L)","Jack Robinson Sheff Utd, 28, D(CL),M(L)",9(2),875,1.3,0.8,0.9,0.4,3.7,0.5,0.4,-,6.61,-,1,0.5,0.1,0.5,-,0.2,0.5,38.5,82.0,-,1.4,-
+8,"269Fábio CarvalhoFulham, 19, AM(C)","Fábio Carvalho Fulham, 19, AM(C)",3(1),255,2.3,0.3,1,-,-,1,-,-,6.61,1,-,2.3,0.5,0.5,-,2.3,2.8,21.3,78.8,-,-,-
+9,"270Kai HavertzChelsea, 23, M(CR),FW","Kai Havertz Chelsea, 23, M(CR),FW",18(9),1522,0.7,0.1,1,0.1,0.7,0.8,-,-,6.6,4,3,1.2,0.7,0.6,0.3,1,2.0,28.4,84.9,-,0.4,-
+0,"251Federico FernándezNewcastle, 33, D(C)","Federico Fernández Newcastle, 33, D(C)",24,2083,1.2,0.7,0.6,0.7,6.0,0.2,1.3,1,6.64,-,-,0.2,0.3,0.6,-,0.1,0.3,34.8,80.7,0.1,2.3,-
+1,"252Matt RitchieNewcastle, 32, D(L),M(CLR)","Matt Ritchie Newcastle, 32, D(L),M(CLR)",15(3),1352,0.6,0.7,0.7,0.1,2.3,0.8,0.1,1,6.64,-,2,0.6,1.4,1.1,0.1,0.3,0.7,24.3,76.0,1.8,1.4,-
+2,"253Mason HolgateEverton, 25, D(CR),DMC,M(R)","Mason Holgate Everton, 25, D(CR),DMC,M(R)",26(2),2290,2,1.3,1,0.3,2.9,1.1,0.5,-,6.63,1,-,0.2,0.3,1,-,0.2,0.5,39.4,79.1,0.2,3.1,-
+3,"254Conor GallagherWest Brom, 22, AM(C)","Conor Gallagher West Brom, 22, AM(C)",28(2),2532,2.7,0.9,1.4,-,0.9,2.3,0.3,-,6.63,2,2,1,0.7,2.1,-,1.2,2.1,29.7,81.5,0.4,1.6,-
+4,"255Ashley WestwoodBurnley, 32, DMC","Ashley Westwood Burnley, 32, DMC",38,3411,0.6,1.2,0.9,-,0.8,0.8,0.2,-,6.63,3,3,0.5,1.4,1.1,-,0.3,0.8,53.8,78.7,1.2,4.2,-
+5,"256Lucas MouraTottenham, 29, AM(CLR),FW","Lucas Moura Tottenham, 29, AM(CLR),FW",14(16),1403,1.1,0.6,0.8,-,0.3,0.7,-,-,6.63,3,4,0.6,0.5,1.6,0.1,1.2,1.6,19.0,75.2,0.2,0.2,-
+6,"257EmersonChelsea, 27, D(L),M(L)","Emerson Chelsea, 27, D(L),M(L)",0(2),89,1.5,0.5,1.5,-,3.0,1,-,-,6.63,-,-,-,-,-,-,-,1,28.0,73.2,0.5,1.5,-
+7,"258Benjamin MendyMan City, 27, D(L),DMC,M(L)","Benjamin Mendy Man City, 27, D(L),DMC,M(L)",11(2),955,1,0.4,1.1,0.2,0.7,1.2,0.4,-,6.63,2,1,0.5,0.4,-,0.1,0.4,1.2,42.5,83.9,0.3,1.1,-
+8,"259Ola AinaFulham, 25, D(CLR),M(LR)","Ola Aina Fulham, 25, D(CLR),M(LR)",31,2671,1.2,1.5,1,0.4,2.6,0.7,0.2,-,6.63,2,1,0.5,0.5,0.8,0.1,0.3,0.9,47.2,78.9,0.3,2.1,-
+9,"260Lukasz FabianskiWest Ham, 37, GK","Lukasz Fabianski West Ham, 37, GK",35,3150,-,-,-,-,0.6,-,-,-,6.62,-,-,-,-,0.1,-,-,-,24.5,54.9,-,7.5,-
+0,"241WillianArsenal, 33, AM(CLR)","Willian Arsenal, 33, AM(CLR)",16(9),1407,0.5,0.3,0.2,-,0.2,0.4,-,-,6.65,1,5,0.8,1.3,0.8,0.2,0.6,0.9,27.1,87.5,1.1,1.4,-
+1,"242Séamus ColemanEverton, 33, D(CR),M(R)","Séamus Coleman Everton, 33, D(CR),M(R)",18(7),1612,1.6,0.5,0.5,0.1,1.3,0.4,0.2,-,6.65,-,3,0.5,0.8,0.7,-,0.9,1.1,25.8,82.9,0.4,1.3,-
+2,"243Leander DendonckerWolves, 27, D(C),M(C)","Leander Dendoncker Wolves, 27, D(C),M(C)",28(5),2501,1.6,0.8,0.9,0.2,1.5,0.9,0.5,1,6.65,1,-,0.9,0.5,0.4,0.1,0.3,0.9,36.5,85.5,0.1,1.3,-
+3,"244Jeffrey SchluppCrystal Palace, 29, D(L),M(CLR)","Jeffrey Schlupp Crystal Palace, 29, D(L),M(CLR)",15(12),1426,1.1,0.8,0.9,-,0.4,0.6,0.3,-,6.65,2,3,0.7,0.7,0.6,-,1.5,1.2,14.8,73.9,0.2,0.4,-
+4,"245Dean HendersonMan Utd, 25, GK","Dean Henderson Man Utd, 25, GK",12(1),1125,0.1,-,-,-,0.5,0.1,-,-,6.65,-,-,-,-,-,-,-,-,19.8,67.4,-,2.2,-
+5,"246Jordan PickfordEverton, 28, GK","Jordan Pickford Everton, 28, GK",31,2743,-,0.1,-,-,1.3,0.1,-,-,6.65,-,-,-,-,0.1,-,-,-,32.2,61.8,-,8.5,-
+6,"247Ahmed El MohamadyAston Villa, 34, D(R),M(R)","Ahmed El Mohamady Aston Villa, 34, D(R),M(R)",8(6),832,1.2,1.2,0.4,0.1,1.6,0.4,0.2,-,6.64,-,-,0.6,0.9,0.2,-,0.2,0.4,33.6,78.1,0.7,2.1,-
+7,"248Issa DiopWest Ham, 25, D(C)","Issa Diop West Ham, 25, D(C)",15(3),1379,1.1,1.2,0.4,0.6,3.2,0.6,1.2,1,6.64,2,-,0.2,0.1,0.4,0.1,0.1,0.3,32.4,82.2,-,1.0,-
+8,"249Sergio AgüeroMan City, 34, AM(CL),FW","Sergio Agüero Man City, 34, AM(CL),FW",7(5),559,0.3,0.2,0.2,-,-,0.8,-,-,6.64,4,1,1.6,0.6,0.6,0.1,0.9,1.3,14.3,80.7,0.1,0.2,-
+9,"250Ciaran ClarkNewcastle, 32, D(CL)","Ciaran Clark Newcastle, 32, D(CL)",21(1),1893,1.1,1.3,0.7,0.5,4.5,0.3,0.9,1,6.64,1,-,0.4,0.1,0.5,-,-,0.5,35.9,81.5,-,1.8,-
+0,"231Gylfi SigurdssonEverton, 32, M(CLR),FW","Gylfi Sigurdsson Everton, 32, M(CLR),FW",24(12),2256,0.8,0.9,0.6,-,0.5,0.9,0.1,-,6.67,6,5,1.4,1.2,0.5,-,0.8,1.3,23.7,85.0,0.8,0.7,-
+1,"232Danny WelbeckBrighton, 31, AM(CLR),FW","Danny Welbeck Brighton, 31, AM(CLR),FW",17(7),1547,0.5,0.3,0.8,-,0.5,0.5,-,-,6.66,6,1,1.5,0.9,0.7,0.2,0.5,2.1,10.8,81.0,-,0.1,-
+2,"233Paul DummettNewcastle, 30, D(CL)","Paul Dummett Newcastle, 30, D(CL)",14(1),1256,1.1,1.1,0.6,0.3,4.7,0.5,0.5,-,6.66,1,-,0.2,0.3,0.3,-,-,0.6,34.5,74.1,0.3,2.1,-
+3,"234Jacob MurphyNewcastle, 27, D(R),M(LR)","Jacob Murphy Newcastle, 27, D(R),M(LR)",17(9),1621,1.5,0.5,0.9,0.1,0.9,1.0,0.1,-,6.66,2,3,1.2,0.7,0.9,0.1,1,1.3,17.6,70.5,0.6,0.8,-
+4,"235Mohammed SalisuSouthampton, 23, D(CL)","Mohammed Salisu Southampton, 23, D(CL)",8(4),843,3.2,1.4,0.8,0.5,2.4,0.8,0.4,-,6.66,-,-,0.3,0.2,0.3,-,0.6,1.0,30.0,80.0,-,0.9,-
+5,"236Eric DierTottenham, 28, D(CR),DMC","Eric Dier Tottenham, 28, D(CR),DMC",28,2520,0.8,0.8,0.6,0.4,4.4,0.3,1.1,-,6.66,-,-,0.5,0.2,0.4,-,-,0.4,63.9,83.2,-,4.0,-
+6,"237Gabriel MartinelliArsenal, 20, AM(L),FW","Gabriel Martinelli Arsenal, 20, AM(L),FW",7(7),588,0.5,0.6,0.6,-,0.2,0.4,-,-,6.66,2,1,1.4,0.6,0.3,0.1,0.5,1.6,10.3,79.9,0.4,0.2,-
+7,"238Harrison ReedFulham, 27, D(R),M(CR)","Harrison Reed Fulham, 27, D(R),M(CR)",26(5),2251,2.0,1.6,1.3,-,0.8,1.4,0.4,-,6.66,-,2,0.4,0.7,0.8,-,0.3,0.6,47.6,86.2,0.2,1.5,-
+8,"239Miguel AlmirónNewcastle, 28, AM(CLR),FW","Miguel Almirón Newcastle, 28, AM(CLR),FW",28(6),2438,1.4,0.7,0.5,-,0.5,1.2,0.1,-,6.66,4,1,1.0,0.9,1.1,0.2,1,1.4,25.0,82.0,0.2,1.0,0.1
+9,"240Luke ThomasLeicester, 21, D(L),M(L)","Luke Thomas Leicester, 21, D(L),M(L)",12(2),972,1.6,1.1,0.7,0.1,1.4,0.5,0.1,-,6.65,1,-,0.5,0.5,1.1,-,0.9,1.1,28.9,71.6,0.2,0.7,-
+0,"221Mbaye DiagneWest Brom, 30, FW","Mbaye Diagne West Brom, 30, FW",14(2),1194,0.3,0.1,1.1,-,1.0,0.2,0.1,-,6.68,3,2,1.6,0.6,1.4,1.1,1.2,1.6,14.7,62.1,0.1,0.5,-
+1,"222Oliver McBurnieSheff Utd, 26, AM(CL),FW","Oliver McBurnie Sheff Utd, 26, AM(CL),FW",12(11),1319,0.7,0.3,1.0,-,1.3,0.5,0.1,-,6.67,1,-,1.3,0.7,1.1,0.2,0.7,1.0,19.1,57.5,-,0.3,-
+2,"223João MoutinhoWolves, 35, M(C)","João Moutinho Wolves, 35, M(C)",28(5),2534,2.3,1.4,1.3,0.1,0.7,1.7,0.1,-,6.67,1,1,0.4,1.4,0.7,-,0.3,0.5,52.2,88.4,0.8,2.3,0.1
+3,"224Douglas LuizAston Villa, 24, M(C)","Douglas Luiz Aston Villa, 24, M(C)",32(1),2790,1.5,1.3,1.8,-,1.2,1.2,0.5,-,6.67,-,2,0.8,0.6,1.5,-,0.5,0.8,42.9,85.7,0.1,3.3,-
+4,"225Edinson CavaniMan Utd, 35, AM(LR),FW","Edinson Cavani Man Utd, 35, AM(LR),FW",13(13),1372,0.5,0.2,0.8,-,0.4,0.4,-,-,6.67,10,3,1.3,0.5,0.5,0.2,0.4,1.2,12.9,77.4,-,0.5,0.1
+5,"226RodrigoLeeds, 31, M(CLR),FW","Rodrigo Leeds, 31, M(CLR),FW",14(12),1291,0.5,0.2,0.7,-,0.6,0.7,-,-,6.67,7,2,1.8,1.2,0.3,0.1,0.8,1.5,21.5,76.9,0.1,1.0,0.2
+6,"227Craig DawsonWest Ham, 32, D(CR)","Craig Dawson West Ham, 32, D(CR)",22,1926,0.5,1.5,0.6,0.2,4.0,0.3,1,2,6.67,3,-,0.7,0.1,0.5,0.1,-,0.2,34.7,79.7,-,2.7,-
+7,"228Charlie TaylorBurnley, 28, D(L),M(L)","Charlie Taylor Burnley, 28, D(L),M(L)",28(1),2429,1.7,1.0,0.3,0.2,2.5,0.7,0.7,-,6.67,-,1,0.1,0.4,1.2,-,0.3,0.7,34.1,70.3,0.7,2.1,-
+8,"229Davinson SánchezTottenham, 25, D(C)","Davinson Sánchez Tottenham, 25, D(C)",17(1),1487,2.2,0.8,1.2,0.9,4.7,0.6,0.7,1,6.67,-,-,0.3,0.1,0.4,-,0.2,0.4,57.0,84.5,-,2.1,-
+9,"230Isaac HaydenNewcastle, 27, D(C),DMC","Isaac Hayden Newcastle, 27, D(C),DMC",22(2),1946,2.2,1.8,1.6,0.1,1.9,0.9,0.4,-,6.67,-,-,0.7,0.3,0.7,-,0.6,0.8,32.8,80.7,0.1,1.2,-
+0,"211Tyrick MitchellCrystal Palace, 22, D(L)","Tyrick Mitchell Crystal Palace, 22, D(L)",19,1710,3.4,1.1,0.4,0.2,2.4,0.9,0.5,-,6.7,1,1,0.1,0.2,0.6,-,0.6,0.8,31.5,69.8,0.3,1.5,-
+1,"212Ethan AmpaduSheff Utd, 21, D(C),DMC","Ethan Ampadu Sheff Utd, 21, D(C),DMC",23(2),2091,2.3,2,1.0,0.2,3.3,1.0,0.8,1,6.7,-,-,0.3,0.4,1.0,-,0.2,0.6,40.2,82.3,0.2,2.2,-
+2,"213Tammy AbrahamChelsea, 24, FW","Tammy Abraham Chelsea, 24, FW",12(10),1036,0.3,0.2,1.0,-,0.8,0.3,-,-,6.7,6,1,1.5,0.4,0.5,0.2,0.3,1.5,9.3,72.7,-,0.1,-
+3,"214Fraser ForsterSouthampton, 34, GK","Fraser Forster Southampton, 34, GK",8,720,0.1,-,0.1,-,2.0,0.1,-,-,6.7,-,-,-,-,0.4,-,-,-,30.4,51.9,-,4.5,-
+4,"215Victor LindelöfMan Utd, 27, D(CR)","Victor Lindelöf Man Utd, 27, D(CR)",29,2586,0.8,1.1,0.8,0.6,3.3,0.4,0.5,-,6.69,1,1,0.1,0.2,0.3,-,0.1,0.3,64.3,89.8,-,2.1,-
+5,"216Kenny TeteFulham, 26, D(CR),M(R)","Kenny Tete Fulham, 26, D(CR),M(R)",18(4),1483,2.2,1.2,1.3,0.2,2.0,0.4,0.2,-,6.69,-,1,0.3,0.8,0.8,0.1,0.4,0.9,31.4,75.5,1,1.5,-
+6,"217Chris BashamSheff Utd, 33, D(CR),M(CR)","Chris Basham Sheff Utd, 33, D(CR),M(CR)",31,2586,2.2,1.6,0.8,0.3,3.3,0.8,0.5,-,6.69,-,1,0.3,0.4,0.9,0.2,0.6,1,34.1,82.8,0.2,1.2,-
+7,"218Héctor BellerínArsenal, 27, D(R),M(R)","Héctor Bellerín Arsenal, 27, D(R),M(R)",24(1),2093,1.2,1.3,0.8,0.1,1.2,1.2,0.3,-,6.69,1,2,0.6,0.8,0.3,-,0.2,1,44.6,83.8,0.5,0.7,0.1
+8,"219Daniel PodenceWolves, 26, AM(CLR),FW","Daniel Podence Wolves, 26, AM(CLR),FW",22(2),1679,0.5,0.5,0.6,-,0.1,0.7,-,-,6.68,3,2,1.3,0.9,1.1,0.2,1,1.5,25.0,77.7,0.3,1.8,-
+9,"220Kieran TierneyArsenal, 25, D(CL),M(L)","Kieran Tierney Arsenal, 25, D(CL),M(L)",26(1),2302,1.0,0.6,0.5,0.2,2.1,0.7,0.4,-,6.68,1,3,0.6,1.1,0.7,-,0.5,0.9,43.7,79.6,0.9,1.6,-
+0,"201Ozan KabakLiverpool, 22, D(C)","Ozan Kabak Liverpool, 22, D(C)",9,803,2.1,1.3,1.3,0.9,3,0.3,0.2,-,6.72,-,-,0.1,0.1,0.3,-,0.3,0.4,64.9,88.7,-,1.7,-
+1,"202Matthew LowtonBurnley, 33, D(LR),M(R)","Matthew Lowton Burnley, 33, D(LR),M(R)",34,3060,1.6,1.6,0.6,0.3,2.3,1.2,0.4,-,6.71,1,1,0.6,0.8,0.4,-,0.3,1.1,35.1,68.8,0.4,3.2,0.1
+2,"203Pablo MaríArsenal, 28, D(C)","Pablo Marí Arsenal, 28, D(C)",10,900,1.5,0.9,0.8,0.6,2.9,0.5,0.7,-,6.71,-,-,0.2,0.1,0.4,-,-,0.1,62.7,87.7,-,1.8,-
+3,"204Robin OlsenEverton, 32, GK","Robin Olsen Everton, 32, GK",7,630,-,-,-,-,0.7,-,-,-,6.71,-,-,-,-,0.1,-,-,-,25.1,65.9,-,6.4,-
+4,"205David ButtonWest Brom, 33, GK","David Button West Brom, 33, GK",1,90,-,-,-,-,2,-,-,-,6.71,-,-,-,-,-,-,-,-,36.0,47.2,-,9.0,-
+5,"206Fabián BalbuenaWest Ham, 30, D(C)","Fabián Balbuena West Ham, 30, D(C)",13(1),1198,1.7,1.8,0.9,0.4,4.4,0.6,0.4,-,6.71,1,-,0.6,-,0.2,-,-,0.2,34.4,75.1,-,3.1,-
+6,"207Rhys WilliamsLiverpool, 21, D(C)","Rhys Williams Liverpool, 21, D(C)",7(2),661,0.7,0.7,0.4,0.4,2.9,-,0.3,-,6.71,-,-,0.8,0.2,0.2,-,-,-,56.0,87.3,-,2.1,0.1
+7,"208Hakim ZiyechChelsea, 29, M(CLR)","Hakim Ziyech Chelsea, 29, M(CLR)",15(8),1180,0.6,0.4,0.8,-,-,0.6,-,-,6.71,2,3,1.5,1.5,0.7,0.2,0.7,1.3,29.0,79.1,0.5,1.1,-
+8,"209Jan BednarekSouthampton, 26, D(C)","Jan Bednarek Southampton, 26, D(C)",36,3104,1,2.3,0.8,0.8,3.7,0.7,0.8,1,6.7,1,1,0.3,0.1,0.4,-,0.1,0.3,57.4,82.4,-,2.3,-
+9,"210Japhet TangangaTottenham, 23, D(CR)","Japhet Tanganga Tottenham, 23, D(CR)",6,489,0.8,0.5,1.8,0.3,2.2,0.3,0.8,-,6.7,-,-,0.3,0.2,1.2,-,0.8,0.3,33.2,80.9,0.2,0.5,0.2
+0,"191Tosin AdarabioyoFulham, 24, D(CR)","Tosin Adarabioyo Fulham, 24, D(CR)",33,2954,1.1,1.3,0.5,0.8,5.8,0.6,0.6,1,6.73,-,-,0.5,0.2,0.2,0.1,0.2,0.4,57.7,86.2,-,3.6,-
+1,"192Angelo OgbonnaWest Ham, 34, D(C)","Angelo Ogbonna West Ham, 34, D(C)",28,2493,0.9,1.1,1.0,0.5,4.1,0.3,0.4,-,6.73,3,-,0.5,0.1,0.3,-,0.2,0.1,36.4,81.3,-,1.8,-
+2,"193Gabriel MagalhãesArsenal, 24, D(C)","Gabriel Magalhães Arsenal, 24, D(C)",22(1),1997,1.1,1.1,1.0,0.5,3.2,0.3,0.8,-,6.73,2,-,0.7,0.1,1.1,-,0.3,0.2,67.4,85.7,-,2.2,-
+3,"194Callum Hudson-OdoiChelsea, 21, M(CLR)","Callum Hudson-Odoi Chelsea, 21, M(CLR)",10(13),1060,1.0,0.3,0.5,-,0.2,0.6,-,-,6.73,2,3,1.0,1.4,0.3,0.2,0.7,0.6,25.0,86.1,0.7,1.2,-
+4,"195Tariq LampteyBrighton, 21, D(R),M(R)","Tariq Lamptey Brighton, 21, D(R),M(R)",11,891,1.5,1.7,1.9,0.1,0.8,0.6,0.1,-,6.73,1,1,0.5,0.9,2.5,0.1,0.5,1.9,34.0,78.1,0.9,0.4,-
+5,"196David McGoldrickSheff Utd, 34, AM(CLR),FW","David McGoldrick Sheff Utd, 34, AM(CLR),FW",28(7),2402,0.9,0.1,1.3,-,0.7,0.5,0.1,-,6.72,8,1,2.0,0.5,0.9,0.5,1.3,2.5,26.0,74.7,0.1,0.7,-
+6,"197Mason GreenwoodMan Utd, 20, AM(R),FW","Mason Greenwood Man Utd, 20, AM(R),FW",21(10),1826,0.4,0.2,0.5,-,-,0.5,-,-,6.72,7,2,2.2,0.5,0.6,0.1,0.9,1.1,23.0,85.0,0.2,0.8,0.1
+7,"198Martin ØdegaardArsenal, 23, AM(CR)","Martin Ødegaard Arsenal, 23, AM(CR)",9(5),866,0.6,0.1,0.1,-,0.4,0.7,-,-,6.72,1,2,1.1,1.4,0.6,0.1,0.8,1.0,35.4,90.9,0.7,0.9,-
+8,"199Sergio ReguilónTottenham, 25, D(L),M(L)","Sergio Reguilón Tottenham, 25, D(L),M(L)",26(1),2249,1.7,1.2,1.0,0.3,1.5,0.9,0.3,1,6.72,-,3,0.7,0.6,0.7,-,0.6,1.3,44.4,77.3,0.6,1.4,-
+9,"200Conor TownsendWest Brom, 29, D(CL),M(L)","Conor Townsend West Brom, 29, D(CL),M(L)",25,2235,1.8,1.4,0.6,0.1,2,0.8,0.6,-,6.72,-,2,0.4,0.9,1.0,0.1,0.3,1.3,36.7,76.7,0.6,1.8,-
+0,"181Thomas ParteyArsenal, 28, D(R),M(CR)","Thomas Partey Arsenal, 28, D(R),M(CR)",18(6),1537,1.8,1,0.8,-,0.6,1.3,0.2,-,6.75,-,2,1.1,0.5,0.7,-,0.4,0.9,47.5,87.2,-,2.7,0.1
+1,"182JoelintonNewcastle, 25, AM(CLR),FW","Joelinton Newcastle, 25, AM(CLR),FW",23(8),1990,1.1,0.3,0.8,-,0.7,0.7,0.1,-,6.75,4,2,1.4,0.5,1.2,0.2,1.4,2.6,18.8,73.0,-,0.3,-
+2,"183Christian PulisicChelsea, 23, M(CLR),FW","Christian Pulisic Chelsea, 23, M(CLR),FW",18(9),1738,0.7,0.4,0.5,-,0.3,0.5,0.1,-,6.74,4,2,1.6,0.9,1.2,0.1,1.1,2.5,24.5,82.9,0.2,0.4,-
+3,"184Marc AlbrightonLeicester, 32, D(R),M(LR)","Marc Albrighton Leicester, 32, D(R),M(LR)",17(14),1744,1.1,0.5,0.3,0.1,0.6,0.9,0.1,-,6.74,1,5,0.7,1.2,0.6,0.1,0.9,1.1,24.2,73.3,0.7,1.3,-
+4,"185Çaglar SöyüncüLeicester, 26, D(C)","Çaglar Söyüncü Leicester, 26, D(C)",19(4),1816,1.2,1.2,0.8,0.6,3.4,0.6,0.4,-,6.74,1,-,0.4,0.3,0.7,-,0.2,0.3,60.1,88.0,0.2,2.1,-
+5,"186Alphonse AreolaFulham, 29, GK","Alphonse Areola Fulham, 29, GK",36,3240,-,-,-,-,1.1,0.1,-,-,6.74,-,-,-,-,0.1,-,-,-,23.3,68.7,-,4.4,-
+6,"187Christian FuchsLeicester, 36, D(CL),M(L)","Christian Fuchs Leicester, 36, D(CL),M(L)",8(1),702,2,1.8,1.6,-,3.3,0.8,0.4,-,6.74,-,-,0.4,0.1,0.6,-,0.1,0.2,58.2,82.1,0.1,2.7,-
+7,"188Sam JohnstoneWest Brom, 29, GK","Sam Johnstone West Brom, 29, GK",37,3330,-,0.1,-,-,1.0,-,-,-,6.74,-,1,-,-,0.1,-,-,-,29.9,43.2,-,8.4,-
+8,"189AlissonLiverpool, 29, GK","Alisson Liverpool, 29, GK",33,2970,0.1,0.1,-,-,1.3,-,-,-,6.73,1,-,-,-,0.2,-,-,-,29.9,84.6,-,3.2,-
+9,"190Granit XhakaArsenal, 29, D(L),M(C)","Granit Xhaka Arsenal, 29, D(L),M(C)",29(2),2522,1.6,0.8,1.3,-,1.2,0.9,0.2,-,6.73,1,2,0.7,0.5,1.2,-,0.4,0.6,70.6,90.2,0.1,4.2,0.1
+0,"171Ferran TorresMan City, 22, AM(LR),FW","Ferran Torres Man City, 22, AM(LR),FW",15(9),1306,0.5,0.1,0.7,-,0.3,0.5,-,-,6.76,7,2,1.5,0.8,0.7,0.2,0.9,1,16.9,85.2,0.1,0.4,-
+1,"172Nicolas PépéArsenal, 27, AM(LR),FW","Nicolas Pépé Arsenal, 27, AM(LR),FW",16(13),1614,0.7,0.4,0.4,-,0.4,0.5,-,-,6.76,10,1,1.7,0.4,0.9,0.1,0.8,1.9,21.7,81.1,0.2,0.2,-
+2,"173Ross BarkleyAston Villa, 28, M(CLR)","Ross Barkley Aston Villa, 28, M(CLR)",18(6),1537,0.3,0.2,0.5,-,0.3,0.5,-,-,6.75,3,1,1.6,1.6,0.7,0.2,1.3,1.6,30.3,84.8,0.8,1.4,-
+3,"174Hugo LlorisTottenham, 35, GK","Hugo Lloris Tottenham, 35, GK",38,3420,-,-,-,-,0.5,-,-,-,6.75,-,-,-,-,0.1,-,-,-,23.6,69.3,-,4.8,-
+4,"175Willy BolyWolves, 31, D(C)","Willy Boly Wolves, 31, D(C)",21,1880,1.6,1.5,0.7,0.2,4.0,0.5,0.6,-,6.75,1,1,0.7,0.1,0.4,-,0.1,0.5,49.3,82.5,-,1.9,-
+5,"176Dan BurnBrighton, 30, D(CL),M(L)","Dan Burn Brighton, 30, D(CL),M(L)",23(4),2060,1.9,1.1,1.3,0.1,2.6,1,0.3,1,6.75,1,-,0.6,0.4,0.2,0.1,0.3,1,40.7,75.6,0.3,1.1,-
+6,"177Sébastien HallerWest Ham, 27, FW","Sébastien Haller West Ham, 27, FW",10(6),935,0.9,0.3,1.5,0.1,0.4,1,0.1,-,6.75,3,-,1.6,0.6,0.9,0.6,1.4,2.6,15.3,64.1,0.1,0.6,-
+7,"178Ezri KonsaAston Villa, 24, D(CR)","Ezri Konsa Aston Villa, 24, D(CR)",35(1),3193,0.7,0.8,0.5,0.4,4.4,0.1,1.3,-,6.75,2,-,0.6,0.1,1.5,-,0.2,0.5,35.8,84.7,-,2.1,-
+8,"179Jarrod BowenWest Ham, 25, AM(CLR),FW","Jarrod Bowen West Ham, 25, AM(CLR),FW",30(8),2579,0.7,0.6,0.4,-,0.1,0.5,-,-,6.75,8,5,1.4,0.8,1.4,0.4,1.3,1.7,16.3,74.4,0.8,0.8,-
+9,"180Matt DohertyTottenham, 30, D(LR),M(LR)","Matt Doherty Tottenham, 30, D(LR),M(LR)",13(4),1239,1.7,1.4,1.2,0.2,2.1,1.2,0.3,-,6.75,-,2,0.2,0.6,0.7,-,0.5,1.1,39.8,80.5,0.5,1.2,-
+0,"161Pierre-Emerick AubameyangArsenal, 32, M(CLR),FW","Pierre-Emerick Aubameyang Arsenal, 32, M(CLR),FW",26(3),2337,0.4,0.2,0.4,-,0.5,0.6,-,1,6.78,10,3,2.0,0.8,0.6,0.6,0.7,1.3,21.5,78.0,0.3,0.4,-
+1,"162Ben GodfreyEverton, 24, D(CLR)","Ben Godfrey Everton, 24, D(CLR)",29(2),2683,1.8,1.1,0.5,0.3,3.5,0.5,1.2,1,6.78,-,2,0.5,0.1,0.5,0.1,0.2,0.9,39.3,84.7,0.1,1.2,-
+2,"163Che AdamsSouthampton, 25, AM(CL),FW","Che Adams Southampton, 25, AM(CL),FW",30(6),2675,0.7,0.1,0.8,0.1,0.5,0.3,0.1,-,6.77,9,5,1.5,1.0,1.5,0.5,1.2,2.4,16.9,70.3,-,0.7,0.2
+3,"164Adam WebsterBrighton, 27, D(C)","Adam Webster Brighton, 27, D(C)",29,2595,1.0,1.6,0.8,0.3,2.9,0.4,0.6,-,6.77,1,-,0.9,0.2,0.5,-,0.2,0.9,63.4,80.9,-,3.4,-
+4,"165Kyle BartleyWest Brom, 31, D(C)","Kyle Bartley West Brom, 31, D(C)",28(2),2584,0.9,1.3,1.0,0.5,5.3,0.4,1.2,-,6.77,3,1,0.5,0.2,0.3,0.2,0.1,0.3,27.6,77.1,-,1.7,-
+5,"166Emile Smith RoweArsenal, 21, AM(CL)","Emile Smith Rowe Arsenal, 21, AM(CL)",18(2),1448,0.7,0.5,0.3,-,0.5,0.6,0.1,-,6.77,2,4,0.7,1.4,1.0,0.2,0.4,1.9,36.3,88.7,0.1,0.6,0.1
+6,"167AllanEverton, 31, DMC","Allan Everton, 31, DMC",23(1),2052,3.3,0.8,1.5,0.1,1.0,2.8,0.5,-,6.77,-,-,0.3,0.7,1.3,-,0.8,0.9,44.0,85.6,-,2.4,-
+7,"168Kyle WalkerMan City, 32, D(CR),M(R)","Kyle Walker Man City, 32, D(CR),M(R)",22(2),1947,1.2,0.6,1.0,0.3,0.9,0.3,0.3,-,6.77,1,1,0.4,0.3,0.5,-,0.7,0.7,72.2,90.2,0.1,3.7,-
+8,"169Josh BrownhillBurnley, 26, M(CR)","Josh Brownhill Burnley, 26, M(CR)",32(1),2816,1.4,2.1,1.1,-,1.1,0.9,0.3,-,6.76,-,1,1.0,0.5,1.0,0.1,0.5,1.1,35.5,78.3,0.1,1.0,-
+9,"170Aymeric LaporteMan City, 28, D(CL)","Aymeric Laporte Man City, 28, D(CL)",14(2),1343,0.8,0.7,0.6,0.6,1.8,0.3,0.4,-,6.76,-,-,0.4,0.3,0.6,0.1,0.1,0.5,79.6,91.1,-,2.9,-
+0,"151Andreas ChristensenChelsea, 26, D(C),DMC","Andreas Christensen Chelsea, 26, D(C),DMC",15(2),1375,0.6,1.2,0.5,0.4,2.9,0.5,0.8,-,6.8,-,-,0.2,0.4,0.4,-,0.1,0.5,67.1,91.3,-,3.1,0.1
+1,"152Joachim AndersenFulham, 26, D(C)","Joachim Andersen Fulham, 26, D(C)",30(1),2730,1.1,1.4,1.3,1.1,4.8,0.4,0.4,-,6.79,1,1,0.4,0.3,0.5,-,0.1,0.3,63.2,81.4,-,5.8,-
+2,"153Karl DarlowNewcastle, 31, GK","Karl Darlow Newcastle, 31, GK",25,2250,-,-,-,-,1.7,-,-,-,6.79,-,-,-,-,0.2,-,-,-,25.1,45.7,-,7.4,-
+3,"154Calum ChambersArsenal, 27, D(CR),DMC","Calum Chambers Arsenal, 27, D(CR),DMC",8(2),752,0.7,1,0.7,0.2,3.6,0.5,0.2,-,6.79,-,2,0.8,1.1,0.2,-,0.4,0.7,47.9,83.9,0.6,1.3,0.1
+4,"155Rob HoldingArsenal, 26, D(CR)","Rob Holding Arsenal, 26, D(CR)",28(2),2558,1.4,0.8,0.8,0.5,4.0,0.6,0.9,1,6.79,-,1,0.5,0.1,0.2,0.1,0.2,0.4,60.1,87.0,-,3.1,-
+5,"156Anwar El GhaziAston Villa, 27, AM(LR),FW","Anwar El Ghazi Aston Villa, 27, AM(LR),FW",17(11),1617,0.6,0.2,0.6,-,0.4,0.6,-,-,6.78,10,-,2.3,0.9,1,0.2,1.3,1.7,18.7,75.3,0.8,0.4,-
+6,"157Conor HourihaneAston Villa, 31, M(C)","Conor Hourihane Aston Villa, 31, M(C)",3(1),228,-,-,0.3,-,0.5,0.5,-,-,6.78,1,1,1.3,1.3,-,-,-,0.3,33.3,87.2,1,1.0,-
+7,"158Abdoulaye DoucouréEverton, 29, M(C)","Abdoulaye Doucouré Everton, 29, M(C)",29,2452,1.8,1.3,0.8,0.1,0.9,1,0.2,-,6.78,2,3,0.6,0.7,0.4,-,0.9,1.2,46.2,85.1,-,1.3,0.1
+8,"159Amad DialloMan Utd, 19, AM(R)","Amad Diallo Man Utd, 19, AM(R)",2(1),167,1,-,0.7,-,0.3,-,0.3,-,6.78,-,1,0.3,0.7,1.3,-,1.7,1.7,21.0,82.5,-,0.7,0.3
+9,"160Pablo FornalsWest Ham, 26, M(CLR)","Pablo Fornals West Ham, 26, M(CLR)",31(2),2583,1.3,1.1,0.8,-,0.2,1.9,-,-,6.78,5,4,1.5,0.9,0.5,0.2,0.6,1.1,32.1,79.4,0.2,0.8,-
+0,"141Aaron CresswellWest Ham, 32, D(CL),M(L)","Aaron Cresswell West Ham, 32, D(CL),M(L)",36,3172,0.9,0.9,0.4,0.1,2.0,0.4,0.4,-,6.81,-,8,0.5,1.6,0.5,-,0.3,0.4,45.9,78.9,1.6,3.3,-
+1,"142Chris WoodBurnley, 30, FW","Chris Wood Burnley, 30, FW",32(1),2750,0.4,-,1.2,-,0.6,0.4,0.1,-,6.81,12,3,2.1,0.7,0.7,0.7,1.3,2.4,19.8,65.1,-,0.1,-
+2,"143Eberechi EzeCrystal Palace, 23, AM(CLR)","Eberechi Eze Crystal Palace, 23, AM(CLR)",29(5),2565,0.8,0.7,0.5,-,0.2,0.6,0.1,-,6.81,4,6,1.1,1.3,2.1,-,1.1,1.7,32.0,84.2,0.7,0.7,-
+3,"144Rúben NevesWolves, 25, DMC","Rúben Neves Wolves, 25, DMC",31(5),2680,2.4,1.8,1.3,0.1,1.1,1.4,0.3,-,6.81,5,1,1.9,0.9,0.5,-,0.4,0.7,54.9,84.4,0.1,5.3,-
+4,"145FernandinhoMan City, 37, D(CR),DMC","Fernandinho Man City, 37, D(CR),DMC",12(9),1185,1.5,1.1,1.0,0.1,0.8,1.1,0.1,-,6.81,-,2,0.7,0.7,0.5,-,0.2,0.3,48.3,87.2,-,2.2,-
+5,"146Timo WernerChelsea, 26, AM(CLR),FW","Timo Werner Chelsea, 26, AM(CLR),FW",29(6),2608,0.6,0.2,0.8,-,0.2,1.0,-,-,6.81,6,8,2.3,1.0,0.9,0.8,0.8,2.5,22.3,78.8,0.3,0.2,-
+6,"147Pascal StruijkLeeds, 22, D(C),DMC","Pascal Struijk Leeds, 22, D(C),DMC",22(5),2074,1.8,1.7,1.0,0.2,3.1,0.4,0.8,-,6.81,1,-,0.5,0.1,0.3,-,0.3,0.4,48.0,86.0,-,2.3,-
+7,"148Tyrone MingsAston Villa, 29, D(CL)","Tyrone Mings Aston Villa, 29, D(CL)",36,3195,0.9,1.1,0.6,0.4,4.7,0.2,1.1,1,6.81,2,2,0.5,0.2,0.5,0.1,0.1,0.5,46.6,77.9,-,3.7,-
+8,"149Jonjo ShelveyNewcastle, 30, M(C)","Jonjo Shelvey Newcastle, 30, M(C)",29(1),2617,1.3,1.2,1.0,-,1.3,0.9,0.5,-,6.8,1,3,1.4,1.2,0.3,-,0.2,0.6,46.7,76.4,0.7,5.8,-
+9,"150Leandro TrossardBrighton, 27, M(CLR),FW","Leandro Trossard Brighton, 27, M(CLR),FW",30(5),2622,0.9,0.7,0.8,-,0.1,0.7,0.1,-,6.8,5,5,1.7,1.4,0.9,0.1,1.7,1.9,28.5,78.8,0.7,1.6,-
+0,"131Lewis DunkBrighton, 30, D(C)","Lewis Dunk Brighton, 30, D(C)",33,2933,0.9,1.0,0.7,0.7,3.2,0.2,0.6,1,6.84,5,-,1.0,0.3,0.6,0.1,-,0.4,67.4,89.4,-,5.5,-
+1,"132Kyle Walker-PetersSouthampton, 25, D(LR),M(R)","Kyle Walker-Peters Southampton, 25, D(LR),M(R)",30,2649,2.8,1.3,1.1,0.2,1.7,0.8,0.3,-,6.84,-,2,0.6,0.5,1.4,0.2,1.6,1.2,44.1,80.9,0.2,1.1,-
+2,"133Danny IngsSouthampton, 29, AM(C),FW","Danny Ings Southampton, 29, AM(C),FW",26(3),2185,0.8,0.1,0.7,-,0.7,0.6,0.1,-,6.84,12,4,2.0,0.8,0.6,0.6,0.6,2.3,17.3,66.3,0.1,0.4,-
+3,"134Callum WilsonNewcastle, 30, FW","Callum Wilson Newcastle, 30, FW",23(3),2086,0.5,0.3,1.5,-,0.5,0.4,0.1,-,6.84,12,5,1.9,0.7,1.6,0.8,1.5,2.8,13.1,69.5,-,0.1,-
+4,"135TrézéguetAston Villa, 27, AM(LR)","Trézéguet Aston Villa, 27, AM(LR)",12(9),1166,1.6,0.9,1.9,-,0.6,1.5,-,-,6.83,2,1,1.7,0.6,0.9,0.2,0.6,1.3,13.7,75.7,0.2,0.6,-
+5,"136Timothy CastagneLeicester, 26, D(CLR),M(LR)","Timothy Castagne Leicester, 26, D(CLR),M(LR)",27,2346,1.9,1.1,0.7,0.2,1.9,0.7,0.2,-,6.82,2,3,0.3,0.8,0.5,-,0.4,0.9,49.0,84.3,0.3,0.9,-
+6,"137Pascal GroßBrighton, 30, M(CR),FW","Pascal Groß Brighton, 30, M(CR),FW",27(7),2482,1.3,0.7,0.6,-,0.4,0.9,0.1,-,6.82,3,8,0.9,2.1,0.5,0.1,0.5,1.0,41.9,81.6,2,2.7,-
+7,"138FabinhoLiverpool, 28, D(CR),DMC","Fabinho Liverpool, 28, D(CR),DMC",28(2),2565,1.9,1.5,1.0,0.5,2.2,0.9,0.3,-,6.82,-,-,0.3,0.1,0.9,-,0.2,0.6,70.3,90.3,-,3.3,-
+8,"139Stuart ArmstrongSouthampton, 30, AM(CLR)","Stuart Armstrong Southampton, 30, AM(CLR)",32(1),2774,1.8,0.7,1.0,0.1,0.6,1.5,-,-,6.82,4,5,1.7,1.1,1.1,0.1,2.1,2.3,37.5,80.7,0.2,1.0,0.1
+9,"140Jordan HendersonLiverpool, 31, D(C),M(CLR)","Jordan Henderson Liverpool, 31, D(C),M(CLR)",20(1),1708,1.1,1.6,0.4,0.6,1.2,0.8,-,-,6.82,1,1,0.7,0.7,0.5,-,0.2,0.3,86.4,87.3,0.2,4.0,0.1
+0,"121Tom CairneyFulham, 31, M(CR)","Tom Cairney Fulham, 31, M(CR)",9(1),759,0.9,-,0.4,-,0.1,0.3,-,-,6.84,1,1,1.2,1.7,1.8,0.1,1.1,1.5,59.4,92.3,1.2,4,-
+1,"122Joël VeltmanBrighton, 30, D(CR),M(R)","Joël Veltman Brighton, 30, D(CR),M(R)",25(3),2283,2.4,1.2,1.2,0.2,2.1,1,0.2,-,6.84,1,1,0.5,0.8,1.4,-,0.3,0.6,44.6,77.7,0.7,2.5,-
+2,"123Martin DúbravkaNewcastle, 33, GK","Martin Dúbravka Newcastle, 33, GK",13,1170,-,-,-,-,0.9,-,-,-,6.84,-,-,-,-,0.4,-,-,0.1,28.5,70.1,-,5.6,-
+3,"124Oleksandr ZinchenkoMan City, 25, D(L),M(CLR)","Oleksandr Zinchenko Man City, 25, D(L),M(CLR)",15(5),1474,1.3,1.2,0.5,0.2,1.3,0.5,0.2,-,6.84,-,-,0.8,0.8,0.2,0.1,0.3,0.8,68.4,89.8,0.3,1.5,-
+4,"125Antonee RobinsonFulham, 24, D(L),M(L)","Antonee Robinson Fulham, 24, D(L),M(L)",24(4),2162,1.6,1.3,0.7,0.1,1.9,0.6,0.1,-,6.84,-,-,0.4,1,0.3,-,0.8,1.6,37.4,74.9,1,1.2,-
+5,"126Kelechi IheanachoLeicester, 25, AM(C),FW","Kelechi Iheanacho Leicester, 25, AM(C),FW",16(9),1458,0.5,0.1,1,-,-,0.5,-,-,6.84,12,2,2.4,1.1,0.5,0.4,1.4,2.3,20.2,79.8,0.2,0.4,0.2
+6,"127João VirgíniaEverton, 22, GK","João Virgínia Everton, 22, GK",0(1),47,-,-,-,-,-,-,-,-,6.84,-,-,-,-,-,-,-,-,12.0,41.7,-,2,-
+7,"128Terence KongoloFulham, 28, D(CL)","Terence Kongolo Fulham, 28, D(CL)",1,90,3,2,1,1,2,-,-,-,6.84,-,-,-,-,1,-,-,-,44.0,81.8,1,-,-
+8,"129Anthony MartialMan Utd, 26, AM(LR),FW","Anthony Martial Man Utd, 26, AM(LR),FW",17(5),1488,0.1,-,0.7,-,0.4,0.5,0.1,-,6.84,4,3,2,0.8,1.2,0.7,1.7,2.3,21.9,84.4,-,0.2,-
+9,"130James McArthurCrystal Palace, 34, M(CLR)","James McArthur Crystal Palace, 34, M(CLR)",17(1),1471,3.2,1.3,1.8,0.1,1.6,1.3,0.2,-,6.84,-,2,0.3,0.8,0.8,-,0.6,0.9,42.9,81.7,0.1,1.9,-
+0,"111Nick PopeBurnley, 30, GK","Nick Pope Burnley, 30, GK",32,2880,-,0.1,0.1,-,1.3,-,-,-,6.86,-,-,-,0.1,0.2,-,-,0.1,26.2,44.6,-,8.7,-
+1,"112Tanguy NdombeleTottenham, 25, M(C)","Tanguy Ndombele Tottenham, 25, M(C)",28(5),2108,1.2,0.6,0.8,-,0.3,0.8,0.1,-,6.86,3,2,0.5,0.4,1.8,-,1,1.7,35.5,85.6,0.1,0.6,0.1
+2,"113Yerry MinaEverton, 27, D(C)","Yerry Mina Everton, 27, D(C)",23(1),1939,0.9,1.0,0.9,0.3,4.5,0.2,1,-,6.86,2,-,0.7,-,0.5,-,-,0.1,52.4,90.1,-,2.2,-
+3,"114N'Golo KantéChelsea, 31, DMC","N'Golo Kanté Chelsea, 31, DMC",24(6),2146,2.6,2.0,1.2,-,0.9,1,0.1,-,6.86,-,2,0.3,0.7,0.2,-,0.5,1.6,51.0,86.5,-,2.3,-
+4,"115Toby AlderweireldTottenham, 33, D(CR)","Toby Alderweireld Tottenham, 33, D(CR)",25,2241,1.4,0.4,0.7,0.7,4.6,0.5,1.1,1,6.86,1,-,0.4,0.3,0.1,-,0.1,0.1,57.5,82.5,-,4.4,0.1
+5,"116Dani CeballosArsenal, 25, M(CL)","Dani Ceballos Arsenal, 25, M(CL)",17(8),1616,1.5,1.4,0.9,0.1,0.6,1.2,0.2,-,6.85,-,3,0.5,1.1,1,-,0.6,0.9,50.9,87.2,0.4,2.8,0.1
+6,"117Bertrand TraoréAston Villa, 26, AM(R),FW","Bertrand Traoré Aston Villa, 26, AM(R),FW",29(7),2338,0.7,0.4,0.9,-,0.3,0.7,-,-,6.85,7,6,1.8,1,1.1,0.2,0.7,1.9,19.4,77.7,0.6,1.2,0.1
+7,"118Fikayo TomoriChelsea, 24, D(CR)","Fikayo Tomori Chelsea, 24, D(CR)",0(1),45,2,2.0,1.0,-,8.0,-,1,-,6.85,-,-,-,-,-,-,-,-,29.0,96.6,-,-,-
+8,"119Gaetano BerardiLeeds, 33, D(CLR)","Gaetano Berardi Leeds, 33, D(CLR)",1(1),114,1,0.5,0.5,-,1.0,-,0.5,-,6.85,-,-,0.5,-,-,-,-,-,27.5,83.6,-,1,-
+9,"120Mateo KovacicChelsea, 28, M(CL)","Mateo Kovacic Chelsea, 28, M(CL)",21(6),1820,1.7,0.6,0.6,-,0.3,0.6,-,-,6.84,-,1,0.9,0.8,1.1,-,0.9,1,65.3,90.8,-,3.5,0.1
+0,"101Andros TownsendCrystal Palace, 30, AM(LR),FW","Andros Townsend Crystal Palace, 30, AM(LR),FW",25(9),2259,2.3,1.2,0.8,-,0.4,1.4,0.1,-,6.88,1,5,1.1,1.2,1.6,0.1,1.6,1.4,20.7,73.7,1.6,0.5,-
+1,"102John McGinnAston Villa, 27, M(C)","John McGinn Aston Villa, 27, M(C)",37,3330,1.6,1.2,1.2,0.1,0.6,1.5,0.2,-,6.88,3,5,1.2,1.1,2.1,-,0.9,1.8,36.9,79.4,0.3,3.3,0.1
+2,"103Wilfried ZahaCrystal Palace, 29, AM(LR),FW","Wilfried Zaha Crystal Palace, 29, AM(LR),FW",29(1),2614,0.9,0.3,1.1,-,-,0.6,-,-,6.88,11,2,2.0,1.0,2.9,0.7,2.6,3.6,24.5,78.3,0.2,0.3,0.1
+3,"104Andrew RobertsonLiverpool, 28, D(L),M(L)","Andrew Robertson Liverpool, 28, D(L),M(L)",38,3386,1.2,0.6,0.6,0.3,1.8,0.8,0.2,-,6.88,1,7,0.5,1.7,0.3,0.2,0.3,1.1,70.5,84.4,1.6,2.1,-
+4,"105Bukayo SakaArsenal, 20, D(L),M(CLR)","Bukayo Saka Arsenal, 20, D(L),M(CLR)",30(2),2562,0.8,0.8,0.9,-,0.6,0.9,0.1,1,6.88,5,3,1.9,1.2,2.0,0.5,1.3,2.3,30.6,81.8,1,0.4,-
+5,"106JorginhoChelsea, 30, DMC","Jorginho Chelsea, 30, DMC",23(5),2014,2.0,1.4,1.1,-,0.7,1.6,0.2,-,6.88,7,1,0.5,0.9,1.0,-,0.5,0.7,63.7,89.2,0.1,2.7,0.1
+6,"107Jonny EvansLeicester, 34, D(CL)","Jonny Evans Leicester, 34, D(CL)",28,2476,0.9,1.6,0.6,0.6,3.4,0.2,0.1,1,6.87,2,2,0.3,0.4,0.4,-,0.1,0.1,66.1,85.9,-,3.9,-
+7,"108Romain SaïssWolves, 32, D(C),DMC","Romain Saïss Wolves, 32, D(C),DMC",27,2408,1.3,1.9,1.1,0.5,4.1,0.5,0.5,-,6.87,3,-,1.0,0.2,0.4,-,0.1,0.4,52.9,81.2,0.1,4.0,-
+8,"109Stuart DallasLeeds, 31, D(LR),M(CLR)","Stuart Dallas Leeds, 31, D(LR),M(CLR)",38,3411,1.9,1.2,1.1,0.1,1.2,1.5,0.1,-,6.87,8,2,1.3,0.7,1.3,-,0.9,1.4,51.6,83.7,0.3,2.0,-
+9,"110Dwight McNeilBurnley, 22, M(LR)","Dwight McNeil Burnley, 22, M(LR)",34(2),3071,1.3,0.9,0.3,-,0.5,1.1,0.2,-,6.87,2,5,0.7,1.3,1.1,0.1,1.7,1.6,30.7,78.9,1.4,1.8,-
+0,"91Raúl JiménezWolves, 31, FW","Raúl Jiménez Wolves, 31, FW",10,825,0.3,0.8,0.9,-,1.0,0.7,-,1,6.91,4,-,2.6,0.5,1.7,0.4,1.8,3.2,25.9,79.2,0.1,1.5,-
+1,"92Illan MeslierLeeds, 22, GK","Illan Meslier Leeds, 22, GK",35,3150,-,-,-,-,1.2,-,-,1,6.91,-,-,-,-,0.3,-,-,0.1,30.9,77.1,-,4.8,-
+2,"93Diego LlorenteLeeds, 28, D(C),DMC","Diego Llorente Leeds, 28, D(C),DMC",14(1),1206,2.3,1.3,1,0.3,2.5,0.9,0.9,-,6.9,1,-,0.5,0.3,0.6,-,0.5,0.7,47.9,83.3,-,2.7,0.1
+3,"94Matt TargettAston Villa, 26, D(L),M(L)","Matt Targett Aston Villa, 26, D(L),M(L)",38,3405,2.2,1.4,0.7,0.2,2.3,0.8,0.4,-,6.9,-,2,0.2,1,0.6,-,0.2,0.6,44.3,78.0,0.7,3.1,-
+4,"95Marcos AlonsoChelsea, 31, D(CL),M(L)","Marcos Alonso Chelsea, 31, D(CL),M(L)",11(2),960,1,0.9,1,-,2.2,0.5,0.1,-,6.9,2,-,1.7,1.2,0.9,0.2,0.7,1.0,39.1,82.5,0.2,1.2,-
+5,"96Nélson SemedoWolves, 28, D(LR),M(R)","Nélson Semedo Wolves, 28, D(LR),M(R)",34,2988,2.5,1.2,1.2,0.2,2.1,0.9,0.3,1,6.9,1,1,0.7,0.6,1.0,0.1,0.8,1.6,46.1,81.0,0.5,1.6,-
+6,"97Diogo JotaLiverpool, 25, AM(CLR),FW","Diogo Jota Liverpool, 25, AM(CLR),FW",12(7),1113,0.6,0.3,1.3,-,0.2,1.4,-,-,6.89,9,-,2.4,0.6,1.1,0.1,1.1,2.1,22.4,74.9,0.1,0.4,0.1
+7,"98Jannik VestergaardSouthampton, 29, D(C)","Jannik Vestergaard Southampton, 29, D(C)",29(1),2575,1.7,1.4,0.6,0.5,4.0,0.6,0.5,-,6.89,3,-,0.8,0.2,0.4,-,0.2,0.4,58.8,83.6,-,3.6,-
+8,"99Arthur MasuakuWest Ham, 28, D(L),M(L)","Arthur Masuaku West Ham, 28, D(L),M(L)",12,1011,1.7,0.7,0.8,0.2,1.4,1.9,-,-,6.89,-,2,0.5,0.9,0.7,0.1,1.3,1.2,39.7,83.2,1,0.9,-
+9,"100Alexandre LacazetteArsenal, 31, M(CLR),FW","Alexandre Lacazette Arsenal, 31, M(CLR),FW",22(9),1931,0.6,0.4,1.2,-,0.4,0.6,-,-,6.89,13,2,1.5,0.7,1.7,0.3,1,1.6,16.6,78.8,-,0.4,0.1
+0,"81Ahmed HegazyWest Brom, 31, D(C)","Ahmed Hegazy West Brom, 31, D(C)",1,90,-,1.0,-,-,7.0,-,-,-,6.93,-,-,-,-,-,-,-,3,56.0,67.9,-,4.0,-
+1,"82Ben MeeBurnley, 32, D(CL)","Ben Mee Burnley, 32, D(CL)",30,2694,1.1,1.4,0.5,0.7,4.9,0.5,1.5,-,6.93,2,-,0.7,0.2,0.6,-,0.1,0.3,37.4,71.1,-,3.7,-
+2,"83Anthony ElangaMan Utd, 20, AM(LR)","Anthony Elanga Man Utd, 20, AM(LR)",2,156,2,0.5,1,-,0.5,0.5,0.5,-,6.93,1,-,1,0.5,2,0.5,1,4,26.5,75.5,0.5,1.0,-
+3,"84FredMan Utd, 29, M(C)","Fred Man Utd, 29, M(C)",27(3),2397,2.7,1.5,1.5,-,0.7,2,0.3,-,6.92,1,-,0.8,0.8,1,-,1,1,60.2,87.7,-,3.3,0.1
+4,"85Timothy Fosu-MensahMan Utd, 24, D(CR)","Timothy Fosu-Mensah Man Utd, 24, D(CR)",1,81,2,3.0,1,-,1.0,-,-,-,6.92,-,-,1,2,-,1,2,-,66.0,90.9,1,1.0,-
+5,"86César AzpilicuetaChelsea, 32, D(CLR),M(R)","César Azpilicueta Chelsea, 32, D(CLR),M(R)",24(2),2191,2,1.1,1.2,0.1,2.3,0.7,0.2,-,6.92,1,2,0.4,1,0.5,0.2,0.2,0.7,72.6,86.9,0.3,1.5,0.1
+6,"87Ademola LookmanFulham, 24, AM(CLR),FW","Ademola Lookman Fulham, 24, AM(CLR),FW",31(3),2756,1,0.6,1.4,-,0.2,0.9,-,-,6.92,4,4,2,1.8,1.7,0.4,2.1,3.1,30.9,80.9,0.9,0.6,0.1
+7,"88Michael KeaneEverton, 29, D(CR)","Michael Keane Everton, 29, D(CR)",33(2),2990,0.8,1.5,0.4,0.3,4.5,0.5,0.9,-,6.92,3,1,0.5,0.2,0.2,-,0.1,0.2,55.4,87.2,-,3.7,-
+8,"89Rúben DiasMan City, 25, D(C)","Rúben Dias Man City, 25, D(C)",32,2845,0.8,1.1,0.7,0.3,2.8,0.4,0.7,1,6.91,1,-,0.4,0.1,0.6,-,0.1,0.3,84.8,93.2,-,3.4,-
+9,"90Thiago SilvaChelsea, 37, D(C)","Thiago Silva Chelsea, 37, D(C)",23,1938,0.9,1.4,0.6,0.6,3.6,0.3,0.6,-,6.91,2,-,0.6,0.2,0.7,-,0.1,0.3,84.3,93.0,-,5.0,-
+0,"71Matheus PereiraWest Brom, 26, AM(CLR)","Matheus Pereira West Brom, 26, AM(CLR)",30(3),2582,0.8,0.9,1,-,0.4,1.3,-,-,6.96,11,6,2,1.8,1.6,0.4,1.4,2.2,28.5,79.6,1.1,1.5,0.2
+1,"72Joel MatipLiverpool, 30, D(C)","Joel Matip Liverpool, 30, D(C)",9(1),693,1.4,0.7,1.1,1.2,2.2,0.1,-,-,6.96,1,2,0.5,0.3,0.4,-,0.1,0.3,54.6,87.7,-,1.4,0.1
+2,"73Vladimír CoufalWest Ham, 29, D(R),M(R)","Vladimír Coufal West Ham, 29, D(R),M(R)",34,3055,2.1,1.2,0.9,0.3,2.6,1.1,0.2,-,6.95,-,7,0.4,1.3,1,-,0.5,1.1,37.6,71.2,1,1,-
+3,"74Pierre-Emile HøjbjergTottenham, 26, M(C)","Pierre-Emile Højbjerg Tottenham, 26, M(C)",38,3420,2.6,1.3,1.8,-,1.7,2,0.2,-,6.95,2,4,0.4,0.4,1.4,-,0.5,1,72.8,88.5,-,2.8,-
+4,"75Luke AylingLeeds, 30, D(CR),M(R)","Luke Ayling Leeds, 30, D(CR),M(R)",38,3400,2.8,0.9,0.8,0.4,2,1,0.9,-,6.94,-,-,0.6,0.7,1.4,0.1,0.6,1.4,62.7,79.0,0.4,4.6,0.1
+5,"76Scott CarsonMan City, 36, GK","Scott Carson Man City, 36, GK",1,90,-,-,-,-,-,-,-,-,6.94,-,-,-,-,-,-,-,-,10.0,90.0,-,-,-
+6,"77Reece JamesChelsea, 22, D(CR),DMC,M(R)","Reece James Chelsea, 22, D(CR),DMC,M(R)",25(7),2367,1.7,0.5,1,0.1,1.3,0.7,0.2,-,6.94,1,2,1.1,1.3,0.5,-,0.7,0.8,53.0,88.4,1.1,2.3,-
+7,"78Oriol RomeuSouthampton, 30, DMC","Oriol Romeu Southampton, 30, DMC",20(1),1768,3.3,1.4,1.4,-,0.7,2,0.3,-,6.93,1,1,0.7,0.7,1.1,-,0.9,1.1,60.7,82.6,0.1,1.8,-
+8,"79Matthew CashAston Villa, 24, D(R),M(CLR)","Matthew Cash Aston Villa, 24, D(R),M(CLR)",28,2380,2.5,2.1,1.3,0.1,2.9,1.2,0.4,-,6.93,-,2,0.3,0.8,0.8,0.1,0.5,0.7,36.0,75.7,0.8,2,-
+9,"80Scott McTominayMan Utd, 25, D(C),DMC","Scott McTominay Man Utd, 25, D(C),DMC",24(8),2128,1.6,0.9,1.5,-,1.3,0.4,0.3,-,6.93,4,1,0.8,0.5,1.3,-,0.5,1.3,40.6,87.0,0.1,2.1,-
+0,"61James MaddisonLeicester, 25, AM(CLR)","James Maddison Leicester, 25, AM(CLR)",24(7),2105,1.0,0.3,0.6,-,0.1,0.9,-,-,7.0,8,5,2.4,1.6,1.8,0.2,1.1,1.8,32.9,83.3,0.8,1.1,0.1
+1,"62Ben ChilwellChelsea, 25, D(L),M(L)","Ben Chilwell Chelsea, 25, D(L),M(L)",27,2290,1.6,0.9,0.9,0.1,1.7,0.7,0.1,-,7.0,3,5,1,1.1,1.5,0.3,0.7,1.3,54.4,82.0,1,1.9,-
+2,"63Emiliano MartínezAston Villa, 29, GK","Emiliano Martínez Aston Villa, 29, GK",38,3420,0.1,0.1,-,-,0.4,-,-,-,7.0,-,-,-,0.1,0.2,-,-,-,29.8,62.5,-,7.0,-
+3,"64André-Frank Zambo AnguissaFulham, 26, M(C)","André-Frank Zambo Anguissa Fulham, 26, M(C)",29(7),2587,2.2,1.6,1.2,-,0.4,1.1,0.2,-,6.99,-,3,0.9,0.8,0.8,-,1.4,2,39.3,84.2,0.1,1.1,0.1
+4,"65Yves BissoumaBrighton, 25, M(C)","Yves Bissouma Brighton, 25, M(C)",35(1),3114,2.9,1.8,1.5,-,1.8,0.9,0.2,-,6.98,1,-,1.2,0.4,0.9,-,0.8,0.9,46.8,87.4,-,2.1,-
+5,"66RicharlisonEverton, 25, AM(CLR),FW","Richarlison Everton, 25, AM(CLR),FW",33(1),2872,1.4,0.4,1,-,1.0,1,0.1,-,6.98,7,3,2.4,0.7,2.1,0.7,1.6,2,22.0,70.0,0.1,0.4,0.1
+6,"67Harvey BarnesLeicester, 24, AM(CL)","Harvey Barnes Leicester, 24, AM(CL)",22(3),1950,0.8,0.3,0.6,-,0.4,0.7,0.1,-,6.98,9,4,2.2,1.0,1.3,-,1.2,2.3,24.2,75.2,0.1,0.7,-
+7,"68Alex TellesMan Utd, 29, D(L),M(L)","Alex Telles Man Utd, 29, D(L),M(L)",8(1),692,1.6,1.8,0.4,0.1,2.0,1,0.2,-,6.97,-,2,0.6,1.3,0.4,0.1,0.6,0.6,50.9,84.7,1.3,1.6,0.1
+8,"69Okay YokusluWest Brom, 28, D(C),DMC","Okay Yokuslu West Brom, 28, D(C),DMC",15(1),1319,2.4,2.2,1.6,-,2.0,1.1,0.2,-,6.96,-,1,0.8,0.4,1.8,0.1,0.6,1.4,33.1,82.5,-,1.9,-
+9,"70Jack HarrisonLeeds, 25, AM(CLR),FW","Jack Harrison Leeds, 25, AM(CLR),FW",34(2),2858,1.8,0.4,0.8,-,0.5,0.9,0.1,-,6.96,8,8,1.3,1.6,0.6,0.3,1.8,2.6,27.5,74.0,0.9,0.9,-
+0,"51James JustinLeicester, 24, D(CLR),M(LR)","James Justin Leicester, 24, D(CLR),M(LR)",23,2070,2.7,1.3,0.7,0.2,1.9,0.9,0.4,-,7.03,2,1,0.4,0.9,1.7,0.1,0.6,1.3,45.8,80.5,0.3,1.2,-
+1,"52Luke ShawMan Utd, 26, D(CL),M(L)","Luke Shaw Man Utd, 26, D(CL),M(L)",30(2),2657,1.4,0.6,1.3,0.1,1.2,0.5,0.3,1,7.03,1,5,0.3,2.3,0.9,0.1,0.7,0.8,50.3,85.0,1.8,0.9,-
+2,"53Patrick BamfordLeeds, 28, AM(CLR),FW","Patrick Bamford Leeds, 28, AM(CLR),FW",37(1),3066,0.6,0.3,0.9,-,1.0,0.5,0.1,-,7.03,17,7,2.8,0.8,0.6,0.5,0.6,2.2,13.3,77.3,-,0.1,0.1
+3,"54Caoimhin KelleherLiverpool, 23, GK","Caoimhin Kelleher Liverpool, 23, GK",2,180,-,-,-,-,1.0,-,-,-,7.03,-,-,-,-,-,-,-,-,26.0,75.0,-,2.0,-
+4,"55James TarkowskiBurnley, 29, D(C)","James Tarkowski Burnley, 29, D(C)",36,3240,1.8,1.2,0.8,0.6,4.4,0.7,1.2,-,7.02,1,-,0.6,0.3,0.8,0.1,0.1,0.5,35.0,70.1,0.1,3.6,-
+5,"56Antonio RüdigerChelsea, 29, D(CR)","Antonio Rüdiger Chelsea, 29, D(CR)",19,1710,1.6,0.9,0.8,0.5,2.7,0.2,0.5,1,7.02,1,-,0.7,0.2,0.6,0.1,0.1,0.5,80.2,89.4,0.1,4.0,-
+6,"57Trent Alexander-ArnoldLiverpool, 23, D(R),M(R)","Trent Alexander-Arnold Liverpool, 23, D(R),M(R)",34(2),3033,1.6,1.4,0.6,0.4,1.2,0.6,0.1,-,7.02,2,7,1.5,2.1,0.3,0.1,0.6,0.9,66.1,79.4,1.9,4.2,0.1
+7,"58Wesley FofanaLeicester, 21, D(C)","Wesley Fofana Leicester, 21, D(C)",27(1),2265,1.8,2.2,1.3,0.5,3.3,0.5,0.6,-,7.01,-,-,0.4,0.2,1,0.1,0.4,1,60.3,86.4,-,2.7,-
+8,"59Declan RiceWest Ham, 23, D(C),DMC","Declan Rice West Ham, 23, D(C),DMC",32,2880,1.8,1.8,0.7,-,1.1,0.9,0.3,-,7.01,2,1,0.8,0.7,0.4,0.1,0.6,1.1,47.7,88.0,0.3,2.3,-
+9,"60Kalvin PhillipsLeeds, 26, D(C),DMC","Kalvin Phillips Leeds, 26, D(C),DMC",28(1),2431,2.6,1.6,1.6,0.1,1.7,1.2,0.5,-,7.01,1,2,0.5,1.2,1.1,-,0.6,1.4,48.4,84.7,1,4.7,0.1
+0,"41Kurt ZoumaChelsea, 27, D(CR)","Kurt Zouma Chelsea, 27, D(CR)",22(2),2025,0.7,1.2,0.7,0.5,3.8,0.2,0.4,-,7.07,5,-,1.1,0.2,0.3,-,0.2,0.3,74.0,90.9,-,3.8,-
+1,"42Solly MarchBrighton, 27, M(CLR)","Solly March Brighton, 27, M(CLR)",19(2),1675,2.3,1,1.2,-,1.0,0.8,0.2,-,7.07,2,1,1,1.3,1.2,0.1,1.1,1,34.1,76.0,0.9,2.0,-
+2,"43James Ward-ProwseSouthampton, 27, M(CR)","James Ward-Prowse Southampton, 27, M(CR)",38,3420,2,1.1,1.2,-,1.4,1.1,0.1,-,7.07,8,7,1.1,1.6,0.7,-,0.4,0.9,64.1,86.4,1.4,2.1,-
+3,"44Mohamed SalahLiverpool, 29, AM(CLR),FW","Mohamed Salah Liverpool, 29, AM(CLR),FW",34(3),3082,0.5,-,0.6,-,0.3,0.2,-,-,7.07,22,5,3.4,1.5,0.6,0.4,2.2,3.1,34.1,83.7,0.2,0.6,0.1
+4,"45Liam CooperLeeds, 30, D(C)","Liam Cooper Leeds, 30, D(C)",25,2188,2.7,2.4,0.9,0.5,2.7,0.9,1.3,-,7.06,1,-,0.6,-,1.1,-,-,0.3,65.9,85.6,-,3.8,-
+5,"46Kiko CasillaLeeds, 35, GK","Kiko Casilla Leeds, 35, GK",3,270,-,-,-,-,1.3,-,-,-,7.06,-,-,-,-,-,-,-,-,26.0,87.2,-,3.7,-
+6,"47Serge AurierTottenham, 29, D(CLR),M(R)","Serge Aurier Tottenham, 29, D(CLR),M(R)",19,1609,2.9,1,1.2,0.2,2.2,1.3,0.3,-,7.06,2,3,0.8,0.9,0.8,0.1,0.7,1.5,41.7,80.8,0.5,1.1,0.1
+7,"48Paul PogbaMan Utd, 29, M(CL)","Paul Pogba Man Utd, 29, M(CL)",21(5),1896,1.4,1,1.6,-,1.4,0.8,0.1,-,7.06,3,3,1.2,1,1.5,0.2,1.9,2.1,51.3,83.0,0.1,3.7,0.1
+8,"49Harry MaguireMan Utd, 29, D(C)","Harry Maguire Man Utd, 29, D(C)",34,3048,0.9,1.8,1.2,0.6,3.6,0.3,0.7,-,7.04,2,1,1.1,0.2,0.9,-,0.2,0.3,65.5,87.3,-,4.5,-
+9,"50John StonesMan City, 28, D(CR)","John Stones Man City, 28, D(CR)",22,1934,1,0.8,0.3,0.7,2.5,0.2,0.7,-,7.03,4,-,0.7,0.1,0.4,-,0.1,0.2,78.5,93.3,-,2.8,-
+0,"31Gabriel JesusMan City, 25, AM(LR),FW","Gabriel Jesus Man City, 25, AM(LR),FW",22(7),2060,0.6,0.5,1,-,0.2,0.6,-,-,7.11,9,4,1.9,1.1,1.6,0.6,1.3,2,25.2,85.0,0.1,0.4,-
+1,"32Pedro NetoWolves, 22, AM(CLR),FW","Pedro Neto Wolves, 22, AM(CLR),FW",30(1),2559,0.5,1,0.8,-,0.2,0.7,0.1,-,7.11,5,6,2,2.0,1.4,0.1,1.3,2.5,32.9,88.4,1.9,0.5,-
+2,"33Adama TraoréWolves, 26, M(CLR),FW","Adama Traoré Wolves, 26, M(CLR),FW",28(9),2645,0.8,0.2,1.3,-,0.3,0.2,-,-,7.11,2,2,1.2,1.5,2.3,0.2,1.8,3,18.9,76.3,0.6,0.4,-
+3,"34Roberto FirminoLiverpool, 30, M(CLR),FW","Roberto Firmino Liverpool, 30, M(CLR),FW",33(3),2852,0.9,0.3,0.6,-,0.3,0.7,0.1,-,7.11,9,7,2.3,1.2,0.4,0.1,1.3,2.2,36.1,80.7,-,0.6,0.1
+4,"35Jamie VardyLeicester, 35, AM(L),FW","Jamie Vardy Leicester, 35, AM(L),FW",31(3),2846,0.5,0.1,0.8,0.1,0.9,0.4,0.1,-,7.11,15,9,2.4,0.8,0.7,1.1,0.4,1.7,12.8,67.5,0.1,0.1,-
+5,"36Mathew RyanArsenal, 30, GK","Mathew Ryan Arsenal, 30, GK",3,270,-,-,-,-,1.0,-,-,-,7.1,-,-,-,0.3,-,-,-,-,15.7,89.4,-,1.7,-
+6,"37Youri TielemansLeicester, 25, M(C)","Youri Tielemans Leicester, 25, M(C)",37(1),3358,2.3,1.2,1,-,0.4,1.7,0.2,-,7.09,6,4,1.3,1.3,1.4,-,0.9,1.1,65.2,81.7,0.6,3.0,0.2
+7,"38Lucas DigneEverton, 28, D(CL),M(L)","Lucas Digne Everton, 28, D(CL),M(L)",30,2682,2.1,1,1.1,0.1,2.4,0.8,0.1,-,7.08,-,7,0.4,1.5,0.7,0.1,0.7,1.1,42.2,77.5,1.5,1.3,-
+8,"39Christian BentekeCrystal Palace, 31, FW","Christian Benteke Crystal Palace, 31, FW",21(9),1819,0.5,0.1,1.2,-,1.3,0.2,0.2,-,7.08,10,1,2.4,0.5,0.7,0.5,0.9,2,19.2,58.6,-,0.3,-
+9,"40Bernardo SilvaMan City, 27, M(CLR),FW","Bernardo Silva Man City, 27, M(CLR),FW",24(2),2071,1,0.7,0.7,-,0.2,1.6,-,-,7.07,2,6,1.1,1.0,0.7,0.1,0.9,1.3,52.8,91.8,0.1,1.9,-
+0,"21RodriMan City, 25, DMC","Rodri Man City, 25, DMC",31(3),2749,2.1,1.1,1.3,-,1.6,1.0,0.3,-,7.17,2,2,0.9,1.0,0.9,0.1,0.6,0.7,81.9,91.3,0.1,4.6,-
+1,"22Michail AntonioWest Ham, 32, D(R),M(CLR),FW","Michail Antonio West Ham, 32, D(R),M(CLR),FW",24(2),1984,0.3,0.3,1.1,-,0.3,0.2,0.1,-,7.17,10,5,2.4,1.0,1.5,0.6,1.9,3.0,17.4,68.2,0.1,0.5,-
+2,"23Dominic Calvert-LewinEverton, 25, AM(L),FW","Dominic Calvert-Lewin Everton, 25, AM(L),FW",32(1),2876,0.5,0.2,1.1,-,1,0.2,0.2,-,7.17,16,-,2.5,0.5,1.2,0.5,0.9,3.1,20.5,68.7,0.1,0.5,-
+3,"24Jimmy DunneBurnley, 24, D(C)","Jimmy Dunne Burnley, 24, D(C)",3,270,1.0,2.0,0.7,0.3,5.3,0.3,0.7,-,7.16,1,-,2.3,0.7,1.0,-,0.3,0.3,51.0,68.6,-,3.3,-
+4,"25Aaron Wan-BissakaMan Utd, 24, D(R),M(R)","Aaron Wan-Bissaka Man Utd, 24, D(R),M(R)",34,3060,2.6,1.8,0.9,0.2,1.8,0.4,0.5,-,7.15,2,4,0.2,0.9,0.4,-,0.6,1.0,53.1,84.9,0.4,0.8,-
+5,"26Phil FodenMan City, 22, AM(CLR),FW","Phil Foden Man City, 22, AM(CLR),FW",17(11),1614,0.8,0.4,0.4,-,0.4,0.5,-,-,7.14,9,5,1.6,1.3,1.2,0.1,0.5,1.7,27.2,88.2,0.5,0.3,-
+6,"27Joseph WillockNewcastle, 22, M(C)","Joseph Willock Newcastle, 22, M(C)",11(3),980,1.9,1.2,0.6,-,0.7,2.4,0.2,-,7.13,8,-,1.4,0.6,1.1,-,1.1,1.5,16.2,77.1,0.2,0.6,-
+7,"28Marcus RashfordMan Utd, 24, AM(CLR),FW","Marcus Rashford Man Utd, 24, AM(CLR),FW",33(4),2928,0.5,0.2,0.7,0.1,0.3,0.5,0.1,-,7.13,11,9,2.1,1.2,1.1,0.7,1.4,2.1,32.1,82.1,0.2,0.9,-
+8,"29ThiagoLiverpool, 31, M(C)","Thiago Liverpool, 31, M(C)",20(4),1858,2.5,1.3,2.0,-,0.5,1.3,-,-,7.12,1,-,0.9,1.3,1.0,-,0.8,1.0,71.7,89.6,-,5.0,0.1
+9,"30Allan Saint-MaximinNewcastle, 25, AM(CLR),FW","Allan Saint-Maximin Newcastle, 25, AM(CLR),FW",19(6),1568,0.6,0.2,0.4,-,-,0.2,-,-,7.12,3,4,1.2,1.2,1.8,0.2,2.1,2.2,16.7,82.5,0.2,0.6,-
+0,"11Nathaniel PhillipsLiverpool, 25, D(C)","Nathaniel Phillips Liverpool, 25, D(C)",15(2),1456,1.3,1.2,1.2,0.5,4.8,0.8,0.8,-,7.29,1,1,0.9,0.4,0.5,-,0.2,0.5,65.7,84.2,-,2.6,-
+1,"12Ilkay GündoganMan City, 31, M(C)","Ilkay Gündogan Man City, 31, M(C)",23(5),2031,0.9,0.7,0.3,-,0.3,1.0,0.1,-,7.29,13,2,1.9,1.5,0.9,-,0.5,1.1,61.2,91.7,0.3,1.6,-
+2,"13Son Heung-MinTottenham, 29, M(CLR),FW","Son Heung-Min Tottenham, 29, M(CLR),FW",36(1),3127,0.9,0.4,0.4,-,0.1,1.5,0.1,-,7.27,17,10,1.8,2,1.5,0.4,1.4,1.6,28.6,83.4,1,0.8,-
+3,"14Wilfred NdidiLeicester, 25, D(C),DMC","Wilfred Ndidi Leicester, 25, D(C),DMC",25(1),2179,3.7,2.3,2.1,0.1,2,1.5,0.4,-,7.25,1,4,0.6,0.6,0.6,-,0.5,1.0,55.1,86.9,-,2.0,-
+4,"15Jesse LingardWest Ham, 29, AM(CLR),FW","Jesse Lingard West Ham, 29, AM(CLR),FW",16,1426,0.8,0.3,1.3,-,-,0.6,0.1,-,7.22,9,4,2.6,1.1,1.5,0.4,1.4,1.8,39.6,83.6,0.4,1.0,-
+5,"16RaphinhaLeeds, 25, AM(LR),FW","Raphinha Leeds, 25, AM(LR),FW",26(4),2364,1.1,1.0,0.4,-,0.9,1.5,-,-,7.22,6,9,2.2,2.1,1.0,0.5,1.1,2.8,29.2,72.3,1.3,1.5,-
+6,"17Raheem SterlingMan City, 27, M(CLR),FW","Raheem Sterling Man City, 27, M(CLR),FW",28(3),2537,0.7,0.5,1.2,-,0.1,0.2,-,-,7.22,10,7,2.3,1.3,1.3,0.3,2.7,2.0,35.9,86.2,-,0.3,-
+7,"18James RodríguezEverton, 30, AM(CLR),FW","James Rodríguez Everton, 30, AM(CLR),FW",21(2),1776,1.2,0.7,0.7,-,-,1.5,-,-,7.21,6,4,1.6,1.7,1.7,0.3,1.7,1.4,44.8,83.3,0.7,4.3,0.2
+8,"19Ollie WatkinsAston Villa, 26, AM(LR),FW","Ollie Watkins Aston Villa, 26, AM(LR),FW",37,3329,0.8,0.2,1.3,-,0.6,0.6,0.1,-,7.18,14,5,2.6,1.2,1.3,0.8,2.3,3.1,21.7,71.5,0.1,0.2,-
+9,"20Kortney HauseAston Villa, 26, D(CL)","Kortney Hause Aston Villa, 26, D(CL)",7,630,0.6,1.1,0.7,0.4,7.6,0.4,0.3,-,7.17,1,-,0.7,-,0.4,-,-,0.1,33.1,74.6,-,2.3,-
+0,"1Harry KaneTottenham, 28, AM(C),FW","Harry Kane Tottenham, 28, AM(C),FW",35,3087,0.6,0.3,0.7,-,1.1,0.5,0.3,-,7.79,23,14,3.9,1.4,1.7,0.4,1.5,1.8,25.9,69.9,0.2,1.9,0.1
+1,"2Kevin De BruyneMan City, 30, M(CLR),FW","Kevin De Bruyne Man City, 30, M(CLR),FW",23(2),2001,1.4,0.4,1.1,-,0.3,1.4,-,-,7.65,6,12,3.2,3.2,1.2,-,1.3,1.8,50.6,81.7,1.6,2.6,0.2
+2,"3Jack GrealishAston Villa, 26, AM(CL),FW","Jack Grealish Aston Villa, 26, AM(CL),FW",24(2),2184,1.2,0.5,1.5,-,0.2,0.3,0.1,-,7.56,6,10,1.9,3.1,4.2,0.3,1.5,2.1,38.3,83.3,0.7,1.2,0.1
+3,"4Bruno FernandesMan Utd, 27, M(CLR)","Bruno Fernandes Man Utd, 27, M(CLR)",35(2),3110,1.5,0.7,1.2,-,0.7,2.0,-,-,7.43,18,12,3.3,2.6,1.4,0.1,1.0,1.5,57.1,78.3,1.1,3.8,0.2
+4,"5Tomas SoucekWest Ham, 27, DMC","Tomas Soucek West Ham, 27, DMC",38,3420,2.1,1.6,1.8,0.1,2.7,1.3,0.5,1,7.36,10,1,1.7,0.5,1.1,0.1,0.6,1.1,42.3,75.5,-,2.2,-
+5,"6Mason MountChelsea, 23, M(CLR)","Mason Mount Chelsea, 23, M(CLR)",32(4),2892,2.1,0.9,1.4,-,0.3,1.2,0.1,-,7.33,6,5,2.3,2.4,1.2,0.1,1.1,1.6,47.3,86.5,1.7,1.6,-
+6,"7Sadio ManéLiverpool, 30, AM(CLR),FW","Sadio Mané Liverpool, 30, AM(CLR),FW",31(4),2813,1.4,0.4,1.5,-,0.3,0.6,-,-,7.33,11,7,2.7,1.7,2.2,0.9,1.7,2.9,28.8,78.7,0.3,0.8,-
+7,"8Riyad MahrezMan City, 31, AM(CLR),FW","Riyad Mahrez Man City, 31, AM(CLR),FW",23(4),1955,0.7,0.3,0.5,-,0.1,0.9,-,-,7.31,9,6,2.1,1.6,1.1,0.3,1.1,1.7,37.2,88.4,0.7,0.9,-
+8,"9João CanceloMan City, 28, D(LR),M(R)","João Cancelo Man City, 28, D(LR),M(R)",27(1),2302,2.4,1.5,1.3,0.3,1.0,1.4,0.1,-,7.31,2,3,1.3,1.6,0.6,0.1,0.8,1.3,66.2,87.1,0.4,2.4,0.1
+9,"10Gareth BaleTottenham, 32, M(CLR),FW","Gareth Bale Tottenham, 32, M(CLR),FW",10(10),923,0.9,0.4,0.5,0.1,0.7,0.4,0.1,-,7.3,11,2,1.9,1.1,0.5,0.3,0.4,0.9,18.3,73.2,0.6,1.5,0.1

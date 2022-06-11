@@ -1,0 +1,585 @@
+﻿,Player,Player.1,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating,Goals,Assists,SpG,KeyP,Fouled,Off,Disp,UnsTch,AvgP,PS%,Crosses,LongB,ThrB
+0,"581Anastasios DonisReims, 25, AM(CR),FW","Anastasios Donis Reims, 25, AM(CR),FW",1(2),98,1.3,-,1,-,-,-,-,-,5.75,-,-,0.3,-,-,1,-,1.3,6.3,57.9,0.3,-,-
+1,"582Aleksandar RadovanovicLens, 28, D(C)","Aleksandar Radovanovic Lens, 28, D(C)",1,90,1,-,1,1,1,-,1,-,5.72,-,-,-,-,-,-,-,-,45.0,68.9,-,3,-
+2,"583Marcin BulkaPSG, 22, Goalkeeper","Marcin Bulka PSG, 22, Goalkeeper",1,90,-,-,-,-,1,-,-,-,5.55,-,-,-,-,-,-,-,-,21.0,81.0,-,3,-
+3,"584Stefan BajicSaint-Etienne, 20, GK","Stefan Bajic Saint-Etienne, 20, GK",1,90,-,-,-,-,2,-,-,-,5.01,-,-,-,-,-,-,-,-,28.0,50.0,-,5,-
+0,"571Danilo BarbosaNice, 26, D(C),DMC","Danilo Barbosa Nice, 26, D(C),DMC",3(1),251,1.5,0.5,0.8,0.3,2.8,0.5,0.3,-,5.94,-,-,0.5,-,1,-,-,0.8,50.5,88.1,-,1.5,-
+1,"572Bandiougou FadigaBrest, 21, Midfielder","Bandiougou Fadiga Brest, 21, Midfielder",0(4),39,-,-,-,-,-,0.5,-,-,5.92,-,-,-,0.3,0.3,-,0.3,0.8,7.0,85.7,-,0.3,-
+2,"573Édouard MendyRennes, 30, GK","Édouard Mendy Rennes, 30, GK",1,90,-,-,-,-,1,-,-,-,5.92,-,-,-,1,-,-,-,-,27.0,81.5,-,8,-
+3,"574Tristan DingoméReims, 31, M(C)","Tristan Dingomé Reims, 31, M(C)",0(1),14,-,-,1,-,-,1,-,-,5.92,-,-,-,-,-,-,-,-,15.0,80,-,-,-
+4,"575Noah FatarAngers, 20, Midfielder","Noah Fatar Angers, 20, Midfielder",0(2),19,0.5,-,1.5,-,-,-,-,-,5.91,-,-,-,-,-,-,0.5,0.5,4.5,77.8,-,-,-
+5,"576Andy DioufRennes, 19, Midfielder","Andy Diouf Rennes, 19, Midfielder",0(1),11,-,-,2,-,-,-,-,-,5.9,-,-,-,-,1,-,-,-,1.0,100,-,-,-
+6,"577Yassin FortunéAngers, 23, Forward","Yassin Fortuné Angers, 23, Forward",0(1),14,-,-,-,-,-,-,-,-,5.9,-,-,-,-,-,-,-,-,4.0,75,-,-,-
+7,"578Zinédine Ould KhaledAngers, 22, Defender","Zinédine Ould Khaled Angers, 22, Defender",0(3),35,-,0.3,0.3,-,-,-,-,-,5.89,-,-,-,-,0.3,-,0.3,-,6.3,94.7,-,-,-
+8,"579Abdoulaye SidibéSaint-Etienne, 20, Forward","Abdoulaye Sidibé Saint-Etienne, 20, Forward",0(1),10,1,-,1,-,-,1,-,-,5.89,-,-,-,-,-,-,-,1,1.0,-,-,-,-
+9,"580Habib KeitaLyon, 20, Forward","Habib Keita Lyon, 20, Forward",0(1),5,-,-,-,-,-,-,-,-,5.81,-,-,1,-,-,-,-,1,3.0,100,-,-,-
+0,"561Patrick BurnerNice, 26, D(R)","Patrick Burner Nice, 26, D(R)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+1,"562Strahinja PavlovicMonaco, 21, D(C)","Strahinja Pavlovic Monaco, 21, D(C)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,1,-,-,-,-
+2,"563Wilfried KangaAngers, 24, FW","Wilfried Kanga Angers, 24, FW",2,134,-,-,1,-,1,0.5,-,-,6.0,-,-,0.5,-,0.5,-,1.5,1,9.5,78.9,-,-,-
+3,"564Clement DepresNimes, 27, Forward","Clement Depres Nimes, 27, Forward",0(1),14,-,-,-,-,-,-,-,-,5.99,-,-,-,-,-,-,-,-,5,80,-,-,-
+4,"565Antoine ValérioNimes, 22, Midfielder","Antoine Valério Nimes, 22, Midfielder",1,71,-,2,2,-,-,1,-,-,5.97,-,-,-,2,-,-,-,2,18,83.3,-,1,-
+5,"566Mathys SabanSaint-Etienne, 20, Midfielder","Mathys Saban Saint-Etienne, 20, Midfielder",0(1),12,-,-,-,-,-,-,-,-,5.97,-,-,-,-,-,-,1,-,3,100,-,-,-
+6,"567Rachid AliouiAngers, 29, FW","Rachid Alioui Angers, 29, FW",0(1),14,-,-,-,-,-,1,-,-,5.97,-,-,-,-,1,-,1,1,8,100,-,-,-
+7,"568Waniss TaibiAngers, 20, Midfielder","Waniss Taibi Angers, 20, Midfielder",0(2),36,-,-,0.5,-,-,1,-,-,5.96,-,-,-,0.5,-,-,-,0.5,14.5,89.7,-,0.5,-
+8,"569Cheick Tidiane SabalyMetz, 23, Forward","Cheick Tidiane Sabaly Metz, 23, Forward",0(1),11,-,-,-,-,-,-,-,-,5.95,-,-,1,-,-,-,-,1,4,75,-,-,-
+9,"570Samuel MoutoussamyNantes, 25, M(CL)","Samuel Moutoussamy Nantes, 25, M(CL)",1,83,-,-,2,-,-,1,-,-,5.95,-,-,2,-,1,-,-,2,27,96.3,-,-,-
+0,"551JeséPSG, 29, AM(LR),FW","Jesé PSG, 29, AM(LR),FW",0(2),22,-,-,-,-,-,0.5,-,-,6.02,-,-,-,-,-,-,-,0.5,3.5,42.9,-,-,-
+1,"552Yahya SoumaréLyon, 21, Forward","Yahya Soumaré Lyon, 21, Forward",0(3),3,0.3,0.7,0.3,-,-,0.3,-,-,6.01,-,-,-,-,-,-,-,-,0.3,100,-,-,-
+2,"553Tyrone TorminSaint-Etienne, 20, Midfielder","Tyrone Tormin Saint-Etienne, 20, Midfielder",0(3),18,-,-,0.3,-,-,-,-,-,6.01,-,-,0.3,-,0.3,-,-,-,3,88.9,-,-,-
+3,"554Adrien LouveauLens, 22, Defender","Adrien Louveau Lens, 22, Defender",0(1),7,-,-,-,-,1,-,-,-,6.01,-,-,-,-,-,-,-,-,4,100,-,-,-
+4,"555Salim Ben SeghirNice, 19, Forward","Salim Ben Seghir Nice, 19, Forward",0(1),6,-,-,-,-,-,-,-,-,6.01,-,-,-,-,-,-,-,-,7,100,-,1,-
+5,"556Bilal BenkhedimSaint-Etienne, 21, Midfielder","Bilal Benkhedim Saint-Etienne, 21, Midfielder",1(2),72,-,-,0.3,-,-,0.3,-,-,6.01,-,-,-,0.3,0.3,-,0.3,2,12.3,83.8,0.3,0.7,-
+6,"557Samy BenchammaMontpellier, 21, Midfielder","Samy Benchamma Montpellier, 21, Midfielder",0(5),39,0.2,-,0.6,-,-,-,-,-,6.01,-,-,-,-,0.2,-,-,-,4.6,87,-,-,-
+7,"558Hicham MahouNice, 22, Midfielder","Hicham Mahou Nice, 22, Midfielder",0(2),32,0.5,0.5,1.5,-,-,0.5,-,-,6.01,-,-,-,0.5,-,-,-,-,7,71.4,0.5,-,-
+8,"559Assane DiousséSaint-Etienne, 24, DMC","Assane Dioussé Saint-Etienne, 24, DMC",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,1,100,-,-,-
+9,"560Malo GustoLyon, 19, D(R),M(R)","Malo Gusto Lyon, 19, D(R),M(R)",0(2),2,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+0,"541Charles CostesDijon, 19, Midfielder","Charles Costes Dijon, 19, Midfielder",0(1),1,-,-,-,-,-,-,-,-,6.03,-,-,-,-,-,-,-,-,-,-,-,-,-
+1,"542Edouard MichutPSG, 19, Midfielder","Edouard Michut PSG, 19, Midfielder",0(1),1,-,-,-,-,-,-,-,-,6.03,-,-,-,-,-,-,-,-,-,-,-,-,-
+2,"543Georginio RutterRennes, 20, FW","Georginio Rutter Rennes, 20, FW",0(4),41,0.5,-,1,-,-,0.5,-,-,6.03,-,-,-,-,0.5,0.5,0.3,1.5,3.5,64.3,-,-,-
+3,"544Lucas BuadesNimes, 24, Midfielder","Lucas Buades Nimes, 24, Midfielder",0(2),20,0.5,-,-,-,-,-,-,-,6.03,-,-,-,-,-,-,-,-,2,50,-,-,-
+4,"545Mahamé SibyStrasbourg, 25, Midfielder","Mahamé Siby Strasbourg, 25, Midfielder",0(7),18,-,-,-,-,0.1,0.1,-,-,6.03,-,-,-,-,-,-,-,0.1,1.6,81.8,-,0.1,-
+5,"546Fraser HornbyReims, 22, FW","Fraser Hornby Reims, 22, FW",0(3),31,-,0.3,0.3,-,-,-,-,-,6.02,-,-,0.7,-,-,-,-,0.3,3,44.4,-,-,-
+6,"547Jean-Kévin AugustinNantes, 24, AM(R),FW","Jean-Kévin Augustin Nantes, 24, AM(R),FW",0(3),34,0.7,-,-,-,-,-,-,-,6.02,-,-,-,-,0.3,-,-,0.3,1.3,100,-,-,-
+7,"548Kenny NageraPSG, 20, Forward","Kenny Nagera PSG, 20, Forward",0(1),1,-,-,-,-,-,-,-,-,6.02,-,-,-,-,-,-,-,-,3,100,-,1,-
+8,"549Rayan SouiciSaint-Etienne, 24, Midfielder","Rayan Souici Saint-Etienne, 24, Midfielder",0(1),4,-,-,-,-,-,-,-,-,6.02,-,-,-,-,-,-,-,-,9,88.9,-,2,-
+9,"550Xavi SimonsPSG, 19, Midfielder","Xavi Simons PSG, 19, Midfielder",0(1),1,-,-,-,-,-,-,-,-,6.02,-,-,1,-,-,-,-,-,9,77.8,-,1,-
+0,"531Mohamed-Ali ChoAngers, 18, FW","Mohamed-Ali Cho Angers, 18, FW",1(20),332,0.4,0.1,0.4,-,-,0.2,-,-,6.06,-,-,0.5,0.1,0.4,-,0.6,0.8,4.6,67.7,-,0.1,-
+1,"532Majeed WarisStrasbourg, 30, AM(LR),FW","Majeed Waris Strasbourg, 30, AM(LR),FW",5(10),547,0.1,0.1,0.5,-,0.1,0.3,-,-,6.06,1,-,0.7,0.1,1.3,0.1,0.8,1.3,8.5,81.9,0.1,0.1,-
+2,"533Karim AribiNimes, 27, Forward","Karim Aribi Nimes, 27, Forward",2(11),288,0.2,-,0.2,-,0.2,0.4,-,-,6.06,-,-,0.6,0.2,0.2,-,0.2,1,5.1,57.6,-,-,-
+3,"534Manuel PerezLens, 31, Midfielder","Manuel Perez Lens, 31, Midfielder",1(3),125,0.3,0.5,0.8,-,0.5,2,-,-,6.06,-,-,0.3,-,-,-,0.3,0.3,10.8,86.0,-,1.3,-
+4,"535Nolan RouxNimes, 34, AM(LR),FW","Nolan Roux Nimes, 34, AM(LR),FW",6(13),648,0.4,0.3,0.6,-,0.2,0.3,-,-,6.05,-,-,0.5,0.2,0.8,0.2,0.5,1.4,7.4,74.3,0.1,0.1,-
+5,"536Idriss SaadiStrasbourg, 30, FW","Idriss Saadi Strasbourg, 30, FW",0(7),118,-,-,0.1,-,-,0.3,-,-,6.05,-,-,0.9,0.3,-,-,0.1,0.4,3.1,77.3,-,-,-
+6,"537Bridge NdiluNantes, 21, Forward","Bridge Ndilu Nantes, 21, Forward",0(6),38,-,-,0.2,-,-,0.3,-,-,6.05,-,-,0.3,0.3,0.3,0.2,-,0.2,3.3,55.0,-,-,-
+7,"538Heriberto TavaresBrest, 25, M(CLR),FW","Heriberto Tavares Brest, 25, M(CLR),FW",0(4),40,0.5,0.3,0.3,-,0.3,0.5,-,-,6.05,-,-,0.3,0.3,-,-,-,0.5,2.5,80.0,0.3,0.3,-
+8,"539Enzo EbosseAngers, 23, D(C)","Enzo Ebosse Angers, 23, D(C)",3(3),261,0.8,0.3,0.5,-,2,0.2,0.2,-,6.04,-,-,-,0.2,0.7,-,-,0.7,22.5,89.6,0.2,0.8,-
+9,"540Florent da SilvaLyon, 19, Midfielder","Florent da Silva Lyon, 19, Midfielder",0(1),2,-,-,-,-,-,-,-,-,6.04,-,-,-,-,-,-,-,-,1.0,100.0,-,-,-
+0,"521Yann M'VilaSaint-Etienne, 31, M(C)","Yann M'Vila Saint-Etienne, 31, M(C)",0(1),19,-,1,-,-,-,2,-,-,6.09,-,-,-,-,-,-,-,-,15.0,86.7,-,1,-
+1,"522Marco MajougaNimes, 21, Forward","Marco Majouga Nimes, 21, Forward",0(7),100,-,-,0.3,-,-,0.3,-,-,6.09,-,-,0.7,0.4,0.1,0.1,0.3,0.3,4.3,76.7,0.1,0.1,-
+2,"523Thomas FontaineLorient, 31, D(C)","Thomas Fontaine Lorient, 31, D(C)",4,321,1.3,1.3,0.3,-,3.3,-,0.5,-,6.08,-,-,0.5,-,0.8,-,-,0.3,25.5,87.3,-,2,-
+3,"524Abdoulaye SyllaNantes, 22, Defender","Abdoulaye Sylla Nantes, 22, Defender",0(2),7,1,-,-,-,0.5,-,-,-,6.08,-,-,-,-,-,-,-,-,0.5,-,-,-,-
+4,"525Moise SakavaReims, 21, Midfielder","Moise Sakava Reims, 21, Midfielder",0(1),7,-,-,-,-,-,-,-,-,6.07,-,-,1,-,-,-,-,-,8.0,100,-,1,-
+5,"526James Léa SilikiRennes, 25, M(CL)","James Léa Siliki Rennes, 25, M(CL)",3(4),255,0.7,0.1,0.4,-,0.1,-,-,-,6.07,-,-,0.9,0.1,-,-,0.1,0.4,20.3,83.1,-,1.3,-
+6,"527Mahamadou DoucouréNimes, 22, Forward","Mahamadou Doucouré Nimes, 22, Forward",0(3),43,0.3,-,-,-,-,-,-,-,6.07,-,-,-,-,0.3,-,0.7,1,3.7,81.8,-,-,-
+7,"528Pietro PellegriMonaco, 21, FW","Pietro Pellegri Monaco, 21, FW",0(16),222,0.1,-,0.5,-,-,-,-,-,6.07,1,-,0.6,0.1,0.6,0.3,0.4,0.6,2.3,50,-,-,-
+8,"529Sacha BoeyRennes, 21, D(R)","Sacha Boey Rennes, 21, D(R)",2,125,1.5,1,1,-,1,0.5,-,-,6.07,-,-,0.5,0.5,-,-,-,1.5,34.0,85.3,0.5,1,-
+9,"530Habib DialloMetz, 26, AM(R),FW","Habib Diallo Metz, 26, AM(R),FW",1(3),141,0.3,-,0.5,-,1.3,-,-,-,6.07,-,-,0.5,0.3,0.5,0.5,1.5,1.8,8.5,50,-,0.3,-
+0,"511Cristian BattocchioBrest, 30, M(C)","Cristian Battocchio Brest, 30, M(C)",2(13),348,0.3,0.3,0.1,-,0.3,0.5,-,-,6.11,-,-,0.3,0.3,0.1,-,0.2,0.3,12.7,88.5,0.1,0.6,-
+1,"512Nassim ChadliNimes, 20, Midfielder","Nassim Chadli Nimes, 20, Midfielder",0(3),28,0.7,-,-,-,-,0.3,-,-,6.11,-,-,-,-,0.3,-,0.3,0.3,4.3,84.6,-,-,-
+2,"513Stéphane DiarraLorient, 23, Midfielder","Stéphane Diarra Lorient, 23, Midfielder",2(11),189,-,0.3,0.3,-,-,0.5,0.1,-,6.1,-,-,0.2,0.5,0.2,0.2,0.5,0.5,5.2,73.5,0.4,0.1,-
+3,"514Maxence RiveraSaint-Etienne, 20, Forward","Maxence Rivera Saint-Etienne, 20, Forward",1(16),224,0.7,0.1,0.1,-,-,0.4,-,-,6.1,-,-,0.1,0.1,0.1,-,0.2,0.8,5.6,78.1,0.1,0.1,-
+4,"515Rubén PardoBordeaux, 29, M(C)","Rubén Pardo Bordeaux, 29, M(C)",0(2),21,-,0.5,-,-,-,-,-,-,6.1,-,-,-,-,-,-,-,0.5,5.5,81.8,-,-,-
+5,"516Rayan PhilippeDijon, 21, Forward","Rayan Philippe Dijon, 21, Forward",1(3),92,0.8,-,-,-,-,-,-,-,6.1,-,-,0.8,-,0.5,0.3,1.5,0.8,2.5,60.0,-,-,-
+6,"517Marc-Aurèle CaillardMetz, 28, GK","Marc-Aurèle Caillard Metz, 28, GK",4(1),361,-,-,0.2,-,0.8,-,-,-,6.1,-,-,-,-,0.2,-,-,-,15.0,56.0,-,2.4,-
+7,"518Christopher RocchiaMarseille, 24, Defender","Christopher Rocchia Marseille, 24, Defender",0(2),20,0.5,-,1,-,0.5,1,-,-,6.1,-,-,-,-,0.5,-,0.5,-,5.0,90.0,-,-,-
+8,"519Ismaël AanebaStrasbourg, 23, Defender","Ismaël Aaneba Strasbourg, 23, Defender",0(2),9,-,0.5,0.5,-,0.5,-,-,-,6.09,-,-,-,-,-,-,-,-,0.5,100.0,-,0.5,-
+9,"520Keagan DollyMontpellier, 29, AM(CL)","Keagan Dolly Montpellier, 29, AM(CL)",3(15),443,0.4,0.3,0.3,-,0.1,0.2,-,-,6.09,-,-,0.3,0.2,0.2,0.1,0.2,0.6,9.0,89.5,0.2,0.3,-
+0,"501Sylvain MarveauxLorient, 36, AM(CLR),FW","Sylvain Marveaux Lorient, 36, AM(CLR),FW",2(7),197,0.7,0.1,0.2,-,0.1,-,-,-,6.14,-,-,0.6,0.2,0.8,-,0.7,0.3,9.7,80.5,0.1,0.3,-
+1,"502Dilane BakwaBordeaux, 19, Forward","Dilane Bakwa Bordeaux, 19, Forward",0(7),50,0.3,0.1,0.1,-,-,0.1,-,-,6.14,-,-,0.4,0.1,0.9,-,0.1,0.4,5.7,85.0,-,-,-
+2,"503Kévin Monnet-PaquetSaint-Etienne, 33, M(CLR),FW","Kévin Monnet-Paquet Saint-Etienne, 33, M(CLR),FW",7(9),562,0.7,0.4,0.4,-,0.4,0.3,-,-,6.14,-,-,0.4,0.3,0.6,-,1.0,1.0,12.4,68.2,0.1,0.2,-
+3,"504FlorentinoMonaco, 22, M(C)","Florentino Monaco, 22, M(C)",2(7),238,0.8,0.7,0.4,-,0.2,0.4,-,-,6.14,-,-,0.1,0.3,0.2,-,0.1,0.2,18.3,86.1,-,0.6,-
+4,"505Kevin N'DoramMetz, 26, DMC","Kevin N'Doram Metz, 26, DMC",4(2),308,0.5,1,0.7,-,0.3,0.3,-,-,6.14,-,-,-,-,0.2,-,0.2,0.3,22.5,83.7,-,1.8,-
+5,"506Olivier NtchamMarseille, 26, M(CLR)","Olivier Ntcham Marseille, 26, M(CLR)",2(2),120,0.3,0.5,0.3,-,0.8,0.5,0.3,-,6.13,-,-,0.3,-,-,-,0.5,0.5,13.5,85.2,-,0.8,-
+6,"507Marley AkéMarseille, 21, Forward","Marley Aké Marseille, 21, Forward",0(9),138,0.3,-,0.7,-,0.1,0.1,-,-,6.13,-,-,0.4,-,0.6,-,0.6,0.4,3.1,78.6,-,-,-
+7,"508Amadou TraoréBordeaux, 20, Forward","Amadou Traoré Bordeaux, 20, Forward",0(19),286,0.3,0.1,0.3,-,0.1,0.4,-,-,6.13,-,1,0.2,0.3,0.5,-,0.7,0.6,3.9,79.7,0.2,-,-
+8,"509Jean LucasLyon, 23, M(C)","Jean Lucas Lyon, 23, M(C)",1(7),167,0.4,0.3,0.4,-,0.1,0.4,0.1,-,6.13,-,-,0.6,0.1,0.3,-,0.3,0.3,15.4,88.6,0.1,1.3,-
+9,"510Aurélien ScheidlerDijon, 24, Forward","Aurélien Scheidler Dijon, 24, Forward",3(7),336,0.2,0.1,0.6,-,0.5,0.2,-,-,6.11,1,-,0.8,0.5,0.4,0.6,0.3,0.9,6.9,68.1,0.1,0.2,-
+0,"491Sanjin PrcicStrasbourg, 28, M(C)","Sanjin Prcic Strasbourg, 28, M(C)",3(11),348,0.2,0.3,0.6,-,-,0.2,0.2,-,6.16,-,1,0.5,0.5,0.2,-,0.1,0.1,16.5,84.0,0.4,1.8,-
+1,"492Umut BozokLorient, 25, FW","Umut Bozok Lorient, 25, FW",0(5),58,-,-,-,-,-,0.4,-,-,6.15,-,-,-,-,1.2,-,0.4,0.6,5.4,63.0,-,-,-
+2,"493Joris ChotardMontpellier, 20, DMC","Joris Chotard Montpellier, 20, DMC",11(18),1158,0.4,0.4,0.5,-,0.5,0.9,0.1,-,6.15,-,-,0.3,0.3,0.2,-,0.2,0.5,12.2,73.4,0.2,1,-
+3,"494Sébastien CiboisBrest, 24, Goalkeeper","Sébastien Cibois Brest, 24, Goalkeeper",3,270,-,-,0.3,-,0.3,-,-,-,6.15,-,-,-,-,-,-,-,-,26.3,67.1,-,6,-
+4,"495Renaud EmondNantes, 30, FW","Renaud Emond Nantes, 30, FW",3(19),340,-,-,0.2,-,-,-,-,-,6.15,2,-,0.4,0.1,0.6,-,0.1,0.4,3.7,68.3,-,0.1,-
+5,"496Radoslaw MajeckiMonaco, 22, Goalkeeper","Radoslaw Majecki Monaco, 22, Goalkeeper",1,90,-,-,-,-,1,-,-,-,6.15,-,-,-,-,-,-,-,-,35.0,68.6,-,6,-
+6,"497Aníbal ChaláDijon, 26, D(L)","Aníbal Chalá Dijon, 26, D(L)",9(4),744,0.8,1.1,1.2,0.3,1.1,0.5,0.2,-,6.15,-,-,-,0.2,0.7,-,0.2,1.1,23.3,78.5,-,1,-
+7,"498Yann GbohoRennes, 21, AM(C)","Yann Gboho Rennes, 21, AM(C)",2(8),299,0.6,0.1,0.8,-,0.3,0.5,-,-,6.15,-,-,0.9,0.5,0.6,0.1,1.2,1.3,11.3,78.8,-,0.1,-
+8,"499Roger AssaléDijon, 28, AM(CR),FW","Roger Assalé Dijon, 28, AM(CR),FW",11(6),834,0.6,0.1,0.7,-,0.1,0.5,0.2,-,6.15,1,-,0.6,0.2,1.6,0.4,1.1,1.8,10.1,68.0,-,0.4,-
+9,"500Willem GeubbelsMonaco, 20, Forward","Willem Geubbels Monaco, 20, Forward",2(12),287,0.9,0.2,0.7,-,0.2,0.6,-,-,6.15,1,-,0.4,0.2,0.1,0.1,0.2,1,8.5,72.3,0.1,0.4,-
+0,"481Youssef MazizMetz, 23, AM(CL),FW","Youssef Maziz Metz, 23, AM(CL),FW",2(9),255,0.2,0.5,0.2,-,0.1,0.4,-,-,6.17,-,-,0.5,0.6,0.5,-,0.4,0.6,10.0,79.1,0.3,0.6,-
+1,"482Casimir NingaAngers, 29, AM(LR),FW","Casimir Ninga Angers, 29, AM(LR),FW",0(1),22,-,-,-,-,1,-,-,-,6.17,-,-,-,-,1,-,-,2,9.0,77.8,-,1,-
+2,"483Sami Ben AmarNimes, 24, Forward","Sami Ben Amar Nimes, 24, Forward",0(1),6,-,-,-,-,-,-,-,-,6.17,-,-,-,-,-,-,-,1,4.0,50.0,-,-,-
+3,"484Yun Il-LokMontpellier, 30, Forward","Yun Il-Lok Montpellier, 30, Forward",3(9),308,-,0.4,0.3,-,0.1,0.3,-,-,6.17,-,-,0.5,0.3,0.1,0.1,0.3,0.4,8.1,74.2,0.3,-,-
+4,"485Jimmy BriandBordeaux, 36, M(LR),FW","Jimmy Briand Bordeaux, 36, M(LR),FW",1(23),552,0.3,-,0.6,-,0.1,-,-,-,6.16,1,2,0.5,0.1,0.5,0.1,0.4,1.3,6.8,76.1,-,-,-
+5,"486Mihai-Alexandru DobreDijon, 23, Forward","Mihai-Alexandru Dobre Dijon, 23, Forward",4(18),519,0.5,0.5,0.2,-,0.1,0.3,-,-,6.16,-,-,0.4,0.2,0.3,-,0.4,0.8,7.5,73.2,-,-,-
+6,"487Cheick SouaréMarseille, 19, Midfielder","Cheick Souaré Marseille, 19, Midfielder",0(1),9,-,1,1,-,-,-,1,-,6.16,-,-,-,-,-,-,-,-,3.0,66.7,-,-,-
+7,"488Maxime LopezMarseille, 24, M(CR)","Maxime Lopez Marseille, 24, M(CR)",2(2),135,0.3,0.5,1,-,0.5,0.5,-,-,6.16,-,-,-,0.3,0.3,-,-,0.5,14.0,82.1,-,0.3,-
+8,"489Roli Pereira De SaNantes, 25, M(C)","Roli Pereira De Sa Nantes, 25, M(C)",0(6),53,0.7,-,0.2,-,-,0.2,-,-,6.16,-,-,0.7,0.2,0.2,-,-,-,7.8,91.5,-,0.3,-
+9,"490Dan NdoyeNice, 21, Forward","Dan Ndoye Nice, 21, Forward",3(25),534,0.3,0.3,0.6,-,0.1,0.3,-,-,6.16,1,1,0.4,0.2,0.5,0.1,0.3,1,5.7,78.6,-,-,-
+0,"471Anthony ModesteSaint-Etienne, 34, FW","Anthony Modeste Saint-Etienne, 34, FW",3(4),294,0.3,-,0.7,-,0.4,0.4,0.1,-,6.19,-,-,1.3,0.4,0.3,-,0.3,1.6,7.6,60.4,-,-,-
+1,"472Houboulang MendesLorient, 24, D(CR)","Houboulang Mendes Lorient, 24, D(CR)",15(2),1302,1.6,0.8,1.4,0.1,1.6,0.7,0.1,-,6.19,-,-,0.2,0.2,0.4,0.1,0.6,1.8,23.9,72.5,0.2,1,-
+2,"473Lesley UgochukwuRennes, 18, Midfielder","Lesley Ugochukwu Rennes, 18, Midfielder",1(2),64,1,-,0.3,-,-,0.3,-,-,6.19,-,-,0.7,-,0.3,-,-,0.3,12.7,94.7,-,0.7,-
+3,"474Jacques SiweDijon, 20, Forward","Jacques Siwe Dijon, 20, Forward",2(3),167,0.8,0.2,0.8,-,0.2,0.2,-,-,6.19,-,-,0.6,0.4,1,-,1,1.2,7.6,55.3,-,-,-
+4,"475Franklin WadjaLorient, 27, Midfielder","Franklin Wadja Lorient, 27, Midfielder",0(4),29,1,0.5,0.3,-,0.3,-,-,-,6.19,-,-,0.3,-,-,-,-,0.5,5.0,65.0,-,0.3,-
+5,"476Ansou SowLens, 22, Forward","Ansou Sow Lens, 22, Forward",0(1),5,-,-,-,-,-,-,-,-,6.18,-,-,-,-,-,-,-,-,2.0,50.0,-,-,-
+6,"477Alpha SissokoSaint-Etienne, 25, D(R)","Alpha Sissoko Saint-Etienne, 25, D(R)",6(3),474,1.3,1.3,0.2,-,1.7,0.6,0.1,1,6.18,-,-,0.1,0.2,0.4,-,0.6,0.4,23.0,73.9,-,1.7,-
+7,"478Baptiste GabardSaint-Etienne, 22, Midfielder","Baptiste Gabard Saint-Etienne, 22, Midfielder",2,135,2,0.5,1,-,-,2,-,-,6.18,-,-,-,0.5,1.5,-,0.5,1.5,28.5,77.2,-,-,-
+8,"479Clement VidalMontpellier, 21, Defender","Clement Vidal Montpellier, 21, Defender",1(1),87,1,0.5,0.5,-,3,1,2,-,6.18,-,-,-,-,-,-,-,-,17.0,82.4,-,2.5,-
+9,"480Bandiougou FadigaPSG, 21, Midfielder","Bandiougou Fadiga PSG, 21, Midfielder",0(6),58,0.2,-,0.3,-,-,-,-,-,6.18,-,-,0.2,-,0.3,-,-,0.5,5.7,97.1,-,-,-
+0,"461Evann GuessandNice, 20, Forward","Evann Guessand Nice, 20, Forward",0(3),27,-,0.3,-,-,0.3,0.3,0.3,-,6.21,-,-,0.3,-,-,-,-,-,1.3,50.0,-,0.3,-
+1,"462Bingourou KamaraStrasbourg, 25, GK","Bingourou Kamara Strasbourg, 25, GK",8,720,0.1,0.1,0.1,-,0.4,0.3,-,1,6.21,-,-,-,-,0.1,-,-,-,24.8,59.1,-,7.5,-
+2,"463Kaj SierhuisReims, 24, FW","Kaj Sierhuis Reims, 24, FW",6(18),642,0.3,0.1,0.7,-,0.2,0.3,-,-,6.2,-,1,0.6,0.4,0.2,-,0.6,0.9,6.5,63.5,0.1,0.3,-
+3,"464Ahmad Toure NgouyamsaDijon, 21, Defender","Ahmad Toure Ngouyamsa Dijon, 21, Defender",2(1),157,2,0.7,1.3,-,1.7,1.3,0.3,-,6.2,-,-,-,-,0.3,-,-,1.3,23.3,81.4,-,1.3,-
+4,"465Matz SelsStrasbourg, 30, GK","Matz Sels Strasbourg, 30, GK",6,540,-,-,-,-,1.0,-,-,-,6.2,-,-,-,-,-,-,-,-,24.8,55.7,-,7.5,-
+5,"466Saturnin AllagbéDijon, 28, GK","Saturnin Allagbé Dijon, 28, GK",12,1080,-,-,0.2,-,0.9,0.1,-,-,6.19,-,-,-,-,0.1,-,-,0.1,27.7,60.5,-,7.2,-
+6,"467Wesley LautoaDijon, 34, D(C),DMC","Wesley Lautoa Dijon, 34, D(C),DMC",19(6),1611,1.4,1.2,1.7,0.2,1.3,1,0.3,1,6.19,-,-,0.4,0.2,0.6,-,0.5,0.4,32.2,84.7,-,1.9,-
+7,"468Warren TchimbembéMetz, 24, Midfielder","Warren Tchimbembé Metz, 24, Midfielder",4(11),491,0.5,0.1,0.2,0.1,0.1,0.4,0.1,-,6.19,-,-,0.4,0.1,0.3,-,0.3,0.5,16.8,82.9,0.1,0.7,-
+8,"469Mouhamadou DrammehReims, 23, Defender","Mouhamadou Drammeh Reims, 23, Defender",1(5),169,-,0.3,0.2,-,1.2,0.3,-,-,6.19,-,-,0.2,0.3,0.7,-,0.2,0.3,9.2,80.0,-,0.5,-
+9,"470Jonathan DelaplaceLorient, 36, D(R),DMC","Jonathan Delaplace Lorient, 36, D(R),DMC",9(9),901,0.4,0.9,0.9,-,0.9,0.3,0.3,-,6.19,-,1,0.3,0.7,0.4,0.1,0.1,1.1,20.2,73.4,0.5,0.8,-
+0,"451Frédéric SammaritanoDijon, 36, AM(CLR)","Frédéric Sammaritano Dijon, 36, AM(CLR)",10(20),1122,0.5,0.3,0.4,-,0.1,0.6,-,-,6.23,-,2,0.3,0.9,0.7,-,0.6,0.9,13.8,84.5,0.8,0.6,-
+1,"452Hugo EkitikeReims, 19, FW","Hugo Ekitike Reims, 19, FW",0(2),86,0.5,-,1.5,-,-,0.5,-,-,6.23,-,-,1.5,1,0.5,-,0.5,1,15.0,83.3,-,1,-
+2,"453Petar SkuleticMontpellier, 31, FW","Petar Skuletic Montpellier, 31, FW",1(18),220,0.2,-,0.2,-,0.2,0.3,0.1,-,6.22,2,-,0.6,0.3,0.2,0.1,0.3,0.5,3.9,54.1,-,0.1,-
+3,"454Matthieu DreyerLorient, 33, GK","Matthieu Dreyer Lorient, 33, GK",15,1350,-,-,-,-,0.9,-,-,-,6.22,-,-,-,-,0.1,-,-,-,20.9,58.5,-,5.1,-
+4,"455Racine ColyNice, 26, D(L),M(L)","Racine Coly Nice, 26, D(L),M(L)",0(1),16,-,-,1,-,-,-,-,-,6.22,-,-,-,-,-,-,-,-,16.0,93.8,-,-,-
+5,"456Eddy SylvestreNice, 22, AM(R)","Eddy Sylvestre Nice, 22, AM(R)",1(3),96,0.3,0.3,0.5,-,-,0.3,-,-,6.22,-,-,-,-,0.3,-,0.3,0.3,8.5,88.2,0.3,-,-
+6,"457Tom LacouxBordeaux, 20, DMC,M(R)","Tom Lacoux Bordeaux, 20, DMC,M(R)",6(7),525,1.7,0.9,1.4,0.1,0.5,0.9,0.2,-,6.22,-,-,0.2,0.1,0.1,-,0.7,1.1,16.7,86.6,-,0.5,-
+7,"458Damien Le TallecMontpellier, 32, D(C),DMC","Damien Le Tallec Montpellier, 32, D(C),DMC",13(10),1225,0.7,1.1,0.8,-,0.9,0.9,0.3,1,6.21,-,-,0.6,0.1,0.4,-,-,0.5,18.9,79.3,-,1.9,-
+8,"459Hianga'a M'BockBrest, 22, DMC","Hianga'a M'Bock Brest, 22, DMC",4(8),455,0.3,0.3,0.8,-,0.5,0.6,-,-,6.21,-,-,0.3,0.1,0.3,-,0.5,0.8,17.8,91.6,-,1.7,-
+9,"460Loris MouyokoloLorient, 21, Defender","Loris Mouyokolo Lorient, 21, Defender",0(1),19,1,-,-,-,1,-,1,-,6.21,-,-,-,-,-,-,-,1,6.0,50.0,-,-,-
+0,"441Adrian GrbicLorient, 25, FW","Adrian Grbic Lorient, 25, FW",9(24),946,0.2,0.2,0.7,-,0.2,0.2,-,-,6.25,4,-,1,0.1,0.5,-,0.3,0.8,6.2,61.5,-,-,-
+1,"442Jonas MartinRennes, 32, M(CL)","Jonas Martin Rennes, 32, M(CL)",6(6),481,0.9,1.1,0.8,0.1,0.2,0.8,0.2,-,6.25,-,-,-,0.3,0.3,-,0.4,0.3,31.7,88.9,0.1,0.5,-
+2,"443Jean Eudes AholouMonaco, 28, DMC","Jean Eudes Aholou Monaco, 28, DMC",0(2),34,0.5,0.5,-,-,0.5,1,-,-,6.25,-,-,1,-,0.5,-,-,-,5.0,70.0,-,-,-
+3,"444Sacha DelayeMontpellier, 20, Forward","Sacha Delaye Montpellier, 20, Forward",0(1),6,-,1,-,-,1,1,-,-,6.24,-,-,-,-,1.0,-,-,-,3.0,66.7,-,1,-
+4,"445Lamine KonéStrasbourg, 33, D(C)","Lamine Koné Strasbourg, 33, D(C)",12(3),1043,0.6,1,0.7,0.2,2.3,0.2,0.2,-,6.24,1,-,0.5,0.1,0.5,-,0.1,0.4,31.6,80.8,0.1,3.9,-
+5,"446Moussa KonatéDijon, 29, AM(R),FW","Moussa Konaté Dijon, 29, AM(R),FW",13(14),1195,0.2,0.2,0.8,-,0.3,0.3,-,-,6.23,5,1,1.3,0.3,0.9,0.4,0.4,1.3,9.8,74.7,-,0.1,-
+6,"447Jordan MariéDijon, 30, M(C)","Jordan Marié Dijon, 30, M(C)",16(8),1431,1.4,1,0.5,-,0.4,1.4,0.2,-,6.23,-,-,0.4,0.3,0.3,-,0.5,1,31.5,83.8,-,2.3,-
+7,"448Dereck KutesaReims, 24, AM(LR)","Dereck Kutesa Reims, 24, AM(LR)",6(22),672,0.5,0.3,0.4,-,0.1,0.3,-,-,6.23,1,2,0.4,0.3,0.6,0.2,0.5,0.8,4.7,70.5,0.1,-,-
+8,"449Vito MannoneMonaco, 34, GK","Vito Mannone Monaco, 34, GK",9,810,-,-,-,-,0.3,-,-,-,6.23,-,-,-,-,0.1,-,-,-,29.2,68.8,-,6.1,-
+9,"450Isaac LihadjiLille, 20, Forward","Isaac Lihadji Lille, 20, Forward",1(14),186,0.7,0.1,0.2,-,-,0.1,0.1,-,6.23,-,1,0.3,0.3,0.1,0.1,0.3,0.6,6.1,71.4,0.1,0.2,-
+0,"431Tony MauricioLens, 28, Midfielder","Tony Mauricio Lens, 28, Midfielder",2(24),485,0.7,0.1,0.7,-,0.2,0.2,-,-,6.27,-,4,0.5,0.5,0.4,-,0.5,0.3,10.8,86.8,0.4,0.8,-
+1,"432Pape Cheikh Diop GueyeDijon, 24, DMC","Pape Cheikh Diop Gueye Dijon, 24, DMC",13(8),1094,1.1,0.3,2,-,0.2,1,0.1,-,6.27,-,-,0.3,0.4,1.1,-,0.4,1,28.6,85.5,-,0.9,-
+2,"433Jérémy Le DouaronBrest, 24, AM(L),FW","Jérémy Le Douaron Brest, 24, AM(L),FW",7(21),807,0.5,0.3,0.6,-,0.4,0.5,-,-,6.27,1,2,0.5,0.3,0.6,-,0.9,1.3,6.1,70.3,0.1,-,-
+3,"434Lucas Gourna-DouathSaint-Etienne, 18, DMC","Lucas Gourna-Douath Saint-Etienne, 18, DMC",13(17),1320,1.1,0.8,1.2,-,0.5,0.4,-,-,6.27,-,-,0.2,0.1,0.9,-,0.5,0.7,20.2,87.3,-,0.7,-
+4,"435Loïc BessileBordeaux, 23, D(C)","Loïc Bessile Bordeaux, 23, D(C)",1,90,-,1,1,-,3,-,1,-,6.27,-,-,-,-,-,-,-,-,44.0,86.4,-,2,-
+5,"436Jean-Phillipe KrassoSaint-Etienne, 24, FW","Jean-Phillipe Krasso Saint-Etienne, 24, FW",2(4),221,0.8,0.2,0.3,-,0.5,0.3,-,-,6.27,-,-,0.7,0.3,0.7,0.8,0.5,1.8,6.5,64.1,-,-,-
+6,"437Malik SelloukiNice, 22, Midfielder","Malik Sellouki Nice, 22, Midfielder",0(4),63,-,0.5,0.3,-,-,0.3,-,-,6.27,1,-,1,-,0.5,-,-,1.8,5.8,73.9,-,-,-
+7,"438Matthis AblineRennes, 19, Forward","Matthis Abline Rennes, 19, Forward",0(1),1,-,-,-,-,-,-,-,-,6.26,-,-,-,-,-,-,-,-,1.0,-,-,-,-
+8,"439Romain AmalfitanoDijon, 32, M(CR)","Romain Amalfitano Dijon, 32, M(CR)",1(1),116,2,0.5,1,-,0.5,1,0.5,-,6.26,-,-,1,0.5,0.5,-,1,0.5,23.5,89.4,-,2,-
+9,"440Kevin StrootmanMarseille, 32, DMC","Kevin Strootman Marseille, 32, DMC",1(10),224,0.8,0.5,0.7,-,0.6,0.4,0.2,-,6.25,-,-,-,0.3,0.2,-,0.4,0.4,16.8,82.2,-,0.7,-
+0,"421Wuilker FariñezLens, 24, GK","Wuilker Fariñez Lens, 24, GK",1(2),105,-,-,-,-,0.3,-,-,-,6.28,-,-,-,-,-,-,-,-,7.3,54.5,-,1.3,-
+1,"422Kays Ruiz-AtilPSG, 19, Midfielder","Kays Ruiz-Atil PSG, 19, Midfielder",1(6),181,0.1,0.4,0.6,-,0.1,0.6,-,-,6.28,-,-,0.3,-,0.7,-,0.7,0.6,25.7,89.4,-,1,-
+2,"423Yoann EtienneLorient, 25, Defender","Yoann Etienne Lorient, 25, Defender",1,90,2,1,2,-,1,-,-,-,6.28,-,-,-,1,1,-,-,4,22.0,81.8,-,1,-
+3,"424VágnerMetz, 26, FW","Vágner Metz, 26, FW",10(16),964,0.6,0.2,1,-,-,0.5,-,-,6.28,4,1,0.8,0.5,1.1,0.3,1,1.9,8.7,77.5,0.2,-,0.1
+4,"425DalbertRennes, 28, D(L),DMC,M(L)","Dalbert Rennes, 28, D(L),DMC,M(L)",3(10),364,0.5,0.4,0.7,-,0.6,0.2,0.2,-,6.28,-,1,0.2,0.3,0.2,-,0.2,0.5,17.7,87.0,0.2,1,-
+5,"426Corentin JeanLens, 26, AM(LR),FW","Corentin Jean Lens, 26, AM(LR),FW",6(17),571,0.2,0.1,0.6,-,-,0.2,-,-,6.28,1,1,0.9,0.3,0.7,0.1,0.6,0.8,6.5,78.5,0.2,0.2,-
+6,"427Fodé Ballo-TouréMonaco, 25, D(L),M(L)","Fodé Ballo-Touré Monaco, 25, D(L),M(L)",6(18),649,0.9,0.3,0.4,-,0.3,0.3,-,-,6.28,-,3,0.1,0.3,0.5,-,0.2,0.3,13.3,84.4,0.4,0.4,-
+7,"428Chrislain MatsimaMonaco, 20, Defender","Chrislain Matsima Monaco, 20, Defender",3(6),349,0.6,0.4,0.2,0.4,1.3,0.3,-,-,6.27,-,-,0.4,0.2,0.1,-,0.2,0.1,28.9,88.5,-,1.3,-
+8,"429Eliot MatazoMonaco, 20, DMC","Eliot Matazo Monaco, 20, DMC",3(7),313,1.1,0.1,0.5,-,0.2,0.4,-,-,6.27,1,1,0.3,0.3,0.3,-,0.2,0.5,8.8,78.4,-,0.1,-
+9,"430Thierry AmbroseMetz, 25, AM(LR),FW","Thierry Ambrose Metz, 25, AM(LR),FW",5(18),744,0.3,0.1,1,-,0.2,0.4,-,-,6.27,-,1,0.8,0.5,0.4,0.1,1.1,1.4,9.6,71.5,0.2,0.3,-
+0,"411Aboubakar KamaraDijon, 27, AM(R),FW","Aboubakar Kamara Dijon, 27, AM(R),FW",7(3),560,0.3,-,1.4,-,0.2,0.6,-,-,6.31,1,-,1.1,0.7,1.7,0.1,1.6,1.8,13.3,73.7,0.5,0.4,-
+1,"412Naomichi UedaNimes, 27, D(C)","Naomichi Ueda Nimes, 27, D(C)",8(1),711,0.4,0.7,0.3,0.4,3.3,0.2,0.4,-,6.3,-,-,0.2,0.6,0.3,0.1,0.1,0.4,41.2,77.4,-,3.9,-
+2,"413Aaron Leya IsekaMetz, 24, AM(C),FW","Aaron Leya Iseka Metz, 24, AM(C),FW",12(9),1013,0.3,-,1.2,-,0.3,0.2,0.1,-,6.3,4,-,1,0.6,0.6,0.1,0.9,1.7,9.0,75.0,-,0.2,-
+3,"414Cheick TraoréLens, 27, D(R)","Cheick Traoré Lens, 27, D(R)",0(2),37,1.0,1,0.5,-,0.5,1,-,-,6.3,-,-,-,-,0.5,-,-,1.0,7.0,64.3,-,-,-
+4,"415Bamba DiengMarseille, 22, AM(L),FW","Bamba Dieng Marseille, 22, AM(L),FW",2(3),128,1.0,-,0.4,-,-,0.4,-,-,6.3,-,-,0.2,-,0.4,0.6,-,0.6,3.4,76.5,-,-,-
+5,"416Charles AbiSaint-Etienne, 22, FW","Charles Abi Saint-Etienne, 22, FW",9(15),907,0.3,0.2,0.8,-,0.2,0.4,0.1,-,6.29,3,2,0.8,0.3,0.3,0.3,0.8,1.4,8.3,64.3,-,0.3,-
+6,"417Romain PhilippoteauxBrest, 34, AM(LR)","Romain Philippoteaux Brest, 34, AM(LR)",8(9),581,0.6,0.6,0.2,-,0.1,0.2,-,-,6.29,1,-,0.6,0.3,0.4,0.1,0.2,0.7,9.7,77.6,0.1,0.4,-
+7,"418M'Baye NiangRennes, 27, AM(LR),FW","M'Baye Niang Rennes, 27, AM(LR),FW",4(5),421,0.3,0.1,1.4,-,0.2,-,-,-,6.29,1,-,1.2,0.2,1.2,-,0.7,2.1,8.7,65.4,-,-,-
+8,"419Patrick BurnerNimes, 26, D(R)","Patrick Burner Nimes, 26, D(R)",14(8),1314,1.1,1.1,0.7,0.2,1.6,0.6,0.1,-,6.29,-,-,0.3,0.5,0.5,-,0.1,0.7,22.9,75.8,0.2,0.7,-
+9,"420Mattéo AhlinviNimes, 22, DMC","Mattéo Ahlinvi Nimes, 22, DMC",10(10),895,1.3,0.1,0.9,-,0.4,1.4,-,-,6.29,2,-,0.6,0.3,0.8,0.1,0.8,1.3,15.8,81.9,-,0.5,-
+0,"401Michaël CuisanceMarseille, 22, AM(C)","Michaël Cuisance Marseille, 22, AM(C)",11(12),1021,1,0.1,1.4,-,0.1,1,-,-,6.33,2,1,0.4,0.4,0.5,-,1.5,1.6,21.2,84.6,-,1,-
+1,"402Paul NardiLorient, 28, GK","Paul Nardi Lorient, 28, GK",23,2070,-,-,-,-,0.8,-,-,-,6.33,-,-,-,-,-,-,-,-,22.7,53.2,-,4.7,-
+2,"403Darío BenedettoMarseille, 32, FW","Darío Benedetto Marseille, 32, FW",19(13),1584,0.2,0.1,0.6,-,0.5,0.3,0.1,-,6.33,5,3,1.2,0.4,0.6,0.4,0.7,1.3,10.9,68.5,-,0.5,-
+3,"404Dion LopyReims, 20, DMC","Dion Lopy Reims, 20, DMC",3(1),256,0.3,0.5,-,-,0.3,-,-,-,6.32,-,-,0.8,0.5,0.5,-,-,1.3,25.8,88.3,0.3,1,-
+4,"405Issouf SissokhoBordeaux, 20, M(C)","Issouf Sissokho Bordeaux, 20, M(C)",0(6),73,1,0.2,0.7,-,-,0.5,-,-,6.32,1,-,0.3,-,0.2,-,0.2,0.2,7.3,90.9,-,0.3,-
+5,"406Juan BernatPSG, 29, D(L),M(CL)","Juan Bernat PSG, 29, D(L),M(CL)",2(1),191,1.7,0.3,2,0.3,1.7,0.7,-,-,6.32,-,-,-,0.7,0.3,-,-,1.3,36.3,91.7,-,-,-
+6,"407Timothy WeahLille, 22, AM(LR),FW","Timothy Weah Lille, 22, AM(LR),FW",7(21),870,0.5,0.1,0.5,-,0.1,0.3,-,-,6.31,3,-,0.9,0.2,0.3,0.1,0.3,0.9,10.0,78.9,-,-,-
+7,"408Alexis TrouilletNice, 21, Midfielder","Alexis Trouillet Nice, 21, Midfielder",1(4),106,1,0.6,0.4,-,-,0.2,-,-,6.31,-,-,0.4,0.4,0.8,-,0.6,0.6,13.0,87.7,-,1,-
+8,"409Kévin ZohiStrasbourg, 25, AM(LR)","Kévin Zohi Strasbourg, 25, AM(LR)",2(21),421,0.4,0.3,0.3,-,0.1,0.2,-,-,6.31,2,-,0.7,0.1,0.1,-,0.3,0.7,7.1,81.1,-,0.2,-
+9,"410Bouna SarrMarseille, 30, D(R),M(CLR)","Bouna Sarr Marseille, 30, D(R),M(CLR)",0(2),76,0.5,0.5,1.5,0.5,-,-,0.5,-,6.31,-,-,0.5,-,1,-,-,1.5,24.0,89.6,-,0.5,-
+0,"391Farid El MelaliAngers, 25, AM(R)","Farid El Melali Angers, 25, AM(R)",4(13),408,0.5,0.4,0.5,-,0.1,0.6,-,-,6.36,1,-,0.8,0.1,0.9,0.1,0.9,0.9,7.7,80.9,-,0.4,-
+1,"392Valère GermainMarseille, 32, AM(LR),FW","Valère Germain Marseille, 32, AM(LR),FW",6(18),846,0.3,0.5,0.4,-,0.8,0.3,0.1,-,6.35,3,-,0.4,0.1,0.8,0.1,0.3,0.5,11.3,69.4,-,0.2,-
+2,"393Thomas MonconduitLorient, 31, DMC","Thomas Monconduit Lorient, 31, DMC",12(15),1148,1,0.5,0.9,-,0.8,1,0.1,-,6.35,2,-,0.8,0.4,0.6,-,0.5,0.6,23.9,80.5,0.2,1.9,-
+3,"394Moussa DembeleLyon, 25, FW","Moussa Dembele Lyon, 25, FW",6(10),671,0.1,0.3,1.1,-,0.6,0.3,0.1,-,6.35,1,-,1.9,0.4,0.4,0.4,0.9,1.1,8.5,69.9,-,0.1,-
+4,"395Joachim AndersenLyon, 26, D(C)","Joachim Andersen Lyon, 26, D(C)",2(1),191,0.7,0.7,1.7,0.3,2,-,0.3,-,6.35,-,-,1.7,-,0.7,-,0.7,0.7,38.7,89.7,-,3,-
+5,"396Yassine BenrahouNimes, 23, AM(CR)","Yassine Benrahou Nimes, 23, AM(CR)",15(8),1244,0.7,0.2,0.3,-,0.2,0.8,-,-,6.34,-,-,0.8,1.1,1.1,-,1.3,2.0,22.0,82.6,0.9,1.4,0.1
+6,"397Dion Moisés SahiStrasbourg, 20, Forward","Dion Moisés Sahi Strasbourg, 20, Forward",0(6),91,0.2,-,-,-,-,-,-,-,6.34,1,-,0.7,0.3,0.5,-,0.3,1.2,5.3,71.9,-,-,-
+7,"398Marvin TshibuabuaSaint-Etienne, 20, Defender","Marvin Tshibuabua Saint-Etienne, 20, Defender",0(1),42,1,1,-,-,-,-,-,-,6.34,-,-,2.0,-,-,-,-,1.0,18.0,72.2,-,2,-
+8,"399Yanis LhérySaint-Etienne, 19, Forward","Yanis Lhéry Saint-Etienne, 19, Forward",0(1),29,-,-,-,-,-,-,-,-,6.34,-,-,1.0,-,-,-,-,1.0,4.0,25.0,-,-,-
+9,"400Mamadou FofanaMetz, 24, D(C),DMC","Mamadou Fofana Metz, 24, D(C),DMC",11(5),1070,1.6,1.1,0.8,0.1,2.2,1.5,0.1,-,6.34,-,-,0.2,0.1,0.1,-,0.2,0.4,28.3,83.2,-,1.7,-
+0,"381Pierre-Yves HamelLorient, 28, FW","Pierre-Yves Hamel Lorient, 28, FW",7(16),843,0.7,0.4,1.0,-,0.3,0.2,-,-,6.37,4,2,1,0.3,0.3,0.1,0.8,1.0,8.3,63.7,-,0.1,-
+1,"382Ismaël BouraLens, 21, M(L)","Ismaël Boura Lens, 21, M(L)",8(12),819,0.6,1.1,0.7,0.1,0.6,0.3,0.1,-,6.37,-,-,0.1,0.4,0.9,-,0.8,0.8,17.4,83.6,0.6,0.8,-
+2,"383Abdoul Kader BambaNantes, 28, AM(LR)","Abdoul Kader Bamba Nantes, 28, AM(LR)",6(23),902,0.6,0.2,0.3,-,0.1,0.2,-,-,6.37,3,1,0.5,0.8,1.4,-,0.6,0.9,15.3,79.9,0.3,0.5,-
+3,"384Maxime PoundjéBordeaux, 29, D(L)","Maxime Poundjé Bordeaux, 29, D(L)",4(10),487,0.7,0.8,0.2,0.1,0.2,0.3,0.2,-,6.37,-,-,0.1,0.1,0.6,-,0.6,0.2,13.9,79.4,0.1,0.2,-
+4,"385Mateo PavlovicAngers, 32, D(C)","Mateo Pavlovic Angers, 32, D(C)",12(2),1103,0.8,1.5,1.1,0.4,2.8,1.1,0.8,-,6.37,-,1,0.3,0.1,0.1,-,0.1,0.1,38.0,87.2,-,1.6,-
+5,"386Mehdi ZerkaneBordeaux, 22, AM(R)","Mehdi Zerkane Bordeaux, 22, AM(R)",15(12),1192,0.9,0.3,0.8,-,0.1,0.5,0.1,-,6.37,1,1,0.6,0.5,0.9,-,0.7,1.0,20.9,84.8,0.1,0.3,-
+6,"387Enzo MillotMonaco, 19, Midfielder","Enzo Millot Monaco, 19, Midfielder",0(2),39,1.0,1.0,0.5,-,-,-,-,-,6.37,-,-,1,0.5,0.5,-,0.5,0.5,8.5,76.5,0.5,-,-
+7,"388Gaëtan PaquiezNimes, 28, D(LR)","Gaëtan Paquiez Nimes, 28, D(LR)",11(5),1044,1.3,1.0,0.8,0.3,1.7,1.1,0.2,-,6.36,-,-,0.3,0.3,1.1,-,0.2,0.7,20.6,76.0,0.1,1,-
+8,"389Melvin BardLyon, 21, D(L)","Melvin Bard Lyon, 21, D(L)",4(10),426,0.9,0.4,0.6,-,0.8,0.4,0.1,-,6.36,-,-,0.1,0.3,0.4,-,0.1,0.9,21.8,82.3,0.3,0.2,-
+9,"390Dario MaresicReims, 22, D(C)","Dario Maresic Reims, 22, D(C)",5(3),511,1.5,1.3,1.0,0.1,2.1,0.8,0.3,-,6.36,-,-,-,0.1,0.1,-,0.3,0.4,41.8,83.5,-,4.8,-
+0,"371Florian MiguelNimes, 25, D(CL)","Florian Miguel Nimes, 25, D(CL)",18(3),1541,0.7,2.1,0.8,0.2,3,0.4,0.6,-,6.39,-,-,0.4,-,1.5,-,0.2,0.3,42.1,80.2,-,3.1,-
+1,"372Moussa DoumbiaReims, 27, AM(CL),FW","Moussa Doumbia Reims, 27, AM(CL),FW",9(14),896,0.4,0.4,0.3,-,-,0.8,-,-,6.39,-,1,0.7,0.7,1.4,0.1,0.6,1.6,15.7,85.3,0.4,0.5,-
+2,"373Djamel BenlamriLyon, 32, D(C)","Djamel Benlamri Lyon, 32, D(C)",0(6),143,0.8,1.0,0.3,-,1.5,0.5,0.3,-,6.39,-,-,-,0.2,1.2,-,0.2,0.2,13.3,88.8,-,1.3,-
+3,"374Wilitty YounoussaDijon, 20, Midfielder","Wilitty Younoussa Dijon, 20, Midfielder",1(2),76,2.0,0.7,-,-,-,1.3,-,-,6.39,-,-,0.7,0.7,0.7,-,2,1.0,6.7,70.0,0.3,-,-
+4,"375Adrien HunouRennes, 28, AM(CLR),FW","Adrien Hunou Rennes, 28, AM(CLR),FW",5(15),582,0.3,0.1,0.4,-,0.1,0.3,-,-,6.38,4,-,1.1,0.3,0.4,0.1,0.2,0.9,9.5,78.8,-,0.1,-
+5,"376El Bilal TouréReims, 20, FW","El Bilal Touré Reims, 20, FW",11(22),1239,0.7,0.2,1.3,-,0.3,0.3,0.1,-,6.38,4,1,0.6,0.3,0.4,0.3,0.3,1.3,8.6,71.6,-,-,-
+6,"377Thibault De SmetReims, 24, D(L),M(L)","Thibault De Smet Reims, 24, D(L),M(L)",6(2),500,1.4,0.8,1.4,0.1,1.4,1.1,0.1,-,6.38,-,-,-,0.5,0.8,-,-,0.4,36.5,78.8,0.1,1.1,-
+7,"378Lucas DeauxNimes, 33, D(C),DMC","Lucas Deaux Nimes, 33, D(C),DMC",19(6),1755,1.9,0.8,1.4,-,1.1,1.3,0.1,-,6.38,1,2,0.5,0.8,0.8,0.1,0.7,1.4,39.1,79.6,0.2,3.4,-
+8,"379Sepe Elye WahiMontpellier, 19, AM(L),FW","Sepe Elye Wahi Montpellier, 19, AM(L),FW",3(15),547,0.2,0.1,0.4,-,0.3,0.3,-,-,6.38,3,1,0.7,0.3,0.8,0.3,0.5,0.7,5.6,68.0,-,-,-
+9,"380Pedro ChirivellaNantes, 25, DMC","Pedro Chirivella Nantes, 25, DMC",26(6),2284,0.8,1.3,0.7,-,0.5,1.1,0.1,-,6.37,-,2,0.3,0.6,0.5,-,0.4,0.5,38.1,83.7,0.1,2.3,-
+0,"361Stanley N'SokiNice, 23, D(CL)","Stanley N'Soki Nice, 23, D(CL)",13(5),1243,1.5,1.4,0.6,0.1,1.8,0.5,0.2,-,6.4,-,-,0.4,0.3,0.3,-,0.3,0.7,55.6,85.8,0.2,1.7,-
+1,"362Yuto NagatomoMarseille, 35, D(LR),M(LR)","Yuto Nagatomo Marseille, 35, D(LR),M(LR)",20(5),1603,0.9,1.2,0.5,0.1,1.6,0.4,0.1,1,6.4,-,1,0.2,0.1,0.5,0.1,0.4,0.9,24.1,79.7,0.2,0.6,-
+2,"363Lois DionyAngers, 29, AM(L),FW","Lois Diony Angers, 29, AM(L),FW",20(16),1757,0.4,0.1,0.6,-,0.4,0.4,0.1,-,6.4,5,1,0.8,0.5,1.0,0.1,0.9,1.4,9.8,65.0,0.2,0.1,-
+3,"364David da CostaLens, 21, AM(C)","David da Costa Lens, 21, AM(C)",1(6),147,0.6,-,0.3,-,0.3,0.1,-,-,6.4,1,1,0.3,0.3,0.3,-,0.1,0.6,6.0,83.3,0.1,0.3,-
+4,"365Ludovic BaalBrest, 36, D(L),M(L)","Ludovic Baal Brest, 36, D(L),M(L)",3(4),293,0.9,0.7,0.4,-,0.4,0.4,0.1,-,6.4,-,-,-,0.3,1.0,-,0.6,0.4,33.9,83.5,0.1,2.4,-
+5,"366Bersant CelinaDijon, 25, AM(CLR),FW","Bersant Celina Dijon, 25, AM(CLR),FW",25(7),2303,0.6,0.3,0.5,-,0.3,1.0,0.1,-,6.39,-,5,0.8,1.5,0.6,-,0.8,1.3,29.8,82.0,1.1,1.1,0.1
+6,"367Ambroise OyongoMontpellier, 30, D(LR),M(L)","Ambroise Oyongo Montpellier, 30, D(LR),M(L)",5(8),554,1.0,0.6,0.5,0.1,1.4,0.5,0.2,-,6.39,1,1,0.1,0.2,0.5,-,0.2,0.4,18.3,79.0,0.2,1.1,-
+7,"368Aïmen MoueffekSaint-Etienne, 21, DMC","Aïmen Moueffek Saint-Etienne, 21, DMC",6(13),735,1.3,0.5,1.1,0.2,0.9,1.0,0.1,-,6.39,-,-,0.1,0.4,0.8,-,0.5,0.9,16.2,75.6,-,0.7,-
+8,"369Loïck LandreNimes, 30, D(C)","Loïck Landre Nimes, 30, D(C)",20,1629,0.7,1.6,1.0,0.5,2.4,0.8,1,-,6.39,1,-,0.5,0.1,0.6,-,0.1,0.2,39.6,86.9,-,2.7,-
+9,"370Jimmy CabotAngers, 28, M(LR)","Jimmy Cabot Angers, 28, M(LR)",8(14),943,1.2,0.5,0.7,-,0.1,1.1,-,-,6.39,1,1,0.5,0.5,0.5,-,0.5,1.5,18.1,77.4,0.2,0.8,-
+0,"351Stefan MitrovicStrasbourg, 32, D(C)","Stefan Mitrovic Strasbourg, 32, D(C)",31(1),2785,1.1,1,0.7,0.4,3.2,0.4,0.4,-,6.42,2,-,0.4,0.2,0.4,-,0.1,0.2,39.7,87.3,-,3.7,-
+1,"352Zaydou YoussoufSaint-Etienne, 22, M(CR)","Zaydou Youssouf Saint-Etienne, 22, M(CR)",14(15),1229,1,0.9,0.6,-,0.2,0.8,-,-,6.42,1,1,0.5,0.3,1.3,-,0.7,0.9,16.2,81.5,0.2,1.7,-
+2,"353Antonin BobichonAngers, 26, AM(CL)","Antonin Bobichon Angers, 26, AM(CL)",10(13),908,1,0.1,0.6,-,-,0.3,-,-,6.42,-,1,1,0.7,0.7,-,0.7,0.7,21.8,86.1,0.3,1.3,-
+3,"354HiltonMontpellier, 44, D(C)","Hilton Montpellier, 44, D(C)",24(5),2114,0.5,1.3,0.6,0.3,3.6,0.4,0.9,-,6.42,-,1,0.4,-,0.6,-,-,0.4,36.3,81.6,-,4.7,-
+4,"355Simon BanzaLens, 25, FW","Simon Banza Lens, 25, FW",12(22),1366,0.4,0.2,0.9,-,0.4,0.4,-,-,6.42,5,2,1,0.4,1.0,0.3,0.6,1.5,9.1,73.4,0.1,0.2,-
+5,"356Alexis FlipsReims, 22, M(CR)","Alexis Flips Reims, 22, M(CR)",0(2),41,-,-,0.5,-,0.5,1,-,-,6.42,1,-,1,-,0.5,-,-,2.5,6.0,75.0,-,0.5,-
+6,"357Krépin DiattaMonaco, 23, M(LR),FW","Krépin Diatta Monaco, 23, M(LR),FW",3(9),384,0.3,0.3,0.3,-,0.1,0.2,0.1,-,6.41,1,-,0.3,0.2,0.7,0.3,0.8,0.6,11.8,76.1,0.1,-,-
+7,"358Steve MandandaMarseille, 37, GK","Steve Mandanda Marseille, 37, GK",37,3330,-,0.1,-,-,0.5,-,-,-,6.41,-,-,-,-,0.1,-,-,0.1,30.3,66.0,-,5,-
+8,"359Marcus CocoNantes, 25, M(LR),FW","Marcus Coco Nantes, 25, M(LR),FW",16(16),1472,1.1,0.6,1.5,-,0.4,0.6,0.1,-,6.41,-,2,0.4,0.5,1.1,0.1,1.1,1.6,17.3,72.9,0.3,0.4,-
+9,"360Flavius DaniliucNice, 21, D(CR)","Flavius Daniliuc Nice, 21, D(CR)",15(8),1474,1,0.6,0.5,0.3,1.3,0.5,0.3,-,6.4,1,-,0.4,0.1,0.4,-,0.1,0.5,46.6,87.8,-,2.3,-
+0,"341Paul BernardoniAngers, 25, GK","Paul Bernardoni Angers, 25, GK",38,3420,-,0.1,0.1,-,0.8,-,-,-,6.44,-,-,-,-,0.3,-,-,-,20.2,56.3,-,4.4,-
+1,"342Fouad ChafikDijon, 35, D(LR),M(R)","Fouad Chafik Dijon, 35, D(LR),M(R)",18(5),1621,1.7,0.9,0.7,0.2,1.7,0.8,0.4,1,6.43,1,-,0.2,0.3,1.1,-,0.5,0.8,34.9,78.7,0.4,1.7,-
+2,"343Papa Ndiaga YadeMetz, 22, AM(L)","Papa Ndiaga Yade Metz, 22, AM(L)",9(19),990,0.5,0.1,1.3,-,0.2,0.5,-,-,6.43,3,4,1,0.8,0.3,-,0.8,1.5,8.3,75.1,0.3,0.4,-
+3,"344Jérémy MorelLorient, 38, D(CL)","Jérémy Morel Lorient, 38, D(CL)",28,2494,1.1,1.6,0.7,0.1,2.7,0.7,0.4,-,6.43,-,-,0.2,0.3,0.6,-,0.4,0.3,43.4,82.8,0.1,2.6,-
+4,"345Nemanja RadonjicMarseille, 26, M(LR)","Nemanja Radonjic Marseille, 26, M(LR)",4(8),394,0.5,0.3,0.3,0.1,-,0.8,-,-,6.43,2,1,1,0.5,0.3,0.2,1.3,1.2,10.7,62.5,0.1,0.1,-
+5,"346Jessy MoulinSaint-Etienne, 36, GK","Jessy Moulin Saint-Etienne, 36, GK",29,2610,0.1,0.1,-,-,0.6,-,-,-,6.43,-,-,-,-,0.1,-,-,0.1,25.2,67.0,-,4.9,-
+6,"347Andy PelmardNice, 22, D(CR)","Andy Pelmard Nice, 22, D(CR)",12(7),1204,0.9,1.1,0.9,0.1,1.6,0.2,0.2,-,6.43,-,-,0.1,0.1,0.3,-,0.3,0.8,45.3,90.8,-,1.6,-
+7,"348Mehdi ChahiriStrasbourg, 25, AM(L)","Mehdi Chahiri Strasbourg, 25, AM(L)",8(15),798,0.8,0.3,0.2,-,0.1,0.5,-,-,6.43,2,-,0.9,0.3,0.4,0.1,1,1.4,11.0,75.6,-,0.4,-
+8,"349Ryad BoudebouzSaint-Etienne, 32, M(CLR),FW","Ryad Boudebouz Saint-Etienne, 32, M(CLR),FW",7(7),651,0.6,0.4,0.5,-,0.2,0.3,-,-,6.43,-,1,0.9,1.6,0.6,-,0.6,1.1,29.2,80.4,1,2.1,0.1
+9,"350Islam SlimaniLyon, 33, FW","Islam Slimani Lyon, 33, FW",4(14),571,0.4,0.1,0.7,-,0.3,0.5,0.1,-,6.43,3,1,1,0.6,0.3,0.3,0.4,0.7,13.1,74.0,0.1,0.1,-
+0,"331Haris DuljevicNimes, 28, AM(CLR),FW","Haris Duljevic Nimes, 28, AM(CLR),FW",8(12),769,0.8,0.4,0.5,0.1,0.1,0.8,-,-,6.45,-,2,0.8,0.7,0.6,0.1,0.9,1.2,13.9,78.7,0.2,0.6,0.1
+1,"332Batista MendyNantes, 22, D(C),DMC","Batista Mendy Nantes, 22, D(C),DMC",0(2),73,0.5,0.5,1.5,-,0.5,0.5,0.5,-,6.45,-,-,-,-,0.5,-,0.5,0.5,19.0,84.2,-,-,-
+2,"333Kenny TeteLyon, 26, D(CR),M(R)","Kenny Tete Lyon, 26, D(CR),M(R)",0(1),20,2.0,2.0,-,1,-,-,-,-,6.45,-,-,-,-,-,-,-,-,16.0,93.8,-,-,-
+3,"334Sidy SarrNimes, 26, DMC","Sidy Sarr Nimes, 26, DMC",6(3),464,1.1,0.8,1,0.1,0.4,0.2,0.1,-,6.45,-,-,1,0.3,0.6,0.1,0.2,0.4,24.2,79.8,-,2.8,0.1
+4,"335Irvin CardonaBrest, 24, AM(L),FW","Irvin Cardona Brest, 24, AM(L),FW",22(14),2034,0.3,0.3,0.4,-,0.6,0.5,0.1,-,6.45,8,1,1.5,0.6,0.4,0.4,0.5,1.9,12.5,69.0,0.2,0.5,-
+5,"336Moussa KonéNimes, 25, FW","Moussa Koné Nimes, 25, FW",21(12),1762,0.4,0.1,0.6,-,0.2,0.2,-,-,6.45,9,-,0.9,0.3,1.2,0.5,0.9,2,8.8,77.5,-,0.3,-
+6,"337Robson BambuNice, 24, D(C)","Robson Bambu Nice, 24, D(C)",12(3),1046,1.1,0.7,1.3,0.4,3.7,0.2,0.5,-,6.44,-,-,0.1,-,0.6,0.1,0.3,0.6,54.2,87.2,-,2.8,-
+7,"338Lionel CaroleStrasbourg, 31, D(L),M(L)","Lionel Carole Strasbourg, 31, D(L),M(L)",14(13),1332,1.4,1.4,0.6,0.1,0.9,0.5,-,-,6.44,-,1,0.1,0.4,0.7,-,0.3,0.6,28.0,78.3,0.4,2.6,-
+8,"339Fodé DoucouréReims, 21, Defender","Fodé Doucouré Reims, 21, Defender",3(4),330,1.6,0.6,0.6,0.1,1.4,0.7,-,-,6.44,-,-,0.4,0.7,0.1,-,0.1,0.6,22.1,81.3,0.3,1.1,-
+9,"340Tiago DjalóLille, 22, D(CLR)","Tiago Djaló Lille, 22, D(CLR)",8(9),868,1.3,0.5,0.9,0.1,1.1,0.5,0.2,-,6.44,-,-,0.1,0.2,0.5,0.1,0.1,0.5,37.2,88.0,0.1,2,-
+0,"321Didier NdongDijon, 27, DMC","Didier Ndong Dijon, 27, DMC",29,2610,1.8,1.3,1.4,-,1.3,1.6,0.2,-,6.47,-,1,0.2,0.3,0.6,-,0.6,1.3,51.1,87.7,0.1,3.8,0.1
+1,"322Josh MajaBordeaux, 23, FW","Josh Maja Bordeaux, 23, FW",11(6),808,0.5,0.4,0.4,-,0.5,0.6,-,-,6.46,2,-,1.1,0.5,0.7,0.1,0.7,1.1,11.1,84.1,-,0.2,-
+2,"323Victorien AngbanMetz, 25, M(C)","Victorien Angban Metz, 25, M(C)",21(5),1680,1.4,0.7,1.0,-,0.3,1,0.2,-,6.46,-,1,0.2,0.5,1.0,-,1.2,0.9,33.7,88.5,-,2.3,-
+3,"324Saîf-Eddine KhaouiMarseille, 27, AM(CR)","Saîf-Eddine Khaoui Marseille, 27, AM(CR)",5(12),603,1.1,0.7,0.9,0.2,0.1,0.5,-,-,6.46,2,1,0.6,0.3,0.5,0.1,0.4,0.9,12.7,71.3,0.1,0.4,-
+4,"325Jordan FerriMontpellier, 30, M(C)","Jordan Ferri Montpellier, 30, M(C)",31(3),2592,1.7,0.2,1.5,-,0.4,2.1,0.1,-,6.45,-,3,0.1,0.6,1.0,-,0.8,1.1,47.4,86.0,0.2,4.2,0.1
+5,"326Arthur ZagreDijon, 20, D(L)","Arthur Zagre Dijon, 20, D(L)",1(2),120,1.0,1.0,0.3,-,-,-,0.3,-,6.45,-,-,-,-,0.3,-,1.0,0.3,13.7,70.7,-,0.7,-
+6,"327Ibrahim AmadouAngers, 29, D(C),DMC","Ibrahim Amadou Angers, 29, D(C),DMC",20(4),1513,1.6,1.0,1.4,-,1,1,0.2,-,6.45,-,-,0.6,0.2,0.2,-,0.7,0.6,28.5,84.6,-,1.1,-
+7,"328Abdoulaye BambaAngers, 32, D(LR),M(R)","Abdoulaye Bamba Angers, 32, D(LR),M(R)",16,1350,1.7,1.2,0.9,0.2,1.6,0.6,0.1,-,6.45,-,-,0.1,0.5,0.4,-,0.2,0.8,40.5,79.2,0.4,1.6,0.1
+8,"329Hugo MagnettiBrest, 24, DMC","Hugo Magnetti Brest, 24, DMC",7(6),601,1.8,1.1,0.9,-,0.5,1.5,0.1,-,6.45,-,-,0.7,0.2,0.7,-,0.2,0.7,26.0,85.5,-,2.4,0.1
+9,"330Stéphane BahokenAngers, 30, FW","Stéphane Bahoken Angers, 30, FW",18(12),1619,0.3,0.3,1.0,-,0.3,0.3,-,-,6.45,6,2,2,0.4,1.0,0.6,1.1,2.3,10.3,74.8,-,0.1,-
+0,"311Sékou MaraBordeaux, 19, FW","Sékou Mara Bordeaux, 19, FW",2(6),225,0.6,0.1,0.9,-,0.1,1.0,-,-,6.48,1,2,0.5,0.3,0.5,0.1,0.1,1.5,7.6,59.0,-,0.1,-
+1,"312Kévin DenkeyNimes, 21, FW","Kévin Denkey Nimes, 21, FW",6(4),528,0.4,0.1,2.0,-,0.2,0.3,-,-,6.48,1,1,1.8,0.5,1.0,0.2,0.9,1.8,10.5,70.5,0.1,0.4,-
+2,"313Henry OnyekuruMonaco, 25, AM(LR),FW","Henry Onyekuru Monaco, 25, AM(LR),FW",2(2),141,0.3,-,0.3,-,-,0.8,-,-,6.48,-,1,0.5,0.8,0.8,0.5,0.5,1.0,8.5,76.5,-,-,-
+3,"314Khéphren Thuram-UlienNice, 21, DMC","Khéphren Thuram-Ulien Nice, 21, DMC",17(12),1493,1.1,0.6,1.1,-,0.7,0.6,0.3,-,6.47,2,-,0.3,0.2,0.3,-,0.3,0.6,33.1,88.0,-,1.6,-
+4,"315Jean Michaël SeriBordeaux, 30, M(C)","Jean Michaël Seri Bordeaux, 30, M(C)",9(3),710,1.4,1,1.2,-,0.6,0.9,0.2,-,6.47,-,-,0.3,0.4,1.0,-,0.3,1.2,42.4,86.1,0.2,2.9,-
+5,"316Mathias Pereira LageAngers, 25, M(CLR)","Mathias Pereira Lage Angers, 25, M(CLR)",16(12),1475,1.0,0.5,1.0,-,0.5,1.1,0.1,-,6.47,4,1,1.0,0.4,0.5,0.1,0.6,1.3,15.1,76.3,0.1,0.3,-
+6,"317Mattia De SciglioLyon, 29, D(CLR),M(LR)","Mattia De Sciglio Lyon, 29, D(CLR),M(LR)",14(15),1460,1.0,0.9,0.8,0.1,1.2,0.3,0.1,-,6.47,-,1,0.1,0.3,0.3,-,0.1,0.6,28.8,84.2,0.3,1.5,-
+7,"318Senou CoulibalyDijon, 27, D(C)","Senou Coulibaly Dijon, 27, D(C)",22,1936,1.5,1.4,0.8,0.4,3.8,0.5,0.5,-,6.47,2,-,0.2,-,0.7,-,0.4,0.4,46.3,79.8,-,2.8,-
+8,"319Mama BaldéDijon, 26, D(R),M(CLR),FW","Mama Baldé Dijon, 26, D(R),M(CLR),FW",24(5),2174,0.8,0.1,1.3,-,0.9,0.4,-,-,6.47,7,-,2.0,0.3,1.4,0.6,1.9,3.2,16.1,69.7,-,0.4,-
+9,"320Saïdou SowSaint-Etienne, 19, D(C)","Saïdou Sow Saint-Etienne, 19, D(C)",10(5),998,1.5,0.9,0.5,0.3,2.5,0.4,0.5,-,6.47,-,-,0.1,0.1,0.3,-,0.2,0.3,38.9,82.4,-,2.5,-
+0,"301Quentin BoisgardLorient, 25, AM(CLR)","Quentin Boisgard Lorient, 25, AM(CLR)",17(7),1322,1.0,0.6,1,-,-,0.5,0.1,-,6.49,2,2,1,0.9,0.7,0.1,1.4,1.7,17.7,80.2,0.7,0.3,-
+1,"302Moreto CassamáReims, 24, DMC","Moreto Cassamá Reims, 24, DMC",26(3),2043,1.7,1.2,1,-,1.1,0.8,0.2,-,6.49,1,1,0.4,0.5,0.9,-,0.4,1.1,47.4,88.4,0.3,4.6,-
+2,"303Rayan CherkiLyon, 18, AM(R)","Rayan Cherki Lyon, 18, AM(R)",5(22),681,0.2,0.1,0.6,-,-,0.4,-,-,6.49,1,3,0.7,0.5,0.7,-,0.6,0.9,12.4,82.6,0.1,0.5,-
+3,"304Julien FaussurierBrest, 35, D(LR),M(R)","Julien Faussurier Brest, 35, D(LR),M(R)",10(8),952,0.9,0.5,0.7,0.1,0.4,0.8,0.2,-,6.49,-,3,0.3,1.2,0.3,0.1,0.2,0.8,24.7,76.4,1.4,2.5,-
+4,"305Vincent ManceauAngers, 32, D(CLR)","Vincent Manceau Angers, 32, D(CLR)",25(2),2308,1.6,1.3,0.6,0.3,2,1.2,0.1,-,6.49,-,-,0.2,0.4,0.6,-,0.1,0.6,47.3,81.5,0.3,2.4,-
+5,"306Jean-Louis LecaLens, 36, GK","Jean-Louis Leca Lens, 36, GK",37,3315,0.1,-,-,-,0.6,0.1,-,-,6.49,-,-,-,-,0.3,-,-,-,23.8,63.0,-,5.5,-
+6,"307Romain Del CastilloRennes, 26, AM(LR),FW","Romain Del Castillo Rennes, 26, AM(LR),FW",5(21),639,1.2,0.1,0.5,-,0.1,0.8,-,-,6.48,-,5,0.6,0.7,0.5,0.1,0.5,1.1,12.8,73.8,0.6,0.3,-
+7,"308Sofiane AlakouchNimes, 23, D(R)","Sofiane Alakouch Nimes, 23, D(R)",17(5),1514,2.4,1,1.1,0.1,1.4,0.7,0.1,-,6.48,-,2,0.2,0.2,1.2,-,0.8,1.2,32.5,78.0,0.1,1.7,-
+8,"309Sada ThioubAngers, 27, M(LR)","Sada Thioub Angers, 27, M(LR)",12(15),1256,0.6,0.3,0.7,-,-,0.6,-,-,6.48,1,1,0.9,0.9,0.9,-,1.5,1.6,21.3,84.7,0.2,0.6,-
+9,"310Clement MichelinLens, 25, D(R),M(R)","Clement Michelin Lens, 25, D(R),M(R)",13(13),1147,1.0,1,0.9,-,1,0.3,0.2,-,6.48,-,4,0.4,0.7,0.5,0.2,0.2,0.4,18.9,77.0,0.9,1.1,-
+0,"291Eiji KawashimaStrasbourg, 39, GK","Eiji Kawashima Strasbourg, 39, GK",24,2160,-,-,-,-,0.5,-,-,-,6.5,-,-,-,-,-,-,-,0.1,26.3,64.3,-,8.8,-
+1,"292Éric EbimbeDijon, 21, AM(CR)","Éric Ebimbe Dijon, 21, AM(CR)",25(5),2152,1.3,0.5,1.5,-,0.2,1,-,-,6.5,1,1,1.5,0.8,1.2,0.1,1.1,2.7,25.4,81.8,0.2,0.9,-
+2,"293Abdoulaye TouréNantes, 28, DMC","Abdoulaye Touré Nantes, 28, DMC",20(9),1686,1,0.8,0.7,-,0.6,0.6,0.1,-,6.5,2,2,0.9,0.5,1,-,0.6,1,32.3,85.1,0.1,1.2,0.1
+3,"294Stevan JoveticMonaco, 32, AM(CL),FW","Stevan Jovetic Monaco, 32, AM(CL),FW",6(23),790,0.3,0.1,0.6,-,0.1,0.3,-,-,6.5,6,-,1.6,0.4,0.5,0.1,0.4,0.8,12.1,69.8,0.2,0.4,-
+4,"295Erwan BelhadjiDijon, 20, Forward","Erwan Belhadji Dijon, 20, Forward",0(1),29,3,-,-,-,-,2,-,-,6.5,-,-,1,1,1,-,-,1,8.0,87.5,-,-,-
+5,"296Yehvann DioufReims, 22, Goalkeeper","Yehvann Diouf Reims, 22, Goalkeeper",1(1),135,-,-,-,-,-,-,-,-,6.5,-,-,-,-,0.5,-,-,-,19.5,71.8,-,3,-
+6,"297Jean-Kévin DuverneBrest, 24, D(CLR)","Jean-Kévin Duverne Brest, 24, D(CLR)",22(5),2025,1.4,1.1,0.8,0.3,2.5,0.6,0.6,-,6.5,1,-,0.4,0.1,0.6,-,0.4,0.4,49.2,84.2,-,5,-
+7,"298Fabien LemoineLorient, 35, M(C)","Fabien Lemoine Lorient, 35, M(C)",25(6),1949,2.4,0.9,1.9,-,1.1,1.7,-,-,6.5,1,-,0.5,0.5,0.7,-,0.4,0.6,46.2,86.6,0.1,2.5,-
+8,"299Jean LucasBrest, 23, M(C)","Jean Lucas Brest, 23, M(C)",11(5),1011,1.2,0.5,0.9,-,0.6,1.3,-,-,6.5,-,2,1.3,0.6,1.4,-,0.9,1.4,39.6,90.2,0.3,2.4,0.2
+9,"300Anthony BriançonNimes, 27, D(C)","Anthony Briançon Nimes, 27, D(C)",14(2),1226,0.8,2.1,0.6,0.3,3.6,0.6,0.8,-,6.49,-,-,0.3,0.3,0.6,0.1,-,0.2,52.4,85.1,0.1,6.2,-
+0,"281Faitout MaouassaRennes, 23, D(L),M(L)","Faitout Maouassa Rennes, 23, D(L),M(L)",13(10),1173,0.9,0.7,0.6,0.1,1.3,0.3,-,-,6.52,-,1,1.2,0.4,0.8,-,0.5,1.2,27.1,82.7,0.4,1.7,-
+1,"282Andrés CubasNimes, 26, DMC","Andrés Cubas Nimes, 26, DMC",27,2252,3,1.9,1.3,0.1,0.9,1.5,0.4,-,6.52,1,-,0.4,0.3,0.6,-,0.9,0.9,37.1,83.9,0.1,2.5,-
+2,"283Luis HenriqueMarseille, 20, M(L)","Luis Henrique Marseille, 20, M(L)",6(13),670,0.3,0.4,0.1,-,0.2,0.3,0.1,-,6.51,-,5,0.3,0.8,0.3,0.4,0.2,0.7,12.8,80.7,0.5,0.1,0.1
+3,"284Yannick CahuzacLens, 37, DMC","Yannick Cahuzac Lens, 37, DMC",26(4),2257,0.9,1.1,1,-,2.3,0.6,0.2,1,6.51,1,-,0.3,0.4,0.7,0.1,0.2,0.6,28.8,83.3,0.1,1.1,-
+4,"285Loris BenitoBordeaux, 30, D(CL),M(L)","Loris Benito Bordeaux, 30, D(CL),M(L)",30(1),2654,1.4,1.4,1.3,0.4,2.1,0.8,0.3,-,6.51,-,-,0.3,0.5,0.5,0.1,0.3,0.4,49.0,86.4,0.3,2.0,-
+5,"286Nicolas de PrévilleBordeaux, 31, AM(CLR),FW","Nicolas de Préville Bordeaux, 31, AM(CLR),FW",15(18),1610,0.6,0.4,0.6,-,0.2,1.0,-,-,6.51,1,2,1.2,1,1.4,0.1,1.5,1.9,17.5,72.9,0.7,1.0,-
+6,"287Colin DagbaPSG, 23, D(R)","Colin Dagba PSG, 23, D(R)",15(10),1356,0.9,0.6,0.8,0.1,0.7,0.2,0.2,-,6.51,1,1,0.3,0.5,0.4,0.1,0.5,0.6,32.2,90.8,0.3,0.2,-
+7,"288Anthony RacioppiDijon, 23, GK","Anthony Racioppi Dijon, 23, GK",21,1890,-,0.1,-,-,1.0,0.1,-,-,6.51,-,-,-,-,0.1,-,-,-,26.0,60.1,-,5.3,-
+8,"289Jérôme HergaultLorient, 36, D(LR),M(R)","Jérôme Hergault Lorient, 36, D(LR),M(R)",19(3),1627,1.7,1.0,0.9,-,1.4,0.6,0.1,-,6.51,2,-,0.2,0.3,1.2,0.2,0.6,1,31.1,77.6,0.2,0.7,-
+9,"290Mounir ChouiarDijon, 23, AM(CL)","Mounir Chouiar Dijon, 23, AM(CL)",14(9),1292,1,0.5,1.1,-,0.2,0.5,-,-,6.51,-,2,1,1,1.1,0.1,1.8,1.7,20.3,79.8,0.6,1.0,-
+0,"271Facundo MedinaLens, 23, D(CL)","Facundo Medina Lens, 23, D(CL)",23(1),2007,1.6,1.6,1.4,0.2,1.8,0.6,0.4,1,6.52,2,-,0.4,0.3,0.3,-,0.5,0.9,65.0,85.8,-,4.8,-
+1,"272Leonardo BalerdiMarseille, 23, D(C)","Leonardo Balerdi Marseille, 23, D(C)",19(2),1635,1.4,1.3,1.5,0.5,2.9,0.8,0.4,-,6.52,2,-,0.6,-,1.3,0.1,0.5,0.5,49.8,87.0,-,2.5,-
+2,"273Adrien ThomassonStrasbourg, 28, M(CLR)","Adrien Thomasson Strasbourg, 28, M(CLR)",31(6),2639,1,0.6,1.4,-,-,1.2,0.1,-,6.52,5,1,1.3,1,1.2,0.2,1.3,2,29.2,78.0,0.2,1.2,-
+3,"274Gaëtan CharbonnierBrest, 33, AM(C),FW","Gaëtan Charbonnier Brest, 33, AM(C),FW",17(19),1565,0.7,0.3,0.7,-,0.5,0.6,-,-,6.52,6,1,1,0.6,0.6,0.3,0.8,1.4,18.4,78.6,0.2,0.5,0.1
+4,"275Kelyan GuessoumNimes, 23, D(C)","Kelyan Guessoum Nimes, 23, D(C)",11(4),1126,0.9,1.6,0.4,0.4,3.3,0.3,0.4,-,6.52,-,-,0.4,0.1,0.9,-,0.1,0.2,38.0,88.4,-,1.9,-
+5,"276Adama SoumaoroLille, 29, D(CR)","Adama Soumaoro Lille, 29, D(CR)",1(2),141,0.3,0.7,0.7,-,0.7,-,0.3,-,6.52,-,-,0.7,-,0.3,-,-,-,38.7,94.8,-,1.7,-
+6,"277Haris BelkeblaBrest, 28, DMC","Haris Belkebla Brest, 28, DMC",33(2),2736,2,1.7,1.1,-,0.9,1,0.1,-,6.52,-,-,0.2,0.3,0.9,-,0.7,1,40.1,87.7,-,2.1,-
+7,"278Gerzino NyamsiRennes, 25, D(C)","Gerzino Nyamsi Rennes, 25, D(C)",10(4),870,0.9,0.7,0.7,0.4,2.1,0.1,0.4,-,6.52,1,-,0.4,0.1,-,-,0.4,0.6,46.9,87.5,-,2.3,-
+8,"279Vincent Le GoffLorient, 32, D(L),M(L)","Vincent Le Goff Lorient, 32, D(L),M(L)",26,2307,1.6,1.7,0.6,-,1.3,1.2,0.2,-,6.52,-,-,0.3,0.8,0.5,-,0.4,0.8,37.3,77.3,0.5,1.5,-
+9,"280Benjamin LecomteMonaco, 31, GK","Benjamin Lecomte Monaco, 31, GK",28,2520,-,0.1,-,-,1.1,0.1,-,-,6.52,-,-,-,-,0.1,-,-,-,32.0,72.8,-,6.1,-
+0,"261Mihailo RisticMontpellier, 26, D(L),M(L)","Mihailo Ristic Montpellier, 26, D(L),M(L)",26(8),2239,1.3,0.8,0.8,0.1,1.5,0.5,0.3,-,6.55,-,2,0.6,0.5,0.5,-,0.6,0.9,27.6,79.6,0.9,2.2,-
+1,"262Boubacar TraoreMetz, 20, M(C)","Boubacar Traore Metz, 20, M(C)",0(2),52,1.5,-,1.5,-,-,-,-,-,6.55,1,-,1,-,0.5,-,-,0.5,22.0,77.3,-,0.5,-
+2,"263Christophe HérelleBrest, 29, D(CR)","Christophe Hérelle Brest, 29, D(CR)",15(1),1378,1.2,1.9,1.2,0.4,2.5,0.1,0.6,1,6.54,-,-,0.4,0.2,1.0,0.1,0.1,0.3,55.8,87.3,-,5.4,-
+3,"264Florent MolletMontpellier, 30, AM(CLR)","Florent Mollet Montpellier, 30, AM(CLR)",30(4),2371,0.6,0.9,1,-,0.2,1,0.1,-,6.54,3,5,1.5,1.2,0.8,0.1,0.8,0.9,33.1,89.4,0.7,2.1,-
+4,"265Panagiotis RetsosSaint-Etienne, 23, D(CLR)","Panagiotis Retsos Saint-Etienne, 23, D(CLR)",4,274,1.3,0.8,1.5,-,2.8,1,0.3,-,6.54,-,-,0.3,0.5,0.3,-,-,0.5,45.8,85.2,-,2.3,-
+5,"266MexerBordeaux, 33, D(C)","Mexer Bordeaux, 33, D(C)",8(1),713,1,1.9,1.1,-,2.4,0.6,0.6,-,6.54,-,-,0.1,0.2,0.2,-,0.3,0.2,51.1,86.5,-,3.4,-
+6,"267Stephy MavididiMontpellier, 24, AM(LR),FW","Stephy Mavididi Montpellier, 24, AM(LR),FW",23(12),2034,0.5,0.4,0.9,-,0.1,0.4,-,-,6.54,9,-,0.9,0.4,0.9,0.1,1.1,2.1,13.0,81.3,0.1,0.3,-
+7,"268Lamine GueyeMetz, 24, AM(R),FW","Lamine Gueye Metz, 24, AM(R),FW",19(7),1467,0.7,0.8,0.5,-,0.1,0.7,0.1,-,6.54,3,2,1.6,0.7,1.4,0.3,1.2,2.3,16.2,75.7,0.5,0.2,-
+8,"269Romain SalinRennes, 37, GK","Romain Salin Rennes, 37, GK",16,1351,-,0.1,-,-,0.8,0.1,-,-,6.53,-,-,-,-,0.1,-,-,-,29.8,70.4,-,6.1,-
+9,"270Arnaud SouquetMontpellier, 30, D(CR),M(R)","Arnaud Souquet Montpellier, 30, D(CR),M(R)",14(9),1227,2.2,0.7,0.8,0.1,1.1,0.9,0.3,-,6.53,1,1,0.3,0.4,0.9,-,0.6,1,18.7,76.1,0.5,0.4,-
+0,"251Gautier LarsonneurBrest, 25, GK","Gautier Larsonneur Brest, 25, GK",35,3150,-,-,-,-,0.8,-,-,-,6.55,-,-,-,-,0.2,-,-,-,30.7,77.1,-,6.6,-
+1,"252Mehdi AbeidNantes, 29, DMC","Mehdi Abeid Nantes, 29, DMC",15(3),1322,1.9,1.1,1.7,-,0.6,0.8,0.1,-,6.55,-,-,1.1,0.7,1.2,0.1,0.6,1.3,37.2,88.2,0.6,2.2,-
+2,"253Sinaly DiomandéLyon, 21, D(C)","Sinaly Diomandé Lyon, 21, D(C)",10(17),1119,0.4,1.3,0.6,0.2,1.9,0.3,0.6,-,6.55,-,-,0.6,0.1,0.5,-,0.1,0.1,27.0,86.8,-,1.1,-
+3,"254Myziane MaolidaNice, 23, AM(LR),FW","Myziane Maolida Nice, 23, AM(LR),FW",11(8),1079,0.7,0.3,0.9,-,0.2,0.4,0.1,-,6.55,3,1,1,0.8,0.5,0.1,0.9,1.4,17.5,77.8,0.3,0.4,-
+4,"255Pape GueyeMarseille, 23, DMC","Pape Gueye Marseille, 23, DMC",22(10),2058,1.5,1.5,1.5,0.1,0.9,0.9,0.2,-,6.55,2,-,0.5,0.2,1.4,-,0.5,1,42.9,84.2,0.1,2.1,-
+5,"256Youcef AtalNice, 26, D(R),M(R)","Youcef Atal Nice, 26, D(R),M(R)",13(5),964,1.4,1.4,1,0.2,0.6,0.7,0.1,-,6.55,1,-,0.4,0.3,1.5,0.4,0.7,2.2,27.4,83.6,0.4,0.9,-
+6,"257Arbër ZeneliReims, 27, AM(LR),FW","Arbër Zeneli Reims, 27, AM(LR),FW",14(14),1293,0.7,0.1,0.5,-,0.1,0.5,-,-,6.55,3,3,0.8,0.6,0.9,0.2,0.9,2,12.0,79.1,0.4,0.1,-
+7,"258Timothée KolodziejczakSaint-Etienne, 30, D(CL),M(L)","Timothée Kolodziejczak Saint-Etienne, 30, D(CL),M(L)",23(1),2038,1.2,1.5,1.2,0.3,3.3,0.3,0.6,-,6.55,-,-,0.4,0.1,0.3,-,0.1,0.4,53.7,83.1,0.1,2.6,-
+8,"259Dylan BronnMetz, 26, D(C)","Dylan Bronn Metz, 26, D(C)",38,3413,1.5,1.2,1,0.3,2.8,0.5,0.4,-,6.55,2,-,0.4,0.2,0.3,-,0.2,0.3,47.1,83.2,-,3.4,-
+9,"260XekaLille, 27, M(C)","Xeka Lille, 27, M(C)",11(22),1189,1,0.6,0.8,-,0.5,0.8,0.1,-,6.55,1,2,0.5,0.6,0.8,-,0.1,0.6,25.9,88.9,0.3,1.5,0.1
+0,"241Arnaud NordinSaint-Etienne, 23, AM(CLR),FW","Arnaud Nordin Saint-Etienne, 23, AM(CLR),FW",20(12),1783,0.4,0.3,0.4,-,0.3,0.5,0.1,-,6.58,4,4,1.4,0.7,1.9,0.1,0.7,1.6,13.3,82.0,0.7,0.7,-
+1,"242Maxence CaqueretLyon, 22, DMC","Maxence Caqueret Lyon, 22, DMC",19(10),1761,2.5,0.8,1.1,-,0.1,2.4,0.1,-,6.57,-,1,0.3,0.6,0.9,-,1.0,1.3,36.3,86.9,0.1,1.7,-
+2,"243Lamine FombaNimes, 24, DMC","Lamine Fomba Nimes, 24, DMC",24(8),2176,2.1,1.8,1.4,-,1.1,1.1,0.6,-,6.57,1,1,0.8,0.6,0.5,-,1.3,1.2,21.8,80.9,-,0.8,-
+3,"244Kasper DolbergNice, 24, FW","Kasper Dolberg Nice, 24, FW",21(4),1931,0.2,0.2,0.8,-,0.8,0.4,0.1,-,6.57,6,2,1.5,0.6,2.0,0.2,1.2,2.9,12.3,81.5,-,0.2,-
+4,"245Pedro MendesMontpellier, 31, D(CR)","Pedro Mendes Montpellier, 31, D(CR)",19(3),1629,1.0,1.5,1.0,0.3,2.4,0.3,0.6,-,6.56,2,-,0.3,0.1,1.2,-,0.1,0.4,36.4,84.1,-,3.9,-
+5,"246Imrân LouzaNantes, 23, M(CLR)","Imrân Louza Nantes, 23, M(CLR)",28(5),2390,1.7,1.0,1.1,-,0.4,1.5,0.1,-,6.56,7,2,1.1,0.8,1.4,0.1,0.6,1.5,37.0,82.6,0.5,2.2,-
+6,"247Jordan LotombaNice, 23, D(LR),M(R)","Jordan Lotomba Nice, 23, D(LR),M(R)",24(6),2127,1.2,1.1,0.9,-,1.4,0.5,0.2,-,6.56,1,-,0.3,0.4,1.2,0.1,0.8,0.9,37.9,82.9,0.2,1.1,-
+7,"248Paul LasneBrest, 33, M(CLR)","Paul Lasne Brest, 33, M(CLR)",19(3),1688,2.1,2.2,1.2,-,0.7,1.0,0.2,-,6.56,-,-,0.2,0.3,0.8,-,0.2,0.6,48.9,85.8,-,2.2,-
+8,"249Arnaud Kalimuendo-MuingaLens, 20, FW","Arnaud Kalimuendo-Muinga Lens, 20, FW",13(15),1218,0.3,0.1,0.6,-,0.1,0.2,-,-,6.56,7,3,1.1,0.5,0.9,-,1.1,1.8,9.5,80.5,0.2,0.1,-
+9,"250Ismael TraoréAngers, 35, D(CR)","Ismael Traoré Angers, 35, D(CR)",34,2994,0.9,1.2,0.6,0.6,3.0,0.5,0.4,-,6.56,3,3,0.4,0.3,0.3,-,0.1,0.6,51.0,84.1,-,2.6,-
+0,"231Enock KwatengBordeaux, 25, D(CR),M(R)","Enock Kwateng Bordeaux, 25, D(CR),M(R)",12(6),1037,1.2,1.4,0.8,-,1.4,0.7,0.2,-,6.59,1,-,0.2,0.4,0.9,-,0.4,1.1,30.9,81.1,0.3,1.1,-
+1,"232Jonathan PanzoDijon, 21, D(C)","Jonathan Panzo Dijon, 21, D(C)",21(1),1805,0.8,2.7,1.3,0.4,4.0,0.1,0.6,-,6.59,-,-,0.2,-,0.4,-,0.1,0.4,49.5,87.0,-,2.4,-
+2,"233Benoît CostilBordeaux, 34, GK","Benoît Costil Bordeaux, 34, GK",38,3420,-,-,-,-,0.8,0.1,-,-,6.59,-,-,-,-,0.1,-,-,-,31.1,67.3,-,8.8,-
+3,"234Nicolas CozzaMontpellier, 23, D(CL)","Nicolas Cozza Montpellier, 23, D(CL)",15(5),1373,2,1.3,0.8,0.2,2.8,1,0.6,-,6.58,-,-,0.1,0.3,0.8,0.1,0.2,1.1,25.6,80.6,0.2,1.4,-
+4,"235Enzo Le FéeLorient, 22, AM(CLR)","Enzo Le Fée Lorient, 22, AM(CLR)",21(15),1816,1.4,0.7,0.7,-,0.2,1.3,0.2,-,6.58,-,6,0.9,0.9,1.1,-,0.9,1.3,21.9,82.1,0.6,1.1,0.1
+5,"236Lucas PerrinMarseille, 23, D(C)","Lucas Perrin Marseille, 23, D(C)",3(4),307,1,1.1,0.6,0.7,2.0,1,0.6,-,6.58,1,-,0.4,0.1,0.6,-,0.1,0.4,22.9,92.5,-,1.4,-
+6,"237Steven FortèsLens, 30, D(C)","Steven Fortès Lens, 30, D(C)",16(2),1438,1.8,1.5,1.4,0.3,2.9,0.3,0.6,1,6.58,-,-,0.3,0.1,0.5,-,0.1,0.2,51.9,87.0,-,3.6,-
+7,"238Domagoj BradaricLille, 22, D(L)","Domagoj Bradaric Lille, 22, D(L)",14(12),1259,1.1,1,0.7,0.1,0.5,0.6,0.2,-,6.58,1,2,0.2,0.4,0.5,-,0.2,0.8,28.5,84.6,0.3,1.1,-
+8,"239Alfred GomisRennes, 28, GK","Alfred Gomis Rennes, 28, GK",22,1980,-,0.1,-,-,0.8,-,-,-,6.58,-,-,-,-,0.1,-,-,-,24.9,75.0,-,4.0,-
+9,"240Lassana CoulibalyAngers, 26, M(CL)","Lassana Coulibaly Angers, 26, M(CL)",18(11),1687,2.7,1.1,0.9,-,0.6,1.2,0.1,-,6.58,1,1,0.5,0.2,1.1,-,0.6,0.9,22.6,82.7,-,1.2,-
+0,"221Brandon SoppyRennes, 20, D(R),M(R)","Brandon Soppy Rennes, 20, D(R),M(R)",5(5),556,2.1,0.6,1.2,0.3,1.2,0.6,-,-,6.61,-,-,0.5,0.2,1.5,-,0.4,1.1,32.8,81.1,0.4,0.7,-
+1,"222Dimitri LienardStrasbourg, 34, D(L),M(CL)","Dimitri Lienard Strasbourg, 34, D(L),M(CL)",19(15),1828,1.1,0.5,0.6,-,0.2,0.9,-,-,6.61,2,4,0.9,1.2,0.4,-,0.4,0.9,28.4,82.7,1.6,3.0,-
+2,"223Adrien TruffertRennes, 20, D(L)","Adrien Truffert Rennes, 20, D(L)",23(6),1957,1.3,0.6,0.8,0.2,1.1,0.4,0.2,-,6.61,1,3,0.8,0.7,0.9,-,0.5,1.1,36.0,87.0,0.4,0.9,-
+3,"224Yusuf YaziciLille, 25, M(CLR),FW","Yusuf Yazici Lille, 25, M(CLR),FW",10(22),1078,0.4,0.1,0.4,-,0.1,0.7,-,-,6.61,7,4,1.4,1.1,0.3,0.2,0.6,1.0,14.2,76.2,0.7,0.4,-
+4,"225Hicham BoudaouiNice, 22, M(CR)","Hicham Boudaoui Nice, 22, M(CR)",22(3),1749,2.1,0.9,1.2,-,1.0,1.7,0.2,-,6.61,3,2,0.6,0.3,0.8,0.2,0.9,1.5,33.4,82.5,0.1,0.8,-
+5,"226Niclas EliassonNimes, 26, AM(CLR),FW","Niclas Eliasson Nimes, 26, AM(CLR),FW",19(11),1805,0.9,0.8,0.8,-,0.4,0.4,-,-,6.6,4,3,0.8,1.2,1.4,0.1,0.4,1.5,12.4,69.0,1.3,0.4,-
+6,"227Jean-Charles CastellettoNantes, 27, D(C)","Jean-Charles Castelletto Nantes, 27, D(C)",22(2),1948,1.3,1.8,1.4,0.5,3.1,0.5,0.8,-,6.6,1,-,0.3,0.2,0.3,-,0.1,0.2,32.8,81.2,-,1.8,-
+7,"228Jean-Ricner BellegardeStrasbourg, 23, M(CLR)","Jean-Ricner Bellegarde Strasbourg, 23, M(CLR)",25(11),2098,1.6,0.5,0.9,-,0.4,0.3,0.1,-,6.6,1,1,0.6,0.5,1.3,-,1.1,2.0,20.3,81.8,0.5,1.3,-
+8,"229Thilo KehrerPSG, 25, D(CLR),M(R)","Thilo Kehrer PSG, 25, D(CLR),M(R)",16(8),1610,1.3,0.6,1.1,0.3,1.5,0.7,0.2,-,6.6,-,-,0.3,0.1,0.4,-,0.1,0.3,50.3,92.5,0.1,0.8,-
+9,"230Pierrick CapelleAngers, 35, D(L),M(CLR)","Pierrick Capelle Angers, 35, D(L),M(CLR)",24(11),2054,1.5,1.3,0.9,0.1,0.9,1.4,-,-,6.59,3,3,0.8,0.7,0.5,0.1,0.9,1.1,30.9,81.5,0.3,1.0,-
+0,"211Matthieu UdolMetz, 26, D(CL),M(L)","Matthieu Udol Metz, 26, D(CL),M(L)",19(6),1723,1.4,1.6,0.6,0.2,0.9,0.9,0.2,-,6.63,-,3,0.5,0.9,0.7,-,0.7,1.3,29.0,83.6,0.6,1,-
+1,"212Axel DisasiMonaco, 24, D(C)","Axel Disasi Monaco, 24, D(C)",24(5),2017,1,0.9,1,0.4,2.2,0.5,0.4,1,6.63,3,-,0.6,0.1,0.7,-,0.1,0.2,52.2,86.7,-,2.7,-
+2,"213Toma BasicBordeaux, 25, M(C)","Toma Basic Bordeaux, 25, M(C)",32(2),2609,1,0.9,1.2,-,1.1,1.2,0.1,-,6.63,4,1,1.3,0.8,0.9,0.1,0.6,1.4,35.8,84.8,0.4,1.7,-
+3,"214Arnaud Kalimuendo-MuingaPSG, 20, FW","Arnaud Kalimuendo-Muinga PSG, 20, FW",1,74,-,-,-,-,-,-,-,-,6.62,-,-,2,1,3.0,1,3,2,18.0,94.4,-,-,-
+4,"215Sofiane BoufalAngers, 28, AM(CLR),FW","Sofiane Boufal Angers, 28, AM(CLR),FW",9(5),736,1.2,0.2,1.6,-,-,1.4,-,-,6.62,1,-,0.9,0.2,1.6,-,1.5,1.9,19.0,77.1,-,0.6,-
+5,"216Romain HamoumaSaint-Etienne, 35, M(CLR),FW","Romain Hamouma Saint-Etienne, 35, M(CLR),FW",19(10),1773,0.4,0.2,1.1,-,0.3,0.7,-,-,6.62,6,1,1.1,1.2,1.2,0.3,1.3,2.9,18.4,75.1,0.7,0.8,-
+6,"217Souleyman DoumbiaAngers, 25, D(L),M(L)","Souleyman Doumbia Angers, 25, D(L),M(L)",24(3),2221,1.8,1.6,1.2,0.3,1.3,0.5,0.1,1,6.62,-,1,0.3,0.7,0.6,-,0.9,1.7,35.9,82.4,0.5,0.8,-
+7,"218Hwang Ui-JoBordeaux, 29, AM(CLR),FW","Hwang Ui-Jo Bordeaux, 29, AM(CLR),FW",32(4),2524,0.4,0.2,0.9,-,0.3,0.5,0.1,-,6.62,12,3,2.1,0.6,1.0,0.5,0.8,1.9,13.0,79.9,0.1,0.1,-
+8,"219Clément GrenierRennes, 31, M(CL)","Clément Grenier Rennes, 31, M(CL)",12(11),1077,0.9,0.2,1.2,-,0.1,1,-,-,6.62,4,3,1.2,1.1,0.7,-,0.4,0.9,36.8,82.5,0.7,2.4,-
+9,"220Alban LafontNantes, 23, GK","Alban Lafont Nantes, 23, GK",38,3420,-,-,-,-,0.8,-,-,-,6.61,-,-,-,-,0.2,-,-,-,26.1,53.6,-,5.8,-
+0,"201Jonathan IkonéLille, 24, AM(CLR),FW","Jonathan Ikoné Lille, 24, AM(CLR),FW",26(11),2187,0.5,0.2,0.4,-,0.2,0.4,-,-,6.65,4,5,1.3,0.6,0.6,0.2,1.5,1.6,19.8,81.0,-,0.6,0.1
+1,"202Cesc FàbregasMonaco, 35, M(CL),FW","Cesc Fàbregas Monaco, 35, M(CL),FW",7(14),875,1.0,0.6,0.7,-,0.1,0.6,-,-,6.65,2,3,0.5,1.2,0.6,-,0.4,0.8,34.9,82.9,1,2.2,-
+2,"203Miguel TraucoSaint-Etienne, 29, D(L),M(L)","Miguel Trauco Saint-Etienne, 29, D(L),M(L)",22(4),2036,1.8,1.2,1.1,-,1.3,0.8,0.2,-,6.65,-,2,0.2,1.2,0.5,-,0.4,1,42.7,78.3,0.8,2.1,-
+3,"204Mathieu CafaroReims, 25, AM(CLR)","Mathieu Cafaro Reims, 25, AM(CLR)",27(4),2091,1.3,0.5,0.9,-,0.4,1,-,-,6.65,4,2,1.9,0.8,1.2,0.2,0.4,1.8,23.3,68.0,0.8,1.4,-
+4,"205Pablo MartinezNimes, 33, D(CL)","Pablo Martinez Nimes, 33, D(CL)",6(1),541,1.4,1.6,0.7,0.1,3.9,-,0.6,-,6.64,-,1,-,0.3,1.4,-,0.3,0.1,42.0,82.7,-,5.1,-
+5,"206Valon BerishaReims, 29, M(CL)","Valon Berisha Reims, 29, M(CL)",17(7),1644,1.7,1,0.6,-,0.8,1.5,0.1,-,6.64,-,3,0.9,1.0,0.7,-,0.5,1.1,39.3,85.2,0.7,4.1,-
+6,"207Baptiste ReynetNimes, 31, GK","Baptiste Reynet Nimes, 31, GK",38,3420,0.1,-,-,-,0.5,0.1,-,-,6.64,-,-,0.1,0.1,0.2,-,-,-,37.9,64.6,-,7.7,-
+7,"208Álvaro GonzálezMarseille, 32, D(C)","Álvaro González Marseille, 32, D(C)",32,2834,0.8,1,1,1,3.6,0.4,0.6,-,6.64,2,3,0.5,0.2,0.9,0.1,0.1,0.3,60.6,87.9,-,3.6,-
+8,"209Ibrahima DialloBrest, 23, DMC","Ibrahima Diallo Brest, 23, DMC",5,442,2.8,0.6,1.6,-,0.6,0.8,-,-,6.64,-,-,0.2,0.4,1.6,-,1,0.8,56.8,87.0,-,4.6,-
+9,"210Issiaga SyllaLens, 28, D(LR),M(L)","Issiaga Sylla Lens, 28, D(LR),M(L)",13(7),1118,1.4,0.8,0.9,0.1,1.0,0.5,0.2,-,6.63,1,-,0.5,0.4,0.4,0.1,0.7,1,25.4,78.7,0.5,0.9,-
+0,"191Dennis AppiahNantes, 30, D(CLR)","Dennis Appiah Nantes, 30, D(CLR)",16(6),1554,2.5,1.1,0.7,0.2,1.7,1.2,0.3,-,6.67,-,2,0.3,0.6,0.1,-,0.8,0.8,29.2,74.8,0.2,0.9,-
+1,"192Ignatius GanagoLens, 23, AM(LR),FW","Ignatius Ganago Lens, 23, AM(LR),FW",16(8),1308,0.2,0.3,0.6,-,0.1,0.4,-,-,6.67,7,-,1.7,0.6,1.9,0.5,1.1,2,11.0,72.6,-,0.1,-
+2,"193Charles TraoréNantes, 30, D(L),M(L)","Charles Traoré Nantes, 30, D(L),M(L)",19(3),1701,2.4,1.6,1.4,0.3,2.4,1.2,0.2,-,6.67,1,-,0.1,0.2,1.0,-,0.4,1.2,33.4,71.4,0.3,1.6,-
+3,"194Thiago MendesLyon, 30, D(CR),M(CR)","Thiago Mendes Lyon, 30, D(CR),M(CR)",23(9),2242,1.2,1.3,0.8,-,0.6,0.6,0.2,-,6.66,-,1,0.7,0.8,0.7,-,0.4,0.8,45.7,88.3,0.1,3.5,0.1
+4,"195William SalibaNice, 21, D(C)","William Saliba Nice, 21, D(C)",20,1800,0.8,1.3,0.8,0.7,4,0.1,0.8,-,6.66,1,-,0.3,0.1,0.5,-,0.2,0.6,73.2,91.3,-,5.0,-
+5,"196Flavien TaitRennes, 29, M(CLR)","Flavien Tait Rennes, 29, M(CLR)",16(7),1371,1.1,0.6,0.8,-,-,1.0,0.1,-,6.66,1,3,1.1,0.9,1.3,-,0.6,1.2,33.7,85.1,0.3,2.2,-
+6,"197Jonas OmlinMontpellier, 28, GK","Jonas Omlin Montpellier, 28, GK",31,2675,-,-,0.1,-,0.5,0.1,-,1,6.66,-,-,-,-,0.1,-,-,-,26.1,66.0,-,7.3,-
+7,"198Andreaw GravillonLorient, 24, D(C)","Andreaw Gravillon Lorient, 24, D(C)",26,2274,1,2.3,0.7,0.3,4.2,0.6,1.2,1,6.66,2,2,0.5,0.3,1.4,-,0.2,0.6,46.2,74.9,0.2,3.2,-
+8,"199Yassine BenziaDijon, 27, AM(CLR),FW","Yassine Benzia Dijon, 27, AM(CLR),FW",5(2),410,1.4,0.9,1.1,-,0.3,1.1,-,-,6.66,2,-,0.9,1.3,1.3,-,1,1.9,25.4,84.3,0.7,1.4,-
+9,"200FábioNantes, 31, D(LR),M(R)","Fábio Nantes, 31, D(LR),M(R)",19(3),1513,2.8,1.7,1.6,0.1,2,1.2,0.4,-,6.65,-,1,0.3,0.5,0.5,-,0.6,0.7,30.5,77.3,0.3,1.3,-
+0,"181Daniel CongréMontpellier, 37, D(CLR)","Daniel Congré Montpellier, 37, D(CLR)",38,3294,1.6,1.8,0.8,0.2,3.7,0.9,0.9,-,6.69,2,-,0.3,0.1,0.7,-,0.1,0.4,39.8,86.5,-,3.4,-
+1,"182Jérémy PiedLille, 33, D(LR),M(CLR)","Jérémy Pied Lille, 33, D(LR),M(CLR)",4(2),321,1.2,1,1,-,1.0,0.8,0.2,-,6.69,-,-,0.2,1,0.3,-,0.5,-,38.0,82.5,1.2,1.5,-
+2,"183Rony LopesNice, 26, AM(CLR),FW","Rony Lopes Nice, 26, AM(CLR),FW",23(5),1798,0.7,0.3,0.5,-,0.2,0.8,0.1,-,6.69,3,1,1.5,1.5,0.9,-,0.8,1.9,24.3,80.0,1.1,0.4,-
+3,"184Giulian BianconeMonaco, 22, D(CLR),M(LR)","Giulian Biancone Monaco, 22, D(CLR),M(LR)",1(1),92,1.5,0.5,0.5,-,2.0,0.5,-,-,6.69,-,-,0.5,1,1.0,-,1,0.5,37.0,75.7,1,3,-
+4,"185Alexandre OukidjaMetz, 33, GK","Alexandre Oukidja Metz, 33, GK",34,3060,-,-,-,-,0.9,-,-,-,6.68,-,-,-,-,0.3,-,-,-,25.1,59.4,-,7.6,-
+5,"186Thomas FoketReims, 27, D(R),M(R)","Thomas Foket Reims, 27, D(R),M(R)",37,3325,2.1,1.9,0.9,0.1,2.0,0.8,0.2,1,6.68,-,3,0.2,0.6,0.9,0.1,0.5,1,40.4,80.1,0.4,2.5,-
+6,"187Timothée PembéléPSG, 19, D(R),M(R)","Timothée Pembélé PSG, 19, D(R),M(R)",3(3),380,1.3,0.8,1.2,0.2,1.3,1.5,-,1,6.68,1,-,0.7,0.3,0.5,-,0.5,1.8,38.7,91.8,-,-,-
+7,"188Ibrahima SissokoStrasbourg, 24, D(C),DMC","Ibrahima Sissoko Strasbourg, 24, D(C),DMC",29(7),2586,1.9,1.3,1.8,-,1.1,1.1,0.1,-,6.67,-,-,0.7,0.2,0.6,-,0.6,1.3,29.8,81.5,0.1,2.1,-
+8,"189Predrag RajkovicReims, 26, GK","Predrag Rajkovic Reims, 26, GK",37,3286,0.1,0.1,-,-,0.9,0.1,-,-,6.67,-,-,-,-,0.3,-,-,0.1,34.8,62.7,-,6.6,-
+9,"190Presnel KimpembePSG, 26, D(C)","Presnel Kimpembe PSG, 26, D(C)",26(2),2307,1.6,1.1,1.1,0.6,2.1,0.4,0.4,-,6.67,-,-,0.2,0.1,0.9,-,0.1,0.5,70.3,95.0,-,1.6,-
+0,"171John BoyeMetz, 35, D(C)","John Boye Metz, 35, D(C)",35,3047,1.7,2.3,0.9,0.3,3.9,0.7,0.6,1,6.7,1,2,0.4,0.2,0.6,0.1,0.1,0.4,35.3,82.8,-,2.5,-
+1,"172Nicolas PalloisNantes, 34, D(C)","Nicolas Pallois Nantes, 34, D(C)",31(1),2776,1.8,1.2,0.7,0.4,4.8,1.1,0.6,1,6.7,2,-,0.4,0.2,0.4,0.1,0.3,0.4,40.5,79.0,0.1,3.0,-
+2,"173Terem MoffiLorient, 23, AM(R),FW","Terem Moffi Lorient, 23, AM(R),FW",26(6),2091,0.4,0.1,0.9,-,0.3,0.5,0.1,-,6.7,14,2,1.8,0.8,0.6,0.3,1.3,2.9,11.9,68.9,0.1,0.3,-
+3,"174Adil AouchicheSaint-Etienne, 19, AM(CL)","Adil Aouchiche Saint-Etienne, 19, AM(CL)",21(13),1742,1.1,0.3,0.6,-,0.2,1.1,-,-,6.7,2,5,0.8,1.7,0.9,-,0.8,1.8,20.0,76.7,1.4,1.2,0.1
+4,"175Remi OudinBordeaux, 25, M(CLR),FW","Remi Oudin Bordeaux, 25, M(CLR),FW",27(11),2435,0.9,1.3,0.6,-,0.9,0.6,0.1,-,6.7,4,4,1.4,1,0.9,0.1,0.8,1.2,24.2,72.6,0.7,0.7,-
+5,"176Wahbi KhazriSaint-Etienne, 31, M(CLR),FW","Wahbi Khazri Saint-Etienne, 31, M(CLR),FW",16(6),1194,1.1,0.2,1.1,-,0.5,0.5,-,-,6.7,7,1,1.5,0.9,1.4,0.3,1.1,1.8,15.2,71.3,0.3,0.9,-
+6,"177Anthony LopesLyon, 31, GK","Anthony Lopes Lyon, 31, GK",38,3420,-,-,0.1,-,0.7,-,-,2,6.69,-,-,-,-,0.2,-,-,-,26.2,79.5,-,5.3,-
+7,"178Jason DenayerLyon, 26, D(CR),DMC","Jason Denayer Lyon, 26, D(CR),DMC",31,2619,0.8,0.9,0.7,0.4,2.7,0.2,0.8,-,6.69,1,-,0.2,-,0.2,-,-,0.2,54.4,94.6,-,2.5,-
+8,"179Gabriel SilvaSaint-Etienne, 31, D(LR),M(L)","Gabriel Silva Saint-Etienne, 31, D(LR),M(L)",4,356,1.8,1.5,1.3,-,2.0,0.3,0.3,-,6.69,-,-,-,0.8,1.8,-,0.3,0.5,44.5,84.8,1.3,1.5,-
+9,"180Walter BenítezNice, 29, GK","Walter Benítez Nice, 29, GK",38,3420,-,-,-,-,0.3,0.1,-,-,6.69,-,-,-,-,0.1,-,-,0.1,27.3,78.6,-,3.8,-
+0,"161Morgan SchneiderlinNice, 32, DMC","Morgan Schneiderlin Nice, 32, DMC",24(4),2197,1.8,1.9,1.5,-,1.6,1.2,0.4,-,6.72,-,-,0.4,0.5,0.4,-,0.3,0.8,57.3,88.8,-,3.2,-
+1,"162Abdou DialloPSG, 26, D(CL)","Abdou Diallo PSG, 26, D(CL)",17(5),1488,0.7,1.1,0.8,0.3,1.5,0.2,0.4,-,6.72,-,1,0.2,-,0.4,-,-,0.7,51.3,93.1,0.2,2.1,-
+2,"163Thomas ManganiAngers, 35, M(C)","Thomas Mangani Angers, 35, M(C)",32(3),2702,1.5,1.1,0.5,-,1.1,1.7,0.2,-,6.71,3,3,0.7,1.2,0.7,-,0.4,0.5,57.2,83.6,0.7,4.6,0.1
+3,"164Ronaël Pierre-GabrielBrest, 23, D(LR)","Ronaël Pierre-Gabriel Brest, 23, D(LR)",28(1),2315,2,1,0.9,0.2,1.8,0.6,0.2,-,6.71,1,-,0.3,0.6,1,0.1,0.4,0.5,38.9,82.8,0.4,2.0,-
+4,"165Thomas DelaineMetz, 30, D(L),M(LR)","Thomas Delaine Metz, 30, D(L),M(LR)",19(5),1780,1.3,1,0.9,-,1.0,0.6,0.2,-,6.71,3,2,0.8,0.5,0.7,-,0.5,1.1,25.3,77.6,0.6,0.6,-
+5,"166Duje Caleta-CarMarseille, 25, D(C)","Duje Caleta-Car Marseille, 25, D(C)",32(1),2816,0.9,1.3,0.9,0.7,3.9,0.4,0.7,-,6.71,2,1,0.3,0.2,0.5,-,0.1,0.2,57.4,86.1,-,3.4,-
+6,"167Wout FaesReims, 24, D(C)","Wout Faes Reims, 24, D(C)",33,2901,1.1,2.1,0.7,0.2,4.3,0.6,0.9,-,6.7,1,-,0.3,0.1,0.5,-,0.3,0.3,48.5,86.1,-,3.8,-
+7,"168Leandro ParedesPSG, 27, DMC","Leandro Paredes PSG, 27, DMC",16(5),1308,1.4,0.8,1.1,-,0.6,1,0.2,-,6.7,1,2,1.1,0.5,0.8,-,0.3,0.4,69.6,90.9,-,3.7,0.1
+8,"169Sergio RicoPSG, 28, GK","Sergio Rico PSG, 28, GK",8(2),810,-,-,-,-,0.4,-,-,-,6.7,-,-,-,-,-,-,-,0.2,17.3,89.0,-,1.2,-
+9,"170Etienne GreenSaint-Etienne, 21, GK","Etienne Green Saint-Etienne, 21, GK",8,720,-,-,0.3,-,1.0,-,-,-,6.7,-,-,-,-,0.1,-,-,-,23.5,55.9,-,6.0,-
+0,"151Nathanaël MbukuReims, 20, AM(CLR),FW","Nathanaël Mbuku Reims, 20, AM(CLR),FW",28(4),2230,1.0,0.4,0.8,-,0.2,0.6,-,-,6.73,4,1,1.2,0.8,1.8,0.1,0.8,1.5,16.5,81.6,0.2,0.6,0.1
+1,"152Julian DraxlerPSG, 28, AM(CLR),FW","Julian Draxler PSG, 28, AM(CLR),FW",12(12),1061,0.5,0.6,0.3,-,-,0.6,-,-,6.73,4,3,0.5,1.3,0.5,0.2,0.5,0.3,25.1,88.4,0.5,0.8,-
+2,"153Steven NzonziRennes, 33, M(C)","Steven Nzonzi Rennes, 33, M(C)",33(1),2910,1.0,0.5,1.1,-,0.7,0.6,0.3,-,6.73,1,1,0.6,0.4,0.4,-,0.2,0.3,85.4,91.7,-,3.4,0.1
+3,"154Sacha BoeyDijon, 21, D(R)","Sacha Boey Dijon, 21, D(R)",21(3),1865,2.3,1.7,1.5,0.2,2.2,1.2,0.2,-,6.73,-,1,0.4,0.8,0.5,0.1,0.5,1.4,31.7,79.2,0.8,1.6,-
+4,"155Moses SimonNantes, 26, M(CLR),FW","Moses Simon Nantes, 26, M(CLR),FW",28(5),2341,0.8,0.5,0.5,-,0.4,0.6,-,-,6.73,6,5,1.2,1.0,0.9,0.1,1.4,2.0,17.3,75.0,0.7,0.3,-
+5,"156Ngonda MuzingaDijon, 27, D(L)","Ngonda Muzinga Dijon, 27, D(L)",25(5),2310,2.0,2.4,1.2,0.3,1.7,0.7,0.1,-,6.73,2,-,0.4,0.6,0.5,-,0.6,1.4,45.0,73.1,0.4,2.7,-
+6,"157Mohamed SimakanStrasbourg, 22, D(CR)","Mohamed Simakan Strasbourg, 22, D(CR)",19,1619,1.7,1.6,1.2,0.4,1.8,0.5,0.6,-,6.72,1,1,0.7,0.2,1.4,0.1,0.5,0.6,42.1,82.1,0.1,4.4,-
+7,"158Pablo SarabiaPSG, 30, D(L),M(CLR),FW","Pablo Sarabia PSG, 30, D(L),M(CLR),FW",13(14),1313,0.6,0.2,0.2,-,0.3,1.0,-,-,6.72,6,4,1.4,0.9,0.6,0.3,0.5,1.0,20.9,79.4,0.4,0.7,0.1
+8,"159Youssouf SabalyBordeaux, 29, D(LR),M(R)","Youssouf Sabaly Bordeaux, 29, D(LR),M(R)",33,2915,1.4,1.5,1.0,0.2,1.2,0.5,0.2,-,6.72,1,2,0.4,0.8,1.3,0.1,0.9,1.5,47.5,84.4,0.3,1.1,-
+9,"160Seko FofanaLens, 27, M(C)","Seko Fofana Lens, 27, M(C)",25(5),2311,0.5,1.1,0.7,-,0.5,0.7,0.2,-,6.72,2,3,1.3,0.8,0.7,-,1.1,1.7,39.8,87.4,0.1,1.4,-
+0,"141Paul BaysseBordeaux, 34, D(CR)","Paul Baysse Bordeaux, 34, D(CR)",29(2),2614,1.1,1.7,0.7,0.5,3.9,0.2,0.8,-,6.75,2,2,0.4,0.3,0.5,-,0.1,0.1,55.0,87.7,0.1,3.6,-
+1,"142Ghislain KonanReims, 26, D(L),M(L)","Ghislain Konan Reims, 26, D(L),M(L)",29(2),2612,1.8,1.0,0.8,0.2,1.8,0.8,0.4,-,6.75,2,1,0.3,0.6,0.8,0.1,0.8,1.1,37.5,80.9,0.5,1.6,-
+2,"143Xavier ChavalerinReims, 31, DMC,M(L)","Xavier Chavalerin Reims, 31, DMC,M(L)",29(1),2550,3.1,1.4,1.3,-,0.9,1.6,0.3,-,6.75,-,3,0.7,0.8,0.2,0.1,0.4,0.8,33.1,84.3,0.2,2.1,0.1
+3,"144Anthony CaciStrasbourg, 24, D(CLR),M(L)","Anthony Caci Strasbourg, 24, D(CLR),M(L)",32(1),2807,2.4,1.7,1.0,0.2,1.4,1.0,0.1,-,6.75,-,2,0.2,0.6,0.4,-,0.5,1.1,46.2,77.0,0.5,5.0,-
+4,"145Renaud RipartNimes, 29, D(R),M(CLR),FW","Renaud Ripart Nimes, 29, D(R),M(CLR),FW",35(3),3063,1.4,0.9,0.8,-,1.2,1.5,0.3,-,6.74,11,1,1.8,0.5,1.7,0.1,1.3,1.9,27.7,69.5,0.2,1.1,0.1
+5,"146Hiroki SakaiMarseille, 32, D(CLR),M(R)","Hiroki Sakai Marseille, 32, D(CLR),M(R)",26(3),2387,2.8,1.9,1.4,0.2,1.9,0.4,0.2,-,6.74,-,1,0.1,0.6,0.6,0.1,0.4,0.6,40.4,82.6,0.1,1.1,-
+6,"147Danilo PereiraPSG, 30, D(C),DMC","Danilo Pereira PSG, 30, D(C),DMC",16(7),1429,0.9,1.3,0.6,0.1,1.4,0.3,0.3,-,6.74,2,1,0.7,0.2,0.7,-,0.3,0.5,51.5,92.0,-,1.3,-
+7,"148Kalifa CoulibalyNantes, 30, FW","Kalifa Coulibaly Nantes, 30, FW",11(6),983,0.2,0.1,0.7,-,0.7,0.4,0.1,-,6.73,3,1,1.1,0.6,0.4,0.6,0.8,1.5,15.5,58.0,-,0.1,-
+8,"149Bruno Ecuele MangaDijon, 33, D(CR)","Bruno Ecuele Manga Dijon, 33, D(CR)",38,3420,1.4,1.5,0.4,0.7,4.3,0.3,0.9,-,6.73,2,-,0.8,-,0.7,-,0.2,0.4,51.6,84.7,-,4.2,-
+9,"150Junior SambiaMontpellier, 25, D(R),M(CR)","Junior Sambia Montpellier, 25, D(R),M(CR)",26(10),2445,1.1,1.1,0.6,0.1,1.1,0.3,0.4,-,6.73,1,6,0.5,0.7,1.2,0.1,1.0,1.1,27.6,79.7,0.7,1.4,-
+0,"131Daniele RuganiRennes, 27, D(C)","Daniele Rugani Rennes, 27, D(C)",1,90,-,1.0,2.0,1,1,1.0,1,-,6.77,-,-,1.0,-,2.0,-,-,-,65.0,87.7,-,-,-
+1,"132Opa NguetteMetz, 27, AM(LR),FW","Opa Nguette Metz, 27, AM(LR),FW",13(3),1138,0.9,0.1,1.1,-,0.1,0.4,0.1,-,6.77,3,1,1.1,0.9,1.4,0.4,2.7,3.4,17.2,73.1,0.1,-,-
+2,"133Morgan SansonMarseille, 27, M(CLR)","Morgan Sanson Marseille, 27, M(CLR)",10(2),830,1.8,0.8,1.5,-,0.3,1.6,-,-,6.77,2,3,0.9,1.1,0.8,-,1.1,2.2,26.7,77.8,0.5,0.8,-
+3,"134Laurent AbergelLorient, 29, DMC","Laurent Abergel Lorient, 29, DMC",32(6),2968,3.8,1.2,1.2,-,0.3,2.8,0.2,-,6.77,3,1,0.8,0.5,1.0,-,1.2,1.4,40.2,83.7,0.1,2.6,-
+4,"135Habib DialloStrasbourg, 26, AM(R),FW","Habib Diallo Strasbourg, 26, AM(R),FW",27(5),2332,0.3,0.4,0.8,-,0.3,0.3,0.1,-,6.77,9,3,1.7,0.6,0.8,0.4,1.2,2.7,17.0,67.4,0.1,0.7,-
+5,"136Marshall MunetsiReims, 25, D(C),DMC","Marshall Munetsi Reims, 25, D(C),DMC",21(6),1929,1.3,2.1,1.1,0.4,3.1,0.7,0.9,-,6.76,1,-,0.4,0.3,0.7,-,0.3,1.1,31.0,83.4,-,2,-
+6,"137Rayan Aït-NouriAngers, 21, D(L),M(L)","Rayan Aït-Nouri Angers, 21, D(L),M(L)",2(1),187,1,1.3,0.7,0.3,-,0.7,0.3,-,6.76,-,1,0.3,1.7,1.0,-,1,1.7,41.0,92.7,0.7,0.3,-
+7,"138Samuel KaluBordeaux, 24, M(LR)","Samuel Kalu Bordeaux, 24, M(LR)",14(6),973,1.1,0.5,0.8,0.1,0.1,0.5,-,-,6.76,4,1,1.3,0.5,1.8,0.3,1.3,2.5,13.5,77.0,0.3,0.6,-
+8,"139Djibril SidibéMonaco, 29, D(CLR),M(R)","Djibril Sidibé Monaco, 29, D(CLR),M(R)",21(9),1979,1.9,1.7,1.1,0.2,1.2,0.5,0.2,-,6.76,-,2,0.2,0.8,0.7,-,0.2,0.7,51.1,85.1,0.8,2.3,0.1
+9,"140Boubakary SoumaréLille, 23, DMC","Boubakary Soumaré Lille, 23, DMC",21(11),1916,1.4,1.2,0.7,-,0.7,0.5,0.2,-,6.76,-,1,0.3,0.4,0.5,-,0.7,0.7,48.5,86.9,-,2.4,-
+0,"121Benoît BadiashileMonaco, 21, D(C)","Benoît Badiashile Monaco, 21, D(C)",32(3),2873,0.7,1.7,0.9,0.3,2.8,0.4,0.3,-,6.79,2,1,0.7,0.2,0.4,0.1,0.1,0.4,69.7,86.9,-,5.1,-
+1,"122Yacine AdliBordeaux, 21, M(C)","Yacine Adli Bordeaux, 21, M(C)",25(10),2417,2.1,1.1,1.1,-,0.5,1.6,0.1,-,6.79,2,5,0.7,1.5,1.1,-,1.2,1.2,44.7,83.7,0.3,3.3,0.1
+2,"123Romain ThomasAngers, 33, D(C)","Romain Thomas Angers, 33, D(C)",34,3026,1.4,1.5,1.0,0.5,3.8,0.4,0.6,-,6.78,4,-,0.4,0.1,0.6,0.1,0.1,0.4,49.2,84.6,-,4.9,-
+3,"124Alexis Claude MauriceNice, 24, AM(CL)","Alexis Claude Maurice Nice, 24, AM(CL)",21(9),1909,1.3,0.5,0.8,-,0.1,1.1,0.1,-,6.78,4,5,1.1,1.2,1.8,-,1.4,2.1,23.0,84.5,0.6,0.5,-
+4,"125OtávioBordeaux, 28, DMC","Otávio Bordeaux, 28, DMC",18,1562,3.0,1.4,1.6,-,1.8,1.6,0.3,-,6.78,1,-,0.3,0.1,0.6,-,0.4,0.3,51.9,89.8,0.1,3.0,-
+5,"126Caio HenriqueMonaco, 24, D(L),M(CL)","Caio Henrique Monaco, 24, D(L),M(CL)",26(5),2376,1.6,0.5,0.3,0.2,0.9,0.6,0.1,-,6.78,-,4,0.2,0.8,0.4,0.1,0.2,1.2,36.9,84.3,0.5,1.1,-
+6,"127Kenny LalaStrasbourg, 30, D(LR),M(R)","Kenny Lala Strasbourg, 30, D(LR),M(R)",21,1837,1.0,1.1,0.9,0.2,1.3,0.5,0.3,-,6.78,3,3,0.5,1.3,0.7,-,1.0,1.8,39.0,74.1,1,3.7,-
+7,"128Renato SanchesLille, 24, M(CR)","Renato Sanches Lille, 24, M(CR)",14(9),1273,0.6,0.6,1.2,-,0.3,0.9,0.1,-,6.78,1,3,0.9,0.8,1.2,0.1,0.9,1.5,40.7,85.8,0.5,3.5,0.1
+8,"129PabloBordeaux, 30, D(C)","Pablo Bordeaux, 30, D(C)",12(1),1077,1.3,1.9,1.5,0.5,3.2,0.5,0.9,1,6.77,1,-,0.7,0.1,0.4,-,0.2,0.5,53.8,89.1,-,2.9,-
+9,"130Andrei GirottoNantes, 30, D(C),DMC","Andrei Girotto Nantes, 30, D(C),DMC",29(5),2665,1.9,1.7,0.9,0.4,3.0,0.9,0.4,-,6.77,1,1,0.9,0.3,0.7,-,0.1,0.4,43.2,80.1,0.1,2.1,-
+0,"111Trevoh ChalobahLorient, 22, D(CR),DMC","Trevoh Chalobah Lorient, 22, D(CR),DMC",24(5),2239,1.6,2.4,0.7,-,1.9,0.9,0.2,-,6.82,2,2,0.5,0.3,0.9,-,0.3,0.9,41.1,84.8,-,2.0,0.1
+1,"112Youssouf FofanaMonaco, 23, DMC","Youssouf Fofana Monaco, 23, DMC",35,2883,2.6,1.0,1.3,-,0.4,1.1,0.2,-,6.81,-,3,1.0,0.8,0.9,-,0.7,1.3,47.4,85.5,0.4,2.8,-
+2,"113Bruno GuimarãesLyon, 24, DMC","Bruno Guimarães Lyon, 24, DMC",21(12),1760,2.3,0.4,1.0,-,0.4,1.0,0.1,-,6.81,3,1,0.8,0.5,1.1,-,0.5,0.8,43.3,90.5,0.1,2.3,0.1
+3,"114Jonathan GraditLens, 29, D(CR)","Jonathan Gradit Lens, 29, D(CR)",33,2828,1.8,1.7,1.5,0.4,2.4,0.5,0.6,-,6.81,-,1,0.1,0.2,1.9,-,0.4,0.8,52.1,86.9,0.1,3.9,-
+4,"115Eduardo CamavingaRennes, 19, DMC","Eduardo Camavinga Rennes, 19, DMC",28(7),2413,2.8,0.7,1.6,-,0.4,1.1,0.1,-,6.8,1,2,0.7,0.6,1.5,-,0.7,1.8,45.5,89.0,-,1.7,-
+5,"116Harold-Desty MoukoudiSaint-Etienne, 24, D(C)","Harold-Desty Moukoudi Saint-Etienne, 24, D(C)",26,2277,1.8,1.6,0.9,0.3,2.9,0.4,0.4,-,6.8,3,1,0.5,0.2,0.5,-,0.4,0.3,44.6,88.5,-,2.3,-
+6,"117Julien LaporteLorient, 28, D(C)","Julien Laporte Lorient, 28, D(C)",30,2660,2.2,2.2,1.0,0.3,4.2,1.1,0.8,-,6.8,-,-,0.3,0.2,0.6,-,0.1,0.1,50.0,82.5,-,4.1,-
+7,"118Pierre Lees-MelouNice, 29, M(CLR)","Pierre Lees-Melou Nice, 29, M(CLR)",23(6),2066,2.3,1.0,1.2,-,0.9,2.0,0.5,-,6.8,4,2,1.5,0.4,0.8,-,0.7,0.9,40.4,86.3,0.1,2.4,-
+8,"119Birger MelingNimes, 27, D(LR),DMC","Birger Meling Nimes, 27, D(LR),DMC",26,2329,1.9,1.4,0.6,0.1,2.1,0.7,0.3,-,6.8,2,3,0.5,0.7,1.5,-,0.4,1.2,38.5,79.8,0.3,2.2,-
+9,"120Guillermo MaripánMonaco, 28, D(C)","Guillermo Maripán Monaco, 28, D(C)",22(6),2088,0.9,1.0,0.7,0.4,2.4,0.4,0.4,-,6.8,5,1,0.5,0.1,0.3,-,-,0.3,59.4,90.0,-,3.3,-
+0,"101Boulaye DiaReims, 25, AM(R),FW","Boulaye Dia Reims, 25, AM(R),FW",35(1),2947,0.6,0.3,0.9,-,1.0,0.5,0.1,-,6.83,14,1,1.8,0.8,1.0,0.4,1.5,2.4,16.8,80.5,0.1,0.7,-
+1,"102Yvan NeyouSaint-Etienne, 25, DMC","Yvan Neyou Saint-Etienne, 25, DMC",29(2),2450,1.9,1,1.5,-,0.4,1.1,0.2,-,6.82,1,2,0.9,0.5,1.5,-,0.5,0.9,41.5,86.6,0.1,1.7,-
+2,"103Sébastien CorchiaNantes, 31, D(R),M(R)","Sébastien Corchia Nantes, 31, D(R),M(R)",23(2),2067,2.2,1.5,0.8,0.2,1.4,1.1,0.4,-,6.82,-,1,0.8,1.1,1.7,-,0.6,1,24.9,72.1,1.3,0.8,-
+3,"104Jean-Clair TodiboNice, 22, D(C)","Jean-Clair Todibo Nice, 22, D(C)",15,1332,1.7,1.3,1.1,0.5,3.1,1,0.5,-,6.82,1,-,0.5,0.2,0.9,-,0.3,0.9,74.9,87.7,0.1,4.3,-
+4,"105Ander HerreraPSG, 32, M(C)","Ander Herrera PSG, 32, M(C)",18(13),1846,1.7,1,1,-,0.6,1.5,0.2,-,6.82,1,3,0.7,0.8,0.5,-,0.3,0.8,55.4,91.1,0.1,1.4,0.2
+5,"106Jean Eudes AholouStrasbourg, 28, DMC","Jean Eudes Aholou Strasbourg, 28, DMC",26(1),2156,1.7,2,1.9,-,1.1,1.1,0.2,-,6.82,2,2,1.1,0.3,1.2,-,0.7,1.5,31.1,83.1,-,1.3,-
+6,"107Ibrahima NianeMetz, 23, AM(L),FW","Ibrahima Niane Metz, 23, AM(L),FW",9(1),669,0.1,-,1.1,-,0.8,0.1,-,-,6.82,6,-,2.3,0.3,1.2,0.3,0.9,3.7,14.5,73.1,-,0.4,-
+7,"108Pape SarrMetz, 19, AM(C)","Pape Sarr Metz, 19, AM(C)",18(4),1594,2,1.2,1.1,-,0.7,0.8,0.2,-,6.82,3,-,1.4,0.7,1.1,-,0.4,1.7,42.3,85.3,-,2.8,-
+8,"109Mike MaignanLille, 26, GK","Mike Maignan Lille, 26, GK",38,3420,-,-,-,-,0.5,-,-,-,6.82,-,-,-,-,0.2,-,-,-,22.9,67.3,-,4.3,-
+9,"110Denis BouangaSaint-Etienne, 27, M(CLR),FW","Denis Bouanga Saint-Etienne, 27, M(CLR),FW",30(6),2738,1.4,0.6,1.7,-,0.9,1.2,0.1,1,6.82,7,4,2.8,0.7,1.0,0.3,1.5,3.4,19.6,67.3,0.3,0.8,-
+0,"91Gaël KakutaLens, 30, M(CLR),FW","Gaël Kakuta Lens, 30, M(CLR),FW",30(5),2414,1.1,0.5,0.9,-,0.1,1.0,0.1,-,6.84,11,5,1.5,1.4,1.1,0.1,1.5,2.2,29.4,76.5,0.8,1.0,0.1
+1,"92Hassane KamaraNice, 28, D(L),M(L)","Hassane Kamara Nice, 28, D(L),M(L)",34(2),2966,1.8,1.5,0.6,0.3,1.3,0.6,0.3,-,6.83,2,1,0.8,0.8,0.9,-,0.6,1.3,44.2,84.7,0.6,1.9,-
+2,"93Mauro IcardiPSG, 29, FW","Mauro Icardi PSG, 29, FW",11(9),1074,0.3,0.2,0.5,-,0.4,0.5,0.1,-,6.83,7,3,2.0,0.8,0.6,0.3,0.4,0.7,8.9,79.2,-,0.2,-
+3,"94Houssem AouarLyon, 23, M(CL)","Houssem Aouar Lyon, 23, M(CL)",23(7),1793,0.6,0.6,0.7,-,0.1,0.6,-,-,6.83,7,3,2.3,1.3,0.8,0.1,1.2,1.8,32.0,86.0,-,1.0,-
+4,"95Alessandro FlorenziPSG, 31, D(R),M(CLR)","Alessandro Florenzi PSG, 31, D(R),M(CLR)",18(3),1543,1.1,0.8,0.5,-,1.0,0.8,-,-,6.83,2,1,1.0,0.9,0.3,0.1,0.1,0.4,39.7,83.7,1.2,1.5,-
+5,"96Mitchel BakkerPSG, 21, D(L),M(L)","Mitchel Bakker PSG, 21, D(L),M(L)",18(8),1691,1.5,0.8,0.6,0.1,0.5,0.3,0.1,-,6.83,-,2,0.1,0.6,0.3,0.1,0.4,0.7,45.0,90.4,0.4,0.6,-
+6,"97Jonathan DavidLille, 22, AM(C),FW","Jonathan David Lille, 22, AM(C),FW",29(8),2368,0.5,0.1,0.9,-,0.2,0.4,-,-,6.83,13,2,1.5,0.9,1.2,0.1,1.3,2.3,15.2,77.4,0.1,0.1,-
+7,"98Damien Da SilvaRennes, 34, D(C)","Damien Da Silva Rennes, 34, D(C)",30,2664,0.7,1.5,1.0,0.5,3.3,0.2,0.4,1,6.83,4,-,0.8,0.2,0.7,-,0.1,0.2,67.5,88.0,-,4.7,-
+8,"99DanteNice, 38, D(C)","Dante Nice, 38, D(C)",9,775,1.1,1.1,0.7,0.3,2.2,0.4,0.4,-,6.83,2,1,0.8,0.2,0.4,-,0.1,0.2,77.1,90.3,-,4.4,-
+9,"100Layvin KurzawaPSG, 29, D(L),M(L)","Layvin Kurzawa PSG, 29, D(L),M(L)",15(4),1282,1.4,1.5,1.7,0.1,1.1,1.0,0.3,-,6.83,1,1,0.6,0.5,0.4,0.1,0.7,1.3,43.4,87.6,0.4,0.4,-
+0,"81Yoane WissaLorient, 25, AM(L),FW","Yoane Wissa Lorient, 25, AM(L),FW",30(8),2685,0.9,0.5,0.8,-,0.3,0.6,0.1,-,6.86,10,4,1.5,0.8,2.2,0.3,0.8,1.9,18.8,76.4,0.1,0.4,0.1
+1,"82Maxwel CornetLyon, 25, D(L),M(LR),FW","Maxwel Cornet Lyon, 25, D(L),M(LR),FW",29(7),2457,1.9,1.2,0.8,0.1,1.2,0.7,0.1,-,6.86,2,5,0.6,0.7,0.9,0.1,0.4,1.0,38.7,80.8,0.4,1.6,-
+2,"83Luiz AraújoLille, 26, AM(CLR),FW","Luiz Araújo Lille, 26, AM(CLR),FW",17(11),1502,1.4,0.4,0.9,-,0.1,0.7,-,-,6.86,4,2,1.8,0.8,0.6,-,1.0,1.3,20.3,78.0,0.1,1.2,-
+3,"84Benjamin BourigeaudRennes, 28, M(CLR)","Benjamin Bourigeaud Rennes, 28, M(CLR)",29(8),2559,1.1,0.5,0.7,-,0.6,1.4,-,-,6.86,6,5,1.7,1.6,0.3,0.1,0.4,0.8,44.9,82.1,1.8,3.1,-
+4,"85Jordan AmaviMarseille, 28, D(L),M(L)","Jordan Amavi Marseille, 28, D(L),M(L)",10(3),815,0.8,2.1,1.0,0.2,2.0,0.2,0.2,-,6.85,1,-,0.3,0.4,1.1,-,0.7,1.0,27.5,76.5,0.2,1.6,-
+5,"86Idrissa GueyePSG, 32, M(C)","Idrissa Gueye PSG, 32, M(C)",20(8),1587,2.3,0.7,1.3,-,0.3,0.9,0.3,-,6.85,2,1,0.7,0.5,0.7,-,0.7,1.0,60.1,92.6,0.1,1.6,-
+6,"87Florian SotocaLens, 31, AM(C),FW","Florian Sotoca Lens, 31, AM(C),FW",28(5),2422,0.9,0.3,1.5,-,0.7,0.5,-,-,6.85,8,3,2.2,0.8,1.4,0.3,1.1,1.8,26.5,73.6,0.2,1.4,-
+7,"88Franck HonoratBrest, 25, M(LR)","Franck Honorat Brest, 25, M(LR)",28(8),2471,0.8,0.3,1.0,-,0.5,0.6,0.1,-,6.85,8,5,1.1,1.8,0.4,0.1,0.8,1.1,23.1,72.1,1.7,0.8,0.1
+8,"89Ruben AguilarMonaco, 29, D(R),M(R)","Ruben Aguilar Monaco, 29, D(R),M(R)",27(6),2233,1.9,1.4,1.2,0.1,1.2,0.6,0.1,-,6.85,1,3,0.2,1.2,1.1,-,0.4,1.2,38.7,85.4,1.0,1.3,-
+9,"90Romain PerraudBrest, 24, D(L),M(L)","Romain Perraud Brest, 24, D(L),M(L)",35(1),3141,1.7,1.3,1.3,-,1.8,0.6,0.1,-,6.84,3,7,1.3,1.0,1.5,0.1,0.5,0.9,43.0,79.9,1.1,2.3,-
+0,"71Yunis AbdelhamidReims, 34, D(C)","Yunis Abdelhamid Reims, 34, D(C)",33,2890,1.8,1.8,1.1,0.3,3.7,0.5,0.5,-,6.89,3,-,0.5,0.1,0.7,-,0.4,0.4,53.2,85.7,-,2.4,-
+1,"72Hatem Ben ArfaBordeaux, 35, M(CR),FW","Hatem Ben Arfa Bordeaux, 35, M(CR),FW",19(5),1708,0.5,0.1,0.8,-,-,0.3,-,-,6.89,2,4,1.4,1.3,1.5,0.2,2.4,2.4,33.1,85.6,0.9,1.6,0.2
+2,"73Habib MaïgaMetz, 26, DMC,M(R)","Habib Maïga Metz, 26, DMC,M(R)",31,2698,2.6,1.6,2.1,-,1,1.4,0.2,-,6.89,1,3,0.8,0.8,1.2,0.1,1.1,1.5,44.7,82.7,0.1,2.4,-
+3,"74Hamari TraoréRennes, 30, D(R),M(R)","Hamari Traoré Rennes, 30, D(R),M(R)",34(1),3004,1.6,2.2,1.1,0.3,1.1,1.1,0.1,-,6.89,1,1,0.7,1.0,0.7,0.1,0.3,0.8,56.5,86.0,0.7,2.3,-
+4,"75Alexander DjikuStrasbourg, 27, D(CR),DMC","Alexander Djiku Strasbourg, 27, D(CR),DMC",29(1),2553,2.0,3.0,1.7,0.3,3.3,0.7,0.3,-,6.88,-,-,0.5,0.1,1.2,0.1,0.2,0.3,44.6,84.5,-,3.8,-
+5,"76Jonathan ClaussLens, 29, D(R),M(R)","Jonathan Clauss Lens, 29, D(R),M(R)",30(3),2538,1.3,1.4,0.7,0.1,1.1,0.6,-,-,6.88,3,6,1.0,1.5,0.4,0.1,0.4,1.6,28.8,77.2,1.4,1.3,-
+6,"77Gelson MartinsMonaco, 27, M(LR)","Gelson Martins Monaco, 27, M(LR)",20(3),1562,1.8,0.6,1.0,-,0.1,1.0,-,-,6.88,3,2,1.1,0.8,1.6,0.2,1.3,2.5,25.8,85.3,0.3,0.4,-
+7,"78Martin TerrierRennes, 25, AM(CL),FW","Martin Terrier Rennes, 25, AM(CL),FW",30(4),2454,1.0,0.5,1.0,-,0.2,0.8,-,-,6.88,9,7,1.4,1.2,1.1,0.3,0.7,2.3,22.9,80.1,0.1,0.6,-
+8,"79Armand LaurientéLorient, 23, AM(LR),FW","Armand Laurienté Lorient, 23, AM(LR),FW",16(13),1618,1.0,0.5,0.8,-,0.1,0.7,-,-,6.88,3,5,2.0,1.3,1.3,0.3,1.2,2.2,16.4,83.8,0.9,0.4,-
+9,"80Cheick Oumar DoucouréLens, 22, DMC","Cheick Oumar Doucouré Lens, 22, DMC",30(3),2633,2.6,1.6,1.4,-,0.8,1.0,0.1,-,6.87,2,1,1.1,0.8,0.5,-,0.7,0.9,43.8,86.6,-,2.8,-
+0,"61Laurent KoscielnyBordeaux, 36, D(C)","Laurent Koscielny Bordeaux, 36, D(C)",25(1),2218,1.1,2.1,0.5,0.6,4.4,0.3,1.3,-,6.92,-,2,0.2,0.3,0.9,0.1,-,0.3,51.1,90.1,-,3.8,-
+1,"62Brendan ChardonnetBrest, 27, D(C)","Brendan Chardonnet Brest, 27, D(C)",30(3),2714,1.5,1.9,0.9,0.5,4.5,0.4,1.2,-,6.92,3,1,0.6,0.2,0.7,-,0.1,0.3,50.6,82.6,-,4.9,-
+2,"63Dimitri PayetMarseille, 35, M(CLR),FW","Dimitri Payet Marseille, 35, M(CLR),FW",28(5),2429,0.8,0.2,0.5,-,0.3,0.7,0.1,-,6.92,7,10,1.4,2,1.4,-,0.8,1.6,36.5,78.9,1.4,1.5,0.1
+3,"64Serhou GuirassyRennes, 26, AM(L),FW","Serhou Guirassy Rennes, 26, AM(L),FW",19(8),1766,0.1,0.2,1.4,-,0.6,0.1,-,-,6.91,10,1,1.9,1,2.0,0.2,1.1,2.4,18.0,76.1,-,0.8,-
+4,"65Lilian BrassierBrest, 22, D(CL)","Lilian Brassier Brest, 22, D(CL)",11,963,1.7,2.1,1.7,0.4,3.2,0.4,0.5,-,6.91,1,1,0.5,0.5,1.1,-,0.1,1.5,60.9,82.5,0.2,5.4,0.1
+5,"66Randal Kolo MuaniNantes, 23, AM(R),FW","Randal Kolo Muani Nantes, 23, AM(R),FW",35(2),3042,0.6,0.2,1.7,-,0.7,0.5,0.1,-,6.91,9,4,1.6,1,2.0,0.6,1.6,3.1,16.0,67.3,0.1,0.2,0.1
+6,"67Pol LirolaMarseille, 24, D(R),M(LR)","Pol Lirola Marseille, 24, D(R),M(LR)",17(2),1554,1.5,1.3,0.7,0.4,1.2,0.6,0.3,-,6.9,2,2,0.5,1,0.8,-,0.6,2,32.3,78.3,0.7,1.7,-
+7,"68Keylor NavasPSG, 35, GK","Keylor Navas PSG, 35, GK",29,2522,-,-,-,-,0.6,-,-,-,6.9,-,-,-,-,0.1,-,-,-,21.6,85.6,-,3.2,-
+8,"69Jeff Reine-AdélaïdeLyon, 24, AM(CLR),FW","Jeff Reine-Adélaïde Lyon, 24, AM(CLR),FW",0(1),24,-,-,1,-,-,-,-,-,6.9,-,-,1,1,1.0,-,-,1,18.0,83.3,1,-,-
+9,"70Jeff Reine-AdélaïdeNice, 24, AM(CLR),FW","Jeff Reine-Adélaïde Nice, 24, AM(CLR),FW",12(2),1059,0.5,0.3,0.4,-,0.4,0.5,0.1,-,6.9,1,2,1.1,1.2,1.5,0.1,2.9,2.4,40.3,86.3,0.4,1.9,0.2
+0,"51Alfred GomisDijon, 28, GK","Alfred Gomis Dijon, 28, GK",5,450,0.2,0.2,-,-,1.8,0.2,-,-,6.96,-,-,-,-,0.2,-,-,-,31.2,59.6,-,7.2,-
+1,"52Massadio HaïdaraLens, 29, D(CL),M(L)","Massadio Haïdara Lens, 29, D(CL),M(L)",24(1),2136,1.9,1.4,1.3,0.1,2.0,0.6,0.2,-,6.96,2,1,0.5,0.7,1.4,0.1,0.3,1.3,41.3,82.2,0.4,2.2,-
+2,"53Moise KeanPSG, 22, AM(L),FW","Moise Kean PSG, 22, AM(L),FW",22(4),1709,0.4,0.3,1.3,-,0.4,0.3,-,-,6.95,13,-,2,0.3,0.2,0.2,1.2,1.7,11.6,78.8,0.1,0.3,-
+3,"54Sofiane DiopMonaco, 22, AM(CLR)","Sofiane Diop Monaco, 22, AM(CLR)",24(8),2036,1.5,1.0,1,-,0.3,1.1,-,-,6.95,7,1,1.4,0.9,1.8,0.1,1.1,1.7,29.2,80.6,0.3,1.0,-
+4,"55Loïc BadéLens, 22, D(C)","Loïc Badé Lens, 22, D(C)",29(2),2610,1.8,2.4,1.4,0.3,4.3,0.8,0.5,-,6.95,-,-,0.4,0.2,0.5,-,0.4,0.7,63.0,85.5,0.1,3.6,-
+5,"56Tinotenda KadewereLyon, 26, AM(R),FW","Tinotenda Kadewere Lyon, 26, AM(R),FW",24(9),2022,1.1,0.6,1.1,-,0.8,1.0,0.1,-,6.94,10,3,1.8,0.6,0.8,0.3,1,1.6,17.9,75.2,0.2,0.4,-
+6,"57Boubacar KamaraMarseille, 22, D(CL),DMC","Boubacar Kamara Marseille, 22, D(CL),DMC",35,2905,2.5,1.0,1.4,-,1.3,1.0,0.4,-,6.94,-,2,0.5,0.7,1.6,-,0.7,1.1,58.0,86.7,-,3.0,-
+7,"58Nayef AguerdRennes, 26, D(C)","Nayef Aguerd Rennes, 26, D(C)",35,3148,1.1,1.3,0.6,0.4,2.9,0.3,0.6,-,6.94,3,1,0.8,0.1,0.8,0.1,0.3,0.3,77.4,90.4,-,3.7,-
+8,"59Valentin RongierMarseille, 27, D(R),M(C)","Valentin Rongier Marseille, 27, D(R),M(C)",21(5),1895,3.6,1.1,1.7,-,0.8,1.6,0.1,-,6.93,1,2,0.7,0.5,0.9,-,0.3,1.3,52.7,86.3,0.1,1.7,-
+9,"60Vincent PajotMetz, 31, M(C)","Vincent Pajot Metz, 31, M(C)",11(1),918,2.9,3.5,1.3,-,0.8,0.7,0.2,-,6.93,-,-,0.5,0.3,1.0,0.1,0.3,0.7,41.8,88.8,0.2,2.6,-
+0,"41MarquinhosPSG, 28, D(CR),DMC","Marquinhos PSG, 28, D(CR),DMC",24(1),2129,1.1,1.1,0.6,0.4,2.9,0.4,0.4,-,7.05,3,1,0.6,0.1,0.2,-,0.1,0.3,69.2,93.0,-,4.2,-
+1,"42Pape Abou CisséSaint-Etienne, 26, D(C)","Pape Abou Cissé Saint-Etienne, 26, D(C)",14,1260,1.1,1.9,0.7,0.4,6.1,0.3,0.3,-,7.03,-,-,0.9,0.2,0.6,0.1,-,0.6,48.4,76.7,-,4.8,-
+2,"43RafinhaPSG, 29, M(CLR)","Rafinha PSG, 29, M(CLR)",15(8),1368,2.3,0.6,1.0,-,0.1,0.9,0.1,-,7.02,-,4,1.0,1.0,1.7,-,1.5,1.5,50.1,90.9,0.3,1.3,0.1
+3,"44Mahdi CamaraSaint-Etienne, 23, D(CR),DMC","Mahdi Camara Saint-Etienne, 23, D(CR),DMC",37,3295,2.7,2.1,1.3,0.1,1.4,0.7,0.3,-,7.01,3,2,0.6,0.6,1.1,-,0.6,1.1,42.9,86.4,0.3,1.9,-
+4,"45Léo DuboisLyon, 27, D(LR),M(R)","Léo Dubois Lyon, 27, D(LR),M(R)",35(2),2917,1.0,0.9,0.6,0.1,1.3,0.5,0.2,-,7.0,2,4,0.5,1.8,0.9,0.1,0.4,1.2,47.2,83.0,1.7,1.9,-
+5,"46Mehmet Zeki ÇelikLille, 25, D(R),M(R)","Mehmet Zeki Çelik Lille, 25, D(R),M(R)",28(1),2389,2.5,1.3,1.9,-,1.3,1.3,0.2,1,7.0,3,2,0.5,0.8,0.5,0.1,0.5,1.2,45.2,78.6,0.4,2.0,-
+6,"47Sven BotmanLille, 22, D(C)","Sven Botman Lille, 22, D(C)",37,3311,0.8,1.5,0.4,0.2,3.2,0.3,0.6,-,6.99,-,-,0.4,0.1,0.7,0.1,0.1,0.5,70.0,86.5,-,3.8,-
+7,"48Florian ThauvinMarseille, 29, M(CLR),FW","Florian Thauvin Marseille, 29, M(CLR),FW",33(3),2749,1.1,0.4,0.7,-,0.3,0.9,0.1,-,6.98,8,8,2.0,1.6,1.5,0.2,1.4,2.2,32.8,79.1,1.2,1.6,0.1
+8,"49Mathieu DebuchySaint-Etienne, 36, D(CR),M(R)","Mathieu Debuchy Saint-Etienne, 36, D(CR),M(R)",25(1),2108,2.2,1.7,1.5,0.2,2.0,0.8,0.3,-,6.97,2,1,1.0,0.7,0.7,0.2,0.5,1.3,33.8,72.6,0.8,1.7,-
+9,"50MarceloLyon, 35, D(C)","Marcelo Lyon, 35, D(C)",34,2912,1.3,1.4,1.1,0.3,3.5,0.3,0.7,-,6.97,3,-,0.7,0.2,0.3,-,0.1,0.3,60.6,88.2,-,3.9,-
+0,"31Jérémy DokuRennes, 20, AM(LR)","Jérémy Doku Rennes, 20, AM(LR)",26(4),2318,1.5,0.4,1.2,-,-,0.5,-,-,7.07,2,3,1.2,1.4,2.3,0.2,2,2.8,30.1,83.4,0.5,0.6,-
+1,"32Wesley FofanaSaint-Etienne, 21, D(C)","Wesley Fofana Saint-Etienne, 21, D(C)",3(1),315,1.5,2,1.5,0.3,3.3,0.3,0.8,-,7.07,-,-,0.3,0.3,1.3,0.3,0.3,-,44.0,83.0,-,2.3,-
+2,"33Jonathan BambaLille, 26, AM(CLR),FW","Jonathan Bamba Lille, 26, AM(CLR),FW",34(4),2993,1.2,0.6,0.7,-,0.3,1.6,0.1,-,7.07,6,9,1.6,1.7,1.8,0.1,1.9,2.3,38.6,82.6,1.1,1.3,-
+3,"34Yohann PeléMarseille, 39, GK","Yohann Pelé Marseille, 39, GK",1,90,-,-,-,-,1,-,-,-,7.06,-,-,-,-,-,-,-,-,16.0,93.8,-,-,-
+4,"35Arkadiusz MilikMarseille, 28, AM(C),FW","Arkadiusz Milik Marseille, 28, AM(C),FW",14(1),1224,0.9,0.1,1,-,0.5,0.7,0.1,-,7.06,9,1,3.1,0.5,1.3,0.3,0.8,2.2,19.7,75.9,0.1,0.3,-
+5,"36Kevin VollandMonaco, 29, AM(CLR),FW","Kevin Volland Monaco, 29, AM(CLR),FW",34(1),2789,0.9,0.1,1.7,-,0.1,0.7,-,-,7.06,16,7,1.6,0.9,1.3,0.4,1.1,2.3,21.6,67.8,0.2,0.5,0.1
+6,"37Wissam Ben YedderMonaco, 31, AM(C),FW","Wissam Ben Yedder Monaco, 31, AM(C),FW",32(5),2626,0.5,0.4,0.3,-,0.1,0.3,-,-,7.06,20,7,2.2,1.1,1.1,0.5,1.2,1.9,23.4,74.2,0.1,0.6,0.1
+7,"38Ludovic BlasNantes, 24, M(CLR),FW","Ludovic Blas Nantes, 24, M(CLR),FW",32(4),2805,1.6,0.6,1.5,-,0.4,0.9,0.1,-,7.06,10,4,2,0.8,1.4,0.1,1.8,2.4,25.9,80.7,0.2,1.3,0.1
+8,"39José FonteLille, 38, D(C)","José Fonte Lille, 38, D(C)",36,3190,1.1,1,0.8,0.3,3.8,0.2,0.6,1,7.05,3,-,0.8,0.3,0.4,-,-,0.3,65.7,90.4,0.1,4.1,-
+9,"40ReinildoLille, 28, D(CL),M(L)","Reinildo Lille, 28, D(CL),M(L)",24(5),2183,2.7,1.6,1.3,0.1,1.5,0.8,0.1,-,7.05,-,-,0.1,0.6,1.2,0.1,0.4,0.8,44.1,81.3,0.7,1.3,-
+0,"21Steve MouniéBrest, 27, FW","Steve Mounié Brest, 27, FW",31(4),2696,0.4,0.3,1.9,-,1.1,0.7,0.1,-,7.16,9,4,2.3,0.5,0.8,0.6,1.1,2,20.9,58.0,0.1,0.5,-
+1,"22Aurélien TchouaméniMonaco, 22, DMC","Aurélien Tchouaméni Monaco, 22, DMC",36,3073,3.5,1.7,1.6,-,1.2,1.2,0.3,-,7.16,2,3,1.5,0.5,1.7,-,0.9,1.4,50.7,82.8,0.1,2.6,-
+2,"23RaphinhaRennes, 25, AM(LR),FW","Raphinha Rennes, 25, AM(LR),FW",5(1),407,0.8,0.5,1,0.2,0.5,0.5,-,-,7.15,1,2,1.8,1.5,2,-,0.5,1.2,19.8,68.9,0.7,0.5,-
+3,"24MarçalLyon, 33, D(CL),M(L)","Marçal Lyon, 33, D(CL),M(L)",1,79,1,2.0,1,1,-,-,-,-,7.14,-,-,-,-,-,-,-,-,69.0,84.1,1,11.0,-
+4,"25Burak YilmazLille, 36, AM(L),FW","Burak Yilmaz Lille, 36, AM(L),FW",23(5),2057,0.5,0.2,1.2,-,0.8,0.9,-,-,7.14,16,5,2.4,1,1.3,1,0.8,2,17.9,77.6,-,0.2,-
+5,"26Angelo FulginiAngers, 25, AM(CLR),FW","Angelo Fulgini Angers, 25, AM(CLR),FW",33,2739,0.7,0.5,0.9,-,0.3,0.7,-,-,7.13,7,4,2,1.7,4,0.1,2.1,3,45.7,83.2,0.9,2.1,0.2
+6,"27Amine GouiriNice, 22, AM(L),FW","Amine Gouiri Nice, 22, AM(L),FW",31(3),2753,0.9,0.5,1.3,-,0.5,0.9,0.2,-,7.13,12,7,2.4,1.5,1.1,0.2,1.6,2.4,30.9,79.6,0.5,0.9,0.1
+7,"28Boubakar KouyatéMetz, 25, D(C)","Boubakar Kouyaté Metz, 25, D(C)",21(4),1961,2.4,2.4,1.6,0.4,5.2,1,1.1,-,7.1,1,-,0.5,0.1,1.2,0.2,0.2,0.5,34.9,80.8,-,1.4,-
+8,"29Romain PhilippoteauxNimes, 34, AM(LR)","Romain Philippoteaux Nimes, 34, AM(LR)",3,216,0.3,0.7,0.3,-,-,1.3,-,-,7.09,1,1,0.7,2,-,-,0.7,1.3,21.3,68.8,1,0.7,-
+9,"30Dimitry BertaudMontpellier, 24, GK","Dimitry Bertaud Montpellier, 24, GK",7(2),744,-,0.1,-,-,0.7,-,-,-,7.09,-,-,-,-,0.4,-,-,-,29.6,64.3,-,12.1,-
+0,"11Gaëtan LabordeMontpellier, 28, AM(CLR),FW","Gaëtan Laborde Montpellier, 28, AM(CLR),FW",38,3270,1.1,0.4,1.6,-,0.6,1.2,0.1,-,7.25,16,8,2.6,1.0,0.8,0.2,0.8,2.7,22.0,67.0,0.3,0.3,-
+1,"12Marco VerrattiPSG, 29, M(C)","Marco Verratti PSG, 29, M(C)",16(5),1491,2.5,1.2,1.3,-,0.1,2.3,0.2,-,7.24,-,2,0.5,1.1,2.4,-,1.4,1.4,84.0,91.7,0.1,2.6,-
+2,"13Fabien CentonzeMetz, 26, D(R),M(R)","Fabien Centonze Metz, 26, D(R),M(R)",36,3222,2.9,3.1,1.2,0.1,3.1,0.8,0.5,-,7.23,1,-,0.7,0.6,1.6,0.1,0.9,1.8,37.8,79.5,0.6,1.0,0.1
+3,"14Ludovic AjorqueStrasbourg, 28, FW","Ludovic Ajorque Strasbourg, 28, FW",34(1),2972,0.9,0.3,1.1,-,1.5,0.7,0.1,-,7.22,16,4,2.0,1.0,1.3,0.3,0.9,2.1,25.6,68.3,0.1,1.2,-
+4,"15Farid BoulayaMetz, 29, AM(CLR),FW","Farid Boulaya Metz, 29, AM(CLR),FW",32(1),2822,0.7,0.4,0.6,-,0.2,1.2,0.1,-,7.22,6,8,2.4,2.3,1.9,-,1.1,2.2,41.4,74.4,1.4,3.5,0.1
+5,"16Lucas PaquetáLyon, 24, AM(CR),FW","Lucas Paquetá Lyon, 24, AM(CR),FW",27(3),2285,2.3,0.7,2.2,-,0.4,1.4,0.1,-,7.22,9,5,1.8,1.5,2.3,0.2,1.1,1.8,40.9,81.0,0.1,1.6,0.1
+6,"17Zinedine FerhatNimes, 29, AM(LR)","Zinedine Ferhat Nimes, 29, AM(LR)",33,2960,1.1,1.0,0.7,0.1,1.0,0.6,-,-,7.21,6,10,1.9,1.5,2.0,0.3,1.5,2.7,33.0,71.0,0.8,1.6,0.1
+7,"18Frédéric GuilbertStrasbourg, 27, D(CLR),M(R)","Frédéric Guilbert Strasbourg, 27, D(CLR),M(R)",13,1116,2.8,2.5,1.4,-,1.8,1.0,0.1,-,7.2,1,4,1.2,1.0,1.0,-,0.5,1.5,35.7,73.1,1.3,2.5,-
+8,"19Romain FaivreBrest, 23, AM(CLR)","Romain Faivre Brest, 23, AM(CLR)",33(3),2902,1.5,0.8,1.0,-,0.4,0.9,-,1,7.18,6,5,1.8,1.8,2.0,-,0.9,2.1,36.6,84.8,1.2,1.5,-
+9,"20Aleksandr GolovinMonaco, 26, M(CLR)","Aleksandr Golovin Monaco, 26, M(CLR)",12(9),1072,1.3,0.5,0.9,-,0.1,1.5,-,-,7.16,5,9,1.3,1.7,0.6,0.1,0.6,1.4,22.5,76.5,1.5,0.5,0.2
+0,"1NeymarPSG, 30, AM(CLR),FW","Neymar PSG, 30, AM(CLR),FW",15(3),1417,0.8,0.5,1.8,-,-,1.6,-,-,7.69,9,5,3.9,3.3,3.7,0.2,2.7,4.1,50.9,79.6,0.9,2.0,0.4
+1,"2Kylian MbappéPSG, 23, AM(LR),FW","Kylian Mbappé PSG, 23, AM(LR),FW",27(4),2389,0.1,0.1,0.7,-,0.1,0.2,-,-,7.68,27,7,3.4,1.1,1.2,0.5,1.5,2.6,30.7,80.7,0.2,0.2,-
+2,"3Andy DelortMontpellier, 30, AM(R),FW","Andy Delort Montpellier, 30, AM(R),FW",30,2494,0.4,0.1,1.8,-,1.1,0.3,-,-,7.6,15,9,3.0,1.8,1.4,0.6,0.8,2.5,26.3,62.5,1.0,1.1,-
+3,"4Memphis DepayLyon, 28, AM(CL),FW","Memphis Depay Lyon, 28, AM(CL),FW",33(4),2932,0.1,0.1,0.8,-,0.1,0.5,-,-,7.56,20,12,3.0,2.5,1.4,0.3,1.5,3.2,29.9,76.1,1.3,1.1,0.1
+4,"5Baptiste SantamaríaAngers, 27, DMC","Baptiste Santamaría Angers, 27, DMC",3,270,3.0,2.3,2.3,-,2.3,1.7,-,-,7.38,-,-,1.3,1.3,1.7,0.3,1.0,0.7,50.3,86.1,0.3,2.3,-
+5,"6Yvann MaçonSaint-Etienne, 23, D(LR),M(R)","Yvann Maçon Saint-Etienne, 23, D(LR),M(R)",6,540,5.0,1.5,1.8,0.3,1.5,2.0,0.3,-,7.33,1,1,0.3,0.2,1.2,-,1.5,1.8,37.5,73.3,0.2,1.2,-
+6,"7Ángel Di MaríaPSG, 34, M(CLR),FW","Ángel Di María PSG, 34, M(CLR),FW",23(4),1863,1.0,0.2,0.4,-,0.2,1.3,-,-,7.33,4,9,2.2,2.6,1.0,0.3,0.8,2.1,36.8,81.2,1.8,2.1,0.3
+7,"8Karl Toko-EkambiLyon, 29, AM(LR),FW","Karl Toko-Ekambi Lyon, 29, AM(LR),FW",34(1),2830,0.5,0.7,0.8,-,0.2,0.7,-,-,7.32,14,6,2.6,1.4,0.8,0.4,0.7,2.1,25.9,80.3,0.3,0.7,0.1
+8,"9Benjamin AndréLille, 31, D(R),M(CLR)","Benjamin André Lille, 31, D(R),M(CLR)",35,2903,3.3,2.2,2.0,-,1.2,2.0,0.3,-,7.27,-,1,0.5,0.6,1.5,-,1.1,1.1,57.7,84.1,0.1,2.3,-
+9,"10Téji SavanierMontpellier, 30, M(C)","Téji Savanier Montpellier, 30, M(C)",26(1),2175,1.8,1.4,2.1,-,0.6,1.9,0.2,-,7.26,5,5,2.1,2.3,2.4,-,1.6,1.8,40.0,74.4,2.0,4.7,-

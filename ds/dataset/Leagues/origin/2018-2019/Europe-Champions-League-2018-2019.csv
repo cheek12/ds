@@ -1,0 +1,703 @@
+﻿,Player,Player.1,Apps,Mins,Tackles,Inter,Fouls,Offsides,Clear,Drb,Blocks,OwnG,Rating,Goals,Assists,SpG,KeyP,Fouled,Off,Disp,UnsTch,AvgP,PS%,Crosses,LongB,ThrB
+0,"701Antonio BarrecaMonaco, 27, D(L),M(L)","Antonio Barreca Monaco, 27, D(L),M(L)",1,90,-,-,1,-,-,-,-,-,4.89,-,-,-,1,-,-,2,1,62,87.1,2,-,-
+1,"702Marko LivajaAEK Athens, 28, AM(C),FW","Marko Livaja AEK Athens, 28, AM(C),FW",1,67,3,-,6,-,-,-,-,-,4.57,-,-,1,-,2,-,1,1,16,68.8,-,3,-
+0,"691Srdjan BabicFK Crvena Zvezda, 26, D(C)","Srdjan Babic FK Crvena Zvezda, 26, D(C)",2(1),225,0.3,1.7,0.3,0.3,3.7,0.7,-,-,5.74,-,-,0.3,-,-,-,-,-,34.3,79.6,-,1.3,-
+1,"692Rick KarsdorpRoma, 27, D(R),M(R)","Rick Karsdorp Roma, 27, D(R),M(R)",1(1),76,1.5,0.5,0.5,-,1,0.5,0.5,-,5.74,-,-,-,0.5,0.5,-,0.5,0.5,16.0,71.9,-,-,-
+2,"693Kasim AdamsHoffenheim, 26, D(C)","Kasim Adams Hoffenheim, 26, D(C)",2,141,1.5,1.5,1,0.5,2,3,1,-,5.73,-,-,-,-,-,-,-,-,26.0,78.8,-,2.5,-
+3,"694Bastian OczipkaSchalke, 33, D(CL),M(L)","Bastian Oczipka Schalke, 33, D(CL),M(L)",2,180,1,0.5,-,1,2.5,0.5,-,-,5.68,-,-,-,-,0.5,-,0.5,1,26.5,64.2,-,-,-
+4,"695Stefan PoschHoffenheim, 25, D(CR)","Stefan Posch Hoffenheim, 25, D(CR)",2,180,2.5,0.5,0.5,0.5,0.5,1,0.5,-,5.67,-,-,0.5,-,0.5,-,0.5,-,36.5,79.5,-,2,-
+5,"696Luca PellegriniRoma, 23, D(L),M(L)","Luca Pellegrini Roma, 23, D(L),M(L)",0(2),26,1.5,-,2,-,0.5,-,-,-,5.55,-,-,-,-,-,-,-,0.5,7.0,78.6,-,0.5,-
+6,"697Samuel UmtitiBarcelona, 28, D(CL)","Samuel Umtiti Barcelona, 28, D(CL)",1,79,1,-,5,-,-,-,1,-,5.48,-,-,-,-,-,-,-,-,68.0,91.2,-,4,-
+7,"698Kyle Walker-PetersTottenham, 25, D(LR),M(R)","Kyle Walker-Peters Tottenham, 25, D(LR),M(R)",1,61,-,-,2,1,-,2,1,-,5.34,-,-,-,1,2,-,2,3,33.0,90.9,-,1,-
+8,"699Jeffrey BrumaSchalke, 30, D(C)","Jeffrey Bruma Schalke, 30, D(C)",2,180,1,0.5,0.5,-,2.5,0.5,1,-,5.28,-,-,-,-,-,-,-,0.5,31.5,84.1,-,5,-
+9,"700Stefan SavicAtletico, 31, D(C)","Stefan Savic Atletico, 31, D(C)",1,82,1,-,3,-,1,-,1,-,5.1,-,-,-,-,-,-,-,-,55.0,98.2,-,5,-
+0,"681Steven SkrzybskiSchalke, 29, AM(CLR),FW","Steven Skrzybski Schalke, 29, AM(CLR),FW",1(3),92,0.5,0.3,0.5,-,-,1.3,-,-,5.92,-,-,1,-,0.3,-,0.3,0.8,3.5,71.4,-,0.3,-
+1,"682Ante CoricRoma, 25, Midfielder","Ante Coric Roma, 25, Midfielder",0(1),26,-,-,3,-,-,-,-,-,5.9,-,-,1,-,-,-,1,1,12.0,91.7,-,-,-
+2,"683Julien SerranoMonaco, 24, D(L),M(L)","Julien Serrano Monaco, 24, D(L),M(L)",0(1),12,-,-,-,-,-,-,-,-,5.9,-,-,-,-,-,-,-,-,10.0,100.0,-,-,-
+3,"684Sofiane DiopMonaco, 22, AM(CLR)","Sofiane Diop Monaco, 22, AM(CLR)",2(2),268,0.5,0.3,1.8,-,-,1,-,-,5.9,-,-,1.3,0.8,1.3,-,3.8,1.5,24.0,81.3,-,1,0.3
+4,"685Sergio RomeroMan Utd, 35, GK","Sergio Romero Man Utd, 35, GK",1,90,-,-,-,-,2,-,-,-,5.88,-,-,-,-,-,-,-,-,28.0,57.1,-,10,-
+5,"686Dennis GeigerHoffenheim, 24, M(C)","Dennis Geiger Hoffenheim, 24, M(C)",1,63,1,-,2,-,-,-,-,-,5.86,-,-,1,-,2,-,1,1,8.0,50.0,-,-,-
+6,"687FernandoShakhtar, 23, Forward","Fernando Shakhtar, 23, Forward",1(1),85,0.5,-,-,-,-,-,-,-,5.85,-,-,1.5,0.5,0.5,-,0.5,-,12.5,68.0,-,0.5,-
+7,"688Denis SuárezBarcelona, 28, M(CLR)","Denis Suárez Barcelona, 28, M(CLR)",0(2),24,-,-,0.5,-,-,-,-,-,5.81,-,-,-,0.5,-,-,3,0.5,8.0,68.8,-,0.5,-
+8,"689David von BallmoosYoung Boys, 27, GK","David von Ballmoos Young Boys, 27, GK",4,360,-,-,-,-,0.3,-,-,-,5.8,-,-,-,-,-,-,-,-,32.5,52.3,-,9.3,-
+9,"690Nikola StojiljkovicFK Crvena Zvezda, 29, FW","Nikola Stojiljkovic FK Crvena Zvezda, 29, FW",1,46,-,-,1,-,-,-,-,-,5.75,-,-,-,-,1,2,3,1,10.0,70.0,-,-,-
+0,"671Kevin AkpogumaHoffenheim, 27, D(CR),M(R)","Kevin Akpoguma Hoffenheim, 27, D(CR),M(R)",2,180,3.5,0.5,0.5,1,1.5,0.5,1,-,5.96,-,-,0.5,-,1,-,-,-,48.5,85.6,-,2,-
+1,"672Daniel KolárViktoria Plzen, 36, AM(C)","Daniel Kolár Viktoria Plzen, 36, AM(C)",1(1),90,0.5,-,1,-,-,-,-,-,5.96,-,-,1,0.5,0.5,-,0.5,1.5,12,75,-,0.5,-
+2,"673Rifat ZhemaletdinovLokomotiv Moscow, 25, M(CLR),FW","Rifat Zhemaletdinov Lokomotiv Moscow, 25, M(CLR),FW",0(2),31,-,-,-,-,-,1,-,-,5.96,-,-,-,0.5,-,-,0.5,0.5,8.5,76.5,-,-,-
+3,"674Olarenwaju KayodeShakhtar, 29, AM(R),FW","Olarenwaju Kayode Shakhtar, 29, AM(R),FW",0(3),41,0.3,0.7,0.3,-,-,0.3,-,-,5.95,-,-,1.3,-,-,0.3,-,0.3,4.3,69.2,-,-,-
+4,"675Riechedly BazoerPorto, 25, D(C),DMC","Riechedly Bazoer Porto, 25, D(C),DMC",0(1),7,-,-,-,-,-,-,-,-,5.95,-,-,2,-,-,-,-,-,6,100,-,-,-
+5,"676Robin HackHoffenheim, 23, AM(CLR),FW","Robin Hack Hoffenheim, 23, AM(CLR),FW",0(1),1,-,-,-,-,-,-,-,-,5.95,-,-,-,-,-,-,-,1,-,-,-,-,-
+6,"677Stevan JoveticMonaco, 32, AM(CL),FW","Stevan Jovetic Monaco, 32, AM(CL),FW",1,12,-,-,-,-,-,-,-,-,5.95,-,-,-,-,-,-,3,-,5,60,-,-,-
+7,"678Vincenzo GrifoHoffenheim, 29, AM(CL)","Vincenzo Grifo Hoffenheim, 29, AM(CL)",0(1),6,1,-,-,-,-,1,-,-,5.95,-,-,-,-,-,-,-,-,2,100,-,-,-
+8,"679Cedric TeuchertSchalke, 25, AM(CLR),FW","Cedric Teuchert Schalke, 25, AM(CLR),FW",1(1),83,0.5,-,-,-,0.5,-,-,-,5.95,-,-,0.5,-,1,1,0.5,3.5,6.5,84.6,-,-,-
+9,"680Mugdat CelikGalatasaray, 32, AM(CL),FW","Mugdat Celik Galatasaray, 32, AM(CL),FW",0(3),39,0.3,-,0.3,-,0.3,0.3,-,-,5.93,-,-,-,0.3,-,-,0.3,1,5,66.7,-,-,-
+0,"661Veljko SimicFK Crvena Zvezda, 27, Midfielder","Veljko Simic FK Crvena Zvezda, 27, Midfielder",3(2),207,0.6,0.2,0.6,-,-,0.6,-,-,6.0,-,-,0.4,-,1,1,0.4,0.6,9.6,85.4,-,0.4,-
+1,"662Kevin VogtHoffenheim, 30, D(CR),M(C)","Kevin Vogt Hoffenheim, 30, D(CR),M(C)",4,360,1,0.8,1.3,0.5,3.8,0.3,1,-,6.0,-,-,0.5,-,0.8,-,-,0.5,59.5,92,-,6,-
+2,"663Mikhail LysovLokomotiv Moscow, 24, D(L)","Mikhail Lysov Lokomotiv Moscow, 24, D(L)",0(1),9,-,-,1,-,-,1,-,-,5.99,-,-,-,-,1,-,-,-,3,66.7,-,-,-
+3,"664Yunus AkgünGalatasaray, 21, AM(CR)","Yunus Akgün Galatasaray, 21, AM(CR)",0(1),4,-,-,-,-,-,-,-,-,5.99,-,-,-,-,-,-,-,-,1,100,-,-,-
+4,"665Takuma NishimuraCSKA Moscow, 25, FW","Takuma Nishimura CSKA Moscow, 25, FW",0(2),2,-,-,-,-,-,0.5,-,-,5.99,-,-,-,-,-,-,-,-,-,-,-,-,-
+5,"666Serhii BolbatShakhtar, 28, Defender","Serhii Bolbat Shakhtar, 28, Defender",2(2),171,0.3,0.5,0.3,-,-,0.3,-,-,5.98,-,-,0.3,0.8,-,-,0.3,0.5,11.8,78.7,0.3,0.3,-
+6,"667Adama Noss TraoréMonaco, 26, M(CR)","Adama Noss Traoré Monaco, 26, M(CR)",0(1),21,-,1,2,-,-,1,-,-,5.98,-,-,-,-,1,-,-,1,10,100,-,-,-
+7,"668Nicolas Isimat-MirinPSV Eindhoven, 30, D(C)","Nicolas Isimat-Mirin PSV Eindhoven, 30, D(C)",0(1),24,1,-,1,-,3,-,-,-,5.97,-,-,-,-,-,-,-,-,6,83.3,-,1,-
+8,"669Marko RogNapoli, 26, M(C)","Marko Rog Napoli, 26, M(C)",0(2),6,0.5,-,1,-,-,0.5,-,-,5.97,-,-,-,-,-,-,-,-,3,100,-,-,-
+9,"670Chidozie AwaziemPorto, 25, D(CR)","Chidozie Awaziem Porto, 25, D(CR)",0(1),8,-,-,1,-,-,-,-,-,5.96,-,-,-,-,-,-,-,-,1,-,-,-,-
+0,"651Gobe GouanoMonaco, 21, Forward","Gobe Gouano Monaco, 21, Forward",0(1),29,-,-,-,-,-,-,-,-,6.01,-,-,2,-,-,-,1,1,6,50,-,-,-
+1,"652Giorgos GiakoumakisAEK Athens, 27, FW","Giorgos Giakoumakis AEK Athens, 27, FW",0(3),48,0.3,-,0.7,-,-,0.3,-,-,6.01,-,-,-,-,0.3,0.3,0.3,0.3,4,66.7,-,-,-
+2,"653Wellington NemShakhtar, 30, AM(R)","Wellington Nem Shakhtar, 30, AM(R)",1(1),82,1,0.5,-,0.5,0.5,-,-,-,6.01,-,-,-,-,1.5,-,2,1,14,92.9,-,-,-
+3,"654Boris RotenbergLokomotiv Moscow, 36, D(R)","Boris Rotenberg Lokomotiv Moscow, 36, D(R)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,3,100,-,-,-
+4,"655Georgi KyrnatsCSKA Moscow, 23, Goalkeeper","Georgi Kyrnats CSKA Moscow, 23, Goalkeeper",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+5,"656Gregory WüthrichYoung Boys, 27, D(C)","Gregory Wüthrich Young Boys, 27, D(C)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+6,"657Martin ZemanViktoria Plzen, 33, AM(L)","Martin Zeman Viktoria Plzen, 33, AM(L)",1,71,-,-,-,-,1,-,-,-,6.0,-,-,-,2,1,-,-,1,23,78.3,1,1,-
+7,"658Richmond BoakyeFK Crvena Zvezda, 29, FW","Richmond Boakye FK Crvena Zvezda, 29, FW",2(1),189,-,0.3,0.3,-,1,0.3,-,-,6.0,-,-,2.3,0.3,1,0.7,1.3,2.7,15.7,76.6,-,1,-
+8,"659Saulo DecarliClub Bruges, 30, D(C)","Saulo Decarli Club Bruges, 30, D(C)",0(1),1,-,-,-,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,-,-,-,-,-
+9,"660Sergio GómezBorussia Dortmund, 21, D(L)","Sergio Gómez Borussia Dortmund, 21, D(L)",0(1),1,-,-,1,-,-,-,-,-,6.0,-,-,-,-,-,-,-,-,3,100,-,-,-
+0,"641JorgePorto, 26, D(L),M(L)","Jorge Porto, 26, D(L),M(L)",0(1),17,-,-,1,-,2,-,-,-,6.04,-,-,-,-,-,-,-,-,4.0,-,-,-,-
+1,"642Simone VerdiNapoli, 29, AM(CLR),FW","Simone Verdi Napoli, 29, AM(CLR),FW",0(1),22,-,-,-,-,-,-,-,-,6.04,-,-,1,-,-,-,1,1,12.0,75,-,-,-
+2,"643Cody GakpoPSV Eindhoven, 23, AM(CL),FW","Cody Gakpo PSV Eindhoven, 23, AM(CL),FW",0(1),7,-,-,-,-,-,-,-,-,6.03,-,-,-,-,-,-,1,-,5.0,40,-,-,-
+3,"644Jean Eudes AholouMonaco, 28, DMC","Jean Eudes Aholou Monaco, 28, DMC",2(1),176,0.7,1,1,-,0.3,0.7,-,-,6.03,-,-,0.7,0.7,0.3,-,0.7,2.3,23.3,85.7,-,1.7,-
+4,"645Zakaria LabyadAjax, 29, AM(CLR),FW","Zakaria Labyad Ajax, 29, AM(CLR),FW",0(1),4,-,-,-,-,-,-,-,-,6.03,-,-,-,-,-,1,-,-,3.0,100,-,1,-
+5,"646ÉderLokomotiv Moscow, 34, FW","Éder Lokomotiv Moscow, 34, FW",4(2),311,0.5,-,1.7,-,-,-,-,-,6.03,-,-,0.8,0.3,1.2,0.2,1.5,2.2,13.8,71.1,-,-,-
+6,"647Viktor KovalenkoShakhtar, 26, M(C)","Viktor Kovalenko Shakhtar, 26, M(C)",4(2),369,0.7,0.3,0.7,-,0.3,0.8,-,-,6.02,-,-,0.2,1,0.7,0.2,1.5,1.3,26.3,80.4,-,-,-
+7,"648Gianluigi BuffonPSG, 44, GK","Gianluigi Buffon PSG, 44, GK",5,450,-,0.2,0.2,-,0.2,0.2,-,-,6.02,-,-,-,-,0.2,-,-,-,22.2,67.6,-,3.8,-
+8,"649Jakub ReznícekViktoria Plzen, 34, Forward","Jakub Reznícek Viktoria Plzen, 34, Forward",0(6),55,0.2,-,0.8,-,-,-,-,-,6.02,-,-,-,-,0.3,0.2,0.8,0.3,2.3,57.1,-,-,-
+9,"650Sekou SanogoYoung Boys, 33, DMC","Sekou Sanogo Young Boys, 33, DMC",4,303,1.8,1.5,1.8,-,0.5,1,-,-,6.01,-,-,1.3,0.8,2,-,1.3,0.3,39.5,84.8,-,2,-
+0,"631Khetag KhosonovCSKA Moscow, 23, Midfielder","Khetag Khosonov CSKA Moscow, 23, Midfielder",0(2),47,-,-,0.5,-,-,-,-,-,6.07,-,-,0.5,0.5,-,-,1,0.5,18.0,86.1,-,1.5,-
+1,"632Lisandro MagallánAjax, 28, D(C)","Lisandro Magallán Ajax, 28, D(C)",0(2),9,0.5,-,-,-,-,-,-,-,6.07,-,-,-,-,-,-,-,-,0.5,100.0,-,0.5,-
+2,"633Slavoljub SrnicFK Crvena Zvezda, 30, M(CR)","Slavoljub Srnic FK Crvena Zvezda, 30, M(CR)",3,244,1.3,0.7,1.3,0.3,0.7,0.3,-,-,6.06,-,-,0.7,0.3,0.7,-,1,2,16.7,68.0,-,-,-
+3,"634Nicolás CastilloBenfica, 29, FW","Nicolás Castillo Benfica, 29, FW",0(1),13,-,-,-,-,-,2,-,-,6.06,-,-,1,-,-,-,-,-,2.0,50.0,-,-,-
+4,"635Franco Di SantoSchalke, 33, AM(CLR),FW","Franco Di Santo Schalke, 33, AM(CLR),FW",1,90,1,-,1,-,1,-,-,-,6.05,-,-,-,-,2,2,-,2,15.0,66.7,-,-,-
+5,"636Konstantin KuchaevCSKA Moscow, 24, M(CLR)","Konstantin Kuchaev CSKA Moscow, 24, M(CLR)",0(2),19,-,0.5,-,-,-,-,-,-,6.05,-,-,-,0.5,-,-,-,1,9.5,100.0,-,0.5,-
+6,"637Leonardo BertoneYoung Boys, 28, DMC","Leonardo Bertone Young Boys, 28, DMC",1(2),105,0.3,0.3,0.7,-,1.7,0.7,0.3,-,6.04,-,-,-,0.3,0.7,-,0.3,-,19.0,86.0,0.3,-,-
+7,"638Loïs OpendaClub Bruges, 22, FW","Loïs Openda Club Bruges, 22, FW",1(4),109,0.2,0.2,0.4,-,0.6,0.2,-,-,6.04,-,-,0.8,-,0.6,-,0.4,0.4,3.4,47.1,-,-,-
+8,"639Kevin GameiroValencia, 35, FW","Kevin Gameiro Valencia, 35, FW",0(5),127,-,0.2,0.4,-,-,-,-,-,6.04,-,-,0.4,0.4,0.6,-,0.8,0.6,8.8,84.1,-,-,-
+9,"640Jordan FerriLyon, 30, M(C)","Jordan Ferri Lyon, 30, M(C)",0(1),8,-,-,-,-,-,1,-,-,6.04,-,-,-,-,1,-,-,-,2.0,50.0,-,-,-
+0,"621Dejan JoveljicFK Crvena Zvezda, 22, FW","Dejan Joveljic FK Crvena Zvezda, 22, FW",0(2),49,0.5,-,2,-,-,0.5,-,-,6.09,-,-,0.5,0.5,-,-,0.5,1.5,8.0,81.3,-,-,-
+1,"622Karlo LeticaClub Bruges, 25, GK","Karlo Letica Club Bruges, 25, GK",3,270,-,-,-,-,0.3,0.3,-,-,6.08,-,-,-,-,-,-,-,-,20.0,56.7,-,5.7,-
+2,"623Moise KeanJuventus, 22, AM(L),FW","Moise Kean Juventus, 22, AM(L),FW",0(3),67,-,-,0.7,-,-,-,-,-,6.08,-,-,2,-,-,0.7,1,0.3,2.7,75.0,-,-,-
+3,"624DentinhoShakhtar, 33, Midfielder","Dentinho Shakhtar, 33, Midfielder",0(2),11,0.5,-,-,-,-,0.5,-,-,6.08,-,-,-,-,-,-,0.5,-,3.5,100.0,-,0.5,-
+4,"625Giannis GianniotasAEK Athens, 29, AM(R)","Giannis Gianniotas AEK Athens, 29, AM(R)",0(2),49,-,-,-,-,-,0.5,-,-,6.08,-,-,-,0.5,1.5,-,1,0.5,7.0,42.9,-,-,-
+5,"626Krépin DiattaClub Bruges, 23, M(LR),FW","Krépin Diatta Club Bruges, 23, M(LR),FW",1(1),7,-,-,-,-,-,-,-,-,6.08,-,-,-,-,-,-,-,-,2.0,100.0,-,0.5,-
+6,"627Siebe SchrijversClub Bruges, 25, AM(CLR),FW","Siebe Schrijvers Club Bruges, 25, AM(CLR),FW",1(1),72,0.5,-,1,-,-,-,-,-,6.08,-,-,0.5,-,-,-,0.5,1,12.5,64.0,-,1,-
+7,"628MarianoGalatasaray, 35, D(R),M(R)","Mariano Galatasaray, 35, D(R),M(R)",2(1),181,1.3,0.7,0.7,0.3,1,1,-,-,6.07,-,-,-,-,0.3,-,0.3,0.7,45.0,84.4,0.7,4.7,-
+8,"629Sandro WagnerBayern, 34, FW","Sandro Wagner Bayern, 34, FW",0(3),19,0.3,-,-,-,-,0.7,-,-,6.07,-,-,-,-,-,-,-,0.3,4.3,76.9,-,-,-
+9,"630Radim ReznikViktoria Plzen, 33, D(R)","Radim Reznik Viktoria Plzen, 33, D(R)",5,450,1.4,0.4,0.6,0.6,1.6,1,0.2,-,6.07,-,-,0.8,0.4,0.6,0.4,0.6,0.6,32.8,69.5,0.2,1.4,-
+0,"611Antonio MiranteRoma, 38, GK","Antonio Mirante Roma, 38, GK",2,180,-,-,-,-,-,-,-,-,6.11,-,-,-,-,-,-,-,-,25.0,74.0,-,4.5,-
+1,"612David LimberskyViktoria Plzen, 38, D(L)","David Limbersky Viktoria Plzen, 38, D(L)",6,496,0.7,1,1.2,0.8,1.7,0.5,0.2,-,6.11,-,1,1,0.5,0.3,-,0.3,0.7,43.5,78.2,-,3.3,-
+2,"613Lautaro MartínezInter, 24, FW","Lautaro Martínez Inter, 24, FW",0(3),53,0.3,-,1.3,-,-,0.3,0.3,-,6.1,-,-,1.3,-,0.7,-,0.3,1,3.7,63.6,-,-,-
+3,"614Gelson MartinsAtletico, 27, M(LR)","Gelson Martins Atletico, 27, M(LR)",1(1),88,-,-,-,-,0.5,-,-,-,6.1,-,-,-,0.5,1,-,1,3,11.5,95.7,0.5,0.5,-
+4,"615Thorsten SchickYoung Boys, 32, AM(R)","Thorsten Schick Young Boys, 32, AM(R)",1(1),95,1.5,1,-,0.5,0.5,-,-,-,6.1,-,-,-,0.5,-,-,-,-,20.5,87.8,-,-,-
+5,"616Konstantinos GalanopoulosAEK Athens, 24, DMC","Konstantinos Galanopoulos AEK Athens, 24, DMC",6,490,1.2,1.8,1.3,0.2,0.8,0.5,0.2,-,6.1,-,-,0.2,0.5,0.2,-,1.7,1,28.8,87.9,-,0.8,-
+6,"617Selcuk InanGalatasaray, 37, M(C)","Selcuk Inan Galatasaray, 37, M(C)",0(5),101,0.4,-,0.2,-,0.2,0.4,-,-,6.1,1,-,0.6,-,1,-,0.2,-,16.6,86.7,-,0.2,-
+7,"618Jurgen EkkelenkampAjax, 22, AM(C)","Jurgen Ekkelenkamp Ajax, 22, AM(C)",0(1),16,-,-,1,-,-,1,-,-,6.09,-,-,1,-,-,-,-,1,6.0,50.0,-,-,-
+8,"619Leandro ParedesPSG, 27, DMC","Leandro Paredes PSG, 27, DMC",0(2),36,0.5,-,0.5,-,-,0.5,-,-,6.09,-,-,-,-,1.5,-,-,0.5,25.5,92.2,-,2,-
+9,"620Antonio CandrevaInter, 35, M(CLR)","Antonio Candreva Inter, 35, M(CLR)",2(3),138,-,-,0.2,-,0.8,0.4,-,-,6.09,-,-,0.4,0.4,0.2,-,0.6,1.2,9.6,85.4,0.6,-,-
+0,"601Radamel FalcaoMonaco, 36, FW","Radamel Falcao Monaco, 36, FW",4(1),340,0.4,-,1.4,-,0.4,0.4,-,-,6.14,-,-,2.4,1.2,1.4,1.2,1.6,2.6,16.8,79.8,-,0.8,0.4
+1,"602Moussa SyllaMonaco, 22, AM(R),FW","Moussa Sylla Monaco, 22, AM(R),FW",4(2),344,0.2,0.3,0.3,-,0.3,-,-,-,6.14,1,-,1,0.7,0.7,0.2,1.5,1.3,14.3,81.4,-,0.2,-
+2,"603Bruno CostaPorto, 25, D(R),M(C)","Bruno Costa Porto, 25, D(R),M(C)",0(2),26,1,-,0.5,-,-,0.5,0.5,-,6.13,-,-,-,-,-,-,0.5,1.5,3.5,100.0,-,-,-
+3,"604Victor WanyamaTottenham, 30, DMC","Victor Wanyama Tottenham, 30, DMC",4(2),293,1.2,0.7,1.7,-,1,0.5,0.2,-,6.13,-,-,0.2,-,0.5,-,0.7,1,20.8,76.8,-,0.5,-
+4,"605Adam LallanaLiverpool, 34, M(CLR)","Adam Lallana Liverpool, 34, M(CLR)",1(2),104,-,0.7,1.3,-,-,0.7,-,-,6.12,-,-,1,0.3,0.3,0.3,1,0.3,17.7,75.5,-,-,-
+5,"606Ahmed KutucuSchalke, 22, FW","Ahmed Kutucu Schalke, 22, FW",0(1),18,-,-,1.0,-,-,-,-,-,6.12,-,-,1,-,-,-,-,-,4.0,75.0,-,-,-
+6,"607Kaveh RezaeiClub Bruges, 30, FW","Kaveh Rezaei Club Bruges, 30, FW",1(1),97,-,-,1.5,-,-,0.5,-,-,6.12,-,-,0.5,-,1,1,0.5,1.5,11.5,82.6,-,-,-
+7,"608Rodrigo GaloAEK Athens, 35, D(R)","Rodrigo Galo AEK Athens, 35, D(R)",1(4),115,0.4,0.6,0.4,-,-,0.2,-,-,6.11,-,-,-,0.4,-,-,-,0.6,10.0,78.0,0.4,1,-
+8,"609Benjamin GollerSchalke, 23, AM(CR)","Benjamin Goller Schalke, 23, AM(CR)",1,59,1,-,1.0,-,-,1,-,-,6.11,-,-,1,-,-,-,2,4,10.0,50.0,-,-,-
+9,"610Rasmus KristensenAjax, 24, D(R)","Rasmus Kristensen Ajax, 24, D(R)",0(1),8,-,-,1.0,-,-,-,-,-,6.11,-,-,-,-,1,-,-,1,9.0,88.9,-,-,-
+0,"591Joshua BrenetHoffenheim, 28, D(LR),M(R)","Joshua Brenet Hoffenheim, 28, D(LR),M(R)",2,136,2,-,-,-,2,1.5,-,-,6.16,-,-,0.5,-,-,0.5,0.5,2,14,82.1,-,-,-
+1,"592Sami KhediraJuventus, 35, M(C)","Sami Khedira Juventus, 35, M(C)",2(2),105,-,-,0.5,-,0.3,0.5,-,-,6.16,-,-,1,-,-,-,-,0.3,17.8,87.3,0.3,0.3,-
+2,"593Munir El-HaddadiBarcelona, 26, AM(LR),FW","Munir El-Haddadi Barcelona, 26, AM(LR),FW",1(1),65,-,-,-,-,0.5,-,-,-,6.16,-,-,0.5,1,0.5,1.5,1,1,9,83.3,-,0.5,-
+3,"594Alberto MorenoLiverpool, 29, D(L),M(L)","Alberto Moreno Liverpool, 29, D(L),M(L)",0(1),8,1,-,-,-,-,-,-,-,6.15,-,-,1,-,-,1,-,-,11,100,-,2,-
+4,"595Mason GreenwoodMan Utd, 20, AM(R),FW","Mason Greenwood Man Utd, 20, AM(R),FW",0(1),3,-,1,1,-,-,-,-,-,6.15,-,-,-,-,-,-,-,-,-,-,-,-,-
+5,"596Moussa DiabyPSG, 22, M(CLR)","Moussa Diaby PSG, 22, M(CLR)",0(1),7,1,-,-,-,-,-,-,-,6.15,-,-,-,-,1,-,1,1,5,100,-,-,-
+6,"597Tahith ChongMan Utd, 22, AM(CLR),FW","Tahith Chong Man Utd, 22, AM(CLR),FW",0(1),10,1,-,1,-,1,1,-,-,6.15,-,-,-,-,-,-,1,1,4,75,-,-,-
+7,"598Ádám SzalaiHoffenheim, 34, FW","Ádám Szalai Hoffenheim, 34, FW",4(1),271,0.6,-,0.8,-,0.2,0.2,0.2,-,6.15,-,-,1.2,0.8,0.4,1,1.8,1.6,12.6,81,-,0.4,-
+8,"599Uros CosicAEK Athens, 29, D(C)","Uros Cosic AEK Athens, 29, D(C)",3(1),292,0.5,2,1,0.5,3,0.8,0.3,-,6.15,-,-,0.5,0.3,0.3,-,0.3,0.5,32,78.1,-,4.5,-
+9,"600Érick GutiérrezPSV Eindhoven, 26, DMC","Érick Gutiérrez PSV Eindhoven, 26, DMC",1(3),96,0.5,0.3,0.3,-,0.3,1,-,-,6.15,-,-,0.3,-,0.3,0.3,0.5,0.3,13.8,85.5,-,0.5,-
+0,"581JemersonMonaco, 29, D(CR),DMC","Jemerson Monaco, 29, D(CR),DMC",5,450,1,1.2,1,1,4,0.4,-,-,6.18,-,-,-,0.4,0.2,-,-,0.4,49.6,88.7,-,5,-
+1,"582Jesse LingardMan Utd, 29, AM(CLR),FW","Jesse Lingard Man Utd, 29, AM(CLR),FW",4(2),300,0.7,-,1.2,-,-,0.8,-,-,6.18,-,-,0.5,1.3,0.5,0.2,0.5,1,22.5,88.9,-,0.3,-
+2,"583Milan PetrzelaViktoria Plzen, 38, M(R)","Milan Petrzela Viktoria Plzen, 38, M(R)",2(2),227,1.5,0.3,1,-,-,1,-,-,6.17,-,-,1.5,0.8,1.5,0.5,2,1,16.3,73.8,0.3,0.8,-
+3,"584Patrik SchickRoma, 26, AM(R),FW","Patrik Schick Roma, 26, AM(R),FW",2(4),250,0.3,0.2,0.5,-,0.5,0.3,0.2,-,6.17,-,-,1,0.3,0.8,-,1,1.5,8.8,84.9,-,-,-
+4,"585Mathieu GorgelinLyon, 31, GK","Mathieu Gorgelin Lyon, 31, GK",0(1),56,-,-,-,-,-,1,-,-,6.17,-,-,-,-,-,-,-,-,18.0,83.3,-,3,-
+5,"586Adam OunasNapoli, 25, AM(CLR),FW","Adam Ounas Napoli, 25, AM(CLR),FW",0(2),23,-,-,0.5,-,-,0.5,-,-,6.17,-,-,-,-,1,-,-,1.5,5.0,80.0,-,0.5,-
+6,"587Khéphren Thuram-UlienMonaco, 21, DMC","Khéphren Thuram-Ulien Monaco, 21, DMC",0(2),48,1.5,-,0.5,-,-,0.5,-,-,6.17,-,-,-,0.5,1,-,-,1.5,16.5,87.9,-,1,-
+7,"588Borja ValeroInter, 37, M(CL)","Borja Valero Inter, 37, M(CL)",2(4),231,0.3,0.3,1,-,-,0.8,-,-,6.16,-,-,0.3,0.8,0.8,-,0.3,0.2,25.8,90.3,0.2,0.8,-
+8,"589Ezequiel PonceAEK Athens, 25, AM(L),FW","Ezequiel Ponce AEK Athens, 25, AM(L),FW",6,493,1,0.3,1.8,0.2,0.8,0.5,-,-,6.16,-,-,1.3,0.3,2,0.3,3,2.7,19.0,75.4,-,0.5,-
+9,"590Benoît BadiashileMonaco, 21, D(C)","Benoît Badiashile Monaco, 21, D(C)",2,180,1,-,1,0.5,5,-,1,-,6.16,-,-,0.5,0.5,-,-,1,0.5,65.0,92.3,-,5.5,-
+0,"571Ralf FährmannSchalke, 33, GK","Ralf Fährmann Schalke, 33, GK",6,540,-,-,-,-,0.7,0.2,-,-,6.2,-,-,-,-,0.2,-,-,-,22.2,57.9,-,4.3,-
+1,"572Taras StepanenkoShakhtar, 32, DMC","Taras Stepanenko Shakhtar, 32, DMC",6,527,2.3,1,2,0.2,0.8,2,0.8,-,6.2,-,-,0.5,0.2,0.2,-,0.5,0.8,51.7,85.5,-,3.3,-
+2,"573Timur ZhamaletdinovCSKA Moscow, 25, FW","Timur Zhamaletdinov CSKA Moscow, 25, FW",0(2),26,-,0.5,-,-,-,-,-,-,6.2,-,-,0.5,-,-,0.5,-,-,2.5,40.0,-,-,-
+3,"574Donyell MalenPSV Eindhoven, 23, AM(L),FW","Donyell Malen PSV Eindhoven, 23, AM(L),FW",1(5),173,0.8,-,0.7,-,-,0.2,-,-,6.19,-,-,0.8,0.2,1,0.2,0.3,0.7,5.3,81.3,-,0.2,0.2
+4,"575Carles AleñáBarcelona, 24, AM(CLR)","Carles Aleñá Barcelona, 24, AM(CLR)",1(2),92,0.7,-,-,-,0.3,1,-,-,6.19,-,-,0.7,0.7,-,-,0.3,0.3,18.7,96.4,-,0.3,-
+5,"576Diego BenaglioMonaco, 38, GK","Diego Benaglio Monaco, 38, GK",5,405,-,0.2,-,-,0.2,-,-,-,6.19,-,-,-,-,-,-,-,-,20.4,81.4,-,4.2,-
+6,"577Arkadiusz MilikNapoli, 28, AM(C),FW","Arkadiusz Milik Napoli, 28, AM(C),FW",2(2),187,0.3,0.3,0.5,-,0.5,0.5,-,-,6.19,-,-,2.3,0.3,0.3,0.3,0.3,1,9.5,71.1,-,-,-
+7,"578Eric Choupo-MotingPSG, 33, M(CLR),FW","Eric Choupo-Moting PSG, 33, M(CLR),FW",0(4),50,0.3,-,0.3,-,-,-,-,-,6.18,-,-,0.5,0.3,-,0.5,-,0.5,5.3,76.2,-,-,-
+8,"579Colin DagbaPSG, 23, D(R)","Colin Dagba PSG, 23, D(R)",0(1),9,1,-,-,-,-,-,-,-,6.18,-,-,-,-,-,-,-,-,5.0,100.0,-,-,-
+9,"580Amine HaritSchalke, 24, AM(CLR),FW","Amine Harit Schalke, 24, AM(CLR),FW",1(4),141,0.2,0.4,0.2,-,-,0.2,-,-,6.18,-,-,0.2,0.4,1.2,-,1.8,1,10.4,80.8,-,0.4,-
+0,"561Guido BurgstallerSchalke, 33, AM(LR),FW","Guido Burgstaller Schalke, 33, AM(LR),FW",2(4),231,-,-,0.7,-,-,0.3,-,-,6.21,1,1,0.3,0.2,0.3,1,0.8,0.5,9.7,62.1,-,-,-
+1,"562Abel HernándezCSKA Moscow, 31, FW","Abel Hernández CSKA Moscow, 31, FW",0(1),6,-,-,1,-,-,-,-,-,6.21,-,-,-,-,-,1,-,-,3.0,33.3,-,-,-
+2,"563Faouzi GhoulamNapoli, 31, D(L)","Faouzi Ghoulam Napoli, 31, D(L)",0(1),20,1,-,1,-,-,-,-,-,6.21,-,-,-,-,1,-,-,-,21.0,76.2,-,-,-
+3,"564Michel VormTottenham, 38, GK","Michel Vorm Tottenham, 38, GK",1(1),99,-,-,-,-,0.5,-,-,-,6.21,-,-,-,-,0.5,-,-,-,22.0,84.1,-,4,-
+4,"565Alan PatrickShakhtar, 31, M(CLR)","Alan Patrick Shakhtar, 31, M(CLR)",2(3),205,0.8,0.2,0.8,-,-,0.2,0.4,-,6.21,-,1,0.4,1.6,1.2,-,0.6,0.8,24.4,91.0,0.2,1.2,0.4
+5,"566Goran CausicFK Crvena Zvezda, 30, M(C)","Goran Causic FK Crvena Zvezda, 30, M(C)",3(2),312,1.6,1.2,1,-,1.6,0.4,0.6,-,6.21,-,-,0.2,0.6,0.2,-,0.6,0.8,22.0,70.9,-,1,-
+6,"567Roger AssaléYoung Boys, 28, AM(CR),FW","Roger Assalé Young Boys, 28, AM(CR),FW",4(1),379,0.4,0.4,1.8,-,-,0.6,-,-,6.21,1,-,1.8,1,2.8,1,1.6,4.4,19.4,83.5,0.2,0.6,-
+7,"568Dion CoolsClub Bruges, 26, D(R)","Dion Cools Club Bruges, 26, D(R)",0(2),118,-,0.5,1,-,1,-,-,-,6.21,-,-,-,-,1,-,1.5,2,16.5,57.6,-,0.5,-
+8,"569Omer BayramGalatasaray, 30, D(L),M(CLR)","Omer Bayram Galatasaray, 30, D(L),M(CLR)",0(2),54,1.5,-,-,-,-,0.5,-,-,6.21,-,-,-,-,1.5,-,1.5,0.5,20.0,80.0,0.5,0.5,-
+9,"570Ubong EkpaiViktoria Plzen, 26, M(R)","Ubong Ekpai Viktoria Plzen, 26, M(R)",0(2),33,0.5,-,-,-,-,-,-,-,6.21,-,-,-,-,0.5,-,0.5,-,6.5,69.2,-,0.5,-
+0,"551Miralem SulejmaniYoung Boys, 33, AM(LR)","Miralem Sulejmani Young Boys, 33, AM(LR)",4(1),345,0.6,0.2,0.8,-,0.2,1.4,-,-,6.24,-,-,1.6,0.8,0.4,0.2,-,1.2,20.0,81.0,0.8,0.8,-
+1,"552Pape Cheikh Diop GueyeLyon, 24, DMC","Pape Cheikh Diop Gueye Lyon, 24, DMC",1(4),102,1,-,0.2,-,0.2,0.6,-,-,6.23,-,-,0.6,0.4,0.4,-,-,0.6,6.8,97.1,-,0.4,-
+2,"553MalcomBarcelona, 25, AM(CLR)","Malcom Barcelona, 25, AM(CLR)",0(3),40,-,-,-,-,-,-,-,-,6.23,1,-,1,-,0.7,-,0.3,0.3,7.3,81.8,-,-,-
+3,"554Benjamin HenrichsMonaco, 25, D(LR),DMC,M(LR)","Benjamin Henrichs Monaco, 25, D(LR),DMC,M(LR)",3(1),296,1,1,0.8,0.3,0.5,0.5,-,-,6.23,-,-,0.5,0.5,1.5,-,0.3,1.3,35.3,74.5,0.5,1.5,-
+4,"555Fabian DelphMan City, 32, D(L),M(CL)","Fabian Delph Man City, 32, D(L),M(CL)",2(4),257,0.3,0.8,0.3,0.2,0.7,0.8,0.2,-,6.23,-,-,1,-,0.3,-,-,0.3,38.3,88.7,-,1.3,-
+5,"556Nikola KalinicAtletico, 34, FW","Nikola Kalinic Atletico, 34, FW",1(2),111,-,-,0.7,-,0.7,0.3,-,-,6.23,-,-,-,0.7,1.0,-,-,1.3,7.0,57.1,-,-,-
+6,"557Giulian BianconeMonaco, 22, D(CLR),M(LR)","Giulian Biancone Monaco, 22, D(CLR),M(LR)",2,168,1.5,1.5,1.5,0.5,3,1,0.5,-,6.23,-,-,0.5,1,0.5,-,-,0.5,54.0,77.8,-,2.5,-
+7,"558Kasper DolbergAjax, 24, FW","Kasper Dolberg Ajax, 24, FW",3(6),297,0.4,0.2,1.1,-,-,0.4,-,-,6.22,-,-,0.6,0.2,1.8,0.1,0.1,1.8,5.2,76.6,-,0.2,-
+8,"559Serhii KryvtsovShakhtar, 31, D(C)","Serhii Kryvtsov Shakhtar, 31, D(C)",5,450,1,2.6,0.4,0.8,2.8,0.2,1,-,6.22,-,-,-,0.2,0.4,-,-,0.2,48.8,84.8,-,3.2,-
+9,"560Bogdan ButkoShakhtar, 31, D(R)","Bogdan Butko Shakhtar, 31, D(R)",1(2),136,0.3,0.3,-,-,2.3,0.3,-,-,6.22,-,-,-,-,0.3,-,-,-,21.0,95.2,-,-,-
+0,"541Fernando AndradePorto, 29, AM(LR),FW","Fernando Andrade Porto, 29, AM(LR),FW",1(3),143,1.8,-,1.8,-,0.5,0.5,-,-,6.27,-,-,0.8,-,0.5,-,0.8,1,6.5,65.4,-,-,-
+1,"542Renato SanchesBayern, 24, M(CR)","Renato Sanches Bayern, 24, M(CR)",1(5),125,0.2,0.2,0.3,-,0.2,0.2,-,-,6.26,1,-,0.5,-,0.2,-,1.2,0.7,13.3,90.0,-,0.7,-
+2,"543AlefAEK Athens, 27, DMC","Alef AEK Athens, 27, DMC",2(2),200,1.3,1.8,1.8,-,0.8,0.5,-,-,6.26,-,-,0.5,-,0.3,-,1,0.8,18.8,78.7,-,1,-
+3,"544Erik MoránAEK Athens, 31, DMC","Erik Morán AEK Athens, 31, DMC",1(1),100,1,0.5,0.5,-,0.5,1.5,0.5,-,6.26,-,-,0.5,0.5,-,-,0.5,-,17.0,73.5,0.5,1,-
+4,"545VitoloAtletico, 32, M(CLR),FW","Vitolo Atletico, 32, M(CLR),FW",0(4),96,0.3,0.5,0.3,-,0.5,0.3,-,-,6.25,-,-,0.3,0.3,1.5,0.3,0.5,0.8,10.3,90.2,0.3,0.3,-
+5,"546Branko JovicicFK Crvena Zvezda, 29, M(CL)","Branko Jovicic FK Crvena Zvezda, 29, M(CL)",3(1),238,1.8,1.5,2.3,-,2.3,1.0,0.5,-,6.24,-,-,-,-,0.3,-,0.8,0.3,27.0,72.2,-,1,-
+6,"547Milan HavelViktoria Plzen, 27, Defender","Milan Havel Viktoria Plzen, 27, Defender",3(1),224,0.5,1.8,1.0,-,0.8,0.3,0.3,-,6.24,-,-,1.5,0.3,0.3,-,0.3,0.5,9.5,52.6,0.3,0.3,-
+7,"548Javi MonteroAtletico, 23, D(C)","Javi Montero Atletico, 23, D(C)",1(1),135,-,-,0.5,-,4.5,0.5,-,-,6.24,-,-,-,-,1,-,-,1,27.5,74.5,-,0.5,-
+8,"549Iván MarcanoRoma, 34, D(CL)","Iván Marcano Roma, 34, D(CL)",2,166,1,1.5,1.0,-,2.0,1.0,0.5,-,6.24,-,-,0.5,0.5,0.5,-,-,1,46.5,92.5,-,2.5,-
+9,"550Djibril SidibéMonaco, 29, D(CLR),M(R)","Djibril Sidibé Monaco, 29, D(CLR),M(R)",4,334,3.3,0.8,2.3,-,0.8,0.8,-,-,6.24,-,-,0.8,-,1.5,0.5,1.3,1,42.5,84.1,0.3,1.5,-
+0,"531Daniele RuganiJuventus, 27, D(C)","Daniele Rugani Juventus, 27, D(C)",3(1),271,0.5,1.5,1,0.3,2.8,0.3,1,-,6.29,-,-,-,-,1,-,-,0.3,33.0,82.6,-,1,-
+1,"532Jeong Woo-YeongBayern, 22, AM(CR),FW","Jeong Woo-Yeong Bayern, 22, AM(CR),FW",0(1),9,-,1,-,-,-,-,-,-,6.29,-,-,-,-,1,-,1,-,4.0,75.0,-,-,-
+2,"533Nacer ChadliMonaco, 32, M(CLR),FW","Nacer Chadli Monaco, 32, M(CLR),FW",4(1),314,0.4,0.6,0.2,0.2,1.4,0.4,0.2,-,6.29,-,-,0.4,0.6,-,0.2,0.6,0.8,29.2,84.2,0.4,0.8,-
+3,"534Piotr ZielinskiNapoli, 28, M(CL)","Piotr Zielinski Napoli, 28, M(CL)",1(5),181,-,-,0.2,-,0.2,-,-,-,6.29,-,-,0.7,0.7,-,-,0.8,0.8,21.7,84.6,-,1.7,0.2
+4,"535Igor DenisovLokomotiv Moscow, 38, DMC","Igor Denisov Lokomotiv Moscow, 38, DMC",5(1),468,1.7,1.3,1.3,-,0.8,2.3,0.2,-,6.28,-,-,0.8,1,0.3,-,0.2,0.7,40.8,84.5,-,2.5,-
+5,"536Denis CheryshevValencia, 31, AM(L),FW","Denis Cheryshev Valencia, 31, AM(L),FW",1(2),106,1,0.7,1,-,-,1.7,-,-,6.28,-,-,0.7,0.7,-,-,-,1,21.0,79.4,0.3,0.7,-
+6,"537Andrea RaggiMonaco, 37, D(CLR)","Andrea Raggi Monaco, 37, D(CLR)",4,360,0.8,1.3,-,1,2.3,0.5,0.3,-,6.28,-,-,0.8,0.5,1.3,-,-,-,41.5,84.9,0.5,3,-
+7,"538Youssef Aït BennasserMonaco, 25, DMC","Youssef Aït Bennasser Monaco, 25, DMC",3,248,1.7,-,0.7,-,3,2,-,-,6.27,-,-,0.3,0.3,1,-,0.7,0.7,66.3,84.9,-,4.3,-
+8,"539Lucas BoyéAEK Athens, 26, AM(L),FW","Lucas Boyé AEK Athens, 26, AM(L),FW",1(3),121,0.5,0.5,1.3,-,0.3,1,-,-,6.27,-,-,0.5,-,0.5,0.3,0.5,1.3,7.3,58.6,-,-,-
+9,"540Tomas HoravaViktoria Plzen, 34, M(C)","Tomas Horava Viktoria Plzen, 34, M(C)",2(3),215,0.8,0.8,0.4,-,-,1,0.2,-,6.27,-,-,0.4,0.8,0.8,-,0.4,1,20.6,82.5,0.2,1.2,-
+0,"521Mohamed CamaraYoung Boys, 24, D(C)","Mohamed Camara Young Boys, 24, D(C)",4,348,1.8,2.5,1.5,1,3.8,0.3,1.5,-,6.32,-,-,1,-,-,-,-,0.8,35.8,79.0,-,2,-
+1,"522Sinan GümüsGalatasaray, 28, AM(R),FW","Sinan Gümüs Galatasaray, 28, AM(R),FW",3,223,0.3,-,2,-,-,0.3,-,-,6.32,-,-,1.7,0.3,2,0.7,1,1.3,16.3,85.7,0.7,-,-
+2,"523MarçalLyon, 33, D(CL),M(L)","Marçal Lyon, 33, D(CL),M(L)",3,270,0.3,2.7,1.3,0.7,1.7,1,0.7,-,6.31,-,-,-,0.3,1.3,-,0.3,-,65.3,87.2,-,2,-
+3,"524Ferran TorresValencia, 22, AM(LR),FW","Ferran Torres Valencia, 22, AM(LR),FW",1(2),107,0.7,-,0.7,-,0.3,-,-,-,6.31,-,-,1,-,0.3,0.7,0.3,0.3,15.7,78.7,0.3,0.3,-
+4,"525André PereiraPorto, 27, FW","André Pereira Porto, 27, FW",0(4),62,0.5,0.3,0.8,-,-,-,-,-,6.31,-,-,0.3,0.5,0.8,-,0.3,0.5,6.8,81.5,-,0.3,0.3
+5,"526Thibault VlietinckClub Bruges, 24, D(R),M(R)","Thibault Vlietinck Club Bruges, 24, D(R),M(R)",3(1),208,1,0.3,-,-,1.3,0.3,-,-,6.3,-,-,0.3,0.8,0.3,0.3,0.3,1.8,24.0,79.2,0.5,0.5,-
+6,"527Jan OblakAtletico, 29, GK","Jan Oblak Atletico, 29, GK",8,720,-,-,-,-,0.5,-,-,-,6.3,-,-,-,-,0.3,-,-,-,19.1,52.3,-,4.9,-
+7,"528Luan PeresClub Bruges, 27, D(CL)","Luan Peres Club Bruges, 27, D(CL)",0(1),21,1,-,1,-,2,-,-,-,6.3,-,-,1,-,-,-,-,-,3.0,100.0,-,1,-
+8,"529Maximiliano RomeroPSV Eindhoven, 23, FW","Maximiliano Romero PSV Eindhoven, 23, FW",0(1),11,-,-,-,-,-,-,-,-,6.3,-,-,2,1,-,1,-,1,1.0,100.0,-,-,-
+9,"530Kingsley ComanBayern, 25, M(LR),FW","Kingsley Coman Bayern, 25, M(LR),FW",1(2),129,0.3,0.3,0.3,-,-,1.3,-,-,6.3,1,-,0.7,0.3,0.3,0.7,1.3,3,15.7,80.9,-,0.3,-
+0,"511Javi SánchezReal Madrid, 25, D(C)","Javi Sánchez Real Madrid, 25, D(C)",1(1),121,1,-,0.5,0.5,4,0.5,0.5,-,6.35,-,-,-,-,-,-,-,-,39.0,92.3,-,8,-
+1,"512Benedikt HöwedesLokomotiv Moscow, 34, D(CLR)","Benedikt Höwedes Lokomotiv Moscow, 34, D(CLR)",5,450,2,1.4,0.8,0.4,2,0.6,1.2,-,6.34,-,-,0.4,0.2,0.4,-,-,0.6,30.6,71.9,-,2.2,-
+2,"513Benjamin HübnerHoffenheim, 32, D(C)","Benjamin Hübner Hoffenheim, 32, D(C)",1,90,1,1,2,1,4,1,-,-,6.34,-,-,-,1,2,-,1,-,34.0,82.4,-,4,-
+3,"514Viktor KlonaridisAEK Athens, 29, Forward","Viktor Klonaridis AEK Athens, 29, Forward",4(1),317,0.2,0.2,0.8,-,-,0.2,-,-,6.34,2,-,1.8,0.2,0.4,0.2,0.8,1.8,12.6,74.6,-,0.2,-
+4,"515Danijel SubasicMonaco, 37, GK","Danijel Subasic Monaco, 37, GK",0(1),46,-,-,-,-,-,1,-,-,6.33,-,-,-,-,-,-,-,-,11.0,54.5,-,2,-
+5,"516Loris BenitoYoung Boys, 30, D(CL),M(L)","Loris Benito Young Boys, 30, D(CL),M(L)",6,540,1.8,1.2,2.5,0.7,3.7,0.7,0.2,-,6.33,-,-,0.2,0.5,0.7,-,0.2,1,43.5,77.8,0.2,1.2,-
+6,"517Andrea BarzagliJuventus, 41, D(CR)","Andrea Barzagli Juventus, 41, D(CR)",1(2),106,0.7,0.3,0.3,-,0.7,0.3,-,-,6.33,-,-,-,-,0.3,-,-,0.7,25.7,87.0,-,1.3,-
+7,"518Thomas VermaelenBarcelona, 36, D(CL)","Thomas Vermaelen Barcelona, 36, D(CL)",1(1),91,-,0.5,0.5,-,2.5,0.5,0.5,-,6.33,-,-,-,-,1.5,-,-,-,19.0,78.9,-,1.5,-
+8,"519Alexis SánchezMan Utd, 33, M(CLR),FW","Alexis Sánchez Man Utd, 33, M(CLR),FW",2(2),207,0.8,0.3,0.5,-,-,0.5,0.5,-,6.32,-,-,1,0.8,1,0.3,1.5,1.3,21.5,75.6,0.8,0.8,-
+9,"520Henry OnyekuruGalatasaray, 25, AM(LR),FW","Henry Onyekuru Galatasaray, 25, AM(LR),FW",3(2),323,1.2,0.4,1,-,-,-,-,-,6.32,-,-,1.2,1.2,1,0.8,0.2,2.2,10.2,68.6,0.2,-,-
+0,"501Ludek PernicaViktoria Plzen, 31, Defender","Ludek Pernica Viktoria Plzen, 31, Defender",1,90,-,2,1,1,1,-,1,-,6.36,-,-,-,1,-,-,-,1,29.0,82.8,-,6,-
+1,"502Keita BaldéInter, 27, AM(LR),FW","Keita Baldé Inter, 27, AM(LR),FW",0(4),72,0.3,-,-,-,-,-,-,-,6.36,-,-,0.8,-,0.8,-,0.3,0.3,5.3,85.7,0.5,-,-
+2,"503Mahmoud DahoudBorussia Dortmund, 26, M(C)","Mahmoud Dahoud Borussia Dortmund, 26, M(C)",3(2),317,0.8,1.4,0.8,-,0.4,2,-,-,6.36,-,-,0.8,0.4,-,-,1,1.6,60.8,90.8,-,4.6,-
+3,"504Roman ProchazkaViktoria Plzen, 33, M(CL)","Roman Prochazka Viktoria Plzen, 33, M(CL)",5,425,1.6,1.2,2,-,1.6,2.2,0.8,-,6.36,1,-,1.6,0.2,0.6,-,1.2,0.4,31.6,78.5,-,0.8,-
+4,"505RodrigoValencia, 31, M(CLR),FW","Rodrigo Valencia, 31, M(CLR),FW",5(1),428,0.2,0.2,1.3,0.2,0.3,0.5,-,-,6.36,-,1,0.8,2,1.5,0.7,1.8,2.5,24.5,83.7,0.2,0.8,-
+5,"506Ales HruskaViktoria Plzen, 36, GK","Ales Hruska Viktoria Plzen, 36, GK",4,360,-,0.3,-,-,0.3,-,-,-,6.35,-,-,-,-,-,-,-,0.3,33.0,61.4,-,13.3,-
+6,"507Steve Von BergenYoung Boys, 39, D(C)","Steve Von Bergen Young Boys, 39, D(C)",5,406,1.4,2,1.2,1.4,3.2,0.2,0.6,-,6.35,-,-,-,-,0.4,-,0.2,-,30.4,86.2,-,2,-
+7,"508Diogo LeitePorto, 23, D(C)","Diogo Leite Porto, 23, D(C)",1,90,-,1,-,1,5,-,-,-,6.35,-,-,1,-,-,-,-,-,30.0,70.0,-,2,-
+8,"509Michal SadílekPSV Eindhoven, 23, D(L),DMC","Michal Sadílek PSV Eindhoven, 23, D(L),DMC",0(1),25,-,1,-,-,3,-,1,-,6.35,-,-,-,-,1,-,-,-,10.0,90.0,-,-,-
+9,"510Han-Noah MassengoMonaco, 20, M(C)","Han-Noah Massengo Monaco, 20, M(C)",2(1),181,1.3,1.7,-,-,1,-,-,-,6.35,-,-,0.3,-,1,-,2.7,0.7,25.7,90.9,-,0.3,-
+0,"491Daniel SturridgeLiverpool, 32, M(R),FW","Daniel Sturridge Liverpool, 32, M(R),FW",2(5),164,-,0.1,0.1,-,-,-,0.1,-,6.38,1,1,1.3,0.6,0.3,0.1,0.3,1,6.4,77.8,-,0.1,0.1
+1,"492João FélixBenfica, 22, AM(CL),FW","João Félix Benfica, 22, AM(CL),FW",1,77,2,-,3.0,-,-,-,-,-,6.38,-,-,1,1,2,-,3,1,25.0,84.0,-,-,-
+2,"493Michel AebischerYoung Boys, 25, M(C)","Michel Aebischer Young Boys, 25, M(C)",2(2),227,2.3,0.3,1.3,0.3,0.8,1.5,0.3,-,6.38,-,-,0.5,0.3,0.8,-,-,1,31.3,88.0,-,1.8,-
+3,"494Jean-Pierre NsameYoung Boys, 29, FW","Jean-Pierre Nsame Young Boys, 29, FW",1(3),139,1.5,-,0.5,-,0.3,-,-,-,6.38,-,-,1,0.8,-,0.3,0.8,2,13.8,74.5,-,0.3,-
+4,"495Juan MataMan Utd, 34, AM(CLR)","Juan Mata Man Utd, 34, AM(CLR)",2(4),275,0.7,-,0.3,-,0.5,0.7,-,-,6.38,1,-,1.3,0.3,0.3,0.2,0.8,0.8,22.0,90.2,0.2,1.3,-
+5,"496Franco CerviBenfica, 28, AM(CL)","Franco Cervi Benfica, 28, AM(CL)",3(3),308,2.5,0.3,0.3,-,0.2,1,-,-,6.37,-,-,0.5,0.7,2,-,0.3,1.5,16.3,75.5,0.3,0.2,-
+6,"497Nenad KrsticicFK Crvena Zvezda, 31, M(CR)","Nenad Krsticic FK Crvena Zvezda, 31, M(CR)",5,433,1.6,3.2,0.6,-,1.8,2,-,-,6.37,-,-,0.4,0.2,0.4,-,1,0.2,26.2,85.5,-,0.6,-
+7,"498Andreas PereiraMan Utd, 26, M(CLR)","Andreas Pereira Man Utd, 26, M(CLR)",2(2),191,0.5,0.3,2.3,-,-,0.5,-,-,6.37,-,-,0.5,0.5,1,-,1,0.5,25.8,82.5,0.5,0.8,-
+8,"499MayconShakhtar, 24, M(C)","Maycon Shakhtar, 24, M(C)",5(1),451,1.2,1.5,0.3,-,1.2,2.5,0.2,-,6.36,1,-,1.2,0.3,0.2,-,0.7,0.7,42.5,87.8,0.3,2.5,0.2
+9,"500Jérémy MorelLyon, 38, D(CL)","Jérémy Morel Lyon, 38, D(CL)",1,90,1,-,1.0,1,7,-,-,-,6.36,-,-,-,-,1,-,-,-,41.0,78.0,-,3,-
+0,"481Andrii PyatovShakhtar, 37, GK","Andrii Pyatov Shakhtar, 37, GK",6,540,-,-,-,-,0.8,-,-,-,6.39,-,-,-,-,0.5,-,-,-,33.3,66.0,-,8,-
+1,"482Fedor SmolovLokomotiv Moscow, 32, AM(CL),FW","Fedor Smolov Lokomotiv Moscow, 32, AM(CL),FW",1(2),117,0.3,-,1,-,0.3,0.3,0.3,-,6.39,-,-,1.3,0.3,0.7,1.3,-,1.7,16.3,67.3,-,-,-
+2,"483Lorenzo EbecilioFK Crvena Zvezda, 30, M(C)","Lorenzo Ebecilio FK Crvena Zvezda, 30, M(C)",1(3),113,0.8,0.8,2,-,-,0.8,0.3,-,6.39,-,1,0.5,0.5,0.5,-,2.3,0.8,11.5,76.1,0.3,0.8,0.3
+3,"484Marcos RojoMan Utd, 32, D(CL)","Marcos Rojo Man Utd, 32, D(CL)",1,46,1,-,-,-,2,3,-,-,6.39,-,-,-,-,1,-,-,-,26.0,84.6,1,2,-
+4,"485Vincent KompanyMan City, 36, D(C)","Vincent Kompany Man City, 36, D(C)",2(2),205,0.8,0.8,0.5,0.5,1.8,0.3,0.3,-,6.39,-,-,-,0.5,-,-,-,0.3,48.8,96.9,-,2.5,-
+5,"486Rúben VezoValencia, 28, D(CR)","Rúben Vezo Valencia, 28, D(CR)",2(1),150,0.7,1.3,0.7,0.3,2,1,-,-,6.39,-,-,0.3,-,1.7,-,-,1,23.0,87.0,-,1.3,-
+6,"487Vedran CorlukaLokomotiv Moscow, 36, D(C)","Vedran Corluka Lokomotiv Moscow, 36, D(C)",3,270,1.7,1,1.7,0.3,4.3,0.7,1,-,6.39,-,-,-,-,1.3,0.3,-,-,36.7,76.4,-,2.7,-
+7,"488Joe GomezLiverpool, 25, D(CLR)","Joe Gomez Liverpool, 25, D(CLR)",5(4),525,0.9,0.7,0.6,0.6,1.6,0.6,-,-,6.38,-,-,0.2,0.2,0.8,-,0.6,0.8,45.7,83.0,-,1.4,-
+8,"489HernâniPorto, 30, AM(LR)","Hernâni Porto, 30, AM(LR)",1(5),124,0.5,-,0.3,-,0.2,-,-,-,6.38,-,1,0.5,0.2,0.8,-,0.2,1.2,3.5,66.7,-,-,-
+9,"490Eric DierTottenham, 28, D(CR),DMC","Eric Dier Tottenham, 28, D(CR),DMC",2(4),267,0.5,0.7,1,-,1.2,0.3,0.2,-,6.38,-,-,0.3,0.5,0.2,-,-,0.3,37.2,86.1,-,1.5,0.2
+0,"471MarianoReal Madrid, 28, FW","Mariano Real Madrid, 28, FW",0(5),73,-,-,0.8,-,0.4,-,-,-,6.42,1,-,1,0.6,0.4,0.4,0.4,0.6,4.0,80.0,-,0.4,-
+1,"472Dmitri EfremovCSKA Moscow, 27, M(LR)","Dmitri Efremov CSKA Moscow, 27, M(LR)",1(2),116,1,0.7,0.7,-,2.0,0.7,-,-,6.41,-,-,1,0.7,1.7,-,-,1.3,11.7,68.6,0.7,1,-
+2,"473Kristijan BistrovicCSKA Moscow, 24, DMC","Kristijan Bistrovic CSKA Moscow, 24, DMC",2,180,0.5,-,0.5,-,1.5,2,-,-,6.41,-,-,2,1,1,-,1,1,47.5,83.2,-,3.5,-
+3,"474Christian FassnachtYoung Boys, 28, AM(CR)","Christian Fassnacht Young Boys, 28, AM(CR)",5(1),386,1.3,1,0.8,-,0.7,0.5,-,-,6.4,-,1,1.8,1,0.5,-,1.2,1.3,19.7,78.8,0.2,-,-
+4,"475Hamza MendylSchalke, 24, D(L),M(L)","Hamza Mendyl Schalke, 24, D(L),M(L)",5(1),367,1.3,1.5,0.5,-,0.8,0.5,0.2,-,6.4,-,-,0.5,-,0.5,-,0.2,1.2,21.7,71.5,0.3,1.2,-
+5,"476MirandaInter, 37, D(C)","Miranda Inter, 37, D(C)",2(1),188,1,1,1.7,0.7,2.0,-,0.3,-,6.4,-,-,0.3,0.3,0.7,-,0.7,0.3,33.3,84.0,-,2.3,-
+6,"477Erik LamelaTottenham, 30, AM(CLR)","Erik Lamela Tottenham, 30, AM(CLR)",3(6),333,1.2,0.2,1.7,-,0.2,0.3,-,-,6.4,1,2,1,0.6,0.4,0.1,1,1.4,13.8,79.8,0.4,0.1,-
+7,"478GuilhermeLokomotiv Moscow, 36, GK","Guilherme Lokomotiv Moscow, 36, GK",6,540,-,-,0.2,-,1.2,-,-,-,6.4,-,-,-,-,-,-,-,-,25.0,48.7,-,8,-
+8,"479Dani de WitAjax, 24, AM(CR)","Dani de Wit Ajax, 24, AM(CR)",0(2),33,1.5,-,-,-,0.5,-,-,-,6.4,-,-,0.5,-,0.5,-,0.5,-,6.5,69.2,-,-,-
+9,"480Rúben DiasBenfica, 25, D(C)","Rúben Dias Benfica, 25, D(C)",5,409,1.4,1.6,1,0.8,3.4,0.2,0.6,-,6.39,-,-,0.8,-,0.4,-,-,0.4,50.2,86.1,-,4.8,-
+0,"461Reiss NelsonHoffenheim, 22, M(LR)","Reiss Nelson Hoffenheim, 22, M(LR)",0(5),113,0.8,0.2,0.2,-,0.2,0.8,-,-,6.43,-,-,0.6,0.8,0.2,-,0.6,0.6,7.6,86.8,0.2,0.8,-
+1,"462Sérgio OliveiraPorto, 30, DMC","Sérgio Oliveira Porto, 30, DMC",1(3),96,0.5,0.3,-,-,0.3,0.8,0.3,-,6.43,1,-,0.3,0.3,0.8,-,0.5,-,10.0,77.5,-,0.3,-
+2,"463Brian IdowuLokomotiv Moscow, 30, D(CLR),M(CLR)","Brian Idowu Lokomotiv Moscow, 30, D(CLR),M(CLR)",3,270,2,2.7,1.3,0.7,1.3,0.7,0.3,-,6.43,-,-,1.3,0.3,0.7,-,0.3,0.7,40.0,76.7,-,0.3,-
+3,"464Filip StojkovicFK Crvena Zvezda, 29, D(R)","Filip Stojkovic FK Crvena Zvezda, 29, D(R)",5,419,1.4,2.6,1.4,0.2,2.2,1.8,1,-,6.43,-,-,-,0.4,1.2,-,0.2,0.4,23.2,62.1,0.8,1,-
+4,"465Julian DraxlerPSG, 28, AM(CLR),FW","Julian Draxler PSG, 28, AM(CLR),FW",3(4),284,0.6,0.1,0.6,-,0.1,0.6,-,-,6.43,-,1,0.1,0.9,0.3,0.1,0.3,0.3,31.6,92.3,0.6,0.4,0.1
+5,"466Mousa DembéléTottenham, 34, M(CR)","Mousa Dembélé Tottenham, 34, M(CR)",2,164,2,1,3,-,-,-,-,-,6.43,-,-,1,1,-,-,1,0.5,50.0,95.0,-,1.5,-
+6,"467Nicolas Moumi NgamaleuYoung Boys, 27, AM(LR)","Nicolas Moumi Ngamaleu Young Boys, 27, AM(LR)",2(4),199,1.2,0.5,1.5,-,0.7,0.7,-,-,6.42,-,1,0.8,0.2,0.8,0.2,1.3,1.7,9.3,78.6,0.2,0.5,-
+7,"468Klaas Jan HuntelaarAjax, 38, FW","Klaas Jan Huntelaar Ajax, 38, FW",1(4),96,-,0.4,0.4,-,-,0.4,-,-,6.42,-,2,0.6,0.6,-,0.2,-,0.6,3.2,75.0,-,-,-
+8,"469Sime VrsaljkoInter, 30, D(LR),M(R)","Sime Vrsaljko Inter, 30, D(LR),M(R)",1(1),97,0.5,1.5,0.5,-,2.5,-,-,-,6.42,-,-,-,-,0.5,-,-,0.5,27.0,81.5,-,-,-
+9,"470Vincent AboubakarPorto, 30, AM(R),FW","Vincent Aboubakar Porto, 30, AM(R),FW",1,60,-,-,-,-,2,-,-,-,6.42,-,-,3,1,2,-,2,-,11.0,45.5,-,-,-
+0,"451Petros MantalosAEK Athens, 30, AM(CL)","Petros Mantalos AEK Athens, 30, AM(CL)",5(1),436,1.3,0.7,1,-,0.2,1.7,0.2,-,6.46,-,-,0.7,1.3,1.3,0.2,2.3,1.3,32.7,77.6,1.2,1.2,0.2
+1,"452Andre SimoesAEK Athens, 32, DMC","Andre Simoes AEK Athens, 32, DMC",4,349,2,0.8,0.8,-,0.8,1,1.5,-,6.45,-,-,0.5,-,1.5,-,1,1,55.0,89.5,-,3.8,-
+2,"453Cyril NgongeClub Bruges, 22, AM(CR)","Cyril Ngonge Club Bruges, 22, AM(CR)",1,69,2,-,-,-,2,1,-,-,6.45,-,-,-,1,1,-,-,4,25.0,68.0,-,2.0,-
+3,"454El Fardou Ben NabouhaneFK Crvena Zvezda, 33, AM(R),FW","El Fardou Ben Nabouhane FK Crvena Zvezda, 33, AM(R),FW",6,514,0.8,1.3,1.2,0.2,2.3,0.5,-,-,6.45,1,-,1,0.5,1.3,0.7,1.8,3.2,19.5,79.5,-,0.5,-
+4,"455Léo DuboisLyon, 27, D(LR),M(R)","Léo Dubois Lyon, 27, D(LR),M(R)",3(2),285,0.4,1.2,1,0.2,1.6,0.6,0.6,-,6.45,1,-,0.2,0.2,-,-,0.4,0.2,21.6,88.9,-,1.4,-
+5,"456Dejan LovrenLiverpool, 32, D(C)","Dejan Lovren Liverpool, 32, D(C)",2(1),181,1,0.3,0.3,1,3.3,-,0.3,-,6.44,-,-,-,-,1,-,0.3,-,47.0,88.7,-,0.3,-
+6,"457Nick ViergeverPSV Eindhoven, 32, D(CL),DMC","Nick Viergever PSV Eindhoven, 32, D(CL),DMC",6,516,0.7,1,0.5,0.2,6,0.3,1.5,-,6.44,-,-,0.2,-,-,-,0.2,0.5,29.5,85.9,-,1.7,-
+7,"458Gonçalo GuedesValencia, 25, AM(CLR),FW","Gonçalo Guedes Valencia, 25, AM(CLR),FW",4,318,1.3,0.5,0.8,-,-,0.8,-,-,6.44,-,-,2.5,-,3.3,0.3,0.5,2.5,31.3,78.4,-,0.5,-
+8,"459Alan DzagoevCSKA Moscow, 31, M(CLR),FW","Alan Dzagoev CSKA Moscow, 31, M(CLR),FW",2(1),172,-,0.3,1,-,0.7,0.7,-,-,6.44,-,-,1.7,2.3,0.3,1,0.7,1,30.7,90.2,0.3,0.7,-
+9,"460Federico ValverdeReal Madrid, 23, M(CLR)","Federico Valverde Real Madrid, 23, M(CLR)",1(3),139,1.3,1.3,0.8,-,0.5,1,-,-,6.43,-,-,1,0.3,-,-,0.8,0.8,33.3,94.0,-,2.8,-
+0,"441Jordi MboulaMonaco, 23, AM(R)","Jordi Mboula Monaco, 23, AM(R)",0(1),32,-,1.0,-,-,-,1,-,-,6.48,-,-,1.0,1,1,-,1,1.0,11.0,81.8,1,1,-
+1,"442Adrián LópezPorto, 34, M(CLR),FW","Adrián López Porto, 34, M(CLR),FW",1(3),119,0.3,0.3,0.3,-,-,0.8,-,-,6.48,1,-,0.3,1,0.3,-,0.5,0.3,11.3,86.7,-,0.3,-
+2,"443Tiquinho SoaresPorto, 31, FW","Tiquinho Soares Porto, 31, FW",3(1),275,0.8,0.3,1.3,-,0.3,0.5,0.3,-,6.48,1,1,2.8,0.8,0.8,0.3,1.5,2.8,15.3,73.8,-,0.3,-
+3,"444Ashley YoungMan Utd, 36, D(LR),M(LR)","Ashley Young Man Utd, 36, D(LR),M(LR)",6(1),582,1.6,1.0,1.6,0.1,1.9,0.1,0.3,-,6.47,-,1,0.1,0.9,0.7,0.1,0.4,0.6,40.6,80.6,0.6,1.6,-
+4,"445Moussa DembeleLyon, 25, FW","Moussa Dembele Lyon, 25, FW",3(3),296,0.3,0.2,0.7,-,0.5,-,0.2,-,6.47,1,-,2.0,0.8,0.2,0.3,0.8,2.3,9.7,74.1,-,0.2,-
+5,"446Jason DenayerLyon, 26, D(CR),DMC","Jason Denayer Lyon, 26, D(CR),DMC",8,720,1.1,1.4,0.6,0.4,4.4,0.1,1,-,6.47,-,-,0.1,-,0.3,0.1,-,0.5,45.4,91.2,-,0.9,-
+6,"447Mykola MatvienkoShakhtar, 26, D(CL)","Mykola Matvienko Shakhtar, 26, D(CL)",5,450,2,2.6,0.8,1,2.6,0.6,0.2,-,6.46,-,-,0.6,0.8,0.8,0.2,-,0.8,48.4,85.1,0.2,2,-
+7,"448Mattia De SciglioJuventus, 29, D(CLR),M(LR)","Mattia De Sciglio Juventus, 29, D(CLR),M(LR)",4,309,1,1.5,2,0.3,1.5,0.3,-,-,6.46,-,-,0.3,0.8,1,-,0.5,1.0,42.0,85.1,0.5,1.5,-
+8,"449Manuel FernandesLokomotiv Moscow, 36, M(CL)","Manuel Fernandes Lokomotiv Moscow, 36, M(CL)",4,292,2,0.5,0.3,-,0.3,0.5,0.3,-,6.46,-,-,1.5,1,1.5,-,3.8,1.5,34.3,77.4,0.8,1.3,-
+9,"450Martin TerrierLyon, 25, AM(CL),FW","Martin Terrier Lyon, 25, AM(CL),FW",2(1),159,0.3,0.7,0.3,-,0.3,0.3,-,-,6.46,-,-,1.7,-,-,-,0.7,1.0,14.7,77.3,-,-,-
+0,"431Breel EmboloSchalke, 25, AM(CR),FW","Breel Embolo Schalke, 25, AM(CR),FW",5,385,0.8,0.2,2,-,-,0.8,-,-,6.5,1,-,1.8,0.8,3.2,1.2,1.8,3.4,11.0,67.3,0.2,0.2,0.2
+1,"432Kyle WalkerMan City, 32, D(CR),M(R)","Kyle Walker Man City, 32, D(CR),M(R)",8(2),746,0.4,0.6,0.6,0.2,1.1,0.3,0.2,-,6.5,-,-,0.4,0.3,0.7,-,0.4,0.7,58.1,90.0,0.3,3.3,-
+2,"433Milos DegenekFK Crvena Zvezda, 28, D(C),DMC","Milos Degenek FK Crvena Zvezda, 28, D(C),DMC",6,540,1.3,2.2,0.5,1.3,7.7,0.3,1,-,6.5,-,-,-,-,0.2,-,-,-,29.0,78.2,-,2.7,-
+3,"434Mats RitsClub Bruges, 28, DMC","Mats Rits Club Bruges, 28, DMC",3(2),271,1,1,0.6,0.2,1.6,0.2,0.2,-,6.49,-,1,0.2,0.2,0.4,-,0.8,0.6,23.4,87.2,0.2,2.6,-
+4,"435Vasilios BarkasAEK Athens, 28, GK","Vasilios Barkas AEK Athens, 28, GK",6,540,-,-,-,-,0.7,-,-,-,6.49,-,-,-,-,0.2,-,-,-,32.2,54.4,-,12.5,-
+5,"436Niklas HultAEK Athens, 32, D(L),M(CL)","Niklas Hult AEK Athens, 32, D(L),M(CL)",6,540,1.8,1.7,1.5,-,1.8,0.3,-,-,6.49,-,1,0.2,0.8,1,0.3,0.5,0.7,40.0,74.6,0.3,2.8,-
+6,"437Ermin BicakcicHoffenheim, 32, D(C)","Ermin Bicakcic Hoffenheim, 32, D(C)",3,253,2,1.7,2,1,1.3,1.3,0.7,-,6.49,-,1,-,0.7,0.7,-,0.7,-,75.0,88.9,-,2.0,-
+7,"438David de GeaMan Utd, 31, GK","David de Gea Man Utd, 31, GK",9,810,0.1,-,-,-,0.3,-,-,-,6.49,-,-,-,-,-,-,-,-,19.9,62.6,-,6.6,-
+8,"439Daniel ParejoValencia, 33, M(C)","Daniel Parejo Valencia, 33, M(C)",5,450,1.4,0.4,1.6,-,0.2,1,-,-,6.48,-,-,1.2,1.8,1.8,0.2,1.2,0.2,79.0,88.4,1.8,3.8,-
+9,"440Gabriel PiresBenfica, 28, M(C),FW","Gabriel Pires Benfica, 28, M(C),FW",2(2),219,1.5,2,0.5,-,0.3,0.8,-,-,6.48,-,-,1,1,1,-,1.3,0.8,34.0,73.5,-,0.5,0.3
+0,"421Kevin N'DoramMonaco, 26, DMC","Kevin N'Doram Monaco, 26, DMC",1,90,1,2.0,1,1,2,-,-,-,6.52,-,-,1,1,1,-,1,1,47.0,78.7,-,2.0,-
+1,"422Nicolò ZanioloRoma, 22, AM(CR),FW","Nicolò Zaniolo Roma, 22, AM(CR),FW",4(3),385,0.7,0.1,1,-,-,0.6,-,-,6.52,2,-,1,0.4,1,-,1.1,1.4,15.7,76.4,0.1,0.7,-
+2,"423Kamil GlikMonaco, 34, D(C)","Kamil Glik Monaco, 34, D(C)",5,436,2.2,1.4,0.4,1.4,6.2,0.2,0.2,-,6.52,-,-,0.4,0.2,0.4,0.2,-,-,39.8,83.4,-,3.6,-
+3,"424Diego CostaAtletico, 33, FW","Diego Costa Atletico, 33, FW",4,307,-,0.3,1.8,-,0.3,0.3,-,-,6.51,1,1,1.3,1,2,1.8,1.5,2.8,25.5,77.5,-,0.8,0.3
+4,"425Steven BergwijnPSV Eindhoven, 24, AM(CLR),FW","Steven Bergwijn PSV Eindhoven, 24, AM(CLR),FW",5,404,0.8,0.6,0.8,-,0.2,0.6,-,-,6.51,-,1,1.2,1.4,0.6,-,0.8,3,19.2,82.3,-,0.2,0.4
+5,"426Ander HerreraMan Utd, 32, M(C)","Ander Herrera Man Utd, 32, M(C)",2,169,3.5,1.0,1.5,-,1.5,1.5,0.5,-,6.51,-,-,2,1,1,-,0.5,-,51.5,95.1,0.5,2.5,-
+6,"427Thomas DelaneyBorussia Dortmund, 30, DMC","Thomas Delaney Borussia Dortmund, 30, DMC",4(2),297,1,1.3,1.3,-,1.2,0.5,0.3,-,6.51,-,-,0.2,0.8,0.2,-,1,0.3,36.3,86.7,0.2,2.2,-
+7,"428Michy BatshuayiValencia, 28, FW","Michy Batshuayi Valencia, 28, FW",4(1),346,0.6,0.2,2.2,-,0.2,0.2,-,-,6.5,1,-,2.6,0.4,1.2,1.8,1.2,3.2,20.4,77.5,-,1.2,-
+8,"429Iker CasillasPorto, 41, GK","Iker Casillas Porto, 41, GK",10,930,-,0.1,-,-,1,0.1,-,-,6.5,-,-,-,-,-,-,-,-,34.1,66.0,-,8.5,-
+9,"430Hördur MagnússonCSKA Moscow, 29, D(CL)","Hördur Magnússon CSKA Moscow, 29, D(CL)",3,236,0.3,0.7,0.7,-,8,0.7,0.7,-,6.5,-,-,1,0.7,-,-,-,-,37.7,77.9,0.3,5.3,-
+0,"411Toby AlderweireldTottenham, 33, D(CR)","Toby Alderweireld Tottenham, 33, D(CR)",12,1080,0.9,1,0.5,1.1,3.6,0.8,1,-,6.53,-,-,0.8,0.2,0.3,-,0.1,0.2,61.3,86.1,-,6.9,0.1
+1,"412Nadiem AmiriHoffenheim, 25, M(CLR)","Nadiem Amiri Hoffenheim, 25, M(CLR)",0(1),27,3,1,-,-,-,1,-,-,6.53,-,-,1,1,-,-,-,2,19.0,84.2,-,-,-
+2,"413Shinji KagawaBorussia Dortmund, 33, M(CL)","Shinji Kagawa Borussia Dortmund, 33, M(CL)",0(1),28,-,-,-,-,1,-,-,-,6.53,-,-,-,1,1,-,1,-,24.0,75.0,-,1,-
+3,"414Nico SchulzHoffenheim, 29, D(L),M(L)","Nico Schulz Hoffenheim, 29, D(L),M(L)",5,444,2.2,1.2,0.8,-,0.8,0.4,0.2,-,6.53,-,1,2,1.6,0.4,0.2,0.2,1.6,38.6,82.4,1,0.8,-
+4,"415Daley SinkgravenAjax, 26, D(L),M(CL)","Daley Sinkgraven Ajax, 26, D(L),M(CL)",0(2),94,2,-,0.5,-,1.5,0.5,-,-,6.53,-,-,-,1,0.5,-,-,0.5,20.5,78.0,-,0.5,-
+5,"416Trent SainsburyPSV Eindhoven, 30, D(C)","Trent Sainsbury PSV Eindhoven, 30, D(C)",1(1),99,0.5,-,0.5,-,8,-,1,-,6.53,-,-,-,-,-,-,0.5,-,18.5,67.6,-,1,-
+6,"417Victor LindelöfMan Utd, 27, D(CR)","Victor Lindelöf Man Utd, 27, D(CR)",7,630,0.6,1.3,0.4,0.6,4.3,0.6,0.4,-,6.52,-,-,0.3,0.1,0.1,-,-,0.4,36.7,89.1,-,0.9,-
+7,"418Omar MascarellSchalke, 29, DMC","Omar Mascarell Schalke, 29, DMC",3,226,1.3,0.7,1.3,-,1.3,1,0.3,-,6.52,-,-,0.3,0.7,0.7,-,0.3,0.3,46.3,82.0,-,3.3,-
+8,"419Solomon KvirkveliaLokomotiv Moscow, 30, D(C)","Solomon Kvirkvelia Lokomotiv Moscow, 30, D(C)",5,436,2.2,1.8,1,1,5.6,0.4,0.8,-,6.52,-,-,0.6,-,0.2,-,-,0.6,30.0,70.0,-,2.6,-
+9,"420FredMan Utd, 29, M(C)","Fred Man Utd, 29, M(C)",6,460,1.8,0.8,1.7,-,0.8,2.2,0.3,-,6.52,-,1,1,0.7,1,-,2.2,1,59.3,86.8,0.2,4.7,-
+0,"401Davit KhocholavaShakhtar, 29, D(C)","Davit Khocholava Shakhtar, 29, D(C)",3,226,0.3,1.3,0.7,1,6.0,0.3,0.7,-,6.55,-,-,0.3,-,1.0,-,0.3,-,46.3,88.5,-,1.3,-
+1,"402PepePorto, 39, D(C)","Pepe Porto, 39, D(C)",3,300,2.3,1,1,0.7,2.3,1.3,0.3,-,6.54,-,-,0.7,0.3,1.3,0.3,-,0.3,70.0,84.3,-,9.0,-
+2,"403Thilo KehrerPSG, 25, D(CLR),M(R)","Thilo Kehrer PSG, 25, D(CLR),M(R)",5(2),489,1.4,0.7,0.9,-,1.9,1.1,0.3,-,6.54,-,-,0.3,0.1,0.3,-,0.3,0.7,45.1,92.4,-,0.9,-
+3,"404Gedson FernandesBenfica, 23, M(CR)","Gedson Fernandes Benfica, 23, M(CR)",5(1),466,1.7,0.3,0.7,0.2,0.2,0.3,0.2,-,6.54,1,-,1.2,0.7,2.0,-,1.2,2,27.2,78.5,-,0.7,-
+4,"405Bertrand TraoréLyon, 26, AM(R),FW","Bertrand Traoré Lyon, 26, AM(R),FW",4(4),321,0.8,0.3,0.5,-,0.5,-,0.1,-,6.54,1,1,0.8,1,0.8,0.6,0.6,0.5,17.6,87.9,-,0.6,-
+5,"406Maximiliano PereiraPorto, 38, D(R)","Maximiliano Pereira Porto, 38, D(R)",7(1),634,1.8,1,1.1,0.5,2.5,0.6,0.1,-,6.54,-,-,0.3,0.4,0.4,-,0.4,0.9,38.9,79.7,0.3,1.1,-
+6,"407Gastón PereiroPSV Eindhoven, 27, AM(CLR),FW","Gastón Pereiro PSV Eindhoven, 27, AM(CLR),FW",5(1),393,0.8,0.2,0.8,-,1.3,0.8,0.2,-,6.54,-,1,1.7,1,0.3,-,1.3,1,17.7,74.5,0.7,0.8,-
+7,"408Sofiane FeghouliGalatasaray, 32, M(CR)","Sofiane Feghouli Galatasaray, 32, M(CR)",1(2),136,0.3,-,-,-,0.3,0.3,-,-,6.54,1,-,2.0,2.3,0.7,-,-,2.7,28.0,77.4,1.3,1.3,0.3
+8,"409Nicolás OtamendiMan City, 34, D(C)","Nicolás Otamendi Man City, 34, D(C)",5,402,1.8,1.2,1.6,0.2,5.0,0.4,0.6,-,6.54,-,-,0.8,0.2,0.6,0.2,0.2,0.4,77.4,91.7,-,3.8,-
+9,"410Arturo VidalBarcelona, 35, M(CR)","Arturo Vidal Barcelona, 35, M(CR)",3(8),357,2.3,0.9,1.5,-,0.3,0.7,0.1,-,6.53,-,-,0.5,0.2,0.6,-,0.4,0.2,24.8,86.1,-,0.8,-
+0,"391Jelle VossenClub Bruges, 33, AM(C),FW","Jelle Vossen Club Bruges, 33, AM(C),FW",1,82,1.0,2.0,-,-,-,-,-,-,6.58,-,-,2,-,-,-,-,2,23.0,60.9,-,1.0,-
+1,"392Ivan OblyakovCSKA Moscow, 23, D(L),M(CL)","Ivan Oblyakov CSKA Moscow, 23, D(L),M(CL)",6,488,1.5,1.2,1.2,0.2,1,2.2,0.3,-,6.58,-,-,1,1,1.2,0.2,1.2,1.7,38.5,84.0,0.8,0.8,-
+2,"393Maximilian WöberAjax, 24, D(CL)","Maximilian Wöber Ajax, 24, D(CL)",3(1),251,0.8,2.5,0.8,0.5,4,-,-,-,6.57,-,-,0.3,-,0.8,-,-,0.3,50.0,91.5,-,3.3,-
+3,"394Daniel SchwaabPSV Eindhoven, 33, D(CR),DMC","Daniel Schwaab PSV Eindhoven, 33, D(CR),DMC",5,450,1.6,2.0,0.4,0.4,5.4,0.8,1.2,-,6.57,-,-,0.2,0.6,-,-,-,-,32.2,81.4,-,2.8,-
+4,"395Lukas HejdaViktoria Plzen, 32, D(C)","Lukas Hejda Viktoria Plzen, 32, D(C)",5(1),451,2.0,1.8,0.8,1,4.8,0.3,0.5,-,6.57,1,-,0.3,-,0.7,-,-,0.2,25.2,76.2,-,1.3,-
+5,"396Nélson SemedoBarcelona, 28, D(LR),M(R)","Nélson Semedo Barcelona, 28, D(LR),M(R)",5(5),556,1.6,0.6,1.1,-,0.8,0.5,-,-,6.56,-,-,-,0.4,0.9,0.1,0.4,0.7,32.2,91.0,-,1.0,0.1
+6,"397Anthony MartialMan Utd, 26, AM(LR),FW","Anthony Martial Man Utd, 26, AM(LR),FW",6(2),507,0.5,0.1,0.9,-,0.3,-,-,-,6.56,1,-,1.5,1.1,1.3,0.4,2.8,1.9,27.3,83.9,0.1,0.3,-
+7,"398Ángel CorreaAtletico, 27, AM(CLR),FW","Ángel Correa Atletico, 27, AM(CLR),FW",3(5),354,1.3,0.8,1.3,-,0.1,0.8,-,-,6.56,-,1,1.4,0.5,0.8,0.3,1.5,1.6,17.3,71.0,0.1,0.1,-
+8,"399Marko GobeljicFK Crvena Zvezda, 29, D(LR)","Marko Gobeljic FK Crvena Zvezda, 29, D(LR)",3(1),301,2.0,2.5,2.3,0.5,3.5,0.3,0.3,-,6.56,1,-,1,0.8,0.5,-,0.5,2.8,23.3,62.4,0.5,0.8,-
+9,"400Ljubomir FejsaBenfica, 33, DMC","Ljubomir Fejsa Benfica, 33, DMC",5,436,4.0,1.2,1.6,0.4,0.6,1.2,0.4,-,6.55,-,-,0.4,0.4,0.8,-,0.4,0.8,39.8,84.4,-,1.8,-
+0,"381Danny RoseTottenham, 31, D(L),M(L)","Danny Rose Tottenham, 31, D(L),M(L)",6(2),529,1.4,0.9,1.1,0.1,1.6,0.5,0.4,-,6.6,-,-,0.6,0.6,1.4,-,0.6,1.9,27.9,79.8,0.4,1.3,-
+1,"382Jeison MurilloValencia, 30, D(C)","Jeison Murillo Valencia, 30, D(C)",1,90,1,3,1.0,-,3,-,1,-,6.6,-,-,1,-,1,-,-,1.0,43.0,95.3,-,2.0,-
+2,"383Arnór SigurdssonCSKA Moscow, 23, AM(CLR),FW","Arnór Sigurdsson CSKA Moscow, 23, AM(CLR),FW",4(2),355,0.5,0.2,0.8,-,0.5,1,-,-,6.6,2,1,1.7,0.7,1,0.2,1.7,1.2,16.5,82.8,0.2,0.2,-
+3,"384Djibril SowYoung Boys, 25, DMC","Djibril Sow Young Boys, 25, DMC",6,509,2,1.5,1.2,0.2,1.7,0.7,0.3,-,6.59,-,-,0.8,1,1.7,-,-,1.3,44.8,87.7,0.3,2.5,-
+4,"385Jefferson FarfánLokomotiv Moscow, 37, M(CR),FW","Jefferson Farfán Lokomotiv Moscow, 37, M(CR),FW",3(1),305,0.3,0.8,1.3,-,1.5,0.3,0.3,-,6.59,1,-,2.8,0.8,1.3,0.3,1.8,1.5,26.8,86.0,-,0.3,-
+5,"386Michalis BakakisAEK Athens, 31, D(LR)","Michalis Bakakis AEK Athens, 31, D(LR)",6,520,1.7,2.2,0.5,0.3,3.7,1.2,0.2,-,6.59,-,-,0.2,0.3,1.3,0.2,1.7,1.0,31.5,71.4,0.3,1.3,-
+6,"387Hugo LlorisTottenham, 35, GK","Hugo Lloris Tottenham, 35, GK",11,979,-,-,0.1,-,0.6,-,-,-,6.58,-,-,-,-,-,-,-,0.1,30.8,74.0,-,7.5,-
+7,"388Douglas CostaJuventus, 31, M(CLR)","Douglas Costa Juventus, 31, M(CLR)",1(4),157,0.2,0.2,0.4,-,0.4,0.2,-,-,6.58,-,-,1.2,0.4,0.6,-,0.4,0.6,13.8,91.3,0.4,0.4,-
+8,"389Denzel DumfriesPSV Eindhoven, 26, D(R),M(R)","Denzel Dumfries PSV Eindhoven, 26, D(R),M(R)",6,540,1.5,1.3,3.0,-,5.2,1.2,1.2,-,6.58,-,-,0.3,0.3,1,-,0.8,1.0,23.8,74.1,0.5,0.8,-
+9,"390Divock OrigiLiverpool, 27, AM(LR),FW","Divock Origi Liverpool, 27, AM(LR),FW",2(6),217,-,0.1,0.6,-,-,0.1,-,-,6.58,3,-,0.4,-,0.5,0.1,0.6,0.8,6.1,73.5,0.3,0.1,-
+0,"371Vasilios LampropoulosAEK Athens, 32, D(C)","Vasilios Lampropoulos AEK Athens, 32, D(C)",3,270,1.7,1.3,0.7,1,7,0.7,2,-,6.62,-,-,0.3,0.7,-,-,-,1,28.7,80.2,-,6.0,-
+1,"372Juan JesusRoma, 31, D(CL)","Juan Jesus Roma, 31, D(CL)",2(1),212,1,0.7,0.3,0.3,4,-,0.3,-,6.62,-,-,-,-,0.7,-,-,-,46.3,92.8,-,2.0,-
+2,"373ArthurBarcelona, 25, DMC","Arthur Barcelona, 25, DMC",7(2),567,1.3,0.2,0.4,-,0.3,0.3,0.2,-,6.61,-,-,-,0.7,2.2,-,0.9,0.8,59.6,94.2,-,1.8,-
+3,"374Håvard NordtveitHoffenheim, 31, D(CR),DMC","Håvard Nordtveit Hoffenheim, 31, D(CR),DMC",2(1),185,0.3,0.7,1.3,0.3,1.3,0.7,0.7,-,6.61,1,-,0.7,-,-,-,-,-,24.3,86.3,-,4.3,-
+4,"375Jadon SanchoBorussia Dortmund, 22, AM(CLR)","Jadon Sancho Borussia Dortmund, 22, AM(CLR)",5(2),438,0.6,0.1,0.1,-,0.1,0.1,-,-,6.61,1,1,0.4,1.4,0.7,0.1,1.6,3.7,36.9,88.0,0.3,0.7,0.1
+5,"376RafaBenfica, 29, AM(CLR),FW","Rafa Benfica, 29, AM(CLR),FW",4(2),369,2.3,0.7,0.5,0.2,0.5,1,-,-,6.61,-,-,1.2,0.3,1.5,-,1.2,1.3,16.3,72.4,0.2,0.3,-
+6,"377Suat SerdarSchalke, 25, M(CLR)","Suat Serdar Schalke, 25, M(CLR)",5(2),503,2.1,0.9,1.4,-,-,0.9,-,-,6.61,-,-,1.1,0.4,1,-,1.3,0.4,18.0,77.0,-,1.1,-
+7,"378Danilo D'AmbrosioInter, 33, D(CLR),M(LR)","Danilo D'Ambrosio Inter, 33, D(CLR),M(LR)",4,360,2.8,1.5,2.3,0.3,0.5,1.5,-,-,6.61,-,-,0.5,1,0.8,-,0.5,1.5,51.5,80.1,0.5,3.3,-
+8,"379Igor AkinfeevCSKA Moscow, 36, GK","Igor Akinfeev CSKA Moscow, 36, GK",5,450,-,-,-,-,0.2,-,-,-,6.6,-,-,-,-,0.2,-,-,-,31.2,41.0,-,9.6,-
+9,"380Emre CanJuventus, 28, D(CLR),DMC","Emre Can Juventus, 28, D(CLR),DMC",2(4),334,0.7,1.3,0.7,0.2,1.3,0.7,0.2,-,6.6,-,-,0.5,-,1,-,1.2,0.7,34.5,88.4,-,2.2,-
+0,"361Toni LatoValencia, 24, D(L)","Toni Lato Valencia, 24, D(L)",1,51,-,2.0,1.0,-,-,-,-,-,6.63,-,-,-,-,1.0,-,-,-,24.0,83.3,-,1,-
+1,"362Samuel GrandsirMonaco, 25, AM(LR)","Samuel Grandsir Monaco, 25, AM(LR)",2(1),187,1.3,1.0,0.7,-,-,0.3,-,-,6.63,1,-,0.7,0.7,1.0,0.3,1,1.3,19.0,82.5,0.7,1,-
+2,"363Yuto NagatomoGalatasaray, 35, D(LR),M(LR)","Yuto Nagatomo Galatasaray, 35, D(LR),M(LR)",5,441,1.4,1.0,0.6,0.2,1.6,0.4,0.2,-,6.63,-,-,0.2,0.8,0.8,0.2,0.6,0.4,34.0,80.0,0.4,1,-
+3,"364Thomas MüllerBayern, 32, M(CLR),FW","Thomas Müller Bayern, 32, M(CLR),FW",4(2),354,1.5,0.8,0.5,-,0.5,1,0.2,-,6.63,-,1,1.2,1,0.8,0.5,0.8,0.3,25.8,68.4,0.2,0.5,0.2
+4,"365Ryan DonkGalatasaray, 36, D(C),DMC","Ryan Donk Galatasaray, 36, D(C),DMC",6,474,1.3,1.2,1.0,0.7,3,0.7,0.7,1,6.63,-,-,0.2,0.8,0.8,-,0.7,0.7,41.0,85.4,-,3.5,-
+5,"366Dusan JovancicFK Crvena Zvezda, 31, DMC","Dusan Jovancic FK Crvena Zvezda, 31, DMC",2(3),265,1.4,0.8,1.2,-,1.2,0.8,0.2,-,6.62,-,-,0.8,0.4,1.8,-,1,0.4,19.8,76.8,-,0.6,-
+6,"367Ales CermákViktoria Plzen, 27, AM(C)","Ales Cermák Viktoria Plzen, 27, AM(C)",4(1),349,1,0.2,1.2,-,0.8,0.8,-,-,6.62,-,1,0.6,1.4,1.8,-,1,0.4,30.8,79.9,0.2,1.2,-
+7,"368Álvaro MorataAtletico, 29, AM(L),FW","Álvaro Morata Atletico, 29, AM(L),FW",1(1),122,0.5,0.5,3.0,-,-,-,-,-,6.62,-,-,1,-,1.5,1,1.5,1.5,18.0,58.3,-,-,-
+8,"369Dani AlvesPSG, 39, D(R),M(CR)","Dani Alves PSG, 39, D(R),M(CR)",2(1),205,1.3,1.0,1.0,-,0.3,1,0.3,-,6.62,-,-,1.7,1,3.0,0.3,1.3,0.7,52.0,85.3,1,1.3,-
+9,"370Eric BaillyMan Utd, 28, D(CR)","Eric Bailly Man Utd, 28, D(CR)",4,306,1.3,1.3,0.8,1,4,0.5,-,-,6.62,-,-,0.5,-,1.5,-,-,-,29.5,87.3,-,2.3,-
+0,"351Alphonse AreolaPSG, 29, GK","Alphonse Areola PSG, 29, GK",3,270,-,-,-,-,1.0,-,-,-,6.65,-,-,-,-,0.7,-,-,-,25.0,94.7,-,3.7,-
+1,"352Arnaut DanjumaClub Bruges, 25, AM(L),FW","Arnaut Danjuma Club Bruges, 25, AM(L),FW",2,166,-,0.5,-,-,1.0,-,-,-,6.65,1,-,2,1,-,-,1,1.5,26.5,75.5,0.5,1.5,-
+2,"353Oleg DanchenkoShakhtar, 27, D(R),M(R)","Oleg Danchenko Shakhtar, 27, D(R),M(R)",1,90,2,2,-,1,2.0,1,-,-,6.65,-,-,1,-,1,-,2,1,37.0,73.0,-,1.0,-
+3,"354Georginio WijnaldumLiverpool, 31, M(CLR)","Georginio Wijnaldum Liverpool, 31, M(CLR)",11(1),972,1,0.2,0.6,-,0.3,0.4,0.1,-,6.65,2,-,1,0.5,0.7,0.1,1.6,1.6,40.1,85.4,-,1.0,0.1
+4,"355José GayàValencia, 27, D(L),M(L)","José Gayà Valencia, 27, D(L),M(L)",5,450,1.8,1,1,0.2,2.4,0.4,0.2,-,6.65,-,-,0.4,0.6,0.8,0.2,0.2,0.2,44.4,80.6,1.2,2.0,-
+5,"356Diogo DalotMan Utd, 23, D(LR),M(R)","Diogo Dalot Man Utd, 23, D(LR),M(R)",2(2),243,1,0.5,0.5,-,2.5,1.3,0.3,-,6.65,-,-,0.5,0.3,-,0.5,0.3,1,21.0,78.6,1,1.5,-
+6,"357Harry WinksTottenham, 26, DMC","Harry Winks Tottenham, 26, DMC",8(2),676,1.6,0.7,0.4,-,0.6,0.3,0.3,-,6.64,-,-,0.4,0.9,0.9,0.1,0.9,1.2,47.8,90.4,0.3,2.5,-
+7,"358Roman BürkiBorussia Dortmund, 31, GK","Roman Bürki Borussia Dortmund, 31, GK",7,630,-,-,-,-,0.6,-,-,-,6.64,-,-,-,-,0.1,-,-,-,28.1,71.6,-,5.6,-
+8,"359Jan KovarikViktoria Plzen, 33, D(L),M(L)","Jan Kovarik Viktoria Plzen, 33, D(L),M(L)",4,360,0.3,0.5,0.8,-,1.3,-,0.3,-,6.64,1,-,1.3,1.5,1.5,0.5,0.8,0.5,23.8,73.7,2,1.8,-
+9,"360Ben DaviesTottenham, 29, D(CL),M(L)","Ben Davies Tottenham, 29, D(CL),M(L)",6(3),567,0.9,1.1,1.4,0.4,2.1,0.7,0.3,-,6.63,-,1,0.6,1,0.3,0.1,-,0.6,35.6,81.3,0.6,0.7,-
+0,"341Kirill NababkinCSKA Moscow, 35, D(CLR),M(LR)","Kirill Nababkin CSKA Moscow, 35, D(CLR),M(LR)",6,540,2.2,1.2,1.2,-,3.5,1.7,0.8,-,6.66,-,-,0.2,0.5,0.8,0.2,0.3,0.7,37.7,85.4,-,2.2,-
+1,"342Jacob Bruun LarsenBorussia Dortmund, 23, AM(CL)","Jacob Bruun Larsen Borussia Dortmund, 23, AM(CL)",1(4),149,0.4,0.6,-,-,0.2,0.6,-,-,6.66,1,1,0.8,1,-,0.2,-,0.6,10.8,88.9,-,-,0.2
+2,"343Fernando MusleraGalatasaray, 35, GK","Fernando Muslera Galatasaray, 35, GK",6,540,-,-,-,-,0.8,-,-,-,6.66,-,-,-,0.2,-,-,-,0.3,33.0,65.2,-,8.7,-
+3,"344Younès BelhandaGalatasaray, 32, M(CL)","Younès Belhanda Galatasaray, 32, M(CL)",4,327,1.5,0.5,1.5,-,-,1.3,0.3,-,6.66,-,-,1,1,2.3,-,1.3,1.8,36.5,80.1,0.5,1.5,0.3
+4,"345Yaroslav RakitskiyShakhtar, 32, D(C)","Yaroslav Rakitskiy Shakhtar, 32, D(C)",4,360,0.3,1.5,0.3,2.3,4,0.3,1.3,-,6.66,-,-,0.5,1.5,0.8,-,-,0.3,60.8,86.4,1.8,7.3,-
+5,"346Grzegorz KrychowiakLokomotiv Moscow, 32, D(C),M(C)","Grzegorz Krychowiak Lokomotiv Moscow, 32, D(C),M(C)",6,540,2,1.2,1.5,0.2,2.2,0.5,0.2,-,6.66,-,-,1,1,3.2,-,1.2,1.5,44.0,81.8,-,4,-
+6,"347Marcelo BrozovicInter, 29, M(CR)","Marcelo Brozovic Inter, 29, M(CR)",6,535,2.8,1.5,1.7,-,0.8,1.7,0.3,-,6.65,-,-,0.5,1.2,0.5,-,1.7,1.3,73.2,88.4,0.7,5.3,-
+7,"348Matteo PolitanoInter, 28, AM(CLR),FW","Matteo Politano Inter, 28, AM(CLR),FW",5(1),454,0.8,0.5,0.7,-,0.3,1.5,-,-,6.65,-,1,1.8,2,2.2,0.5,1,1.2,25.8,71.0,2.3,1.2,-
+8,"349Phil JonesMan Utd, 30, D(CR),DMC","Phil Jones Man Utd, 30, D(CR),DMC",3,270,1.3,2.3,0.3,0.3,3.7,1.3,1.7,1,6.65,-,-,-,-,0.7,-,-,0.3,45.3,92.6,0.3,1.7,-
+9,"350Romelu LukakuMan Utd, 29, AM(R),FW","Romelu Lukaku Man Utd, 29, AM(R),FW",6(3),546,0.3,-,0.7,-,0.6,0.2,-,-,6.65,2,1,1.1,0.4,0.2,0.8,1.2,1.2,13.8,73.4,-,0.3,-
+0,"331Oliver BaumannHoffenheim, 32, GK","Oliver Baumann Hoffenheim, 32, GK",6,540,-,-,-,-,0.7,0.2,-,-,6.68,-,-,-,0.2,-,-,-,-,32.0,69.8,-,7.5,-
+1,"332Marcus RashfordMan Utd, 24, AM(CLR),FW","Marcus Rashford Man Utd, 24, AM(CLR),FW",8(2),724,0.8,0.2,1.4,-,1,0.7,-,-,6.68,2,-,3.1,0.8,0.9,0.7,2.2,2.5,20.8,81.7,0.4,0.2,-
+2,"333Mario GötzeBorussia Dortmund, 30, M(CLR),FW","Mario Götze Borussia Dortmund, 30, M(CLR),FW",5(1),438,2.5,0.5,1,-,0.7,1,-,-,6.67,-,-,1,0.7,0.8,0.5,0.8,2.5,43.0,85.3,-,0.5,0.2
+3,"334Paco AlcácerBorussia Dortmund, 28, AM(R),FW","Paco Alcácer Borussia Dortmund, 28, AM(R),FW",4(1),356,0.4,0.6,0.8,-,-,0.4,-,-,6.67,1,1,1.6,1.2,-,1,0.8,1.6,19.0,71.6,0.2,0.4,0.2
+4,"335Patrik HrosovskyViktoria Plzen, 30, DMC","Patrik Hrosovsky Viktoria Plzen, 30, DMC",6,540,1.8,1,0.5,-,1.8,1.5,0.2,-,6.67,1,1,0.5,1,0.8,-,1,0.2,46.5,91.4,0.7,3.3,0.2
+5,"336Dmytro ChygrynskiyAEK Athens, 35, D(C)","Dmytro Chygrynskiy AEK Athens, 35, D(C)",5,450,2,1.6,0.6,0.4,4.6,0.4,1,-,6.67,-,-,-,-,0.6,0.2,-,0.4,43.6,89.9,-,3.0,-
+6,"337Marco WölfliYoung Boys, 39, GK","Marco Wölfli Young Boys, 39, GK",2,180,0.5,-,-,-,1,0.5,-,-,6.67,-,-,-,0.5,-,-,-,-,34.0,57.4,-,15.0,-
+7,"338Wesley MoraesClub Bruges, 25, FW","Wesley Moraes Club Bruges, 25, FW",6,522,0.3,-,1.7,0.2,0.8,-,-,-,6.66,2,-,1.2,0.7,1.2,1,2,3.5,20.8,70.4,-,0.2,-
+8,"339Adrien RabiotPSG, 27, DMC,M(L)","Adrien Rabiot PSG, 27, DMC,M(L)",3(2),282,1.6,0.6,0.4,-,0.6,-,-,-,6.66,-,-,0.8,0.2,1,-,1,1,47.8,90.4,-,2.2,-
+9,"340Martin LinnesGalatasaray, 30, D(LR)","Martin Linnes Galatasaray, 30, D(LR)",5,405,3.2,0.2,0.8,0.4,1.2,0.4,0.4,-,6.66,-,-,-,0.2,0.8,0.2,0.6,0.8,36.2,80.1,-,1.8,-
+0,"321André OnanaAjax, 26, GK","André Onana Ajax, 26, GK",12,1080,-,-,-,-,0.8,-,-,-,6.69,-,-,-,-,0.1,-,-,0.1,28.3,56.9,-,4.3,-
+1,"322Ishak BelfodilHoffenheim, 30, AM(LR),FW","Ishak Belfodil Hoffenheim, 30, AM(LR),FW",4(1),348,1,0.2,0.6,-,0.2,0.2,-,-,6.69,1,1,1.8,1.4,0.4,1.8,1.2,2,18.4,77.2,-,-,-
+2,"323Nikita ChernovCSKA Moscow, 26, D(C)","Nikita Chernov CSKA Moscow, 26, D(C)",4(1),353,1.6,0.8,0.8,0.4,7.0,0.4,0.2,-,6.69,-,-,0.2,-,0.4,-,-,-,33.8,84.6,-,2.8,-
+3,"324Odysseas VlachodimosBenfica, 28, GK","Odysseas Vlachodimos Benfica, 28, GK",6,540,-,0.2,-,-,0.8,0.2,-,-,6.69,-,-,-,-,0.2,-,-,-,27.3,65.9,-,7.5,-
+4,"325Yevhen KonoplyankaSchalke, 32, AM(CL),FW","Yevhen Konoplyanka Schalke, 32, AM(CL),FW",5(1),462,0.3,0.2,0.7,-,0.7,1.2,-,-,6.69,-,1,2.3,1.3,1.2,-,1.5,1.2,17.7,78.3,1.5,0.5,-
+5,"326Youri TielemansMonaco, 25, M(C)","Youri Tielemans Monaco, 25, M(C)",6,540,2.3,1.7,1.5,0.2,1.2,1.2,0.3,-,6.68,-,-,2,1,2.2,-,0.8,1,56.7,83.5,0.8,4.5,-
+6,"327Florian GrillitschHoffenheim, 26, D(C),M(CL)","Florian Grillitsch Hoffenheim, 26, D(C),M(CL)",5(1),415,2.3,1.8,1.5,-,0.5,1.8,0.2,-,6.68,1,-,0.8,-,1.3,0.2,0.8,1.5,34.0,82.4,-,3.2,-
+7,"328EdersonMan City, 28, GK","Ederson Man City, 28, GK",10,900,-,0.2,-,-,0.2,-,-,-,6.68,-,1,-,0.2,0.1,-,-,-,24.7,88.3,-,3.8,-
+8,"329Elseid HysajNapoli, 28, D(LR),M(R)","Elseid Hysaj Napoli, 28, D(LR),M(R)",1(2),149,1.3,0.3,0.7,-,1.0,0.3,-,-,6.68,-,-,0.7,-,1.3,-,-,0.3,40.7,91.0,0.3,2,-
+9,"330Presnel KimpembePSG, 26, D(C)","Presnel Kimpembe PSG, 26, D(C)",7(1),647,1.9,1.5,0.9,0.6,2.1,0.4,0.1,-,6.68,1,-,0.3,0.3,1.3,0.1,0.5,1.3,63.8,91.6,-,0.6,-
+0,"311Aleksandar KolarovRoma, 36, D(CL),M(L)","Aleksandar Kolarov Roma, 36, D(CL),M(L)",7(1),661,0.5,0.5,0.3,0.5,2.3,0.4,-,-,6.71,-,1,1.8,1.4,2,-,0.6,0.6,44.6,77.0,1,2.3,-
+1,"312RafinhaBayern, 36, D(CLR),M(R)","Rafinha Bayern, 36, D(CLR),M(R)",4(2),367,2.5,0.8,1.0,-,1.3,1.2,-,-,6.71,-,1,-,0.5,0.2,-,0.3,0.2,53.3,88.1,0.2,2.8,-
+2,"313Haris SeferovicBenfica, 30, AM(LR),FW","Haris Seferovic Benfica, 30, AM(LR),FW",4(2),426,-,0.2,1.8,-,0.5,0.2,-,-,6.7,1,-,2.3,1,0.5,0.3,1.2,0.8,17.2,58.3,0.2,0.3,0.2
+3,"314Georgy SchennikovCSKA Moscow, 31, D(CL),M(L)","Georgy Schennikov CSKA Moscow, 31, D(CL),M(L)",2(1),214,1,0.7,2.0,0.7,2.0,0.3,-,-,6.7,1,-,1.3,-,2.3,-,-,-,21.0,77.8,-,0.7,-
+4,"315Mário RuiNapoli, 31, D(L),M(L)","Mário Rui Napoli, 31, D(L),M(L)",6,520,1.3,1.2,1.2,0.8,3.3,0.8,0.2,1,6.7,-,-,0.5,1.3,2,0.2,1,1.3,61.5,81.0,1.2,0.8,-
+5,"316Roman HubnikViktoria Plzen, 38, D(C)","Roman Hubnik Viktoria Plzen, 38, D(C)",6,540,2.3,2.0,0.5,0.8,7.7,0.3,0.7,-,6.7,-,-,0.3,0.2,0.5,-,-,0.5,29.8,78.8,-,4.0,-
+6,"317Thomas LemarAtletico, 26, AM(CLR)","Thomas Lemar Atletico, 26, AM(CLR)",5(2),410,1.1,0.4,0.9,-,0.6,0.7,0.1,-,6.7,-,1,0.6,0.9,1,-,0.9,1.4,35.1,80.9,0.9,2.0,-
+7,"318Lucas TousartLyon, 25, DMC","Lucas Tousart Lyon, 25, DMC",5(2),482,3,0.6,0.9,-,1.4,2,0.4,-,6.69,1,-,0.4,0.3,0.4,0.1,0.4,0.4,29.1,79.4,-,1.6,-
+8,"319Moussa SissokoTottenham, 32, M(CR)","Moussa Sissoko Tottenham, 32, M(CR)",8(2),730,2,1.0,1.7,-,0.5,0.8,0.1,-,6.69,-,1,0.4,1,0.5,-,1.3,1.6,34.4,87.2,0.1,1.3,0.1
+9,"320Jesús VallejoReal Madrid, 25, D(CR)","Jesús Vallejo Real Madrid, 25, D(CR)",1,90,1,3.0,1.0,1,4.0,-,1,-,6.69,-,-,-,-,-,-,-,-,51.0,96.1,-,3.0,-
+0,"301Kwadwo AsamoahInter, 33, D(L),M(CL)","Kwadwo Asamoah Inter, 33, D(L),M(CL)",6,519,1.3,1.3,1.2,0.3,2.8,0.3,0.3,-,6.72,-,1,0.7,0.8,2.5,-,0.8,1.2,43.2,85.3,0.7,3.2,-
+1,"302Milan SkriniarInter, 27, D(C)","Milan Skriniar Inter, 27, D(C)",6,540,4,0.3,1,0.8,4.2,1.3,0.3,-,6.72,-,-,0.3,0.3,0.7,-,0.3,0.5,56.3,90.5,0.5,3.0,-
+2,"303Dani CeballosReal Madrid, 25, M(CL)","Dani Ceballos Real Madrid, 25, M(CL)",2(1),185,-,0.3,0.7,-,-,-,-,-,6.72,-,-,1.3,1.3,0.3,-,0.3,1.7,59.3,94.4,1,2.0,-
+3,"304JardelBenfica, 36, D(C)","Jardel Benfica, 36, D(C)",4,360,1.5,2,2,1,3,-,0.5,-,6.72,-,-,1,-,0.5,-,0.5,0.5,41.5,84.3,-,2.0,-
+4,"305Manuel NeuerBayern, 36, GK","Manuel Neuer Bayern, 36, GK",8,720,-,-,-,-,0.5,0.1,-,-,6.72,-,-,-,0.1,0.1,-,-,-,37.0,76.0,-,7.8,-
+5,"306Álvaro OdriozolaReal Madrid, 26, D(R)","Álvaro Odriozola Real Madrid, 26, D(R)",2(1),227,1.7,0.3,1,-,0.3,-,0.7,-,6.72,-,-,-,1,0.7,-,0.7,0.7,44.0,95.5,1,0.3,-
+6,"307Milan RodicFK Crvena Zvezda, 31, D(L),DMC,M(L)","Milan Rodic FK Crvena Zvezda, 31, D(L),DMC,M(L)",5,450,1,1.2,0.8,0.6,4.6,0.4,0.8,-,6.71,-,-,0.2,0.6,0.2,0.2,-,0.8,28.2,67.4,0.4,1.6,-
+7,"308Leon GoretzkaBayern, 27, M(CR)","Leon Goretzka Bayern, 27, M(CR)",3(3),326,1.8,0.8,1.3,-,0.2,0.7,0.2,-,6.71,-,-,1.2,0.2,1.2,-,0.2,0.5,30.0,88.3,-,1.2,-
+8,"309Germán ContiBenfica, 28, D(C)","Germán Conti Benfica, 28, D(C)",3,270,2,3.7,1,0.7,5,0.7,1.3,-,6.71,-,-,0.7,-,0.3,-,-,0.3,37.7,86.7,-,2.3,-
+9,"310Jorrit HendrixPSV Eindhoven, 27, D(C),DMC","Jorrit Hendrix PSV Eindhoven, 27, D(C),DMC",6,521,1.8,2.2,2,-,3.3,1.5,0.7,-,6.71,-,-,0.7,0.7,1.2,-,0.8,1,29.7,78.1,-,2.2,-
+0,"291Diego PerottiRoma, 33, M(CLR),FW","Diego Perotti Roma, 33, M(CLR),FW",1(1),148,1.5,1.5,0.5,-,-,0.5,-,-,6.74,-,-,0.5,1.5,2,-,2,1.0,28.0,75.0,1.5,0.5,-
+1,"292Leonardo BittencourtHoffenheim, 28, M(CLR),FW","Leonardo Bittencourt Hoffenheim, 28, M(CLR),FW",2(1),142,2.3,1,1,-,-,2,-,-,6.73,-,1,1,2.0,1,-,1,1.7,13.7,75.6,0.7,0.3,0.3
+2,"293Fernando LlorenteTottenham, 37, FW","Fernando Llorente Tottenham, 37, FW",1(8),235,0.2,-,0.7,-,1.1,0.3,-,-,6.73,2,1,1.2,0.4,0.2,0.2,0.7,1.1,9.4,55.3,-,0.1,-
+3,"294Radja NainggolanInter, 34, M(C)","Radja Nainggolan Inter, 34, M(C)",4,282,0.8,0.3,-,-,0.5,1,-,-,6.73,1,-,2,1.5,2.5,0.3,1,1.8,26.8,79.4,0.5,1.3,-
+4,"295Anton MiranchukLokomotiv Moscow, 26, AM(CLR),FW","Anton Miranchuk Lokomotiv Moscow, 26, AM(CLR),FW",4(2),391,1.2,0.3,1,-,0.7,0.5,-,-,6.73,1,-,1.2,1.3,1.3,0.2,1.7,2.0,31.7,75.3,0.2,0.8,0.2
+5,"296Serge GnabryBayern, 26, AM(CLR),FW","Serge Gnabry Bayern, 26, AM(CLR),FW",5(2),448,2,0.9,0.6,-,0.3,1.4,0.3,-,6.73,-,1,2.4,0.9,0.4,0.4,0.9,1.6,21.3,76.5,0.3,0.1,-
+6,"297Fedor ChalovCSKA Moscow, 24, AM(CR),FW","Fedor Chalov CSKA Moscow, 24, AM(CR),FW",6,502,0.7,-,0.8,-,0.5,0.7,-,-,6.73,2,-,1.7,0.8,0.5,0.3,1.3,1.5,22.2,70.7,-,0.7,0.2
+7,"298Lucas HernándezAtletico, 26, D(CL)","Lucas Hernández Atletico, 26, D(CL)",5,450,1.4,1.2,0.6,0.2,3.4,-,0.2,-,6.73,-,-,-,0.2,1,-,-,0.6,54.6,86.8,-,3.6,-
+8,"299Nabil BentalebSchalke, 27, M(C)","Nabil Bentaleb Schalke, 27, M(C)",4(2),422,3,0.8,0.5,-,1.3,1.3,0.3,-,6.73,3,-,0.8,0.3,0.3,-,1.3,1.0,35.5,81.7,0.3,1.2,-
+9,"300Andrija ZivkovicBenfica, 25, AM(CLR)","Andrija Zivkovic Benfica, 25, AM(CLR)",0(2),69,-,0.5,1,-,0.5,0.5,-,-,6.73,-,-,1.5,1.0,-,-,0.5,0.5,18.0,83.3,2,-,-
+0,"281Phil FodenMan City, 22, AM(CLR),FW","Phil Foden Man City, 22, AM(CLR),FW",1(3),120,0.3,-,0.3,-,0.5,1.5,-,-,6.75,1,-,1.8,1,0.5,-,-,-,16.0,84.4,0.5,0.3,-
+1,"282Kerem DemirbayHoffenheim, 28, M(C)","Kerem Demirbay Hoffenheim, 28, M(C)",4(1),374,1.4,0.8,2.2,-,0.4,2,0.2,-,6.75,-,2,1.8,1.6,1.0,-,1.2,1,38.8,79.4,1.4,2.2,0.2
+2,"283Steven ZuberHoffenheim, 30, D(L),M(CLR)","Steven Zuber Hoffenheim, 30, D(L),M(CLR)",1(2),102,0.7,-,-,-,0.3,-,-,-,6.74,1,-,1.7,0.3,0.3,-,0.7,1,13.3,77.5,-,-,-
+3,"284PizziBenfica, 32, M(CLR)","Pizzi Benfica, 32, M(CLR)",5(1),324,0.3,0.3,0.5,-,0.2,0.5,-,-,6.74,-,1,0.2,2.7,0.7,-,0.7,0.8,39.8,82.0,2.5,3.3,-
+4,"285Dmitri BarinovLokomotiv Moscow, 25, D(C),M(C)","Dmitri Barinov Lokomotiv Moscow, 25, D(C),M(C)",3(1),283,2.3,2.5,2,-,1.8,1.3,0.5,-,6.74,-,-,1.5,0.5,0.5,-,1,0.8,28.3,71.7,-,0.5,-
+5,"286Marcos LlorenteReal Madrid, 27, D(R),M(CR),FW","Marcos Llorente Real Madrid, 27, D(R),M(CR),FW",2,148,2.0,0.5,0.5,-,0.5,1.5,-,-,6.74,-,-,1.0,-,1.5,-,1,-,56.5,92.9,-,5,-
+6,"287Daniel WassValencia, 33, D(LR),M(CLR)","Daniel Wass Valencia, 33, D(LR),M(CLR)",3,270,1.3,1.3,1,0.7,0.7,1.3,0.3,-,6.74,-,-,0.7,1,1.0,-,1,0.3,46.7,80.7,1.3,2.7,-
+7,"288Kostas ManolasRoma, 30, D(C)","Kostas Manolas Roma, 30, D(C)",7,660,1.3,1.4,0.6,1.1,4.1,0.6,1.3,-,6.74,1,-,0.9,0.1,0.4,-,0.3,0.4,42.6,86.9,-,2.1,-
+8,"289Steven NzonziRoma, 33, M(C)","Steven Nzonzi Roma, 33, M(C)",7(1),610,1.9,0.6,1.4,0.1,1.4,0.5,0.3,-,6.74,-,-,0.4,1,0.6,-,0.8,1.1,52.5,88.8,0.1,1.9,0.1
+9,"290Xherdan ShaqiriLiverpool, 30, M(CLR)","Xherdan Shaqiri Liverpool, 30, M(CLR)",2(2),176,0.3,0.3,0.3,-,0.5,0.5,-,-,6.74,-,2,1.0,0.8,1.0,-,0.8,0.8,21.8,72.4,0.8,0.3,0.3
+0,"271André AlmeidaBenfica, 31, D(CLR),DMC","André Almeida Benfica, 31, D(CLR),DMC",6,540,2.7,2.3,1.7,0.5,2.7,1.2,0.5,-,6.77,-,-,0.3,0.3,2,0.2,0.7,1,43.7,77.1,-,1.7,-
+1,"272Andrew RobertsonLiverpool, 28, D(L),M(L)","Andrew Robertson Liverpool, 28, D(L),M(L)",12,1009,2.5,0.6,0.9,0.6,2.0,0.8,0.2,-,6.77,-,2,0.5,0.8,0.1,-,0.6,0.6,53.4,79.1,0.3,2.7,0.1
+2,"273Ömer ToprakBorussia Dortmund, 32, D(C)","Ömer Toprak Borussia Dortmund, 32, D(C)",3,270,1.7,1.3,-,0.7,3.0,-,0.7,-,6.77,-,-,0.7,-,0.7,-,0.3,0.7,80.0,95.4,-,4.3,-
+3,"274Stefan de VrijInter, 30, D(C)","Stefan de Vrij Inter, 30, D(C)",5,442,1.2,1.4,0.8,0.8,3.4,-,1.2,-,6.77,-,1,0.6,0.2,0.2,-,-,-,52.4,89.3,-,3.4,-
+4,"275Marius WolfBorussia Dortmund, 27, D(R),M(CLR)","Marius Wolf Borussia Dortmund, 27, D(R),M(CLR)",3(1),212,2.3,0.8,-,-,1.5,0.3,-,-,6.76,-,-,1.8,0.8,0.5,0.3,1,0.8,33.3,78.9,0.3,1.5,-
+5,"276Ulisses GarcíaYoung Boys, 26, D(L),DMC","Ulisses García Young Boys, 26, D(L),DMC",1(1),135,3.0,1.0,3,-,2.0,0.5,-,-,6.76,-,-,1.0,1.5,-,0.5,0.5,1.5,27.0,87.0,1,-,-
+6,"277Alessandro FlorenziRoma, 31, D(R),M(CLR)","Alessandro Florenzi Roma, 31, D(R),M(CLR)",6(2),619,1.9,1.1,0.8,0.4,1.1,1,0.1,-,6.76,-,1,0.9,1.1,0.4,0.1,0.1,1.3,33.1,75.5,1.1,3.8,-
+7,"278Sebastian RudySchalke, 32, D(R),M(CR)","Sebastian Rudy Schalke, 32, D(R),M(CR)",3(1),240,2.0,1.3,1.3,-,0.8,1.5,-,-,6.75,-,-,0.3,1,0.8,-,0.8,0.3,31.5,82.5,0.8,2,0.3
+8,"279NachoReal Madrid, 32, D(CLR)","Nacho Real Madrid, 32, D(CLR)",5,450,2.2,2.4,0.6,1,2.6,1,0.4,-,6.75,-,-,0.8,0.4,1,0.4,-,0.6,55.2,93.5,-,3.6,-
+9,"280Óliver TorresPorto, 27, M(CLR)","Óliver Torres Porto, 27, M(CLR)",4(1),352,2.4,1.2,0.6,-,0.2,1.8,0.2,-,6.75,-,1,0.4,1.2,0.6,-,1,0.8,44.6,79.8,0.2,4.6,0.2
+0,"261Benjamin StambouliSchalke, 31, D(CR),M(C)","Benjamin Stambouli Schalke, 31, D(CR),M(C)",5,431,4.4,2.2,2,0.4,1.6,0.6,0.2,-,6.79,-,-,0.2,-,1,-,0.4,0.6,51.6,73.6,-,2.6,-
+1,"262Papa NdiayeGalatasaray, 31, M(C)","Papa Ndiaye Galatasaray, 31, M(C)",5,425,2.6,0.4,1.8,-,1.4,0.8,0.4,-,6.79,-,-,1.4,0.4,1,-,1,0.6,48.0,82.9,-,3.8,0.2
+2,"263Thibaut CourtoisReal Madrid, 30, GK","Thibaut Courtois Real Madrid, 30, GK",5,450,-,-,-,-,0.4,-,-,-,6.78,-,-,-,0.2,-,-,-,-,28.6,65.0,-,7.2,-
+3,"264Jan KopicViktoria Plzen, 32, AM(LR)","Jan Kopic Viktoria Plzen, 32, AM(LR)",3(1),296,0.5,0.8,1,0.3,0.8,1,-,-,6.78,-,2,0.8,1.5,1.8,0.5,1.3,0.5,26.5,79.2,0.3,0.8,-
+4,"265Blaise MatuidiJuventus, 35, M(CL)","Blaise Matuidi Juventus, 35, M(CL)",8(1),684,1.7,1.2,1.3,0.1,0.6,0.6,0.2,-,6.78,-,-,0.6,0.6,0.4,0.1,0.8,1.4,33.3,84.3,0.2,1.2,-
+5,"266Marios OikonomouAEK Athens, 29, D(C)","Marios Oikonomou AEK Athens, 29, D(C)",4,338,0.8,3,0.5,1,5.3,0.8,0.5,-,6.78,-,1,-,0.5,0.5,-,0.5,0.3,36.8,89.1,-,4.5,-
+6,"267Christian PulisicBorussia Dortmund, 23, M(CLR),FW","Christian Pulisic Borussia Dortmund, 23, M(CLR),FW",5(2),455,0.9,0.4,0.4,-,0.1,0.7,-,-,6.78,1,-,1.1,0.3,1.1,0.4,2.3,1.7,33.9,83.5,0.4,0.9,-
+7,"268Daniel CarvajalReal Madrid, 30, D(R)","Daniel Carvajal Real Madrid, 30, D(R)",5(1),419,1.5,1.3,1.2,-,1.5,0.5,0.5,-,6.77,-,1,0.7,1.5,0.3,-,0.3,1.5,49.0,85.7,0.2,3.7,-
+8,"269MarlosShakhtar, 34, AM(CR)","Marlos Shakhtar, 34, AM(CR)",3,267,0.3,0.7,1,-,-,1,-,-,6.77,-,1,1.7,2,1,-,1.7,1.7,50.3,89.4,-,3.0,-
+9,"270Javier PastoreRoma, 32, AM(CLR)","Javier Pastore Roma, 32, AM(CLR)",1,59,1,-,1,-,-,1,-,-,6.77,-,-,3,1,-,-,-,3,51.0,84.3,2,1.0,-
+0,"251Salif SanéSchalke, 31, D(C),DMC","Salif Sané Schalke, 31, D(C),DMC",6,540,1.2,2,1,0.2,3.8,0.8,0.8,-,6.8,-,-,0.7,0.7,2.2,-,-,0.3,44.0,83.0,-,3.5,-
+1,"252Luke ShawMan Utd, 26, D(CL),M(L)","Luke Shaw Man Utd, 26, D(CL),M(L)",8,720,1.9,1.1,2.1,0.3,2.0,0.4,0.1,1,6.8,-,-,0.5,0.8,0.6,-,0.4,0.3,50.1,84.8,0.4,2.1,-
+2,"253Jaume DoménechValencia, 31, GK","Jaume Doménech Valencia, 31, GK",1,90,-,-,-,-,1.0,-,-,-,6.8,-,-,-,-,1.0,-,-,-,21.0,76.2,-,6.0,-
+3,"254Bryan CristanteRoma, 27, D(C),M(C)","Bryan Cristante Roma, 27, D(C),M(C)",5(2),516,2.3,1,1.9,-,0.7,1.6,0.3,-,6.8,-,-,1,1.4,0.7,-,1.4,1.6,48.0,85.1,0.3,2.3,-
+4,"255Daniele De RossiRoma, 38, D(C),M(C)","Daniele De Rossi Roma, 38, D(C),M(C)",4,310,0.8,1.8,0.8,-,1.5,1.8,0.5,-,6.8,1,-,0.5,0.3,1.0,-,-,-,46.3,85.9,-,2.5,-
+5,"256Vladislav IgnatjevLokomotiv Moscow, 35, D(LR),M(CLR)","Vladislav Ignatjev Lokomotiv Moscow, 35, D(LR),M(CLR)",6,519,2.5,2.8,1.8,-,2.7,2,0.5,-,6.8,1,-,0.7,0.7,1.5,0.2,0.3,1.3,35.8,72.1,-,1.0,-
+6,"257MarquinhosPSG, 28, D(CR),DMC","Marquinhos PSG, 28, D(CR),DMC",7,630,1.6,1.6,1.1,0.4,2.0,0.4,0.3,-,6.79,1,-,0.4,0.4,0.3,0.1,0.7,0.4,65.7,91.7,-,3.9,-
+7,"258JuanfranAtletico, 37, D(R)","Juanfran Atletico, 37, D(R)",5,450,2.4,2.2,0.8,-,1.6,0.2,0.2,-,6.79,-,-,-,1,1.0,-,0.6,0.6,35.8,78.8,0.2,0.8,-
+8,"259Marc-André ter StegenBarcelona, 30, GK","Marc-André ter Stegen Barcelona, 30, GK",11,990,-,-,-,-,0.7,-,-,-,6.79,-,-,-,-,0.2,-,-,-,28.9,78.9,-,7.7,-
+9,"260Scott McTominayMan Utd, 25, D(C),DMC","Scott McTominay Man Utd, 25, D(C),DMC",3,270,3,1,3.3,-,0.7,0.3,-,-,6.79,-,-,0.3,-,1.0,-,0.7,1.7,32.3,90.7,-,0.3,-
+0,"241Almamy TouréMonaco, 26, D(CR),M(R)","Almamy Touré Monaco, 26, D(CR),M(R)",0(1),14,-,2,-,-,2,-,-,-,6.82,-,-,-,-,-,-,-,-,20.0,80.0,-,-,-
+1,"242Lucas VázquezReal Madrid, 30, D(R),M(R)","Lucas Vázquez Real Madrid, 30, D(R),M(R)",5(1),386,1.8,0.2,1.3,-,0.2,0.3,-,-,6.82,1,1,1,1.5,1.5,0.3,1.7,2.3,33.2,85.4,0.8,2,-
+2,"243Mouctar DiakhabyValencia, 25, D(C)","Mouctar Diakhaby Valencia, 25, D(C)",3,270,2.7,1.7,1,1,4,-,1,-,6.82,-,-,0.3,0.3,0.7,-,0.7,0.3,46.3,84.9,-,2.3,-
+3,"244Raphaël VaraneReal Madrid, 29, D(C)","Raphaël Varane Real Madrid, 29, D(C)",4,360,0.8,1.5,0.8,1.5,2.8,0.3,0.5,-,6.82,-,-,1,-,0.3,-,0.3,-,59.8,89.1,-,6.5,-
+4,"245Matús KozácikViktoria Plzen, 38, GK","Matús Kozácik Viktoria Plzen, 38, GK",2,180,-,-,-,-,-,-,-,-,6.82,-,-,-,-,-,-,-,-,27.5,41.8,-,5.5,-
+5,"246Antonio ValenciaMan Utd, 36, D(R),M(R)","Antonio Valencia Man Utd, 36, D(R),M(R)",3,252,1,2.7,3,-,2.3,0.3,0.3,-,6.81,-,-,-,0.3,2,-,0.7,0.7,54.3,86.5,0.7,3.7,-
+6,"247Rodrigo BecãoCSKA Moscow, 26, D(C)","Rodrigo Becão CSKA Moscow, 26, D(C)",6,540,1.8,1.7,1.8,0.7,4.2,1.2,1,-,6.81,-,-,0.3,0.2,1.5,-,-,0.3,39.2,83.0,-,2.7,-
+7,"248Emmanuel DennisClub Bruges, 24, M(LR),FW","Emmanuel Dennis Club Bruges, 24, M(LR),FW",2(1),180,1,1.3,1.3,-,1,0.7,-,-,6.81,-,-,1.7,0.3,2.3,0.3,3.7,3,21.0,71.4,-,0.7,-
+8,"249NetoValencia, 32, GK","Neto Valencia, 32, GK",5,450,-,-,-,-,0.2,-,-,-,6.81,-,-,-,-,-,-,-,0.4,17.8,58.4,-,6.2,-
+9,"250Sandro LauperYoung Boys, 25, D(C),DMC","Sandro Lauper Young Boys, 25, D(C),DMC",4(1),405,2.8,2.2,2,1.6,4.2,1.4,0.8,-,6.8,-,-,0.4,-,0.2,-,-,0.6,35.6,86.5,-,3,-
+0,"231Stefano DenswilClub Bruges, 29, D(CL)","Stefano Denswil Club Bruges, 29, D(CL)",6,540,0.8,1.5,1.3,0.8,2.8,0.3,0.3,-,6.84,-,-,0.7,0.3,0.5,-,-,0.7,54.2,85.8,-,3.5,-
+1,"232Kevin MbabuYoung Boys, 27, D(R),M(R)","Kevin Mbabu Young Boys, 27, D(R),M(R)",5,450,4,0.6,1.6,0.8,1.2,1.4,0.4,-,6.84,-,-,0.6,2.4,1.4,-,1.4,1.4,26.8,71.6,1.4,1.4,-
+2,"233Serdar AzizGalatasaray, 31, D(C)","Serdar Aziz Galatasaray, 31, D(C)",4,360,1.8,0.8,2.3,1.8,5.8,0.3,0.5,-,6.84,-,-,-,0.3,1.0,-,-,-,61.3,92.2,-,6.3,-
+3,"234Davide SantonRoma, 31, D(LR)","Davide Santon Roma, 31, D(LR)",3(1),258,1.5,1.8,1.3,-,2.5,0.8,-,-,6.83,-,1,-,0.3,0.3,-,0.5,0.3,27.8,88.3,-,0.5,-
+4,"235Edinson CavaniPSG, 35, AM(LR),FW","Edinson Cavani PSG, 35, AM(LR),FW",5(2),415,-,0.6,0.4,-,0.6,0.3,-,-,6.83,2,1,1.7,0.4,0.1,0.6,0.1,0.7,10.1,83.1,-,0.3,-
+5,"236RodriAtletico, 25, DMC","Rodri Atletico, 25, DMC",6(2),606,1.1,1.5,0.9,-,1.5,0.4,0.5,-,6.82,-,-,0.5,0.1,0.3,-,0.9,0.4,57.8,89.8,0.1,2.8,-
+6,"237Pavel KaderábekHoffenheim, 30, D(R),M(LR)","Pavel Kaderábek Hoffenheim, 30, D(R),M(LR)",6,540,1.7,0.7,0.8,-,3.3,0.8,0.3,-,6.82,1,-,0.8,1.7,0.7,0.5,0.3,0.8,34.5,80.2,0.7,1.7,-
+7,"238Ferland MendyLyon, 27, D(L),M(L)","Ferland Mendy Lyon, 27, D(L),M(L)",8,707,0.9,1.1,1.0,0.1,2.0,0.4,0.1,-,6.82,-,1,1.1,1.3,1.1,-,1.3,1.4,43.4,83.6,0.5,2.1,0.1
+8,"239Roberto FirminoLiverpool, 30, M(CLR),FW","Roberto Firmino Liverpool, 30, M(CLR),FW",8(4),748,1,0.2,0.8,-,0.3,1.1,-,-,6.82,4,1,1.4,1.0,0.8,0.1,1.1,2.3,26.0,78.2,0.2,0.5,0.3
+9,"240Rodrigo BentancurJuventus, 24, M(C)","Rodrigo Bentancur Juventus, 24, M(C)",6(1),550,2.1,1.3,1.7,-,0.9,1.0,0.3,-,6.82,-,-,0.7,1.1,1.3,-,0.7,0.9,48.6,84.7,0.3,1.4,-
+0,"221MarceloLyon, 35, D(C)","Marcelo Lyon, 35, D(C)",8,720,1.3,2.3,0.8,1,6.8,0.5,0.9,-,6.86,-,-,0.4,-,-,-,0.1,0.5,52.0,88.0,-,4.5,-
+1,"222David OspinaNapoli, 33, GK","David Ospina Napoli, 33, GK",6,540,0.3,-,-,-,1.0,-,-,-,6.85,-,-,-,-,0.5,-,-,-,31.0,69.4,-,6.8,-
+2,"223John StonesMan City, 28, D(CR)","John Stones Man City, 28, D(CR)",5(1),422,0.8,1.2,0.7,0.5,2.2,-,0.5,-,6.85,-,-,0.3,0.2,0.5,-,0.2,0.3,66.0,95.7,-,2.7,-
+3,"224Clinton MataClub Bruges, 29, D(CR),M(R)","Clinton Mata Club Bruges, 29, D(CR),M(R)",2(2),208,3.8,0.8,0.3,-,1.3,1,-,-,6.85,-,-,-,0.8,0.8,-,0.8,0.8,25.0,76.0,0.3,0.8,-
+4,"225Thomas MeunierPSG, 30, D(R),M(R)","Thomas Meunier PSG, 30, D(R),M(R)",4(1),363,0.8,0.8,1,0.2,2.4,0.2,0.2,-,6.85,1,1,1,0.6,0.2,-,0.6,0.2,39.8,81.4,0.4,2.0,0.2
+5,"226Davinson SánchezTottenham, 25, D(C)","Davinson Sánchez Tottenham, 25, D(C)",7(1),631,1.4,1.4,0.5,0.8,3.3,0.5,0.5,-,6.85,-,-,0.5,0.4,0.1,-,0.1,0.4,63.4,89.3,-,3.3,-
+6,"227Wojciech SzczesnyJuventus, 32, GK","Wojciech Szczesny Juventus, 32, GK",10,900,-,-,-,-,0.7,0.1,-,-,6.85,-,-,-,-,-,-,-,-,24.8,74.2,-,8.3,-
+7,"228Alexander NübelSchalke, 25, GK","Alexander Nübel Schalke, 25, GK",2,180,-,-,-,-,1.0,-,-,-,6.85,-,-,-,-,-,-,-,-,22.0,61.4,-,6.5,-
+8,"229Diego GodínAtletico, 36, D(C)","Diego Godín Atletico, 36, D(C)",6,540,0.5,1.5,1,-,3.2,0.5,0.5,-,6.85,1,-,0.8,0.7,0.5,-,0.2,0.7,44.0,80.3,-,3.8,-
+9,"230RafaelLyon, 31, D(LR),M(R)","Rafael Lyon, 31, D(LR),M(R)",3,240,3,3.7,1,-,3.3,2.3,-,-,6.84,-,-,0.3,0.3,1,0.3,-,2,35.0,63.8,-,0.3,-
+0,"211Mario MandzukicJuventus, 36, M(L),FW","Mario Mandzukic Juventus, 36, M(L),FW",7(1),579,1.0,0.5,0.9,-,0.9,0.3,0.1,-,6.86,1,-,1,0.5,0.9,0.4,-,1.4,16.4,63.4,-,-,-
+1,"212Saúl ÑíguezAtletico, 27, D(CL),M(CLR)","Saúl Ñíguez Atletico, 27, D(CL),M(CLR)",7(1),631,1.6,1.5,1.4,0.1,1.3,1.5,0.1,-,6.86,1,-,1.8,0.6,0.6,-,0.5,1.8,40.5,81.2,0.1,1,-
+2,"213Stephan El ShaarawyRoma, 29, AM(CLR),FW","Stephan El Shaarawy Roma, 29, AM(CLR),FW",4,264,1.0,0.8,0.8,-,0.8,0.8,-,-,6.86,-,1,1.5,0.3,1.0,-,0.5,1.3,18.5,82.4,0.3,0.8,-
+3,"214Clément LengletBarcelona, 26, D(C)","Clément Lenglet Barcelona, 26, D(C)",11(1),999,2.3,0.7,1.0,1,3.3,0.5,0.9,-,6.86,-,-,0.7,-,0.8,-,0.1,0.3,51.7,87.9,-,4.3,-
+4,"215Kenny TeteLyon, 26, D(CR),M(R)","Kenny Tete Lyon, 26, D(CR),M(R)",2(1),196,4.0,1.3,1.0,0.3,2.0,-,-,-,6.86,-,-,0.3,0.7,0.7,-,-,0.7,35.3,78.3,-,1.3,-
+5,"216Jérôme BoatengBayern, 33, D(CR)","Jérôme Boateng Bayern, 33, D(CR)",5,450,1.4,2.0,0.6,0.8,3.4,0.2,0.6,-,6.86,-,-,-,0.2,0.6,-,-,-,85.4,85.9,-,10.8,-
+6,"217Dele AlliTottenham, 26, M(CL),FW","Dele Alli Tottenham, 26, M(CL),FW",8,709,1.1,0.8,0.8,0.1,0.8,1,0.1,-,6.86,-,3,2.1,1.6,1.4,0.1,1.6,2.6,38.3,81.0,0.1,0.8,0.3
+7,"218Francis CoquelinValencia, 31, M(CLR)","Francis Coquelin Valencia, 31, M(CLR)",3(1),278,1.8,2.5,1.8,-,0.8,1,0.3,-,6.86,-,-,0.3,0.3,2.0,-,1.5,0.5,36.5,86.3,-,1.8,-
+8,"219AngeliñoPSV Eindhoven, 25, D(L),M(L)","Angeliño PSV Eindhoven, 25, D(L),M(L)",6,540,1.2,1.7,0.8,0.3,3.8,0.7,1.2,-,6.86,-,1,0.7,1.2,0.8,-,0.3,0.2,28.0,69.6,0.7,2.2,0.3
+9,"220Julian WeiglBorussia Dortmund, 26, D(C),DMC","Julian Weigl Borussia Dortmund, 26, D(C),DMC",3(1),289,2.5,0.8,1.5,-,0.8,0.5,-,-,6.86,-,-,0.5,0.3,2.3,-,1,0.5,68.0,93.8,-,4.3,0.3
+0,"201Keylor NavasReal Madrid, 35, GK","Keylor Navas Real Madrid, 35, GK",3,270,-,-,-,-,0.3,-,-,-,6.88,-,-,-,-,-,-,-,-,19.0,89.5,-,5.0,-
+1,"202Ruud VormerClub Bruges, 34, M(CR)","Ruud Vormer Club Bruges, 34, M(CR)",6,540,2,1.2,1.2,-,1.3,0.7,0.2,-,6.88,1,1,0.8,1,0.3,0.5,1,1,36.2,78.8,1,2.2,-
+2,"203Eduardo SalvioBenfica, 31, M(CR)","Eduardo Salvio Benfica, 31, M(CR)",4,246,1.3,1.8,1.3,-,0.5,1.3,-,-,6.88,-,1,1.3,1.3,0.5,-,3.5,2.5,22.8,75.8,-,0.8,0.3
+3,"204FernandinhoMan City, 37, D(CR),DMC","Fernandinho Man City, 37, D(CR),DMC",7(1),643,1.6,2.4,2.3,-,2.1,0.8,0.9,-,6.88,-,-,0.6,0.6,0.9,-,0.9,0.6,61.3,87.3,-,3.6,0.1
+4,"205Alex SandroJuventus, 31, D(CL),M(L)","Alex Sandro Juventus, 31, D(CL),M(L)",8(1),743,1.8,1.2,1.8,0.3,2.0,0.7,0.4,-,6.88,-,-,0.7,1,1.9,-,1.1,1.7,47.2,88.2,0.7,2.8,-
+5,"206Fabián RuizNapoli, 26, M(CL)","Fabián Ruiz Napoli, 26, M(CL)",6,471,2,1.2,0.7,-,1.0,0.5,0.2,-,6.88,-,-,2.7,1,0.7,-,1.7,1.3,58.5,85.2,0.2,1.5,-
+6,"207Marek HamsikNapoli, 34, M(C),FW","Marek Hamsik Napoli, 34, M(C),FW",5(1),457,2,0.7,0.7,-,1.2,1.7,-,-,6.87,1,1,0.3,1.2,0.3,-,0.5,0.3,73.7,88.9,-,7.3,0.2
+7,"208Leonardo BonucciJuventus, 35, D(C)","Leonardo Bonucci Juventus, 35, D(C)",10,900,0.7,1.2,0.6,0.4,2.6,0.3,0.9,1,6.87,-,2,0.5,0.5,0.3,-,0.1,0.1,69.2,87.6,0.2,6.6,0.2
+8,"209Raúl AlbiolNapoli, 36, D(C)","Raúl Albiol Napoli, 36, D(C)",6,496,0.3,1.3,0.5,0.3,4.8,-,0.8,-,6.87,-,-,0.2,-,0.7,-,-,0.2,69.0,90.1,-,8.0,-
+9,"210Anastasios BakasetasAEK Athens, 28, M(CLR)","Anastasios Bakasetas AEK Athens, 28, M(CLR)",2,180,4.5,0.5,1.5,-,0.5,1,-,-,6.87,-,-,2,0.5,-,0.5,2,0.5,50.5,81.2,1.5,1.5,0.5
+0,"191Weston McKennieSchalke, 23, D(C),M(CLR)","Weston McKennie Schalke, 23, D(C),M(CLR)",4(2),374,1.2,2.2,1.2,-,0.8,0.8,0.3,-,6.9,1,1,0.5,1,0.5,0.2,1.2,0.7,23.5,61.7,-,0.8,-
+1,"192OtávioPorto, 27, AM(CLR),FW","Otávio Porto, 27, AM(CLR),FW",6(2),517,2.5,0.6,1.9,-,0.4,1.1,-,-,6.9,2,1,0.9,1.1,1.8,0.1,1.3,1.6,29.6,69.2,0.1,0.5,0.1
+2,"193Danilo PereiraPorto, 30, D(C),DMC","Danilo Pereira Porto, 30, D(C),DMC",10,930,1.4,1.4,1.6,0.2,1.3,0.7,0.7,-,6.9,-,-,1.4,0.5,1.7,-,0.8,0.7,49.5,87.3,-,3.2,-
+3,"194Paul PogbaMan Utd, 29, M(CL)","Paul Pogba Man Utd, 29, M(CL)",8(1),730,0.6,0.7,1.4,-,0.6,0.7,0.2,-,6.9,2,1,1.7,2,2.7,0.1,1.4,2.4,51.8,85.2,0.2,5.2,0.2
+4,"195Daley BlindAjax, 32, D(CL),DMC,M(L)","Daley Blind Ajax, 32, D(CL),DMC,M(L)",12,1080,1.9,1.7,0.8,0.2,3.6,0.8,0.8,-,6.9,-,-,0.6,0.5,0.6,0.1,0.3,0.3,66.3,81.5,-,2.7,0.1
+5,"196Lorenzo InsigneNapoli, 31, AM(CL),FW","Lorenzo Insigne Napoli, 31, AM(CL),FW",6,490,0.2,0.2,-,-,-,0.7,-,-,6.9,3,-,3.0,1,0.8,1,0.8,1.7,45.3,81.3,0.3,1.5,-
+6,"197FabinhoLiverpool, 28, D(CR),DMC","Fabinho Liverpool, 28, D(CR),DMC",7(4),727,2.5,1.1,1.6,-,1.4,2,-,-,6.9,-,-,0.3,0.4,1.2,-,0.1,0.7,40.8,81.1,-,1.8,0.1
+7,"198Chris SmallingMan Utd, 32, D(CR)","Chris Smalling Man Utd, 32, D(CR)",8,720,1.5,1.1,1.3,0.3,4.9,0.3,1,-,6.89,-,-,0.5,-,0.3,-,0.3,0.3,35.1,84.7,-,2.0,-
+8,"199Marcel SchmelzerBorussia Dortmund, 34, D(CL),M(L)","Marcel Schmelzer Borussia Dortmund, 34, D(CL),M(L)",2(1),193,1.3,0.7,0.7,-,2,-,0.7,-,6.89,-,-,1.0,0.7,0.3,-,0.3,1.7,65.3,88.3,0.7,1.0,-
+9,"200Achraf HakimiBorussia Dortmund, 23, D(LR),M(R)","Achraf Hakimi Borussia Dortmund, 23, D(LR),M(R)",4(1),370,1.8,0.8,0.2,0.4,0.6,1.8,0.2,-,6.88,-,3,0.6,1.2,1.6,-,1.2,1.0,70.2,84.9,-,1.8,-
+0,"181Gabriel PaulistaValencia, 31, D(CR)","Gabriel Paulista Valencia, 31, D(CR)",5,450,1.6,1.8,0.8,1.8,4.6,0.4,1,-,6.92,-,-,0.4,-,0.8,-,0.2,0.4,51.0,89.4,-,2.8,-
+1,"182FernandoGalatasaray, 34, DMC","Fernando Galatasaray, 34, DMC",4,325,2,1.5,3,-,1.8,0.8,0.5,-,6.92,-,-,0.3,0.8,1,-,0.3,1,39.0,86.5,-,4.5,-
+2,"183DaniloMan City, 30, D(CLR),DMC","Danilo Man City, 30, D(CLR),DMC",1(1),119,-,1.0,0.5,-,1.0,-,-,-,6.91,-,-,-,0.5,-,-,0.5,-,74.5,95.3,-,3.5,0.5
+3,"184Niklas SüleBayern, 26, D(CR)","Niklas Süle Bayern, 26, D(CR)",5(1),451,1,1.5,0.3,0.3,3.2,0.2,0.5,-,6.91,-,-,0.3,0.3,0.2,-,-,-,63.5,92.1,-,4.7,-
+4,"185Nemanja MaticMan Utd, 33, DMC","Nemanja Matic Man Utd, 33, DMC",6,540,2.2,1.2,1.2,0.2,1.5,1,0.8,-,6.91,-,-,-,0.7,1,0.3,0.5,1.5,71.8,87.9,-,5.2,-
+5,"186Santiago AriasAtletico, 30, D(R)","Santiago Arias Atletico, 30, D(R)",4,347,2.3,0.5,-,-,3.5,0.8,-,-,6.91,-,-,0.3,0.8,0.8,-,-,0.5,34.5,82.6,0.3,0.8,-
+6,"187MaiconGalatasaray, 33, D(C)","Maicon Galatasaray, 33, D(C)",3(1),287,2.3,1.5,0.8,0.8,1.5,0.8,1.3,-,6.9,-,-,1.3,0.3,1.5,-,-,0.5,42.8,85.4,-,7.0,-
+7,"188David NeresAjax, 25, AM(CLR)","David Neres Ajax, 25, AM(CLR)",10(1),852,0.9,0.3,1,-,0.2,0.8,-,-,6.9,2,2,1,1.1,1.4,0.6,1.3,3.4,28.1,86.4,0.3,0.3,0.2
+8,"189Aymeric LaporteMan City, 28, D(CL)","Aymeric Laporte Man City, 28, D(CL)",10,882,1.2,1.6,1.3,0.8,3.7,0.4,0.3,-,6.9,2,-,0.6,0.2,0.6,-,0.5,0.5,82.0,92.4,0.1,3.6,-
+9,"190Alessandro SchöpfSchalke, 28, M(CLR)","Alessandro Schöpf Schalke, 28, M(CLR)",3(1),298,1,1.3,1,-,0.8,1,-,-,6.9,1,-,1.3,1,0.8,-,1,1.3,32.0,83.6,0.5,1.0,-
+0,"171Ilya PomazunCSKA Moscow, 25, GK","Ilya Pomazun CSKA Moscow, 25, GK",1,90,-,-,-,-,-,-,-,-,6.93,-,-,-,-,-,-,-,-,27.0,14.8,-,3,-
+1,"172Vinícius JúniorReal Madrid, 21, AM(L),FW","Vinícius Júnior Real Madrid, 21, AM(L),FW",3(1),234,1.5,-,0.8,-,-,0.3,-,-,6.93,-,2,2.3,1.3,2,0.5,1.3,1.5,16.3,80.0,-,0.3,-
+2,"173Dries MertensNapoli, 35, AM(CLR),FW","Dries Mertens Napoli, 35, AM(CLR),FW",4(2),375,0.3,-,1.3,-,0.2,1,-,-,6.93,3,-,3.2,1.5,0.7,0.3,0.7,0.5,18.5,75.7,0.7,-,-
+3,"174Júnior MoraesShakhtar, 35, FW","Júnior Moraes Shakhtar, 35, FW",6,506,0.7,0.3,2.5,-,0.8,1.5,0.2,-,6.93,3,2,2.2,0.7,2.5,-,0.8,2.2,17.0,77.5,-,0.2,0.2
+4,"175AlissonLiverpool, 29, GK","Alisson Liverpool, 29, GK",13,1170,-,0.1,-,-,0.2,-,-,-,6.93,-,-,-,-,-,-,-,-,28.4,76.7,-,4.3,-
+5,"176Benjamin MendyMan City, 27, D(L),DMC,M(L)","Benjamin Mendy Man City, 27, D(L),DMC,M(L)",2,174,3,0.5,2,-,-,1,-,-,6.92,-,-,1,1.5,0.5,-,1,0.5,48.5,90.7,0.5,2,-
+6,"177Marwin HitzBorussia Dortmund, 34, GK","Marwin Hitz Borussia Dortmund, 34, GK",1,90,-,-,-,-,2,-,-,-,6.92,-,-,-,-,-,-,-,-,27.0,88.9,-,4,-
+7,"178Garry RodriguesGalatasaray, 31, AM(LR)","Garry Rodrigues Galatasaray, 31, AM(LR)",6,513,1.2,-,1,-,0.2,0.2,-,-,6.92,1,1,2.7,1.7,2,0.8,1.5,3,22.8,83.2,0.7,0.3,0.2
+8,"179Matías VecinoInter, 30, M(C)","Matías Vecino Inter, 30, M(C)",5,450,3,0.8,2.6,-,1.2,2.4,0.4,-,6.92,1,1,2.4,1,0.4,-,1,1.4,43.6,77.5,-,2.4,0.4
+9,"180Hirving LozanoPSV Eindhoven, 26, AM(LR),FW","Hirving Lozano PSV Eindhoven, 26, AM(LR),FW",6,540,1.3,0.7,1.5,-,0.3,2.7,0.2,-,6.92,2,1,3.2,2.7,4,1,2,3.3,18.0,71.3,1.3,0.3,-
+0,"161Jan VertonghenTottenham, 35, D(CL)","Jan Vertonghen Tottenham, 35, D(CL)",10,849,1.2,1.8,1.1,0.7,3,0.4,0.7,-,6.95,1,1,0.6,0.1,0.3,-,0.3,0.3,48.6,84.0,0.2,4.4,-
+1,"162Naby KeïtaLiverpool, 27, M(C)","Naby Keïta Liverpool, 27, M(C)",4(2),244,2.2,0.8,0.8,-,0.3,1.0,0.2,-,6.94,1,-,0.8,0.7,0.8,-,0.8,0.8,24.0,81.3,-,0.8,-
+2,"163Thiago SilvaPSG, 37, D(C)","Thiago Silva PSG, 37, D(C)",7,616,1.0,1.6,0.7,0.9,6.7,0.3,0.9,-,6.94,-,-,0.1,-,1.0,0.1,-,0.3,80.3,92.3,-,5.4,-
+3,"164James MilnerLiverpool, 36, D(LR),M(CLR)","James Milner Liverpool, 36, D(LR),M(CLR)",10(2),902,2.0,0.8,1.4,0.2,1,0.8,0.1,-,6.94,2,2,1,1.6,0.8,0.1,1.2,0.9,45.2,81.5,0.9,3.4,-
+4,"165Ilkay GündoganMan City, 31, M(C)","Ilkay Gündogan Man City, 31, M(C)",7(1),590,1.1,1.0,0.8,-,0.5,1.1,-,-,6.94,-,1,1.1,1.3,0.6,-,1,0.8,62.8,92.2,1,1.5,0.3
+5,"166Jordan HendersonLiverpool, 31, D(C),M(CLR)","Jordan Henderson Liverpool, 31, D(C),M(CLR)",8(3),799,1.6,1.2,0.8,0.1,0.8,0.8,-,-,6.94,-,1,0.8,1.5,0.2,0.1,0.4,0.6,42.5,84.6,0.4,2.6,0.4
+6,"167Matija NastasicSchalke, 29, D(C)","Matija Nastasic Schalke, 29, D(C)",6,540,3.3,2.0,0.5,0.7,3.8,0.8,0.5,-,6.94,-,-,-,0.3,0.2,-,0.3,0.2,46.2,89.2,-,3.2,-
+7,"168Sergi RobertoBarcelona, 30, D(R),M(CR)","Sergi Roberto Barcelona, 30, D(R),M(CR)",8(1),709,1.6,1.3,0.7,0.1,1.3,0.3,-,-,6.93,-,-,0.3,0.4,1.0,-,0.6,0.4,56.2,89.7,0.1,0.3,-
+8,"169Franck RibéryBayern, 39, AM(CL),FW","Franck Ribéry Bayern, 39, AM(CL),FW",6(1),439,1.0,1.0,0.9,-,-,1.3,-,-,6.93,1,-,1.1,0.4,0.6,0.7,1.9,1.3,29.4,80.6,0.1,1.7,-
+9,"170Luka ModricReal Madrid, 36, M(C)","Luka Modric Real Madrid, 36, M(C)",5(1),467,1.3,1.2,0.5,-,-,1.3,-,-,6.93,-,1,1.2,1.5,0.8,0.2,0.8,1.0,60.0,88.6,-,3.8,0.3
+0,"151Santi MinaValencia, 26, AM(LR),FW","Santi Mina Valencia, 26, AM(LR),FW",3(1),223,0.3,-,1,-,0.5,1,-,-,6.97,2,-,1.3,0.5,2.5,0.3,2,1.3,17.8,78.9,-,0.8,-
+1,"152Dan-Axel ZagadouBorussia Dortmund, 23, D(CL)","Dan-Axel Zagadou Borussia Dortmund, 23, D(CL)",4,347,1,0.8,-,0.3,4.0,0.5,1,-,6.96,-,-,0.8,0.3,0.3,-,-,0.5,82.5,92.1,-,5.8,-
+2,"153Pablo RosarioPSV Eindhoven, 25, DMC","Pablo Rosario PSV Eindhoven, 25, DMC",6,532,2.7,1.5,1.5,-,2.7,1.3,0.5,-,6.96,1,1,1.0,0.7,0.7,-,1,0.5,32.2,82.4,-,2.2,0.2
+3,"154Aleksandr GolovinMonaco, 26, M(CLR)","Aleksandr Golovin Monaco, 26, M(CLR)",3,230,2,1.3,2,-,0.3,-,-,-,6.96,-,1,0.7,1.3,1.3,-,1.7,1.3,37.0,84.7,0.3,1.3,0.3
+4,"155Michael KrmencikViktoria Plzen, 29, FW","Michael Krmencik Viktoria Plzen, 29, FW",3,242,-,0.7,1.3,-,0.7,-,-,-,6.96,2,-,2.7,0.7,2.7,0.7,1,1.3,14.0,71.4,-,0.7,-
+5,"156Joël VeltmanAjax, 30, D(CR),M(R)","Joël Veltman Ajax, 30, D(CR),M(R)",3(2),310,2.8,1.8,0.8,0.2,1.2,0.6,0.4,-,6.96,-,-,0.6,0.2,1.8,0.2,0.2,0.2,33.4,77.8,-,1.8,-
+6,"157James RodríguezBayern, 30, AM(CLR),FW","James Rodríguez Bayern, 30, AM(CLR),FW",4(1),336,1.2,1,0.8,-,0.8,0.4,-,-,6.95,-,1,1.0,1.8,2,-,0.4,1.2,45.8,88.2,1,3.0,-
+7,"158Thomas ParteyAtletico, 28, D(R),M(CR)","Thomas Partey Atletico, 28, D(R),M(CR)",6,418,1.3,1.8,1,-,0.7,1.2,0.5,-,6.95,-,1,1.3,0.5,-,-,0.7,0.5,44.0,81.8,-,2.5,-
+8,"159Federico BernardeschiJuventus, 28, M(CLR),FW","Federico Bernardeschi Juventus, 28, M(CLR),FW",6(2),552,0.5,0.6,1,-,0.4,-,-,-,6.95,-,1,1.6,1.4,1.6,0.1,2.3,1.5,22.9,82.5,1.3,1.8,-
+9,"160Ilzat AkhmetovCSKA Moscow, 24, M(CR)","Ilzat Akhmetov CSKA Moscow, 24, M(CR)",3(1),301,3,0.8,1,-,1.0,0.5,0.3,-,6.95,-,1,1.0,1.0,0.5,-,0.8,0.8,45.5,83.0,-,2.3,-
+0,"141Loic BadiashileMonaco, 24, Goalkeeper","Loic Badiashile Monaco, 24, Goalkeeper",1,90,-,-,-,-,3,-,-,-,6.98,-,-,-,-,1,-,-,-,29.0,62.1,-,12,-
+1,"142MarceloReal Madrid, 34, D(L),M(L)","Marcelo Real Madrid, 34, D(L),M(L)",4,344,1,0.5,0.3,0.3,0.8,1,-,-,6.98,1,1,1,1.8,0.8,0.5,0.8,1.3,66.3,85.7,0.5,4.3,0.5
+2,"143Yacine BrahimiPorto, 32, M(CLR)","Yacine Brahimi Porto, 32, M(CLR)",7(2),624,0.9,0.7,0.8,-,0.1,0.6,-,-,6.98,-,2,1.2,0.9,1.2,0.1,2.9,2.1,27.3,81.3,-,0.8,0.3
+3,"144Daniel CaligiuriSchalke, 34, D(R),M(CLR),FW","Daniel Caligiuri Schalke, 34, D(R),M(CLR),FW",6,512,3.3,1.8,1.8,-,1.5,2.5,0.3,-,6.98,-,-,0.7,0.8,1,0.3,3,1.3,26.3,72.2,0.7,1.8,0.2
+4,"145JonasBenfica, 38, AM(CLR),FW","Jonas Benfica, 38, AM(CLR),FW",2,114,-,-,1,-,-,0.5,-,-,6.98,1,1,2,0.5,1,-,0.5,2,24.5,71.4,-,0.5,-
+5,"146Milan PavkovFK Crvena Zvezda, 28, FW","Milan Pavkov FK Crvena Zvezda, 28, FW",2(2),216,1.3,0.8,1.3,-,1.5,0.3,-,-,6.98,2,-,0.5,-,1.8,-,2,0.8,8.8,40.0,-,0.3,-
+6,"147Maxwel CornetLyon, 25, D(L),M(LR),FW","Maxwel Cornet Lyon, 25, D(L),M(LR),FW",2(3),215,1.2,0.2,0.2,-,-,-,0.2,-,6.97,3,-,1.4,0.4,0.6,0.4,0.6,1.8,11.6,67.2,0.2,0.6,-
+7,"148Kieran TrippierTottenham, 31, D(LR),M(R)","Kieran Trippier Tottenham, 31, D(LR),M(R)",7(1),627,2.1,1.4,1.3,0.6,1.1,0.9,0.1,-,6.97,-,2,0.1,3.1,0.6,0.1,-,0.5,47.4,76.0,2.3,3,-
+8,"149Tomas ChoryViktoria Plzen, 27, FW","Tomas Chory Viktoria Plzen, 27, FW",3,247,1,0.7,2.7,-,0.7,0.7,-,-,6.97,1,-,1.7,0.7,2.3,0.7,0.3,3,25.7,68.8,-,-,-
+9,"150Juan FoythTottenham, 24, D(CR),DMC","Juan Foyth Tottenham, 24, D(CR),DMC",1(1),100,0.5,2.5,1.5,-,-,1,-,-,6.97,-,-,-,1,-,-,0.5,0.5,45.0,90.0,1,2,-
+0,"131Anthony LopesLyon, 31, GK","Anthony Lopes Lyon, 31, GK",8,664,0.1,-,-,-,0.6,-,-,-,7.02,-,-,-,-,0.3,-,-,-,25.3,57.9,-,5.4,-
+1,"132Geoffrey KondogbiaValencia, 29, D(C),DMC","Geoffrey Kondogbia Valencia, 29, D(C),DMC",5,409,3.2,2.6,1,-,2.2,1.4,0.6,-,7.02,-,-,-,1,1.2,0.2,1.6,1.6,52.8,85.2,-,4.0,-
+2,"133Marco AsensioReal Madrid, 26, AM(CLR)","Marco Asensio Real Madrid, 26, AM(CLR)",2(5),302,0.3,0.7,0.6,-,0.1,0.3,-,-,7.02,2,-,2.9,1.6,1,0.1,0.7,0.7,25.9,87.8,0.3,1.7,0.1
+3,"134Jeroen ZoetPSV Eindhoven, 31, GK","Jeroen Zoet PSV Eindhoven, 31, GK",6,540,-,-,-,0.2,0.8,0.2,-,-,7.02,-,-,-,-,-,-,-,-,29.5,58.8,-,11.0,-
+4,"135Cristian LemaBenfica, 32, D(C)","Cristian Lema Benfica, 32, D(C)",0(1),45,-,-,-,1,4.0,1,2,-,7.01,-,-,-,-,-,-,-,-,7.0,71.4,-,1.0,-
+5,"136Ivan RakiticBarcelona, 34, M(C)","Ivan Rakitic Barcelona, 34, M(C)",12,1021,0.8,1.6,0.6,-,0.7,0.5,0.3,-,7.0,1,2,1.7,0.8,1,-,0.4,0.8,76.2,91.4,0.1,3.2,-
+6,"137Nikola MaksimovicNapoli, 30, D(CR),M(R)","Nikola Maksimovic Napoli, 30, D(CR),M(R)",5,436,0.4,0.8,1.6,0.4,3.4,0.2,0.4,-,7.0,-,1,0.2,1,1.4,-,0.4,0.8,58.4,87.3,0.2,3.0,-
+7,"138Vujadin SavicFK Crvena Zvezda, 31, D(C)","Vujadin Savic FK Crvena Zvezda, 31, D(C)",3,226,1,2.3,1,0.3,10.0,0.3,0.7,-,6.99,-,-,0.3,-,0.3,-,-,-,13.0,61.5,-,1.3,-
+8,"139Son Heung-MinTottenham, 29, M(CLR),FW","Son Heung-Min Tottenham, 29, M(CLR),FW",11(1),906,1.2,0.4,1.1,-,0.6,1.6,0.1,-,6.99,4,1,2.8,0.5,0.6,0.7,2.5,2,23.6,84.1,-,0.3,-
+9,"140Mark UthSchalke, 30, AM(CR),FW","Mark Uth Schalke, 30, AM(CR),FW",5,395,2,1,1.2,-,0.8,2.6,0.2,-,6.99,1,-,1.8,1,0.8,0.4,1.8,1.6,21.2,77.4,0.2,1.0,0.2
+0,"121Justin KluivertRoma, 23, AM(LR)","Justin Kluivert Roma, 23, AM(LR)",3(2),319,1.6,0.4,1.0,-,0.4,0.2,0.2,-,7.05,1,-,1.2,1.4,1.8,0.2,0.4,1.2,17.6,79.5,-,0.2,0.2
+1,"122Juan CuadradoJuventus, 34, D(R),M(CLR),FW","Juan Cuadrado Juventus, 34, D(R),M(CLR),FW",4(1),329,2,0.6,1.4,-,0.2,1.2,-,-,7.04,-,2,0.8,2.6,2,-,1,0.8,39.6,90.4,0.4,2,-
+2,"123Memphis DepayLyon, 28, AM(CL),FW","Memphis Depay Lyon, 28, AM(CL),FW",7(1),618,-,0.1,0.4,-,-,0.3,0.1,-,7.04,1,4,2,3.3,1,0.4,2.1,2.0,29.9,82.4,1.6,0.8,0.4
+3,"124Guillaume HoarauYoung Boys, 38, FW","Guillaume Hoarau Young Boys, 38, FW",5,409,1.6,-,1.6,0.2,2.4,1.4,0.4,-,7.04,3,-,2.4,0.6,0.4,0.6,1,2.0,21.6,66.7,-,-,-
+4,"125Ivan PerisicInter, 33, M(CLR),FW","Ivan Perisic Inter, 33, M(CLR),FW",6,501,1.7,1.8,1.3,-,2.5,1.0,0.2,-,7.04,-,-,2.2,1.8,0.8,-,0.2,0.8,25.8,66.5,1.2,0.8,-
+5,"126Brandon MecheleClub Bruges, 29, D(C)","Brandon Mechele Club Bruges, 29, D(C)",5,450,1.6,1.2,0.2,0.6,6.6,0.2,1.2,-,7.04,-,-,-,0.2,-,-,-,0.2,41.8,91.9,-,0.8,-
+6,"127Frenkie de JongAjax, 25, D(C),DMC","Frenkie de Jong Ajax, 25, D(C),DMC",11,986,2.5,1.7,0.7,-,1.7,1.6,0.3,-,7.03,-,-,0.5,0.8,1.5,-,1.1,1.2,73.1,89.3,0.1,1.7,-
+7,"128Lukasz PiszczekBorussia Dortmund, 37, D(CR),M(R)","Lukasz Piszczek Borussia Dortmund, 37, D(CR),M(R)",5,450,2.6,2,0.6,-,1.6,1.8,0.4,-,7.03,-,-,0.6,0.2,0.4,-,0.6,0.4,54.0,84.8,0.6,0.6,-
+8,"129Mohamed SalahLiverpool, 29, AM(CLR),FW","Mohamed Salah Liverpool, 29, AM(CLR),FW",12,1058,0.9,0.3,1.5,-,0.1,0.3,-,-,7.03,5,2,4.3,1.2,1.4,0.5,2.6,3.2,27.2,71.2,0.3,0.4,-
+9,"130Marco VerrattiPSG, 29, M(C)","Marco Verratti PSG, 29, M(C)",7,601,3.6,0.7,2.0,-,0.6,1.6,0.4,-,7.02,-,-,0.3,0.6,3,-,1.4,1.0,85.4,92.0,-,2.4,0.1
+0,"111Eren DerdiyokGalatasaray, 33, FW","Eren Derdiyok Galatasaray, 33, FW",4,332,0.3,0.3,1.8,-,1,-,0.3,-,7.08,2,-,2.0,1.0,1.5,0.3,0.8,1.8,18.8,60.0,-,-,-
+1,"112Raphaël GuerreiroBorussia Dortmund, 28, D(L),M(CL)","Raphaël Guerreiro Borussia Dortmund, 28, D(L),M(CL)",3(3),285,0.8,1.2,0.2,-,0.2,-,-,-,7.07,4,-,1.7,1.3,0.3,0.2,0.7,1.7,40.3,90.9,0.5,1.3,-
+2,"113Serge AurierTottenham, 29, D(CLR),M(R)","Serge Aurier Tottenham, 29, D(CLR),M(R)",5,435,1.6,1.8,0.8,0.2,2.4,1.2,0.2,-,7.07,-,1,0.4,0.6,0.8,-,1.6,1.6,46.0,77.8,0.8,0.2,-
+3,"114José CallejónNapoli, 35, M(LR),FW","José Callejón Napoli, 35, M(LR),FW",6,519,1.0,1.0,1.0,0.2,0.7,1.7,-,-,7.07,-,2,1.3,2.8,1.2,0.8,0.8,0.7,42.7,86.3,1.3,2.8,0.2
+4,"115NaldoSchalke, 39, D(C)","Naldo Schalke, 39, D(C)",4,360,2.0,1.3,1.3,0.3,5.5,-,1.8,-,7.07,-,-,1.3,0.5,0.8,0.3,-,0.5,51.3,83.4,-,6.5,-
+5,"116Lasse SchöneAjax, 36, M(CLR)","Lasse Schöne Ajax, 36, M(CLR)",11,886,2.0,1.5,1.5,-,1.2,1.3,0.1,-,7.06,1,2,1.5,1.6,0.7,0.1,1.4,1.3,51.6,87.3,1,0.4,-
+6,"117Ousmane DembéléBarcelona, 25, AM(CLR),FW","Ousmane Dembélé Barcelona, 25, AM(CLR),FW",5(3),417,0.3,0.1,0.1,-,-,0.3,-,-,7.06,3,1,2.3,1.9,1.5,0.1,0.5,1.5,25.5,78.4,0.3,0.8,-
+7,"118Benoit PoulainClub Bruges, 34, D(C)","Benoit Poulain Club Bruges, 34, D(C)",6,540,1.2,2.5,0.3,0.5,5.7,0.5,0.3,-,7.06,-,-,0.2,0.2,0.7,-,-,0.7,57.5,82.6,-,4,-
+8,"119IscoReal Madrid, 30, M(CLR),FW","Isco Real Madrid, 30, M(CLR),FW",3(1),251,1.0,0.5,0.8,-,-,0.8,-,-,7.06,1,-,2.0,2.0,2.0,0.5,1.8,1.3,59.0,87.3,0.3,0.8,0.3
+9,"120Juan BernatPSG, 29, D(L),M(CL)","Juan Bernat PSG, 29, D(L),M(CL)",8,676,1.5,1.3,1.6,0.3,1.9,0.6,0.1,-,7.06,3,-,1.1,0.6,0.9,0.1,1.1,1.6,44.0,88.6,0.4,0.4,-
+0,"101Sofyan AmrabatClub Bruges, 25, DMC","Sofyan Amrabat Club Bruges, 25, DMC",2,180,2.0,2,2,-,3,0.5,0.5,-,7.1,-,-,0.5,-,1,-,0.5,3,42.0,72.6,-,2,-
+1,"102Federico FazioRoma, 35, D(C)","Federico Fazio Roma, 35, D(C)",6,540,1.5,1.3,0.7,0.5,4.3,0.7,1.3,-,7.1,-,-,1.3,0.3,0.3,0.2,0.2,0.2,60.7,86.3,-,3.5,-
+2,"103Kalidou KoulibalyNapoli, 30, D(C)","Kalidou Koulibaly Napoli, 30, D(C)",6,540,2.5,2,1.2,1,3.8,0.5,1.2,-,7.1,-,-,0.5,0.2,-,0.3,-,0.8,76.2,87.7,0.2,3.2,-
+3,"104David AlabaBayern, 29, D(CL),M(CL)","David Alaba Bayern, 29, D(CL),M(CL)",7,630,1.3,2.3,0.7,-,2.7,1.3,0.4,-,7.09,-,2,0.6,0.9,-,0.1,1.1,0.9,51.4,82.8,0.4,2,-
+4,"105Gerard PiquéBarcelona, 35, D(C)","Gerard Piqué Barcelona, 35, D(C)",11,990,1.1,1.1,0.5,0.3,5.1,0.4,0.8,-,7.09,2,-,0.2,0.2,0.3,-,0.1,-,65.0,88.5,-,3.6,-
+5,"106Eder MilitãoPorto, 24, D(CR)","Eder Militão Porto, 24, D(CR)",9,823,2.6,1.9,1.7,0.3,4.4,0.6,0.4,-,7.09,2,-,0.6,0.3,1.3,-,0.4,0.4,46.3,80.8,0.1,3.7,-
+6,"107Abdou DialloBorussia Dortmund, 26, D(CL)","Abdou Diallo Borussia Dortmund, 26, D(CL)",7,620,1.7,1.1,0.6,1,2.9,0.3,0.7,-,7.09,-,-,0.3,0.4,0.1,-,0.6,0.9,76.1,88.9,0.1,4.7,-
+7,"108Virgil van DijkLiverpool, 30, D(C)","Virgil van Dijk Liverpool, 30, D(C)",12,1080,1.0,0.8,0.7,1.1,4.8,-,0.6,-,7.08,2,2,0.8,0.3,0.4,-,-,0.1,60.2,86.7,-,4.7,-
+8,"109Leonardo SpinazzolaJuventus, 29, D(LR),M(L)","Leonardo Spinazzola Juventus, 29, D(LR),M(L)",1,67,1.0,-,-,-,-,-,-,-,7.08,-,-,1.0,3,-,-,1,3,43.0,76.7,3,3,-
+9,"110RafinhaBarcelona, 29, M(CLR)","Rafinha Barcelona, 29, M(CLR)",1(1),79,1.0,-,1,-,-,-,-,-,7.08,1,-,1.5,0.5,1.5,-,-,0.5,28.5,94.7,-,-,-
+0,"91Filipe LuísAtletico, 36, D(L)","Filipe Luís Atletico, 36, D(L)",4(1),405,2.2,3.2,0.6,-,0.6,0.4,-,-,7.11,-,1,0.6,1.6,1.0,-,0.4,1.2,50.4,85.7,0.8,2.4,-
+1,"92Noussair MazraouiAjax, 24, D(R)","Noussair Mazraoui Ajax, 24, D(R)",10(1),829,3.4,1.9,1.4,0.2,1.2,0.9,0.2,-,7.1,2,-,0.6,0.3,0.7,0.1,0.9,1.5,27.1,84.6,0.2,1.0,-
+2,"93Paulo DybalaJuventus, 28, AM(CR),FW","Paulo Dybala Juventus, 28, AM(CR),FW",6(3),520,0.7,0.2,0.6,-,-,0.3,-,-,7.1,5,-,2.3,0.8,1.8,0.2,1,2.0,32.1,89.3,0.4,1.8,-
+3,"94Abdul Rahman BabaSchalke, 27, D(L),M(L)","Abdul Rahman Baba Schalke, 27, D(L),M(L)",0(1),74,3.0,-,1,-,2,-,-,-,7.1,-,-,1,1,1.0,-,1,2.0,34.0,79.4,1,3.0,-
+4,"95AllanNapoli, 31, DMC","Allan Napoli, 31, DMC",6,511,6.3,0.7,2,0.2,0.5,3.8,-,-,7.1,-,-,0.8,0.8,2.0,-,2.5,1.0,63.5,90.0,-,3.7,0.2
+5,"96Marouane FellainiMan Utd, 34, M(C)","Marouane Fellaini Man Utd, 34, M(C)",3(2),302,2.2,1,1.6,-,2.2,0.8,-,-,7.1,1,-,1,1.2,1.2,0.4,0.6,0.2,38.8,89.2,0.2,1.4,-
+6,"97Ozan KabakGalatasaray, 22, D(C)","Ozan Kabak Galatasaray, 22, D(C)",4,360,4.3,3.3,1.3,1,3,0.8,0.5,-,7.1,-,-,0.5,-,1.5,-,0.3,2.3,71.0,88.7,-,3.5,-
+7,"98Nicolás TagliaficoAjax, 29, D(CL)","Nicolás Tagliafico Ajax, 29, D(CL)",10,900,3.6,2,2.2,-,2.5,1.3,0.3,-,7.1,3,-,0.9,0.2,2.3,0.4,0.8,0.9,39.5,80.5,0.1,0.8,-
+8,"99Ezequiel GarayValencia, 35, D(C)","Ezequiel Garay Valencia, 35, D(C)",2(1),219,0.7,2.3,-,-,4.3,-,1.7,-,7.1,-,-,-,-,0.3,-,-,0.3,41.7,87.2,-,2.7,-
+9,"100Héctor HerreraPorto, 32, M(C)","Héctor Herrera Porto, 32, M(C)",9,834,1.6,0.8,1.6,-,0.8,0.9,0.1,-,7.1,2,1,1.6,0.7,2.2,-,1.3,0.8,47.8,82.8,0.1,2.6,-
+0,"81FelipePorto, 33, D(C)","Felipe Porto, 33, D(C)",10,930,1.3,2.1,0.6,0.8,6.1,0.4,0.6,-,7.16,1,-,0.8,-,0.9,0.1,-,0.5,57.4,79.3,-,4.5,-
+1,"82Alfa SemedoBenfica, 24, D(C),M(C)","Alfa Semedo Benfica, 24, D(C),M(C)",1(2),132,1,1.3,0.3,0.3,1.3,1,-,-,7.15,1,-,1,-,0.7,-,0.3,0.3,23.7,85.9,-,0.3,-
+2,"83ThiagoBayern, 31, M(C)","Thiago Bayern, 31, M(C)",4(1),388,1.8,2,1,-,0.6,0.8,0.2,-,7.14,-,1,0.8,1.4,1.6,-,1.6,1.2,65.6,86.3,-,6.4,-
+3,"84KokeAtletico, 30, M(CLR)","Koke Atletico, 30, M(CLR)",7,563,2,1,0.3,-,1.3,2,-,-,7.14,2,1,0.9,1.7,1.3,-,1.3,1.1,68.0,88.2,1,4.3,0.4
+4,"85Robin OlsenRoma, 32, GK","Robin Olsen Roma, 32, GK",6,570,-,-,-,-,0.7,-,-,-,7.13,-,-,-,-,0.2,-,-,0.2,29.3,64.2,-,6.2,-
+5,"86Marvelous NakambaClub Bruges, 28, DMC","Marvelous Nakamba Club Bruges, 28, DMC",4(1),394,4.4,3,1.2,-,1.8,1.6,-,-,7.13,-,-,0.4,0.2,0.8,-,0.4,1.2,28.8,84.0,0.2,1.2,-
+6,"87Maximilian PhilippBorussia Dortmund, 28, AM(CLR),FW","Maximilian Philipp Borussia Dortmund, 28, AM(CLR),FW",1(1),85,1,1,0.5,-,-,-,-,-,7.12,-,1,1.5,1.5,0.5,0.5,0.5,1.5,19.0,73.7,0.5,0.5,0.5
+7,"88Joel MatipLiverpool, 30, D(C)","Joel Matip Liverpool, 30, D(C)",8,720,1.6,1.8,1,0.8,4.6,0.8,0.4,1,7.12,-,1,0.8,0.5,0.6,-,0.1,-,54.9,83.1,-,3.6,-
+8,"89Sadio ManéLiverpool, 30, AM(CLR),FW","Sadio Mané Liverpool, 30, AM(CLR),FW",13,1152,1.5,0.4,1.7,-,0.4,0.5,0.2,-,7.12,4,1,1.9,1.2,1.9,1.1,2.4,2.8,25.1,75.8,0.2,0.9,-
+9,"90Marko MarinFK Crvena Zvezda, 33, M(CLR)","Marko Marin FK Crvena Zvezda, 33, M(CLR)",5,417,1,0.8,0.8,-,0.2,1.8,-,-,7.11,1,3,1.2,1.8,1.6,0.4,0.4,1.6,29.8,77.9,0.8,0.4,0.4
+0,"71Aleksey MiranchukLokomotiv Moscow, 26, M(CR),FW","Aleksey Miranchuk Lokomotiv Moscow, 26, M(CR),FW",6,516,1.2,1.8,1.3,-,0.3,1.3,-,-,7.17,-,2,2.0,3.2,1.3,0.5,2.5,3.5,44.5,76.0,1.5,0.5,-
+1,"72Matthijs de LigtAjax, 22, D(C)","Matthijs de Ligt Ajax, 22, D(C)",11,990,1.5,1.4,0.9,0.2,4.2,0.7,0.7,-,7.17,2,-,1.5,0.1,0.5,0.2,0.1,0.4,56.4,84.7,-,3.0,-
+2,"73Sergio ReguilónReal Madrid, 25, D(L),M(L)","Sergio Reguilón Real Madrid, 25, D(L),M(L)",4,360,1.8,2.5,1.3,0.3,2.0,0.5,0.5,-,7.17,-,1,0.5,1.5,0.8,-,0.3,1.3,53.5,80.8,0.8,2.3,-
+3,"74José GiménezAtletico, 27, D(CR)","José Giménez Atletico, 27, D(CR)",5,362,1.0,1.4,1.4,0.6,5.8,0.2,0.6,-,7.16,2,-,0.6,-,0.8,-,-,-,27.6,83.3,-,1.8,-
+4,"75Miralem PjanicJuventus, 32, M(C)","Miralem Pjanic Juventus, 32, M(C)",10,815,1.8,1.6,1.3,0.1,0.6,2,0.1,-,7.16,2,1,1.6,2.2,0.8,0.1,0.7,1.6,64.0,87.8,1.5,5.5,-
+5,"76Mauro IcardiInter, 29, FW","Mauro Icardi Inter, 29, FW",6,540,0.3,0.3,0.7,-,1.5,-,-,-,7.16,4,-,3.5,1.3,0.5,0.7,0.5,0.8,15.0,73.3,-,0.2,-
+6,"77Donny van de BeekAjax, 25, M(C)","Donny van de Beek Ajax, 25, M(C)",11(1),985,2.2,1.2,1.2,-,0.7,0.7,0.1,-,7.16,3,2,1.8,1.4,0.6,0.5,0.6,1.3,27.3,77.4,-,0.6,0.1
+7,"78Lucas MouraTottenham, 29, AM(CLR),FW","Lucas Moura Tottenham, 29, AM(CLR),FW",8(4),725,1.0,0.6,0.7,-,0.1,0.3,-,-,7.16,5,-,2.2,0.9,1.1,0.3,1.9,2.1,18.9,75.3,0.1,0.4,0.1
+8,"79Hans VanakenClub Bruges, 29, AM(C)","Hans Vanaken Club Bruges, 29, AM(C)",6,540,2.7,0.7,0.8,-,0.5,2,-,-,7.16,2,1,1.5,1.5,0.5,0.2,2.3,1.3,44.2,86.4,0.8,4.8,-
+9,"80Cristiano PicciniValencia, 29, D(R)","Cristiano Piccini Valencia, 29, D(R)",3,270,3.3,1.3,0.3,0.3,2.3,0.3,0.3,-,7.16,-,-,0.3,0.7,1.3,-,2,1.3,32.0,67.7,0.7,1.0,-
+0,"61Giorgio ChielliniJuventus, 37, D(C)","Giorgio Chiellini Juventus, 37, D(C)",6,540,1.3,1.7,0.7,0.2,6,0.5,1,-,7.22,-,-,0.3,0.5,1.2,0.2,-,0.5,64.8,89.5,-,4.3,-
+1,"62Jordi AlbaBarcelona, 33, D(L),M(L)","Jordi Alba Barcelona, 33, D(L),M(L)",11,990,1.0,1.5,0.5,0.4,2.1,0.7,0.5,-,7.21,1,5,0.5,2.1,0.3,0.2,0.4,0.8,80.9,87.5,0.2,1.7,0.1
+2,"63Alex TellesPorto, 29, D(L),M(L)","Alex Telles Porto, 29, D(L),M(L)",10,930,1.2,1.6,1.2,0.5,3,0.8,0.5,-,7.2,1,3,0.7,2.2,0.9,-,0.2,1.0,34.5,73.9,2.8,1.3,-
+3,"64Gabriel JesusMan City, 25, AM(LR),FW","Gabriel Jesus Man City, 25, AM(LR),FW",4(2),375,0.3,0.2,0.8,-,1,0.3,-,-,7.2,4,-,3.5,0.8,1.2,2,0.5,1.7,18.0,82.4,-,-,-
+4,"65Arjen RobbenBayern, 38, M(CLR),FW","Arjen Robben Bayern, 38, M(CLR),FW",4,314,0.5,0.5,0.5,-,-,2.3,-,-,7.19,2,1,3.3,1.8,0.8,0.3,2,1.5,32.3,77.5,0.5,1.5,-
+5,"66Axel WitselBorussia Dortmund, 33, D(C),M(C)","Axel Witsel Borussia Dortmund, 33, D(C),M(C)",7,630,1.6,1.0,0.9,-,0.9,0.6,0.3,-,7.19,1,-,1.4,0.3,0.7,-,0.1,0.6,89.1,94.6,-,2.9,-
+6,"67IsmailyShakhtar, 32, D(L)","Ismaily Shakhtar, 32, D(L)",6,540,2.8,1.2,0.2,0.8,2.7,0.8,0.5,-,7.19,2,3,2.2,0.8,1.5,0.2,2,2.2,47.2,83.4,0.7,0.8,-
+7,"68Sergio BusquetsBarcelona, 33, DMC","Sergio Busquets Barcelona, 33, DMC",11(1),1035,3.4,1.3,1.6,-,0.9,1.4,0.3,-,7.18,-,1,0.3,0.9,1.2,-,0.5,0.6,80.8,93.2,-,3.5,0.3
+8,"69Manuel AkanjiBorussia Dortmund, 26, D(CR)","Manuel Akanji Borussia Dortmund, 26, D(CR)",5,450,2.6,1.8,0.2,1.2,2.8,0.2,0.2,-,7.17,-,-,0.4,0.2,0.4,-,-,1.6,113.0,95.0,0.2,7,0.2
+9,"70Juan MirandaBarcelona, 22, D(L)","Juan Miranda Barcelona, 22, D(L)",1,90,2.0,4.0,1.0,1,-,-,2,-,7.17,-,-,1.0,-,3.0,1,1,1.0,60.0,83.3,-,4,-
+0,"51Alejandro GrimaldoBenfica, 26, D(L),M(L)","Alejandro Grimaldo Benfica, 26, D(L),M(L)",6,540,4.2,1.2,0.2,-,2.2,1.3,-,-,7.27,2,-,2,1,0.7,-,1.3,1.0,47.5,86.0,0.2,2.3,-
+1,"52Milan BorjanFK Crvena Zvezda, 34, GK","Milan Borjan FK Crvena Zvezda, 34, GK",6,540,-,0.2,-,-,0.8,-,-,-,7.26,-,-,-,-,-,-,-,0.2,32.7,50.0,-,8.8,-
+2,"53Justin HoogmaHoffenheim, 24, D(C)","Justin Hoogma Hoffenheim, 24, D(C)",1,90,8,1.0,1,-,4,1,1,-,7.26,-,-,1,-,-,-,-,1.0,28.0,78.6,-,-,-
+3,"54Philippe CoutinhoBarcelona, 29, M(CLR)","Philippe Coutinho Barcelona, 29, M(CLR)",11(1),860,0.5,0.8,0.5,-,0.1,0.8,0.1,-,7.26,3,3,2.8,1.4,1.5,0.5,1.6,2.2,45.2,86.7,0.5,0.8,-
+4,"55Andrej KramaricHoffenheim, 30, AM(CLR),FW","Andrej Kramaric Hoffenheim, 30, AM(CLR),FW",5(1),481,0.2,0.3,0.3,-,0.3,0.7,-,-,7.24,5,1,3,1.5,1,0.3,1.7,1.3,33.7,84.7,0.7,1.5,0.2
+5,"56Cengiz ÜnderRoma, 24, AM(CLR)","Cengiz Ünder Roma, 24, AM(CLR)",5(1),437,0.3,0.5,0.2,-,-,0.3,-,-,7.24,3,1,2.3,1.3,0.8,0.8,0.8,1.8,26.8,71.4,1.2,1,-
+6,"57Christian EriksenTottenham, 30, M(CLR)","Christian Eriksen Tottenham, 30, M(CLR)",11(1),1003,0.8,1.0,0.3,-,0.7,0.4,0.2,-,7.24,2,4,2.3,2.3,0.9,0.2,0.9,1.0,50.6,80.6,1.5,2.9,0.5
+7,"58Trent Alexander-ArnoldLiverpool, 23, D(R),M(R)","Trent Alexander-Arnold Liverpool, 23, D(R),M(R)",11,922,1.9,1.6,0.6,0.1,1.7,0.5,0.1,-,7.23,-,3,1.1,2,0.3,0.1,0.5,1.0,49.0,65.5,2,3.2,0.1
+8,"59Mario FernandesCSKA Moscow, 31, D(R),M(R)","Mario Fernandes CSKA Moscow, 31, D(R),M(R)",6,462,2.2,2.2,1.3,-,2.7,0.7,0.3,-,7.22,-,-,0.3,1.5,0.7,0.2,0.2,1.0,28.7,79.1,0.2,0.5,-
+9,"60João CanceloJuventus, 28, D(LR),M(R)","João Cancelo Juventus, 28, D(LR),M(R)",5(2),479,2.1,0.9,0.9,0.3,1.4,1,-,-,7.22,-,2,0.7,1,1.3,-,0.6,1.6,35.0,81.2,0.7,2,-
+0,"41Ethan HorvathClub Bruges, 27, GK","Ethan Horvath Club Bruges, 27, GK",3,270,-,-,-,-,1.3,-,-,-,7.34,-,-,-,-,0.3,-,-,-,26.7,38.8,-,8.0,-
+1,"42Houssem AouarLyon, 23, M(CL)","Houssem Aouar Lyon, 23, M(CL)",7,630,2.4,1,1,-,1.7,1.6,0.6,-,7.34,-,3,2.1,1.4,1.7,0.3,1.3,1.3,44.7,88.2,-,1.1,0.1
+2,"43CasemiroReal Madrid, 30, DMC","Casemiro Real Madrid, 30, DMC",6,505,2.3,2.2,1.7,-,1.3,1.5,1,-,7.33,1,-,0.8,0.5,0.5,-,1,1.2,63.8,90.1,-,4.5,-
+3,"44JoelintonHoffenheim, 25, AM(CLR),FW","Joelinton Hoffenheim, 25, AM(CLR),FW",4(1),391,2.2,0.8,3.2,-,0.4,0.8,0.2,-,7.32,1,1,2,1.2,2.4,0.2,2.8,2.2,20.4,77.5,-,0.2,-
+4,"45Carlos SolerValencia, 25, M(CLR)","Carlos Soler Valencia, 25, M(CLR)",4(2),390,2.3,0.2,1.3,-,0.3,0.3,0.2,-,7.32,2,2,2,1,2.8,0.2,0.5,1.3,30.5,81.4,0.3,0.8,0.3
+5,"46Sergio RamosReal Madrid, 36, D(CR)","Sergio Ramos Real Madrid, 36, D(CR)",5,419,2,2.6,1.2,0.8,2.6,0.4,0.2,-,7.32,-,-,1.8,0.2,0.6,-,0.2,-,63.8,91.2,-,6.4,-
+6,"47Toni KroosReal Madrid, 32, M(C)","Toni Kroos Real Madrid, 32, M(C)",7(1),645,2.1,1.1,0.8,-,0.4,2.1,0.3,-,7.31,1,2,1.5,3.6,1.4,-,0.8,0.6,81.5,94.0,1.9,9.3,0.1
+7,"48Medhi BenatiaJuventus, 35, D(C)","Medhi Benatia Juventus, 35, D(C)",1,90,2,2,-,-,2.0,-,-,-,7.31,-,-,-,-,1.0,-,-,-,73.0,94.5,-,3.0,-
+8,"49Joshua KimmichBayern, 27, D(CR),DMC,M(R)","Joshua Kimmich Bayern, 27, D(CR),DMC,M(R)",7,630,1.6,1.7,0.6,-,1.0,0.7,0.3,-,7.3,-,2,0.6,2.3,2.1,-,1,0.6,68.3,90.2,2,3.3,0.1
+9,"50Oleksandr ZinchenkoMan City, 25, D(L),M(CLR)","Oleksandr Zinchenko Man City, 25, D(L),M(CLR)",4(1),337,1.6,2.2,1.2,0.2,1.8,0.6,0.2,-,7.27,-,2,0.4,1,0.2,-,-,0.8,64.6,92.9,0.4,2.6,0.4
+0,"31Matej MitrovicClub Bruges, 28, D(C)","Matej Mitrovic Club Bruges, 28, D(C)",1,90,2,6,-,2,6.0,-,-,-,7.38,-,-,-,-,-,-,1,-,33.0,93.9,1,4.0,-
+1,"32Kevin De BruyneMan City, 30, M(CLR),FW","Kevin De Bruyne Man City, 30, M(CLR),FW",3(1),247,0.8,0.5,-,0.3,0.3,1.3,0.3,-,7.37,-,4,1.8,2.5,1.3,-,0.8,0.8,34.8,82.0,0.8,1.3,0.3
+2,"33Riyad MahrezMan City, 31, AM(CLR),FW","Riyad Mahrez Man City, 31, AM(CLR),FW",4(2),389,1.5,0.2,1,-,0.8,1,0.2,-,7.37,1,4,2,2.2,0.5,-,0.8,0.7,33.7,85.6,1,1.2,0.5
+3,"34Moussa MaregaPorto, 31, AM(LR),FW","Moussa Marega Porto, 31, AM(LR),FW",9,840,0.9,0.2,1.9,-,0.8,0.1,0.2,-,7.36,6,2,2.9,0.7,1.2,1.4,2.4,3.1,15.4,69.8,0.2,0.4,-
+4,"35Luis SuárezBarcelona, 35, AM(CLR),FW","Luis Suárez Barcelona, 35, AM(CLR),FW",10,900,0.7,0.1,1.1,-,0.9,1,-,-,7.36,1,3,3.8,2.2,2.7,0.7,1.5,2.1,33.7,80.4,-,1.1,0.4
+5,"36Samir HandanovicInter, 37, GK","Samir Handanovic Inter, 37, GK",6,540,-,0.2,0.2,-,0.5,0.2,-,-,7.36,-,-,-,-,-,-,-,-,26.3,80.4,-,6.3,-
+6,"37Jaka BijolCSKA Moscow, 23, D(C),M(C),FW","Jaka Bijol CSKA Moscow, 23, D(C),M(C),FW",3,270,3,1.3,3.7,-,3.3,1.7,-,-,7.35,-,-,1.7,0.3,1.3,-,-,1,43.7,78.6,-,3.3,-
+7,"38Paulo GazzanigaTottenham, 30, GK","Paulo Gazzaniga Tottenham, 30, GK",1,90,-,-,-,-,2.0,-,-,-,7.34,-,-,-,-,-,-,-,-,22.0,81.8,-,2.0,-
+8,"39David SilvaMan City, 36, M(CLR),FW","David Silva Man City, 36, M(CLR),FW",9,719,1.2,0.8,0.8,-,0.3,0.6,-,-,7.34,3,2,1.4,2.1,1.2,0.2,1.2,0.8,54.0,84.2,0.4,0.9,0.3
+9,"40Jesús CoronaPorto, 29, D(R),M(CLR),FW","Jesús Corona Porto, 29, D(R),M(CLR),FW",7(1),562,1.9,1,1.4,0.1,0.1,0.5,0.1,-,7.34,3,2,1.4,1.3,0.9,-,1.6,2,26.6,78.9,1.3,0.6,-
+0,"21TaisonShakhtar, 34, AM(CL),FW","Taison Shakhtar, 34, AM(CL),FW",5,437,1.4,0.4,0.4,0.2,0.8,0.2,0.2,-,7.51,2,1,2.0,2.0,3.2,-,2.2,3.8,55.2,85.9,-,1.8,0.4
+1,"22Kylian MbappéPSG, 23, AM(LR),FW","Kylian Mbappé PSG, 23, AM(LR),FW",8,701,0.1,0.1,0.3,-,-,0.4,-,-,7.5,4,5,3.6,2.0,1.5,0.8,1.0,2.6,28.5,80.7,0.1,0.5,0.1
+2,"23Marco ReusBorussia Dortmund, 33, M(CLR),FW","Marco Reus Borussia Dortmund, 33, M(CLR),FW",6,524,2.7,1.8,1,0.2,1.2,0.7,0.2,-,7.5,1,1,1.7,1.7,1.5,0.5,1.5,2.0,40.3,80.2,0.3,1.7,0.3
+3,"24Cristiano RonaldoJuventus, 37, M(L),FW","Cristiano Ronaldo Juventus, 37, M(L),FW",9,749,0.3,0.3,0.8,-,0.7,0.8,0.1,-,7.48,6,2,5.3,1.9,2.2,0.2,1.3,2.3,29.6,84.6,0.2,0.3,-
+4,"25Harry KaneTottenham, 28, AM(C),FW","Harry Kane Tottenham, 28, AM(C),FW",9,778,1.0,0.2,0.9,-,0.8,0.2,0.1,-,7.46,5,1,3.6,1.1,2.4,1,1.3,3.0,19.2,78.0,-,1.1,0.1
+5,"26Karim BenzemaReal Madrid, 34, FW","Karim Benzema Real Madrid, 34, FW",8,588,0.3,0.3,-,-,0.9,0.1,-,-,7.41,4,2,2.6,1.1,0.3,0.6,1.4,2.1,31.9,86.7,-,1.3,0.1
+6,"27Mats HummelsBayern, 33, D(C)","Mats Hummels Bayern, 33, D(C)",6,540,3.7,1.8,1.2,0.2,3.7,0.8,0.3,-,7.4,1,-,0.7,0.2,0.2,0.2,0.2,0.5,76.5,87.6,-,4.7,-
+7,"28Tanguy NdombeleLyon, 25, M(C)","Tanguy Ndombele Lyon, 25, M(C)",7(1),637,2.4,1.5,0.5,-,0.6,0.5,0.3,-,7.4,2,-,1.1,0.8,2.5,-,1.1,1.5,47.6,88.2,-,1.6,0.1
+8,"29Antoine GriezmannAtletico, 31, AM(CLR),FW","Antoine Griezmann Atletico, 31, AM(CLR),FW",8,720,1.1,0.5,0.9,-,0.9,0.9,-,-,7.39,4,2,2.8,1.6,0.6,0.9,1.0,1.0,40.1,75.4,0.5,1.4,0.4
+9,"30Ángel Di MaríaPSG, 34, M(CLR),FW","Ángel Di María PSG, 34, M(CLR),FW",8,661,0.8,0.8,0.6,-,0.5,1.1,0.1,-,7.39,2,3,2.3,2.6,0.3,0.4,1.4,1.4,44.4,85.6,1.3,2.1,-
+0,"11Emre AkbabaGalatasaray, 29, M(CL),FW","Emre Akbaba Galatasaray, 29, M(CL),FW",1,90,2,1,-,-,-,1,-,-,7.62,-,1,4,2,4,-,2,1,25.0,72.0,1,1,-
+1,"12Robert LewandowskiBayern, 33, FW","Robert Lewandowski Bayern, 33, FW",8,714,0.3,0.8,1.8,-,0.6,0.5,-,-,7.59,8,-,3.3,0.8,1.4,0.6,3.1,3.4,17.8,71.8,0.1,-,-
+2,"13Jasper CillessenBarcelona, 33, GK","Jasper Cillessen Barcelona, 33, GK",1,90,-,-,-,-,1,-,-,-,7.58,-,-,-,-,-,-,-,-,27.0,74.1,-,6,-
+3,"14Luuk de JongPSV Eindhoven, 31, AM(C),FW","Luuk de Jong PSV Eindhoven, 31, AM(C),FW",6,531,1.3,1.2,1.3,-,2.2,1,0.7,-,7.57,3,-,2.3,0.5,2.2,0.5,1.2,2,25.0,64.0,-,-,-
+4,"15Dusan TadicAjax, 33, AM(CLR),FW","Dusan Tadic Ajax, 33, AM(CLR),FW",12,1080,1,0.5,1.7,-,0.4,1.2,0.1,-,7.56,6,4,1.8,3.1,1.1,1,1.8,2.8,36.8,75.3,0.5,0.3,0.3
+5,"16Nabil FekirLyon, 28, AM(CLR),FW","Nabil Fekir Lyon, 28, AM(CLR),FW",6,506,2,0.5,2.8,-,0.2,0.7,-,-,7.56,3,2,4.3,2.3,3.2,1.3,2.3,2.8,33.5,88.1,0.7,1.5,-
+6,"17Sergio AgüeroMan City, 34, AM(CL),FW","Sergio Agüero Man City, 34, AM(CL),FW",6(1),510,0.6,0.3,0.7,-,0.1,0.9,-,-,7.55,6,1,4.3,0.7,0.4,0.4,1.6,1.7,23.0,88.2,0.1,0.1,0.1
+7,"18Gareth BaleReal Madrid, 32, M(CLR),FW","Gareth Bale Real Madrid, 32, M(CLR),FW",5(2),489,0.3,0.7,0.4,0.1,0.3,0.6,-,-,7.52,3,2,3.3,1.1,0.4,0.4,0.6,1,29.0,80.8,0.4,1.7,0.1
+8,"19Leroy SanéMan City, 26, M(CLR),FW","Leroy Sané Man City, 26, M(CLR),FW",4(4),395,0.8,0.3,0.1,-,0.1,0.6,0.1,-,7.52,4,4,1.5,1.6,0.8,0.1,2,2,22.0,85.8,0.4,0.1,0.1
+9,"20Lorenzo PellegriniRoma, 25, M(C)","Lorenzo Pellegrini Roma, 25, M(C)",4(2),391,1.2,0.8,1.5,-,0.5,1.7,-,-,7.51,1,3,1.5,3.2,1,0.2,1.7,1.5,26.3,79.1,1.8,1.5,0.7
+0,"1Lionel MessiBarcelona, 34, AM(CR),FW","Lionel Messi Barcelona, 34, AM(CR),FW",9(1),837,1.0,0.3,0.8,-,-,0.4,-,-,8.77,12,3,5.4,2.7,2,0.1,2.3,1.5,59.3,84.5,0.3,3.4,0.9
+1,"2NeymarPSG, 30, AM(CLR),FW","Neymar PSG, 30, AM(CLR),FW",6,532,0.8,0.3,0.7,-,0.3,0.7,0.3,-,8.44,5,2,4.0,3.5,5.7,0.5,2.5,3.7,52.7,82.9,0.8,2.0,0.7
+2,"3Edin DzekoRoma, 36, FW","Edin Dzeko Roma, 36, FW",6,570,0.3,-,1.8,-,1.3,0.5,-,-,8.08,5,3,4.8,1.2,1.3,1,2.5,2.3,22.7,66.2,0.2,0.8,-
+3,"4Nikola VlasicCSKA Moscow, 24, AM(CLR),FW","Nikola Vlasic CSKA Moscow, 24, AM(CLR),FW",6,540,2.3,0.7,1.0,-,1.2,1.3,0.3,-,7.89,3,2,2.5,3.0,1.3,-,2.3,1.3,35.2,84.4,1.5,1.3,-
+4,"5Raheem SterlingMan City, 27, M(CLR),FW","Raheem Sterling Man City, 27, M(CLR),FW",10,871,1.0,0.7,1.5,-,0.4,1.2,-,-,7.87,5,2,2.3,2.6,1,0.6,3.1,2,36.3,83.5,0.4,0.4,0.2
+5,"6Maciej RybusLokomotiv Moscow, 32, D(LR),M(LR)","Maciej Rybus Lokomotiv Moscow, 32, D(LR),M(LR)",2,180,4.5,3,0.5,0.5,4.5,1,-,-,7.83,-,-,0.5,0.5,1,-,1.0,-,32.5,78.5,1,2.0,-
+6,"7Hakim ZiyechAjax, 29, M(CLR)","Hakim Ziyech Ajax, 29, M(CLR)",11,985,2.5,1.3,1.4,-,0.3,2.1,0.1,-,7.74,3,3,5.1,2.2,2,0.4,2.5,3.1,43.3,75.6,0.9,3.5,0.4
+7,"8Carel EitingAjax, 24, DMC","Carel Eiting Ajax, 24, DMC",1,90,1.0,2,1.0,-,1,-,-,-,7.73,-,1,2.0,3.0,-,-,1.0,-,95.0,85.3,-,2.0,-
+8,"9Bernardo SilvaMan City, 27, M(CLR),FW","Bernardo Silva Man City, 27, M(CLR),FW",6(2),578,1.9,1,1.1,-,0.1,1.3,0.1,-,7.68,4,1,1.5,1.4,0.5,0.1,1.4,1,37.3,89.3,0.1,1.1,-
+9,"10Javi MartínezBayern, 33, D(C),M(C)","Javi Martínez Bayern, 33, D(C),M(C)",6,520,3.0,3.3,1.8,0.2,1.5,0.7,0.3,-,7.64,1,-,0.8,0.7,2.3,0.2,0.2,0.7,49.8,83.3,-,2.2,-

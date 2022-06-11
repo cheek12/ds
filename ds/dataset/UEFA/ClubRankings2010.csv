@@ -1,0 +1,425 @@
+,Pos,Club,Country,05/06,06/07,07/08,08/09,09/10,Pts,NA
+0,1,BAR  FC Barcelona  Barcelona,ESP,29.000,14.000,25.000,26.000,27.000,121.0,15.951
+1,2,MU  Manchester United  Man. United,ENG,8.000,22.000,29.000,25.000,25.000,109.0,16.371
+2,3,CHE  Chelsea FC  Chelsea,ENG,13.000,23.000,25.000,22.000,19.000,102.0,16.371
+3,4,ARS  Arsenal FC  Arsenal,ENG,27.000,13.000,18.000,19.000,22.000,99.0,16.371
+4,5,LIV  Liverpool FC  Liverpool,ENG,13.000,24.000,21.000,20.000,21.000,99.0,16.371
+5,6,BAY  FC Bayern München  Bayern,GER,14.000,17.000,20.000,20.000,27.000,98.0,12.841
+6,7,SEV  Sevilla FC  Sevilla,ESP,25.000,25.000,16.000,8.000,19.000,93.0,15.951
+7,8,INT  FC Internazionale Milano  Inter,ITA,19.000,13.000,14.000,11.000,31.000,88.0,12.867
+8,9,ACM  AC Milan  Milan,ITA,21.000,24.000,14.000,12.000,16.000,87.0,12.867
+9,10,OL  Olympique Lyonnais  Lyon,FRA,21.000,15.000,12.000,13.000,25.000,86.0,10.748
+10,11,BRM  SV Werder Bremen  Bremen,GER,11.000,21.000,13.000,22.000,15.000,82.0,12.841
+11,12,HSV  Hamburger SV  Hamburg,GER,13.000,5.000,16.000,22.000,18.000,74.0,12.841
+12,13,RM  Real Madrid CF  Real Madrid,ESP,12.000,14.000,12.000,12.000,19.000,69.0,15.951
+13,14,ASR  AS Roma  Roma,ITA,14.000,17.000,17.000,14.000,9.000,71.0,12.867
+14,15,POR  FC Porto  Porto,POR,7.000,13.000,14.000,16.000,19.000,69.0,7.659
+15,16,SHK  FC Shakhtar Donetsk  Shakhtar Donetsk,UKR,11.000,12.000,7.000,26.000,10.000,66.0,7.91
+16,17,SLB  SL Benfica  Benfica,POR,16.000,16.000,11.000,3.000,19.000,65.0,7.659
+17,18,VLR  Villarreal CF  Villarreal,ESP,19.000,-,13.000,16.000,7.000,55.0,15.951
+18,19,BOR  FC Girondins de Bordeaux  Bordeaux,FRA,-,9.000,12.000,9.000,27.000,57.0,10.748
+19,20,VAL  Valencia CF  Valencia,ESP,-,17.000,7.000,11.000,16.000,51.0,15.951
+20,21,CSM  PFC CSKA Moskva  CSKA Moskva,RUS,7.000,10.000,4.000,17.000,20.000,58.0,8.758
+21,22,PSV  PSV Eindhoven  PSV,NED,11.000,15.000,16.000,5.000,12.000,59.0,7.309
+22,23,ATL  Club Atlético de Madrid  Atlético,ESP,-,-,12.000,15.000,21.000,48.0,15.951
+23,24,FIO  ACF Fiorentina  Fiorentina,ITA,-,-,21.000,9.000,21.000,51.0,12.867
+24,25,OM  Olympique de Marseille  Marseille,FRA,12.000,2.000,12.000,12.000,14.000,52.0,10.748
+25,26,ZEN  FC Zenit  Zenit,RUS,17.000,-,21.000,13.000,1.500,52.5,8.758
+26,27,JUV  Juventus  Juventus,ITA,18.000,-,-,14.000,15.000,47.0,12.867
+27,28,SCP  Sporting Clube de Portugal  Sporting CP,POR,2.000,7.000,17.000,12.000,12.000,50.0,7.659
+28,29,PAN  Panathinaikos FC  Panathinaikos,GRE,6.000,9.000,12.000,12.000,12.000,51.0,5.979
+29,30,TOT  Tottenham Hotspur  Tottenham,ENG,-,18.000,13.000,9.000,-,40.0,16.371
+30,31,RAN  Rangers FC  Rangers,SCO,12.000,13.000,20.000,0.000,6.000,51.0,5.158
+31,32,AJX  AFC Ajax  Ajax,NED,13.000,11.000,2.000,13.000,9.000,48.0,7.309
+32,33,OLY  Olympiacos FC  Olympiacos,GRE,6.000,6.000,13.000,8.000,16.000,49.0,5.979
+33,34,FEN  Fenerbahçe SK  Fenerbahçe,TUR,6.000,9.000,17.000,5.000,11.000,48.0,6.89
+34,35,SCH  FC Schalke 04  Schalke,GER,21.000,2.000,13.000,6.000,-,42.0,12.841
+35,36,ESP  RCD Espanyol  Espanyol,ESP,9.000,29.000,-,-,-,38.0,15.951
+36,37,STU  VfB Stuttgart  Stuttgart,GER,10.000,-,5.000,8.000,17.000,40.0,12.841
+37,38,BSL  FC Basel 1893  Basel,SUI,17.000,6.000,10.000,4.000,6.000,43.0,5.675
+38,39,AZ  AZ Alkmaar  AZ Alkmaar,NED,11.000,16.000,6.000,-,8.000,41.0,7.309
+39,40,SB  FCSB  FCSB,ROU,21.000,7.000,4.000,4.000,4.000,40.0,7.898
+40,41,LIL  LOSC Lille  LOSC,FRA,13.000,11.000,-,-,12.000,36.0,10.748
+41,42,EVE  Everton FC  Everton,ENG,2.000,-,17.000,1.000,8.000,28.0,16.371
+42,43,GAL  Galatasaray AŞ  Galatasaray,TUR,1.000,6.000,6.000,14.000,10.000,37.0,6.89
+43,44,DK  FC Dynamo Kyiv  Dynamo Kyiv,UKR,0.000,5.000,3.000,19.000,8.000,35.0,7.91
+44,45,AND  RSC Anderlecht  Anderlecht,BEL,5.000,7.000,12.000,0.000,13.000,37.0,5.58
+45,46,BL  Bayer 04 Leverkusen  Leverkusen,GER,0.000,12.000,16.000,-,-,28.0,12.841
+46,47,PAR  Paris Saint-Germain  Paris,FRA,-,13.000,-,16.000,-,29.0,10.748
+47,48,SCB  SC Braga  Braga,POR,2.000,10.000,7.000,12.000,1.000,32.0,7.659
+48,49,FUL  Fulham FC  Fulham,ENG,-,-,-,-,23.000,23.0,16.371
+49,50,UDI  Udinese Calcio  Udinese,ITA,11.000,-,-,15.000,-,26.0,12.867
+50,51,WOL  VfL Wolfsburg  Wolfsburg,GER,-,-,-,10.000,16.000,26.0,12.841
+51,52,BOL  Bolton Wanderers FC  Bolton,ENG,10.000,-,12.000,-,-,22.0,16.371
+52,53,CEL  Celtic FC  Celtic,SCO,0.000,11.000,10.000,7.000,5.000,33.0,5.158
+53,54,OSA  CA Osasuna  Osasuna,ESP,1.000,21.000,-,-,-,22.0,15.951
+54,55,MID  Middlesbrough FC  Middlesbrough,ENG,21.000,-,-,-,-,21.0,16.371
+55,56,RAP  FC Rapid Bucureşti  Rapid Bucureşti,ROU,18.000,8.000,2.000,1.000,-,29.0,7.898
+56,57,BRU  Club Brugge  Club Brugge,BEL,8.000,5.000,2.000,6.000,10.000,31.0,5.58
+57,58,PAL  US Città di Palermo  Palermo,ITA,14.000,7.000,2.000,-,-,23.0,12.867
+58,59,HER  Hertha BSC Berlin  Hertha,GER,9.000,1.000,-,5.000,8.000,23.0,12.841
+59,60,CPH  F.C. Copenhagen  Copenhagen,DEN,1.000,8.000,5.000,8.000,7.000,29.0,5.47
+60,61,GET  Getafe CF  Getafe,ESP,-,-,18.000,-,-,18.0,15.951
+61,62,BJK  Beşiktaş JK  Beşiktaş,TUR,6.000,5.000,7.000,2.000,7.000,27.0,6.89
+62,63,SPM  FC Spartak Moskva  Spartak Moskva,RUS,-,8.000,11.000,6.000,-,25.0,8.758
+63,64,MC  Manchester City FC  Man. City,ENG,-,-,-,17.000,-,17.0,16.371
+64,65,NEW  Newcastle United FC  Newcastle,ENG,-,17.000,-,-,-,17.0,16.371
+65,66,LEN  RC Lens  Lens,FRA,10.000,11.000,1.000,-,-,22.0,10.748
+66,67,STD  R. Standard de Liège  Standard Liège,BEL,-,0.000,1.000,10.000,16.000,27.0,5.58
+67,68,HVN  sc Heerenveen  Heerenveen,NED,8.000,6.000,2.000,3.000,6.000,25.0,7.309
+68,69,SAM  UC Sampdoria  Sampdoria,ITA,7.000,-,2.000,9.000,-,18.0,12.867
+69,70,BLA  Blackburn Rovers FC  Blackburn,ENG,-,11.000,2.000,-,-,13.0,16.371
+70,71,DB  FC Dinamo Bucureşti  Dinamo Bucureşti,ROU,5.000,9.000,2.000,1.000,4.000,21.0,7.898
+71,72,SLP  SK Slavia Praha  Slavia Praha,CZE,9.000,0.000,8.000,4.000,3.000,24.0,4.395
+72,73,HTA  Hapoel Tel-Aviv FC  H. Tel-Aviv,ISR,-,10.000,5.000,0.000,9.000,24.0,3.775
+73,74,SPP  AC Sparta Praha  Sparta Praha,CZE,5.000,6.000,5.000,2.000,5.000,23.0,4.395
+74,75,CEL  RC Celta de Vigo  Celta,ESP,-,11.000,-,-,-,11.0,15.951
+75,76,BET  Real Betis Balompié  Betis,ESP,11.000,-,-,-,-,11.0,15.951
+76,77,AEK  AEK Athens FC  AEK,GRE,1.000,9.000,7.000,0.000,3.000,20.0,5.979
+77,78,AV  Aston Villa FC  Aston Villa,ENG,-,-,-,8.000,1.500,9.5,16.371
+78,79,LMO  FC Lokomotiv Moskva  Lokomotiv Moskva,RUS,9.000,2.000,6.000,-,-,17.0,8.758
+79,80,STE  AS Saint-Étienne  St-Étienne,FRA,-,-,-,15.000,-,15.0,10.748
+80,81,NAN  AS Nancy-Lorraine  Nancy,FRA,-,8.000,-,7.000,-,15.0,10.748
+81,82,MET  FC Metalist Kharkiv  Metalist,UKR,-,-,1.000,15.000,1.500,17.5,7.91
+82,83,LS  PFC Levski Sofia  Levski,BUL,15.000,3.000,0.000,1.000,2.000,21.0,4.4
+83,84,TWE  FC Twente  Twente,NED,-,0.000,2.000,8.000,8.000,18.0,7.309
+84,85,AAL  Aalborg BK  AaB,DEN,-,-,5.000,14.000,0.500,19.5,5.47
+85,86,STR  Racing Club de Strasbourg Alsace  Strasbourg,FRA,14.000,-,-,-,-,14.0,10.748
+86,87,RBK  Rosenborg BK  Rosenborg,NOR,6.000,-,8.000,6.000,0.500,20.5,3.48
+87,88,ATH  Athletic Club  Athletic Club,ESP,-,-,-,-,8.000,8.0,15.951
+88,89,RST  Real Racing Club  Racing,ESP,-,-,-,8.000,-,8.0,15.951
+89,90,LAZ  SS Lazio  Lazio,ITA,-,-,7.000,-,4.000,11.0,12.867
+90,91,DEP  Real Club Deportivo La Coruña  Deportivo,ESP,-,-,-,7.000,-,7.0,15.951
+91,92,PAR  Parma FC  Parma,ITA,-,10.000,-,-,-,10.0,12.867
+92,93,PRM  Portsmouth FC  Portsmouth,ENG,-,-,-,6.000,-,6.0,16.371
+93,94,RUB  FC Rubin  Rubin,RUS,-,0.000,-,-,13.000,13.0,8.758
+94,95,MON  AS Monaco FC  Monaco,FRA,11.000,-,-,-,-,11.0,10.748
+95,96,FCZ  FC Zürich  Zürich,SUI,2.000,0.000,7.000,0.000,7.000,16.0,5.675
+96,97,LIV  AS Livorno Calcio  Livorno,ITA,-,8.000,-,-,-,8.0,12.867
+97,98,NÜR  1. FC Nürnberg  Nürnberg,GER,-,-,8.000,-,-,8.0,12.841
+98,99,SBG  FC Salzburg  Salzburg,AUT,-,1.000,2.000,0.000,13.000,16.0,3.915
+99,100,MHA  Maccabi Haifa FC  M. Haifa,ISR,0.000,12.000,-,-,4.000,16.0,3.775
+100,101,TOU  Toulouse FC  Toulouse,FRA,-,-,4.000,-,5.000,9.0,10.748
+101,102,REN  Stade Rennais FC  Rennes,FRA,3.000,-,4.000,2.000,-,9.0,10.748
+102,103,AJA  AJ Auxerre  Auxerre,FRA,2.000,7.000,-,-,-,9.0,10.748
+103,104,URZ  FC Unirea Urziceni  Unirea Urziceni,ROU,-,-,-,1.000,10.000,11.0,7.898
+104,105,EIN  Eintracht Frankfurt  Frankfurt,GER,-,6.000,-,-,-,6.0,12.841
+105,106,ZAR  Real Zaragoza  Zaragoza,ESP,-,-,2.000,-,-,2.0,15.951
+106,107,GEN  Genoa CFC  Genoa,ITA,-,-,-,-,5.000,5.0,12.867
+107,108,AUS  FK Austria Wien  Austria Wien,AUT,2.000,3.000,4.000,2.000,2.000,13.0,3.915
+108,109,WES  West Ham United FC  West Ham,ENG,-,0.000,-,-,-,0.0,16.371
+109,110,FEY  Feyenoord  Feyenoord,NED,1.000,6.000,-,2.000,-,9.0,7.309
+110,111,LTX  PFC Litex Lovech  Litex,BUL,8.000,1.000,0.000,1.000,1.500,11.5,4.4
+111,112,CFR  CFR 1907 Cluj  CFR Cluj,ROU,-,-,0.000,6.000,2.000,8.0,7.898
+112,113,CSS  PFC CSKA Sofia  CSKA Sofia,BUL,6.000,1.000,2.000,-,2.000,11.0,4.4
+113,114,OB  Odense BK  OB,DEN,-,6.000,2.000,-,1.500,9.5,5.47
+114,115,DNI  FC Dnipro  Dnipro,UKR,5.000,-,2.000,0.000,-,7.0,7.91
+115,116,NAP  SSC Napoli  Napoli,ITA,-,-,-,2.000,-,2.0,12.867
+116,117,EMP  Empoli FC  Empoli,ITA,-,-,2.000,-,-,2.0,12.867
+117,118,CHI  AC Chievo Verona  Chievo,ITA,-,2.000,-,-,-,2.0,12.867
+118,119,BVB  Borussia Dortmund  Dortmund,GER,-,-,-,2.000,-,2.0,12.841
+119,120,DZ  GNK Dinamo Zagreb  Dinamo Zagreb,CRO,-,0.000,4.000,4.000,4.000,12.0,2.466
+120,121,NIJ  NEC Nijmegen  NEC,NED,-,-,-,7.000,-,7.0,7.309
+121,122,LIB  FC Slovan Liberec  Liberec,CZE,-,8.000,-,0.000,1.500,9.5,4.395
+122,123,MAI  1. FSV Mainz 05  Mainz,GER,1.000,-,-,-,-,1.0,12.841
+123,124,PTZ  FK Partizan  Partizan,SRB,2.000,3.000,0.000,4.000,2.000,11.0,2.8
+124,125,THU  FC Thun  Thun,SUI,8.000,-,-,-,-,8.0,5.675
+125,126,GUI  Vitória SC  Vitória SC,POR,5.000,-,-,1.000,-,6.0,7.659
+126,127,MLA  FK Mladá Boleslav  Mladá Boleslav,CZE,-,5.000,4.000,-,-,9.0,4.395
+127,128,BTE  FC BATE Borisov  BATE,BLR,0.000,0.000,0.000,6.000,5.000,11.0,2.308
+128,129,CRV  FK Crvena zvezda  Crvena zvezda,SRB,5.000,0.000,4.000,0.000,1.500,10.5,2.8
+129,130,ANO  Anorthosis Famagusta FC  Anorthosis,CYP,0.000,-,1.000,8.000,0.500,9.5,3.599
+130,131,ARI  Aris Thessaloniki FC  Aris,GRE,1.000,-,6.000,0.000,-,7.0,5.979
+131,132,BIF  Brøndby IF  Brøndby,DEN,5.000,1.000,-,0.000,1.500,7.5,5.47
+132,133,SOC  FC Sochaux-Montbéliard  Sochaux,FRA,-,-,2.000,-,-,2.0,10.748
+133,134,GCZ  Grasshopper Club Zürich  Grasshoppers,SUI,3.000,4.000,-,0.000,-,7.0,5.675
+134,135,GUI  EA Guingamp  Guingamp,FRA,-,-,-,-,1.500,1.5,10.748
+135,136,PET  FC Petržalka  Petržalka,SVK,8.000,1.000,0.000,0.000,-,9.0,3.166
+136,137,ABE  Aberdeen FC  Aberdeen,SCO,-,-,6.000,-,1.000,7.0,5.158
+137,138,RPD  SK Rapid Wien  Rapid Wien,AUT,3.000,-,1.000,0.000,4.000,8.0,3.915
+138,139,TIM  FC Timişoara  Timişoara,ROU,-,-,-,0.000,4.000,4.0,7.898
+139,140,SAM  PFC Krylya Sovetov Samara  Krylya Sovetov,RUS,2.000,-,-,-,1.000,3.0,8.758
+140,141,NCL  CD Nacional  Nacional,POR,-,0.000,-,-,4.000,4.0,7.659
+141,142,APO  APOEL FC  APOEL,CYP,0.000,0.000,0.000,1.000,7.000,8.0,3.599
+142,143,ZUL  SV Zulte Waregem  Zulte Waregem,BEL,-,6.000,-,-,-,6.0,5.58
+143,144,PAO  PAOK FC  PAOK,GRE,4.000,-,-,-,1.500,5.5,5.979
+144,145,MET  FC Metalurh Donetsk  Metalurh Donetsk,UKR,2.000,-,-,-,1.500,3.5,7.91
+145,146,VSL  FC Vaslui  Vaslui,ROU,-,-,-,2.000,1.500,3.5,7.898
+146,147,GRO  FC Groningen  Groningen,NED,-,2.000,2.000,-,-,4.0,7.309
+147,148,LEC  KKS Lech Poznań  Lech,POL,-,-,-,7.000,1.500,8.5,2.508
+148,149,PAN  Panionios GSS  Panionios,GRE,-,-,5.000,-,-,5.0,5.979
+149,150,HEL  Helsingborgs IF  Helsingborg,SWE,-,-,7.000,-,1.000,8.0,2.838
+150,151,ZIL  MŠK Žilina  Žilina,SVK,0.000,-,0.000,6.000,1.500,7.5,3.166
+151,152,SET  Vitória FC  Setúbal,POR,1.000,1.000,-,1.000,-,3.0,7.659
+152,153,BRA  SK Brann  Brann,NOR,0.000,0.000,5.000,2.000,-,7.0,3.48
+153,154,TRA  Trabzonspor AŞ  Trabzonspor,TUR,0.000,2.000,-,-,1.500,3.5,6.89
+154,155,DM  FC Dynamo Moscow  Dynamo Moscow,RUS,-,-,-,-,1.500,1.5,8.758
+155,155,AMK  FC Amkar Perm  Amkar,RUS,-,-,-,-,1.500,1.5,8.758
+156,157,SIO  FC Sion  Sion,SUI,-,1.000,2.000,-,1.500,4.5,5.675
+157,158,TRO  Tromsø IL  Tromsø,NOR,5.000,-,-,-,1.500,6.5,3.48
+158,159,MOS  FC Moskva  Moskva,RUS,-,-,-,1.000,-,1.0,8.758
+159,160,PAÇ  FC Paços de Ferreira  Paços Ferreira,POR,-,-,1.000,-,1.000,2.0,7.659
+160,161,LEI  UD Leiria  Leiria,POR,-,-,2.000,-,-,2.0,7.659
+161,162,VOR  FC Vorskla Poltava  Vorskla,UKR,-,-,-,-,1.500,1.5,7.91
+162,163,ZAP  FC Metalurh Zaporizhya  Metalurh Zaporizhya,UKR,-,1.000,-,-,-,1.0,7.91
+163,164,KYS  Kayserispor  Kayserispor,TUR,-,1.000,-,1.000,-,2.0,6.89
+164,165,NAC  NAC Breda  NAC,NED,-,-,-,-,1.500,1.5,7.309
+165,166,WIS  Wisła Kraków  Wisła Kraków,POL,0.000,4.000,-,1.000,1.000,6.0,2.508
+166,167,VIK  Viking FK  Viking,NOR,5.000,-,-,0.000,-,5.0,3.48
+167,168,LAR  AE Larissa FC  Larissa,GRE,-,-,2.000,-,0.500,2.5,5.979
+168,169,LOK  FC Lokomotiv Sofia 1929  Lokomotiv Sofia,BUL,-,2.000,2.000,0.000,-,4.0,4.4
+169,170,SIV  Sivasspor  Sivasspor,TUR,-,-,-,-,1.500,1.5,6.89
+170,171,GNK  KRC Genk  Genk,BEL,1.000,-,0.000,-,1.500,2.5,5.58
+171,172,IRA  Iraklis FC  Iraklis,GRE,-,2.000,-,-,-,2.0,5.979
+172,173,CHO  FC Chornomorets Odesa  Chornomorets Odesa,UKR,-,0.000,-,-,-,0.0,7.91
+173,174,OTE  FC Oţelul Galaţi  Oţelul,ROU,-,-,0.000,-,-,0.0,7.898
+174,175,YB  BSC Young Boys  Young Boys,SUI,-,0.000,0.000,1.000,1.000,2.0,5.675
+175,176,MRT  CS Marítimo  Marítimo,POR,-,-,-,0.000,-,0.0,7.659
+176,177,BEL  Os Belenenses  Belenenses,POR,-,-,0.000,-,-,0.0,7.659
+177,178,HEA  Heart of Midlothian FC  Hearts,SCO,-,1.000,-,-,1.500,2.5,5.158
+178,179,GER  K. Beerschot AC  Beerschot,BEL,2.000,-,-,-,-,2.0,5.58
+179,180,BNK  FC Baník Ostrava  Baník,CZE,2.000,-,-,1.000,-,3.0,4.395
+180,181,ELF  IF Elfsborg  Elfsborg,SWE,-,-,3.000,0.000,1.500,4.5,2.838
+181,182,WIL  Willem II  Willem II,NED,0.000,-,-,-,-,0.0,7.309
+182,183,XAN  Xanthi FC  Xanthi,GRE,1.000,0.000,-,-,-,1.0,5.979
+183,184,STM  SK Sturm Graz  Sturm,AUT,-,-,-,0.000,3.000,3.0,3.915
+184,185,TEP  FK Teplice  Teplice,CZE,1.000,-,-,-,1.500,2.5,4.395
+185,186,KAY  Kayseri Erciyesspor  Erciyesspor,TUR,-,-,0.000,-,-,0.0,6.89
+186,187,GNT  KAA Gent  Gent,BEL,-,-,-,0.000,1.000,1.0,5.58
+187,188,RAN  Randers FC  Randers,DEN,-,0.000,-,-,1.000,1.0,5.47
+188,189,CMV  PFC Cherno More AD  Cherno More,BUL,-,-,-,1.000,1.000,2.0,4.4
+189,190,MOT  Motherwell FC  Motherwell,SCO,-,-,-,0.000,1.000,1.0,5.158
+190,191,HIB  Hibernian FC  Hibernian,SCO,1.000,-,-,-,-,1.0,5.158
+191,192,ATR  Atromitos FC  Atromitos,GRE,-,0.000,-,-,-,0.0,5.979
+192,193,SIG  SK Sigma Olomouc  Sigma,CZE,-,-,-,-,1.500,1.5,4.395
+193,194,KAL  Kalmar FF  Kalmar,SWE,-,-,-,2.000,1.000,3.0,2.838
+194,195,MAC  Maccabi Petah Tikva FC  M. Petah Tikva,ISR,2.000,-,-,-,-,2.0,3.775
+195,196,BEL  AC Bellinzona  Bellinzona,SUI,-,-,-,0.000,-,0.0,5.675
+196,197,FAL  Falkirk FC  Falkirk,SCO,-,-,-,-,0.500,0.5,5.158
+197,198,ROE  KSV Roeselare  Roeselare,BEL,-,0.000,-,-,-,0.0,5.58
+198,199,VÅL  Vålerenga Fotball Elite  Vålerenga,NOR,0.000,0.000,1.000,-,1.000,2.0,3.48
+199,200,MID  FC Midtjylland  Midtjylland,DEN,0.000,-,0.000,0.000,-,0.0,5.47
+200,201,NRS  FC Nordsjælland  Nordsjælland,DEN,-,-,-,0.000,-,0.0,5.47
+201,202,ESB  Esbjerg fB  Esbjerg,DEN,0.000,-,-,-,-,0.0,5.47
+202,203,SHF  FC Sheriff Tiraspol  Sheriff,MDA,0.000,0.000,0.000,0.000,4.000,4.0,1.458
+203,204,DEB  Debreceni VSC  Debrecen,HUN,0.000,0.000,0.000,0.000,4.000,4.0,1.35
+204,205,BNE  Bnei Yehuda Tel-Aviv FC  Bnei Yehuda,ISR,-,0.000,-,-,1.500,1.5,3.775
+205,206,QOS  Queen of the South FC  Queen of the South,SCO,-,-,-,0.000,-,0.0,5.158
+206,207,DUN  Dunfermline Athletic FC  Dunfermline,SCO,-,-,0.000,-,-,0.0,5.158
+207,208,GRE  Gretna FC  Gretna,SCO,-,0.000,-,-,-,0.0,5.158
+208,209,DUN  Dundee United FC  Dundee United,SCO,0.000,-,-,-,-,0.0,5.158
+209,210,STA  Stabæk Fotball  Stabæk,NOR,-,-,-,0.000,1.500,1.5,3.48
+210,211,HAM  Hammarby Fotboll  Hammarby,SWE,-,-,2.000,-,-,2.0,2.838
+211,212,HAL  Halmstads BK  Halmstad,SWE,2.000,-,-,-,-,2.0,2.838
+212,212,MAL  Malmö FF  Malmö,SWE,2.000,-,-,-,-,2.0,2.838
+213,214,MAC  Maccabi Netanya FC  M. Netanya,ISR,-,-,0.000,0.000,1.000,1.0,3.775
+214,215,SVB  ŠK Slovan Bratislava  Slovan Bratislava,SVK,-,-,-,-,1.500,1.5,3.166
+215,215,KOS  MFK Košice  Košice,SVK,-,-,-,-,1.500,1.5,3.166
+216,217,VEN  FK Ventspils  Ventspils,LVA,0.000,0.000,0.000,0.000,3.000,3.0,1.649
+217,218,OMO  Omonoia FC  Omonoia,CYP,0.000,0.000,0.000,0.000,1.000,1.0,3.599
+218,219,APO  APOP/Kinyras Peyias FC  APOP,CYP,-,-,-,-,1.000,1.0,3.599
+219,220,ACH  Ethnikos Achnas FC  Ethnikos Achnas,CYP,-,1.000,-,-,-,1.0,3.599
+220,221,LEG  Legia Warszawa  Legia,POL,0.000,1.000,-,0.000,1.000,2.0,2.508
+221,222,FRE  Fredrikstad FK  Fredrikstad,NOR,-,-,0.000,-,1.000,1.0,3.48
+222,223,MOL  Molde FK  Molde,NOR,-,1.000,-,-,-,1.0,3.48
+223,224,STP  Saint Patrick's Athletic FC  St Patrick's,IRL,-,-,0.000,1.000,1.500,2.5,1.908
+224,225,LOK  PFC Lokomotiv Plovdiv 1926  Lokomotiv Plovdiv,BUL,0.000,-,-,-,-,0.0,4.4
+225,226,JAB  FK Jablonec  Jablonec,CZE,-,-,0.000,-,-,0.0,4.395
+226,227,RUZ  MFK Ružomberok  Ružomberok,SVK,-,1.000,-,-,-,1.0,3.166
+227,228,MAT  SV Mattersburg  Mattersburg,AUT,-,0.000,0.000,-,-,0.0,3.915
+228,228,RIE  SV Ried  Ried,AUT,-,0.000,0.000,-,-,0.0,3.915
+229,230,AUK  SK Austria Kärnten  Austria Kärnten,AUT,0.000,0.000,-,-,-,0.0,3.915
+230,231,GRA  Grazer AK  GAK,AUT,0.000,-,-,-,-,0.0,3.915
+231,232,DER  Derry City FC  Derry,IRL,-,1.000,0.000,-,1.000,2.0,1.908
+232,233,IFK  IFK Göteborg  Göteborg,SWE,-,0.000,-,0.000,1.000,1.0,2.838
+233,234,AIK  AIK  AIK,SWE,-,-,1.000,-,-,1.0,2.838
+234,235,VOJ  FK Vojvodina  Vojvodina,SRB,-,-,0.000,0.000,1.000,1.0,2.8
+235,236,SEV  FK Sloboda Užice  Sloboda Užice,SRB,-,-,-,-,1.000,1.0,2.8
+236,237,JER  Beitar Jerusalem FC  Beitar Jerusalem,ISR,-,0.000,0.000,0.000,-,0.0,3.775
+237,238,HAP  Hapoel Kiryat Shmona FC  H. Kiryat Shmona,ISR,-,-,-,0.000,-,0.0,3.775
+238,239,MTA  Maccabi Tel-Aviv FC  M. Tel-Aviv,ISR,0.000,-,0.000,-,-,0.0,3.775
+239,240,ASH  FC Ashdod  Ashdod,ISR,0.000,-,-,-,-,0.0,3.775
+240,241,TRN  FC Spartak Trnava  Spartak Trnava,SVK,-,0.000,-,0.000,0.500,0.5,3.166
+241,242,APO  Apollon Limassol FC  Apollon,CYP,-,0.000,-,-,-,0.0,3.599
+242,243,POL  KSP Polonia Warszawa  Polonia Warszawa,POL,-,-,-,-,1.000,1.0,2.508
+243,244,GRO  Groclin Grodzisk Wielkopolski  Groclin Grodzisk Wielkopolski,POL,1.000,-,0.000,-,-,1.0,2.508
+244,245,LIL  Lillestrøm SK  Lillestrøm,NOR,-,-,0.000,0.000,-,0.0,3.48
+245,246,LYN  FK Lyn  Lyn,NOR,-,0.000,-,-,-,0.0,3.48
+246,246,STA  IK Start  Start,NOR,-,0.000,-,-,-,0.0,3.48
+247,248,HAJ  HNK Hajduk Split  Hajduk Split,CRO,0.000,-,0.000,0.000,1.000,1.0,2.466
+248,249,SLA  NK Slaven Koprivnica  Slaven Koprivnica,CRO,-,-,0.000,0.000,1.000,1.0,2.466
+249,250,RIJ  HNK Rijeka  Rijeka,CRO,0.000,0.000,-,-,1.000,1.0,2.466
+250,251,DOM  NK Domžale  Domžale,SVN,2.000,0.000,0.000,0.000,-,2.0,1.391
+251,252,SAR  FK Sarajevo  Sarajevo,BIH,-,0.000,0.000,-,1.500,1.5,1.749
+252,253,MOR  FC ViOn Zlaté Moravce  Zlaté Moravce,SVK,-,-,0.000,-,-,0.0,3.166
+253,254,DUK  FK Dukla Banská Bystrica  Banská Bystrica,SVK,0.000,-,-,-,-,0.0,3.166
+254,255,RAB  FK Rabotnicki  Rabotnicki,MKD,0.000,0.000,1.000,0.000,1.000,2.0,1.066
+255,256,BOH  Bohemian FC  Bohemians,IRL,-,-,-,-,1.000,1.0,1.908
+256,257,HNK  FC Honka Espoo  Honka,FIN,-,-,-,0.000,1.000,1.0,1.899
+257,258,LAH  FC Lahti  Lahti,FIN,-,-,-,-,1.000,1.0,1.899
+258,258,TUR  FC Inter Turku  Inter Turku,FIN,-,-,-,-,1.000,1.0,1.899
+259,260,TAM  Tampere United  Tampere United,FIN,-,-,1.000,0.000,-,1.0,1.899
+260,261,MYP  Myllykosken Pallo -47  MYPA,FIN,1.000,0.000,0.000,-,-,1.0,1.899
+261,262,MBR  NK Maribor  Maribor,SVN,-,0.000,-,-,1.500,1.5,1.391
+262,263,DJU  Djurgårdens IF  Djurgården,SWE,0.000,0.000,-,0.000,-,0.0,2.838
+263,264,HÄC  BK Häcken  Häcken,SWE,-,-,0.000,-,-,0.0,2.838
+264,265,ÅTV  Åtvidabergs FF  Åtvidaberg,SWE,-,0.000,-,-,-,0.0,2.838
+265,265,GEF  Gefle IF  Gefle,SWE,-,0.000,-,-,-,0.0,2.838
+266,267,PAR  FC Partizan Minsk  Partizan Minsk,BLR,0.000,-,-,0.000,0.500,0.5,2.308
+267,268,MIN  FC Dinamo Minsk  Dinamo Minsk,BLR,0.000,0.000,0.000,-,0.500,0.5,2.308
+268,269,NAF  FC Naftan Novopolotsk  Naftan,BLR,-,-,-,-,0.500,0.5,2.308
+269,270,BOR  FK Borac Čačak  Borac Čačak,SRB,-,-,-,0.000,-,0.0,2.8
+270,271,BEZ  FK Bežanija  Bežanija,SRB,-,-,0.000,-,-,0.0,2.8
+271,272,OFK  OFK Beograd  OFK Beograd,SRB,0.000,0.000,-,-,-,0.0,2.8
+272,273,HAJ  FK Hajduk Kula  Hajduk,SRB,-,0.000,-,-,-,0.0,2.8
+273,274,ZRI  HŠK Zrinjski  Zrinjski,BIH,0.000,-,0.000,0.000,1.000,1.0,1.749
+274,275,SLA  FK Slavija Sarajevo  Slavija,BIH,-,-,-,-,1.000,1.0,1.749
+275,276,VET  FK Vėtra  Vėtra,LTU,-,-,-,0.000,1.000,1.0,1.683
+276,277,EKR  FK Ekranas  Ekranas,LTU,0.000,0.000,0.000,-,1.000,1.0,1.683
+277,278,BAK  Bakı FK  Bakı,AZE,0.000,0.000,-,-,1.500,1.5,1.099
+278,279,QAR  Qarabağ FK  Qarabağ,AZE,-,0.000,-,-,1.500,1.5,1.099
+279,280,ZAG  Zagłębie Lubin  Zagłębie,POL,-,0.000,0.000,-,-,0.0,2.508
+280,281,BEL  GKS Bełchatów  Bełchatów,POL,-,-,0.000,-,-,0.0,2.508
+281,282,PLO  Wisła Płock  Wisła Płock,POL,0.000,0.000,-,-,-,0.0,2.508
+282,283,VAR  NK Varaždin  Varaždin,CRO,-,0.000,-,-,-,0.0,2.466
+283,284,INT  NK Inter Zaprešić  Inter Zaprešić,CRO,0.000,-,-,-,-,0.0,2.466
+284,285,AKT  FC Aktobe  Aktobe,KAZ,-,0.000,0.000,0.000,1.500,1.5,0.899
+285,286,HJK  HJK Helsinki  HJK,FIN,-,0.000,0.000,-,0.500,0.5,1.899
+286,287,NK IB Ljubljana  IB Ljubljana,SVN,-,-,-,0.000,1.000,1.0,1.391
+287,288,LT  FC Levadia Tallinn  Levadia,EST,0.000,0.000,0.000,0.000,1.500,1.5,0.874
+288,289,HON  Budapest Honvéd FC  Honvéd,HUN,-,-,0.000,-,1.000,1.0,1.35
+289,290,GOM  FC Gomel  Gomel,BLR,-,-,-,0.000,-,0.0,2.308
+290,291,BRE  FC Dinamo Brest  Dinamo Brest,BLR,-,-,0.000,-,-,0.0,2.308
+291,292,SHA  FC Shakhtyor Soligorsk  Shakhtyor,BLR,-,0.000,-,-,-,0.0,2.308
+292,293,ŠIR  NK Široki Brijeg  Široki Brijeg,BIH,0.000,0.000,0.000,0.000,0.500,0.5,1.749
+293,294,KAU  FBK Kaunas  Kaunas,LTU,0.000,0.000,0.000,0.000,0.500,0.5,1.683
+294,295,SUD  FK Sūduva  Sūduva,LTU,-,0.000,0.000,0.000,0.500,0.5,1.683
+295,296,SLI  Sligo Rovers FC  Sligo,IRL,-,-,-,-,0.250,0.25,1.908
+296,297,DIN  FC Dinamo Tbilisi  Dinamo Tbilisi,GEO,0.000,-,0.000,0.000,1.000,1.0,1.149
+297,298,WIT  FC WIT Georgia  WIT Georgia,GEO,-,0.000,-,0.000,1.000,1.0,1.149
+298,299,MET  SK Liepājas Metalurgs  Liepājas Metalurgs,LVA,0.000,0.000,0.000,0.000,0.500,0.5,1.649
+299,300,SKO  Skonto FC  Skonto,LVA,0.000,0.000,0.000,-,0.500,0.5,1.649
+300,301,DIN  FC Dinaburg  Dinaburg,LVA,-,-,-,-,0.500,0.5,1.649
+301,302,HAF  FH Hafnarfjördur  FH,ISL,0.000,0.000,0.000,0.000,1.000,1.0,1.083
+302,303,REY  KR Reykjavík  KR Reykjavik,ISL,-,-,0.000,-,1.000,1.0,1.083
+303,304,MAK  FK Makedonija GP Skopje  Makedonija,MKD,-,0.000,-,-,1.000,1.0,1.066
+304,305,DAC  FC Dacia Chisinau  Dacia,MDA,0.000,-,-,0.000,0.500,0.5,1.458
+305,306,ZIM  FC Zimbru Chisinau  Zimbru,MDA,-,0.000,0.000,-,0.500,0.5,1.458
+306,307,ISK  FC Iskra-Stal  Iskra-Stal,MDA,-,-,-,-,0.500,0.5,1.458
+307,308,DRO  Drogheda United FC  Drogheda,IRL,-,0.000,0.000,0.000,-,0.0,1.908
+308,309,COR  Cork City FC  Cork,IRL,0.000,0.000,-,0.000,-,0.0,1.908
+309,310,LON  Longford Town FC  Longford,IRL,0.000,-,-,-,-,0.0,1.908
+310,310,SHE  Shelbourne FC  Shelbourne,IRL,0.000,-,-,-,-,0.0,1.908
+311,312,VAD  FC Vaduz  Vaduz,LIE,0.000,0.000,0.000,0.000,1.000,1.0,0.9
+312,313,HAK  Valkeakosken Haka  Haka,FIN,0.000,0.000,0.000,0.000,-,0.0,1.899
+313,314,ALL  AC Allianssi  Allianssi,FIN,0.000,-,-,-,-,0.0,1.899
+314,315,GOR  ND Gorica  Gorica,SVN,0.000,0.000,0.000,-,0.500,0.5,1.391
+315,316,RUD  NK Rudar Velenje  Rudar Velenje,SVN,-,-,-,-,0.500,0.5,1.391
+316,317,UJP  Újpest FC  Újpest,HUN,-,0.000,-,-,0.500,0.5,1.35
+317,318,HAL  Szombathelyi Haladás  Haladás,HUN,-,-,-,-,0.500,0.5,1.35
+318,319,TIR  KF Tirana  Tirana,ALB,0.000,0.000,0.000,-,1.000,1.0,0.799
+319,320,MOD  FK Modriča  Modriča,BIH,-,-,-,0.000,-,0.0,1.749
+320,321,ORA  NK Orašje  NK Orašje,BIH,-,0.000,-,-,-,0.0,1.749
+321,322,ZEP  NK Žepče  Žepče,BIH,0.000,-,-,-,-,0.0,1.749
+322,323,ATL  FK Atlantas  Atlantas,LTU,0.000,-,-,-,-,0.0,1.683
+323,324,ZES  FC Zestafoni  Zestafoni,GEO,-,-,-,0.000,0.500,0.5,1.149
+324,325,OLI  FC Metalurgi Rustavi  Metalurgi Rustavi,GEO,-,-,0.000,-,0.500,0.5,1.149
+325,326,OLI  JFK Olimps/RFS  Olimps,LVA,-,-,-,0.000,-,0.0,1.649
+326,327,PYU  FC Pyunik  Pyunik,ARM,0.000,0.000,0.000,0.000,1.000,1.0,0.599
+327,328,FRA  Fram Reykjavík  Fram,ISL,-,-,-,-,0.500,0.5,1.083
+328,329,MIL  FK Milano  Milano,MKD,-,-,-,0.000,0.500,0.5,1.066
+329,330,RHY  Rhyl FC  Rhyl,WAL,0.000,0.000,0.000,-,1.000,1.0,0.516
+330,331,NIS  FC Nistru Otaci  Nistru,MDA,0.000,0.000,0.000,0.000,-,0.0,1.458
+331,332,MOG  FK Mogren  Mogren,MNE,-,-,-,0.000,1.000,1.0,0.425
+332,333,PET  OFK Petrovac  Petrovac,MNE,-,-,-,-,1.000,1.0,0.425
+333,334,TOB  FC Tobol Kostanay  Tobol,KAZ,-,0.000,0.000,0.000,0.500,0.5,0.899
+334,335,KOP  FC Koper  Koper,SVN,-,0.000,0.000,0.000,-,0.0,1.391
+335,336,CJE  NK Celje  Celje,SVN,0.000,-,-,-,-,0.0,1.391
+336,337,FLO  FC Flora Tallinn  Flora,EST,0.000,0.000,0.000,0.000,0.500,0.5,0.874
+337,338,EBS  EB/Streymur  EB/Streymur,FRO,-,-,0.000,0.000,1.000,1.0,0.366
+338,339,MTK  MTK Budapest  MTK,HUN,-,-,0.000,0.000,-,0.0,1.35
+339,340,ETO  Győri ETO FC  Győr,HUN,-,-,-,0.000,-,0.0,1.35
+340,341,FEH  Fehérvár FC  Fehérvár,HUN,-,0.000,-,-,-,0.0,1.35
+341,342,SOP  FC Sopron  Sopron,HUN,0.000,-,-,-,-,0.0,1.35
+342,342,FER  Ferencvárosi TC  Ferencváros,HUN,0.000,-,-,-,-,0.0,1.35
+343,344,KES  Keşla FK  Keşla,AZE,-,-,-,0.000,0.250,0.25,1.099
+344,345,SIM  Simurq PFK  Simurq,AZE,-,-,-,-,0.250,0.25,1.099
+345,346,KEF  Keflavík  Keflavík,ISL,0.000,-,0.000,-,0.250,0.25,1.083
+346,347,GLE  Glentoran FC  Glentoran,NIR,0.000,0.000,0.000,0.000,1.000,1.0,0.324
+347,348,REN  KF Renova  Renova,MKD,-,-,-,-,0.250,0.25,1.066
+348,349,VLL  KF Vllaznia  Vllaznia,ALB,-,-,-,0.000,0.500,0.5,0.799
+349,350,FLA  KS Flamurtari  Flamurtari,ALB,-,-,-,-,0.500,0.5,0.799
+350,351,DUD  F91 Diddeleng  Diddeleng,LUX,0.000,0.000,0.000,0.000,1.000,1.0,0.249
+351,352,SJU  UE Sant Julià  Sant Julià,AND,0.000,-,-,0.000,1.000,1.0,0.2
+352,353,OKZ  FC Okzhetpes Kokshetau  Okzhetpes,KAZ,-,-,-,-,0.250,0.25,0.899
+353,353,IRT  FC Irtysh Pavlodar  Irtysh,KAZ,-,-,-,-,0.250,0.25,0.899
+354,355,AME  FC Ameri Tbilisi  Ameri,GEO,-,0.000,0.000,-,-,0.0,1.149
+355,356,SIO  FC Sioni Bolnisi  Sioni,GEO,-,0.000,-,-,-,0.0,1.149
+356,357,KUT  FC Torpedo Kutaisi  Torpedo Kutaisi,GEO,0.000,-,-,-,-,0.0,1.149
+357,357,LOK  FC Locomotive Tbilisi  Locomotive Tbilisi,GEO,0.000,-,-,-,-,0.0,1.149
+358,359,TRA  JK Narva Trans  Trans,EST,-,-,0.000,-,0.250,0.25,0.874
+359,360,KAL  Nõmme Kalju FC  Kalju,EST,-,-,-,-,0.250,0.25,0.874
+360,361,GAN  FC Gandzasar  Gandzasar,ARM,-,-,-,-,0.500,0.5,0.599
+361,362,KH  Xäzär Länkäran FK  Xäzär Länkäran,AZE,0.000,-,0.000,0.000,-,0.0,1.099
+362,363,OLI  Olimpik-Şüvälan PFK  Olimpik-Şüvälan,AZE,-,-,-,0.000,-,0.0,1.099
+363,364,NEF  Neftçi PFK  Neftçi,AZE,0.000,-,0.000,-,-,0.0,1.099
+364,365,ARA  MKT Araz  MKT Araz,AZE,-,-,0.000,-,-,0.0,1.099
+365,366,KAR  FK Karvan Evlakh  Karvan,AZE,-,0.000,-,-,-,0.0,1.099
+366,367,AKR  ÍA Akranes  ÍA,ISL,-,0.000,-,0.000,-,0.0,1.083
+367,367,VAL  Valur  Valur,ISL,-,0.000,-,0.000,-,0.0,1.083
+368,369,ÍBV  ÍBV Vestmannaeyjar  ÍBV,ISL,0.000,-,-,-,-,0.0,1.083
+369,370,PEL  FK Pelister  Pelister,MKD,-,-,-,0.000,-,0.0,1.066
+370,371,VAR  FK Vardar  Vardar,MKD,0.000,0.000,0.000,-,-,0.0,1.066
+371,372,POB  FK Pobeda  Pobeda,MKD,-,-,0.000,-,-,0.0,1.066
+372,373,BAS  FK Baskimi  Baskimi,MKD,0.000,-,-,-,-,0.0,1.066
+373,374,DIN  FK Dinamo Tirana  Dinamo Tirana,ALB,-,0.000,-,0.000,0.250,0.25,0.799
+374,375,BAN  Bangor City FC  Bangor,WAL,-,-,-,0.000,0.500,0.5,0.516
+375,376,KAR  FC Shakhter Karagandy  Shakhter,KAZ,-,-,-,0.000,-,0.0,0.899
+376,377,ALM  FC Alma-Ata  Alma-Ata,KAZ,-,-,0.000,-,-,0.0,0.899
+377,377,A64  FC Astana 64  Astana 64,KAZ,-,-,0.000,-,-,0.0,0.899
+378,379,KAI  FC Kairat Almaty  Kairat,KAZ,0.000,0.000,-,-,-,0.0,0.899
+379,380,TVM  FC TVMK Tallinn  TVMK,EST,0.000,0.000,-,0.000,-,0.0,0.874
+380,381,HB  HB Tórshavn  HB,FRO,0.000,-,0.000,-,0.500,0.5,0.366
+381,382,URA  FC Urartu  Urartu,ARM,0.000,0.000,0.000,0.000,0.250,0.25,0.599
+382,383,MIK  FC Mika  Mika,ARM,0.000,0.000,0.000,-,0.250,0.25,0.599
+383,384,CRU  Crusaders FC  Crusaders,NIR,-,-,-,-,0.500,0.5,0.324
+384,385,PAR  FK Partizani  Partizani,ALB,-,-,-,0.000,-,0.0,0.799
+385,386,TEU  KF Teuta  Teuta,ALB,0.000,-,0.000,-,-,0.0,0.799
+386,387,BES  KS Besa  Besa,ALB,-,-,0.000,-,-,0.0,0.799
+387,388,ELB  KF Elbasani  Elbasan,ALB,0.000,0.000,-,-,-,0.0,0.799
+388,389,TNS  The New Saints FC  TNS,WAL,0.000,0.000,0.000,0.000,0.250,0.25,0.516
+389,390,LLA  Llanelli AFC  Llanelli,WAL,-,0.000,-,0.000,0.250,0.25,0.516
+390,391,DIF  FC Differdange 03  Differdange,LUX,-,-,-,-,0.500,0.5,0.249
+391,392,SAN  FC Santa Coloma  FC Santa Coloma,AND,-,-,0.000,0.000,0.500,0.5,0.2
+392,393,VAL  Valletta FC  Valletta,MLT,-,-,-,0.000,0.500,0.5,0.183
+393,394,SLI  Sliema Wanderers FC  Sliema,MLT,0.000,0.000,0.000,-,0.500,0.5,0.183
+394,394,HIB  Hibernians FC  Hibernians,MLT,0.000,0.000,0.000,-,0.500,0.5,0.183
+395,396,POD  FK Budućnost Podgorica  Budućnost Podgorica,MNE,-,-,0.000,0.000,0.250,0.25,0.425
+396,397,SUT  FK Sutjeska  Sutjeska,MNE,-,-,-,-,0.250,0.25,0.425
+397,398,JUV  AC Juvenes/Dogana  Juvenes/Dogana,SMR,-,-,-,0.000,0.500,0.5,0.15
+398,399,TRE  SP Tre Fiori  Tre Fiori,SMR,-,-,-,-,0.500,0.5,0.15
+399,400,B36  B36 Tórshavn  B36,FRO,0.000,0.000,0.000,0.000,0.250,0.25,0.366
+400,401,NSÍ  NSÍ Runavík  NSÍ,FRO,0.000,-,-,0.000,0.250,0.25,0.366
+401,402,ARA  FC Ararat  Ararat,ARM,-,-,-,0.000,-,0.0,0.599
+402,403,LIN  Linfield FC  Linfield,NIR,0.000,0.000,0.000,0.000,0.250,0.25,0.324
+403,404,LIS  Lisburn Distillery FC  Distillery,NIR,-,-,-,-,0.250,0.25,0.324
+404,405,CAR  Carmarthen Town AFC  Carmarthen,WAL,0.000,-,0.000,-,-,0.0,0.516
+405,406,GRE  CS Grevenmacher  Grevenmacher,LUX,-,-,-,0.000,0.250,0.25,0.249
+406,407,KAE  UN Käerjéng 97  Käerjéng,LUX,-,-,0.000,-,0.250,0.25,0.249
+407,408,BIR  Birkirkara FC  Birkirkara,MLT,0.000,0.000,-,0.000,0.250,0.25,0.183
+408,409,ZET  FK Zeta  Zeta,MNE,0.000,-,0.000,0.000,-,0.0,0.425
+409,410,RUD  FK Rudar Pljevlja  Rudar Pljevlja,MNE,-,-,0.000,-,-,0.0,0.425
+410,411,VIK  Víkingur  Vikingur,FRO,-,0.000,-,-,-,0.0,0.366
+411,411,SKÁ  Skála ÍF  Skála,FRO,-,0.000,-,-,-,0.0,0.366
+412,413,CLI  Cliftonville FC  Cliftonville,NIR,-,-,-,0.000,-,0.0,0.324
+413,414,DUN  Dungannon Swifts FC  Dungannon,NIR,-,-,0.000,-,-,0.0,0.324
+414,415,POR  Portadown FC  Portadown,NIR,0.000,0.000,-,-,-,0.0,0.324
+415,416,RAC  Racing FC Union Luxembourg  Racing Union,LUX,-,-,-,0.000,-,0.0,0.249
+416,417,ETZ  FC Etzella Ettelbruck  Etzella,LUX,0.000,0.000,0.000,-,-,0.0,0.249
+417,418,JEU  AS Jeunesse Esch  Jeunesse Esch,LUX,-,0.000,-,-,-,0.0,0.249
+418,419,PÉT  FC Union Titus Pétange  Union Titus,LUX,0.000,-,-,-,-,0.0,0.249
+419,420,RAN  Rànger's FC  Rànger's,AND,-,0.000,0.000,-,-,0.0,0.2
+420,421,MAR  Marsaxlokk FC  Marsaxlokk,MLT,-,-,0.000,0.000,-,0.0,0.183
+421,422,MUR  SS Murata  Murata,SMR,-,0.000,0.000,0.000,-,0.0,0.15
+422,423,LIB  AC Libertas  Libertas,SMR,-,-,0.000,-,-,0.0,0.15
+423,424,DOM  FC Domagnano  Domagnano,SMR,0.000,-,-,-,-,0.0,0.15

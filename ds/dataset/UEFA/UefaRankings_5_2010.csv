@@ -1,0 +1,73 @@
+﻿,Pos,Club,Country,05/06,06/07,07/08,08/09,09/10,Pts,NA
+1,2,MU  Manchester United  Man. United,ENG,8.000,22.000,29.000,25.000,25.000,109.0,16.371
+2,3,CHE  Chelsea FC  Chelsea,ENG,13.000,23.000,25.000,22.000,19.000,102.0,16.371
+3,4,ARS  Arsenal FC  Arsenal,ENG,27.000,13.000,18.000,19.000,22.000,99.0,16.371
+4,5,LIV  Liverpool FC  Liverpool,ENG,13.000,24.000,21.000,20.000,21.000,99.0,16.371
+29,30,TOT  Tottenham Hotspur  Tottenham,ENG,-,18.000,13.000,9.000,-,40.0,16.371
+41,42,EVE  Everton FC  Everton,ENG,2.000,-,17.000,1.000,8.000,28.0,16.371
+48,49,FUL  Fulham FC  Fulham,ENG,-,-,-,-,23.000,23.0,16.371
+51,52,BOL  Bolton Wanderers FC  Bolton,ENG,10.000,-,12.000,-,-,22.0,16.371
+54,55,MID  Middlesbrough FC  Middlesbrough,ENG,21.000,-,-,-,-,21.0,16.371
+63,64,MC  Manchester City FC  Man. City,ENG,-,-,-,17.000,-,17.0,16.371
+64,65,NEW  Newcastle United FC  Newcastle,ENG,-,17.000,-,-,-,17.0,16.371
+69,70,BLA  Blackburn Rovers FC  Blackburn,ENG,-,11.000,2.000,-,-,13.0,16.371
+77,78,AV  Aston Villa FC  Aston Villa,ENG,-,-,-,8.000,1.500,9.5,16.371
+92,93,PRM  Portsmouth FC  Portsmouth,ENG,-,-,-,6.000,-,6.0,16.371
+108,109,WES  West Ham United FC  West Ham,ENG,-,0.000,-,-,-,0.0,16.371
+0,1,BAR  FC Barcelona  Barcelona,ESP,29.000,14.000,25.000,26.000,27.000,121.0,15.951
+6,7,SEV  Sevilla FC  Sevilla,ESP,25.000,25.000,16.000,8.000,19.000,93.0,15.951
+12,13,RM  Real Madrid CF  Real Madrid,ESP,12.000,14.000,12.000,12.000,19.000,69.0,15.951
+17,18,VLR  Villarreal CF  Villarreal,ESP,19.000,-,13.000,16.000,7.000,55.0,15.951
+19,20,VAL  Valencia CF  Valencia,ESP,-,17.000,7.000,11.000,16.000,51.0,15.951
+22,23,ATL  Club Atlético de Madrid  Atlético,ESP,-,-,12.000,15.000,21.000,48.0,15.951
+35,36,ESP  RCD Espanyol  Espanyol,ESP,9.000,29.000,-,-,-,38.0,15.951
+53,54,OSA  CA Osasuna  Osasuna,ESP,1.000,21.000,-,-,-,22.0,15.951
+60,61,GET  Getafe CF  Getafe,ESP,-,-,18.000,-,-,18.0,15.951
+74,75,CEL  RC Celta de Vigo  Celta,ESP,-,11.000,-,-,-,11.0,15.951
+75,76,BET  Real Betis Balompié  Betis,ESP,11.000,-,-,-,-,11.0,15.951
+87,88,ATH  Athletic Club  Athletic Club,ESP,-,-,-,-,8.000,8.0,15.951
+88,89,RST  Real Racing Club  Racing,ESP,-,-,-,8.000,-,8.0,15.951
+90,91,DEP  Real Club Deportivo La Coruña  Deportivo,ESP,-,-,-,7.000,-,7.0,15.951
+105,106,ZAR  Real Zaragoza  Zaragoza,ESP,-,-,2.000,-,-,2.0,15.951
+5,6,BAY  FC Bayern München  Bayern,GER,14.000,17.000,20.000,20.000,27.000,98.0,12.841
+10,11,BRM  SV Werder Bremen  Bremen,GER,11.000,21.000,13.000,22.000,15.000,82.0,12.841
+11,12,HSV  Hamburger SV  Hamburg,GER,13.000,5.000,16.000,22.000,18.000,74.0,12.841
+34,35,SCH  FC Schalke 04  Schalke,GER,21.000,2.000,13.000,6.000,-,42.0,12.841
+36,37,STU  VfB Stuttgart  Stuttgart,GER,10.000,-,5.000,8.000,17.000,40.0,12.841
+45,46,BL  Bayer 04 Leverkusen  Leverkusen,GER,0.000,12.000,16.000,-,-,28.0,12.841
+50,51,WOL  VfL Wolfsburg  Wolfsburg,GER,-,-,-,10.000,16.000,26.0,12.841
+58,59,HER  Hertha BSC Berlin  Hertha,GER,9.000,1.000,-,5.000,8.000,23.0,12.841
+97,98,NÜR  1. FC Nürnberg  Nürnberg,GER,-,-,8.000,-,-,8.0,12.841
+104,105,EIN  Eintracht Frankfurt  Frankfurt,GER,-,6.000,-,-,-,6.0,12.841
+118,119,BVB  Borussia Dortmund  Dortmund,GER,-,-,-,2.000,-,2.0,12.841
+122,123,MAI  1. FSV Mainz 05  Mainz,GER,1.000,-,-,-,-,1.0,12.841
+7,8,INT  FC Internazionale Milano  Inter,ITA,19.000,13.000,14.000,11.000,31.000,88.0,12.867
+8,9,ACM  AC Milan  Milan,ITA,21.000,24.000,14.000,12.000,16.000,87.0,12.867
+13,14,ASR  AS Roma  Roma,ITA,14.000,17.000,17.000,14.000,9.000,71.0,12.867
+23,24,FIO  ACF Fiorentina  Fiorentina,ITA,-,-,21.000,9.000,21.000,51.0,12.867
+26,27,JUV  Juventus  Juventus,ITA,18.000,-,-,14.000,15.000,47.0,12.867
+49,50,UDI  Udinese Calcio  Udinese,ITA,11.000,-,-,15.000,-,26.0,12.867
+57,58,PAL  US Città di Palermo  Palermo,ITA,14.000,7.000,2.000,-,-,23.0,12.867
+68,69,SAM  UC Sampdoria  Sampdoria,ITA,7.000,-,2.000,9.000,-,18.0,12.867
+89,90,LAZ  SS Lazio  Lazio,ITA,-,-,7.000,-,4.000,11.0,12.867
+91,92,PAR  Parma FC  Parma,ITA,-,10.000,-,-,-,10.0,12.867
+96,97,LIV  AS Livorno Calcio  Livorno,ITA,-,8.000,-,-,-,8.0,12.867
+106,107,GEN  Genoa CFC  Genoa,ITA,-,-,-,-,5.000,5.0,12.867
+115,116,NAP  SSC Napoli  Napoli,ITA,-,-,-,2.000,-,2.0,12.867
+116,117,EMP  Empoli FC  Empoli,ITA,-,-,2.000,-,-,2.0,12.867
+117,118,CHI  AC Chievo Verona  Chievo,ITA,-,2.000,-,-,-,2.0,12.867
+9,10,OL  Olympique Lyonnais  Lyon,FRA,21.000,15.000,12.000,13.000,25.000,86.0,10.748
+18,19,BOR  FC Girondins de Bordeaux  Bordeaux,FRA,-,9.000,12.000,9.000,27.000,57.0,10.748
+24,25,OM  Olympique de Marseille  Marseille,FRA,12.000,2.000,12.000,12.000,14.000,52.0,10.748
+40,41,LIL  LOSC Lille  LOSC,FRA,13.000,11.000,-,-,12.000,36.0,10.748
+46,47,PAR  Paris Saint-Germain  Paris,FRA,-,13.000,-,16.000,-,29.0,10.748
+65,66,LEN  RC Lens  Lens,FRA,10.000,11.000,1.000,-,-,22.0,10.748
+79,80,STE  AS Saint-Étienne  St-Étienne,FRA,-,-,-,15.000,-,15.0,10.748
+80,81,NAN  AS Nancy-Lorraine  Nancy,FRA,-,8.000,-,7.000,-,15.0,10.748
+85,86,STR  Racing Club de Strasbourg Alsace  Strasbourg,FRA,14.000,-,-,-,-,14.0,10.748
+94,95,MON  AS Monaco FC  Monaco,FRA,11.000,-,-,-,-,11.0,10.748
+100,101,TOU  Toulouse FC  Toulouse,FRA,-,-,4.000,-,5.000,9.0,10.748
+101,102,REN  Stade Rennais FC  Rennes,FRA,3.000,-,4.000,2.000,-,9.0,10.748
+102,103,AJA  AJ Auxerre  Auxerre,FRA,2.000,7.000,-,-,-,9.0,10.748
+132,133,SOC  FC Sochaux-Montbéliard  Sochaux,FRA,-,-,2.000,-,-,2.0,10.748
+134,135,GUI  EA Guingamp  Guingamp,FRA,-,-,-,-,1.500,1.5,10.748
